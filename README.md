@@ -17,5 +17,6 @@ No AI imagery. Four Met Open Access/Public Domain objects are represented by obj
 - Install command: `npm install`
 - Node.js: 20 or later
 - Production environment variable: `PUBLIC_SITE_URL=https://institutions-of-one-fashion.vercel.app`
+- Git integration: automatic production deployments from `rn-collins/institutions-of-one-fashion` branch `main`
 
 Corrections and takedown requests use the repository's public, structured GitHub Issue form. The form warns reporters not to disclose private, confidential, medical, financial, or legally privileged information.
