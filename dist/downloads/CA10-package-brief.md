@@ -38,4 +38,4 @@ Replacing one heroic story with an indiscriminate list can flatten responsibilit
 4. Record missing, disputed, or uncredited labor as unresolved.
 
 ## Release gates
-Recording/performance, any bespoke photography, jurisdiction-specific specialist or counsel review where flagged, and RN owner-final approval.
+Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.

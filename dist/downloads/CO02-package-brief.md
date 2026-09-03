@@ -38,4 +38,4 @@ Legal architecture cannot manufacture trust or artistic judgment. A founder with
 4. Run departure, deadlock, incapacity, sale, and succession scenarios with qualified corporate and employment counsel.
 
 ## Release gates
-Recording/performance, any bespoke photography, jurisdiction-specific specialist or counsel review where flagged, and RN owner-final approval.
+Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.

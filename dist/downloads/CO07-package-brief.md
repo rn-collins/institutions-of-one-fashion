@@ -38,4 +38,4 @@ Contract architecture can become extractive: the party with leverage can demand 
 4. Give the actual draft, facts, jurisdiction, leverage constraints, and desired outcomes to qualified counsel before signature.
 
 ## Release gates
-Recording/performance, any bespoke photography, jurisdiction-specific specialist or counsel review where flagged, and RN owner-final approval.
+Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.

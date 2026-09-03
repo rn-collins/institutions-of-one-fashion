@@ -38,4 +38,4 @@ A total archive can become surveillance of the founder, collaborators, family, w
 4. Take the authority map—not merely the boxes—to archivist, conservator, counsel, tax adviser, and successor as appropriate.
 
 ## Release gates
-Recording/performance, any bespoke photography, jurisdiction-specific specialist or counsel review where flagged, and RN owner-final approval.
+Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.

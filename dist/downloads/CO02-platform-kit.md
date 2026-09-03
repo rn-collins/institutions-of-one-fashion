@@ -24,4 +24,4 @@ One-page opening statement: “This is not a request for unlimited creative disc
 - **INFERENCE:** Creative approval, board authority, voting power, equity economics, and employment status are different control layers. (S50, S52, S37)
 
 ## Publication discipline
-This is U.S.-bounded educational issue spotting, not legal advice. Do not add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, jurisdiction limits, and counsel-review gates.
+Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.

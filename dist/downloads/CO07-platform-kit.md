@@ -24,4 +24,4 @@ Opening copy: “Before we discuss ownership, let us identify what each person b
 - **INFERENCE:** The institution hidden inside a contract is the operating system created by many clauses acting together, not a single ownership sentence. (S50, S51, S52, S55)
 
 ## Publication discipline
-This is U.S.-bounded educational issue spotting, not legal advice. Do not add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, jurisdiction limits, and counsel-review gates.
+Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.

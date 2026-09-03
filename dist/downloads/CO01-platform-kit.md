@@ -24,4 +24,4 @@ A name can be identity, reputation, mark, company asset, domain, handle, license
 - **INFERENCE:** The label display alone does not establish who owns a mark, company, domain, likeness right, or contractual approval power. (S48, S49, S32)
 
 ## Publication discipline
-This is U.S.-bounded educational issue spotting, not legal advice. Do not add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, jurisdiction limits, and counsel-review gates.
+Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.

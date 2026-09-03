@@ -38,4 +38,4 @@ Fragmenting the archive into rights can obscure its cultural wholeness; treating
 4. Send disputed title, copyright, contract, probate, privacy, and foreign-law questions to qualified counsel.
 
 ## Release gates
-Recording/performance, any bespoke photography, jurisdiction-specific specialist or counsel review where flagged, and RN owner-final approval.
+Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.

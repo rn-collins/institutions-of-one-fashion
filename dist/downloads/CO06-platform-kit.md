@@ -23,4 +23,4 @@ Pair the argument with an account-recovery checklist and a plain-language privac
 - **PROPOSAL:** An owned contact channel and exportable records reduce—but do not eliminate—platform dependency. (S08, S39)
 
 ## Publication discipline
-This is U.S.-bounded educational issue spotting, not legal advice. Do not add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, jurisdiction limits, and counsel-review gates.
+Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.

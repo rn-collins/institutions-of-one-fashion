@@ -24,4 +24,4 @@ Seven three-minute prompts: origin; choice; collaborator; failure; permission; a
 - **PROPOSAL:** A founder’s archive can support succession only when decision context, rights, access, and stewardship travel with the files and objects. (S08, S66)
 
 ## Publication discipline
-This is U.S.-bounded educational issue spotting, not legal advice. Do not add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, jurisdiction limits, and counsel-review gates.
+Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.

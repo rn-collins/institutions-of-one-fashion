@@ -38,4 +38,4 @@ Calling platforms “rented” can understate the communities, creativity, and l
 4. Create a continuity notice that does not pressure people to migrate.
 
 ## Release gates
-Recording/performance, any bespoke photography, jurisdiction-specific specialist or counsel review where flagged, and RN owner-final approval.
+Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.

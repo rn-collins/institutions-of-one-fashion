@@ -24,4 +24,4 @@ Two-column briefing that distinguishes custody, interpretation, commercial direc
 - **INFERENCE:** Legitimacy to interpret a deceased designer’s codes can be cultural, curatorial, contractual, corporate, or legal—and those authorities may conflict. (S63, S67)
 
 ## Publication discipline
-This is U.S.-bounded educational issue spotting, not legal advice. Do not add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, jurisdiction limits, and counsel-review gates.
+Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.

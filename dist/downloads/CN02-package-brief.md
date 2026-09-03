@@ -38,4 +38,4 @@ Plural authority can produce paralysis. A continuing house needs accountable dec
 4. Create a dissent and correction protocol; send legal conclusions to counsel and cultural or conservation questions to the right specialists.
 
 ## Release gates
-Recording/performance, any bespoke photography, jurisdiction-specific specialist or counsel review where flagged, and RN owner-final approval.
+Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.

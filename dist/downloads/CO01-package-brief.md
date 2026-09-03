@@ -38,4 +38,4 @@ Separating the name into assets can make identity look purely transactional. A p
 4. Mark every unresolved common-law, publicity, contract, foreign-law, or beneficial-ownership question for counsel.
 
 ## Release gates
-Recording/performance, any bespoke photography, jurisdiction-specific specialist or counsel review where flagged, and RN owner-final approval.
+Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.

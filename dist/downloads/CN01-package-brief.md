@@ -38,4 +38,4 @@ Continuation is not always the ethical or artistically honest outcome. Closing a
 4. Prepare continue, pause, license, sell, donate, and close scenarios with qualified counsel, tax, employment, conservation, and cultural advisers.
 
 ## Release gates
-Recording/performance, any bespoke photography, jurisdiction-specific specialist or counsel review where flagged, and RN owner-final approval.
+Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.

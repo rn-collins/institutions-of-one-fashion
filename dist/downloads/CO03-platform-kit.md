@@ -24,4 +24,4 @@ Before publish: exact file; author; source; work-made-for-hire evidence; transfe
 - **INFERENCE:** The designer, model, show producer, venue, publication, and photographer may each hold different contractual or legal interests; appearing in or commissioning an image does not by itself answer copyright ownership. (S54, S55, S56)
 
 ## Publication discipline
-This is U.S.-bounded educational issue spotting, not legal advice. Do not add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, jurisdiction limits, and counsel-review gates.
+Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.

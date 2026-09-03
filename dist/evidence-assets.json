@@ -27,7 +27,8 @@
         "responsive display sizing only"
       ],
       "relatedPackages": [
-        "CO08"
+        "CO08",
+        "CA04"
       ]
     },
     {
@@ -75,7 +76,8 @@
       ],
       "relatedPackages": [
         "CN04",
-        "CO06"
+        "CO06",
+        "CA03"
       ]
     },
     {
@@ -145,7 +147,8 @@
         "responsive display sizing only"
       ],
       "relatedPackages": [
-        "CO03"
+        "CO03",
+        "CA05"
       ]
     },
     {
@@ -168,7 +171,8 @@
         "responsive display sizing only"
       ],
       "relatedPackages": [
-        "CO07"
+        "CO07",
+        "CA01"
       ]
     },
     {

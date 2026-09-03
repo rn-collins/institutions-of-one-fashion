@@ -38,4 +38,4 @@ A permissions system can become so risk-averse that it erases photographers, mod
 4. Approve the exact crop, platform, duration, credit, alt text, archive treatment, and correction route with counsel where needed.
 
 ## Release gates
-Recording/performance, any bespoke photography, jurisdiction-specific specialist or counsel review where flagged, and RN owner-final approval.
+Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.

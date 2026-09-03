@@ -1,0 +1,4 @@
+claim,label,source_ids,review
+"U.S. Department of Labor garment-industry resources address federal wage, hour, recordkeeping, contractor, and compliance questions relevant to covered workplaces.",VERIFIED,"S76; S81",point-of-claim
+"The public Mossimo–Target agreement demonstrates one negotiated division among design, materials, approvals, manufacture, distribution, channels, and publicity.",VERIFIED,"S77",point-of-claim
+"Production handoffs distribute creative, technical, commercial, and labor power, but the distribution is not identical across houses, jurisdictions, or worker classifications.",INFERENCE,"S76; S77; S81",point-of-claim

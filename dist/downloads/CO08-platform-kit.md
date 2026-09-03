@@ -23,4 +23,4 @@ Package exact assets, territories, dates, agreements, uses, and desired remedies
 - **INFERENCE:** Aesthetic resemblance alone does not determine a legal claim. (S28, S30)
 
 ## Publication discipline
-This is U.S.-bounded educational issue spotting, not legal advice. Do not add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, jurisdiction limits, and counsel-review gates.
+Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
