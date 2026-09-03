@@ -1,0 +1,60 @@
+name: Correction or takedown request
+description: Report a factual, attribution, rights, privacy, accessibility, or removal concern.
+title: "[Correction or takedown]: "
+labels:
+  - correction-or-takedown
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping keep this exhibition accurate and responsible.
+
+        This request will be public. Do not include private, confidential, medical, financial, or legally privileged information. If evidence cannot safely be shared publicly, describe only what can be disclosed and ask the repository owner for a private follow-up channel.
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: Request type
+      options:
+        - Factual correction
+        - Attribution or credit correction
+        - Copyright or licensing concern
+        - Privacy or consent concern
+        - Accessibility problem
+        - Takedown request
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page or asset URL
+      description: Link to the exact page, source record, download, or asset.
+      placeholder: https://institutions-of-one-fashion.vercel.app/...
+    validations:
+      required: true
+  - type: textarea
+    id: concern
+    attributes:
+      label: What needs attention?
+      description: Identify the exact statement, credit, asset, behavior, or access problem.
+    validations:
+      required: true
+  - type: textarea
+    id: requested_action
+    attributes:
+      label: Requested action
+      description: Explain the correction, credit, access repair, restriction, or removal requested.
+    validations:
+      required: true
+  - type: textarea
+    id: public_evidence
+    attributes:
+      label: Public supporting evidence
+      description: Add canonical public links only. Do not upload private documents or personal data.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Public-submission confirmation
+      options:
+        - label: I understand this issue is public and I have not included sensitive or privileged information.
+          required: true

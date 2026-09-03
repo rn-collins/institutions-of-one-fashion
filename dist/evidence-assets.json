@@ -1,0 +1,108 @@
+{
+  "manifestVersion": "1.1.0",
+  "published": "2026-08-29",
+  "policy": "No AI-generated imagery. Object-level rights govern.",
+  "policyUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+  "objects": [
+    {
+      "id": "83877",
+      "title": "Dress",
+      "maker": "French",
+      "date": "1735–40",
+      "accession": "1983.399.1",
+      "medium": "Silk, flax",
+      "credit": "Gift of Mary Tavener Holmes, 1983",
+      "image": "https://images.metmuseum.org/CRDImages/ci/web-large/DT7538.jpg",
+      "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+      "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+      "url": "https://www.metmuseum.org/art/collection/search/83877",
+      "license": "Public Domain / Met Open Access",
+      "retrieved": "2026-08-29",
+      "isPublicDomain": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "B01",
+        "CA02",
+        "CN04"
+      ]
+    },
+    {
+      "id": "157996",
+      "title": "Afternoon dress",
+      "maker": "Jeanne Hallée",
+      "date": "ca. 1900",
+      "accession": "2009.300.3098a, b",
+      "medium": "Silk",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+      "image": "https://images.metmuseum.org/CRDImages/ci/web-large/50.72.1a-b_threequarter_front_CP4.jpg",
+      "caption": "A less-remembered house remains researchable because its object record survives.",
+      "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
+      "url": "https://www.metmuseum.org/art/collection/search/157996",
+      "license": "Public Domain / Met Open Access",
+      "retrieved": "2026-08-29",
+      "isPublicDomain": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "B01",
+        "CA02",
+        "CN04"
+      ]
+    },
+    {
+      "id": "106420",
+      "title": "Dress",
+      "maker": "American or European",
+      "date": "ca. 1903",
+      "accession": "1976.258.13",
+      "medium": "Linen, cotton",
+      "credit": "Gift of Miss Eva Drexel Dahlgren, 1976",
+      "image": "https://images.metmuseum.org/CRDImages/ci/web-large/1976.258.13_F2.JPG",
+      "caption": "Construction evidence can outlive the operating house—but only if the physical object and record stay paired.",
+      "alt": "Light-colored linen and cotton dress dated around 1903, displayed frontally.",
+      "url": "https://www.metmuseum.org/art/collection/search/106420",
+      "license": "Public Domain / Met Open Access",
+      "retrieved": "2026-08-29",
+      "isPublicDomain": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "B01",
+        "CA02",
+        "CN04"
+      ]
+    },
+    {
+      "id": "81112",
+      "title": "Ball gown",
+      "maker": "House of Worth",
+      "date": "ca. 1872",
+      "accession": "46.25.1a–d",
+      "medium": "Silk",
+      "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+      "image": "https://images.metmuseum.org/CRDImages/ci/web-large/DT426.jpg",
+      "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+      "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+      "url": "https://www.metmuseum.org/art/collection/search/81112",
+      "license": "Public Domain / Met Open Access",
+      "retrieved": "2026-08-29",
+      "isPublicDomain": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "B01",
+        "CA02",
+        "CN04"
+      ]
+    }
+  ]
+}

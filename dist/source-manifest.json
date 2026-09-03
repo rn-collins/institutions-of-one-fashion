@@ -1,0 +1,485 @@
+{
+  "version": "1.1.0",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Evening dress",
+      "institution": "The Metropolitan Museum of Art",
+      "date": "1910",
+      "url": "https://www.metmuseum.org/art/collection/search/155987",
+      "disposition": "UNRESOLVED",
+      "rights": "Metadata/link only until the object-level Open Access flag is verified.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S02",
+      "title": "Morning dress",
+      "institution": "The Metropolitan Museum of Art",
+      "date": "object record",
+      "url": "https://www.metmuseum.org/art/collection/search/175579",
+      "disposition": "UNRESOLVED",
+      "rights": "Metadata/link only until the object-level Open Access flag is verified.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S03",
+      "title": "Dress",
+      "institution": "The Metropolitan Museum of Art",
+      "date": "1735–40",
+      "url": "https://www.metmuseum.org/art/collection/search/83877",
+      "disposition": "REUSE",
+      "rights": "Object record marks the image Public Domain; retain full credit and identifier.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S04",
+      "title": "Afternoon dress",
+      "institution": "The Metropolitan Museum of Art",
+      "date": "ca. 1900",
+      "url": "https://www.metmuseum.org/art/collection/search/157996",
+      "disposition": "REUSE",
+      "rights": "Object record marks the image Public Domain; retain full credit and identifier.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S05",
+      "title": "Dress",
+      "institution": "The Metropolitan Museum of Art",
+      "date": "ca. 1903",
+      "url": "https://www.metmuseum.org/art/collection/search/106420",
+      "disposition": "REUSE",
+      "rights": "Object record marks the image Public Domain; retain full credit and identifier.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S06",
+      "title": "Open Access",
+      "institution": "The Metropolitan Museum of Art",
+      "date": "current",
+      "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "disposition": "REUSE_POLICY",
+      "rights": "Collection policy; individual object flags remain controlling.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S07",
+      "title": "Fashion — Free to Use and Reuse",
+      "institution": "Library of Congress",
+      "date": "19th–20th century collection",
+      "url": "https://www.loc.gov/free-to-use/fashion/",
+      "disposition": "REUSE_ITEM_CHECK",
+      "rights": "Selection is presented as free to use and reuse unless an item advisory states otherwise.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S08",
+      "title": "Personal Digital Archiving",
+      "institution": "Library of Congress",
+      "date": "current; resources include 2013 publication",
+      "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+      "disposition": "LINK_ONLY",
+      "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S09",
+      "title": "Open Access at the Smithsonian",
+      "institution": "Smithsonian Learning Lab",
+      "date": "current",
+      "url": "https://learninglab.si.edu/openaccess",
+      "disposition": "REUSE_ITEM_CHECK",
+      "rights": "Reuse only media explicitly carrying a CC0 designation.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S10",
+      "title": "Joyce A. Bailey Oral History Interview",
+      "institution": "National Museum of African American History and Culture",
+      "date": "2016-07-11",
+      "url": "https://nmaahc.si.edu/object/nmaahc_2016.129.3.1a-.2a",
+      "disposition": "LINK_ONLY",
+      "rights": "Usage Conditions Apply; permission is required for media reuse.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S11",
+      "title": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982",
+      "institution": "FIT Special Collections",
+      "date": "1982-05-26; digitized 2020",
+      "url": "https://archiveondemand.fitnyc.edu/item/136259",
+      "disposition": "LINK_ONLY",
+      "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S12",
+      "title": "Interview of Liz Claiborne, 1990 July 10 and 17",
+      "institution": "FIT Special Collections",
+      "date": "1990-07-10 and 1990-07-17",
+      "url": "https://archiveondemand.fitnyc.edu/item/136197",
+      "disposition": "LINK_ONLY",
+      "rights": "In Copyright; permission required for media reuse.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S13",
+      "title": "FIT Oral History: Ralph Lauren",
+      "institution": "FIT Special Collections",
+      "date": "1990-09-05",
+      "url": "https://archiveondemand.fitnyc.edu/item/135901",
+      "disposition": "LINK_ONLY",
+      "rights": "In Copyright; permission required for media reuse.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S14",
+      "title": "Adele Simpson Oral History",
+      "institution": "FIT Special Collections",
+      "date": "1978-06-13; digitized 2015",
+      "url": "https://archiveondemand.fitnyc.edu/item/135823",
+      "disposition": "UNRESOLVED",
+      "rights": "Link only until the item-level rights record is confirmed.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S15",
+      "title": "FIT oral histories collection, 1967–2023",
+      "institution": "FIT Gladys Marcus Library",
+      "date": "1967–2023",
+      "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+      "disposition": "LINK_ONLY",
+      "rights": "Finding-aid metadata may be cited; media is governed item by item.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S16",
+      "title": "Parsons School of Design Fashion Design Department records",
+      "institution": "The New School Archives",
+      "date": "1941–2008",
+      "url": null,
+      "discoveryUrl": "https://aspace.archives.newschool.edu/repositories/resources?field%5B%5D=title&filter_fields%5B%5D=subjects&filter_values%5B%5D=Fashion+design",
+      "canonicalLevel": "shared subject discovery index; exact collection record unresolved",
+      "disposition": "UNRESOLVED",
+      "rights": "Do not present the shared subject index as the collection’s exact canonical record.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S17",
+      "title": "Parsons School of Design School of Fashion records",
+      "institution": "The New School Archives",
+      "date": "ca. 1980–2020",
+      "url": null,
+      "discoveryUrl": "https://aspace.archives.newschool.edu/repositories/resources?field%5B%5D=title&filter_fields%5B%5D=subjects&filter_values%5B%5D=Fashion+design",
+      "canonicalLevel": "shared subject discovery index; exact collection record unresolved",
+      "disposition": "UNRESOLVED",
+      "rights": "Do not present the shared subject index as the collection’s exact canonical record.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S18",
+      "title": "Dorothy Haon and Marion Haon papers",
+      "institution": "The New School Archives",
+      "date": "late 1930s–1950s",
+      "url": null,
+      "discoveryUrl": "https://findingaids.archives.newschool.edu/",
+      "canonicalLevel": "finding-aids discovery portal; exact collection record unresolved",
+      "disposition": "UNRESOLVED",
+      "rights": "No media reuse; secure the exact finding aid before making a collection-level claim.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S19",
+      "title": "Lucie Porges fashion design papers",
+      "institution": "The New School Archives",
+      "date": "1950–2011",
+      "url": null,
+      "discoveryUrl": "https://findingaids.archives.newschool.edu/",
+      "canonicalLevel": "finding-aids discovery portal; exact collection record unresolved",
+      "disposition": "UNRESOLVED",
+      "rights": "No media reuse; secure the exact finding aid before making a collection-level claim.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S20",
+      "title": "Mary Ann Restivo fashion runway video recordings",
+      "institution": "The New School Archives",
+      "date": "1982–1990",
+      "url": null,
+      "discoveryUrl": "https://findingaids.archives.newschool.edu/",
+      "canonicalLevel": "finding-aids discovery portal; exact collection record unresolved",
+      "disposition": "UNRESOLVED",
+      "rights": "No media reuse; secure the exact finding aid and permission before using recordings.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S21",
+      "title": "Gianfranco Ferré Research Center",
+      "institution": "Politecnico di Milano / Google Arts & Culture",
+      "date": "center established 2021",
+      "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+      "disposition": "LINK_ONLY",
+      "rights": "Use an official embed only if offered; otherwise link only.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S22",
+      "title": "Gianfranco Ferré Research Center",
+      "institution": "Politecnico di Milano / Google Arts & Culture",
+      "date": "current story",
+      "url": "https://artsandculture.google.com/story/WQUhce5OUFK2Xg",
+      "disposition": "LINK_ONLY",
+      "rights": "Use an official embed only if offered; otherwise link only.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S23",
+      "title": "Condé Nast Archive",
+      "institution": "Condé Nast / Google Arts & Culture",
+      "date": "archive since 1909",
+      "url": "https://artsandculture.google.com/partner/conde-nast-archive",
+      "disposition": "LINK_ONLY",
+      "rights": "Copyright controlled by Condé Nast and creators; licensing required for media.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S24",
+      "title": "HCC Fashion Archive",
+      "institution": "Houston City College / Google Arts & Culture",
+      "date": "collection spans 1740s–2000s",
+      "url": "https://artsandculture.google.com/partner/hcc-fashion",
+      "disposition": "LINK_ONLY",
+      "rights": "Free research access is not an open media license.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S25",
+      "title": "MoMu — Fashion Museum Antwerp",
+      "institution": "MoMu / Google Arts & Culture",
+      "date": "museum opened 2002",
+      "url": "https://artsandculture.google.com/partner/momu",
+      "disposition": "LINK_ONLY",
+      "rights": "Official embed or link only unless an object-level license permits reuse.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S26",
+      "title": "Parsons School of Design",
+      "institution": "Parsons / Google Arts & Culture",
+      "date": "current",
+      "url": "https://artsandculture.google.com/partner/parsons-school-of-design",
+      "disposition": "LINK_ONLY",
+      "rights": "Official embed or link only; do not download imagery without a license.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S27",
+      "title": "V&A Fashion in Motion",
+      "institution": "Victoria and Albert Museum / Google Arts & Culture",
+      "date": "series includes 2008 and 2010 examples",
+      "url": "https://artsandculture.google.com/story/v-a-fashion-in-motion-victoria-and-albert-museum/CAUBD7gX1IiTKw",
+      "disposition": "LINK_ONLY",
+      "rights": "V&A and photographer rights apply; official embed or link only.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S28",
+      "title": "Intellectual Property in Fashion",
+      "institution": "World Intellectual Property Organization",
+      "date": "current; updated 2026-08-21",
+      "url": "https://www.wipo.int/en/web/fashion",
+      "disposition": "LINK_ONLY",
+      "rights": "Link and paraphrase with attribution; do not reuse third-party stock illustrations.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S29",
+      "title": "WIPO IP Diagnostics for the Fashion Industry",
+      "institution": "World Intellectual Property Organization",
+      "date": "2026-08-21",
+      "url": "https://www.wipo.int/en/web/business/w/news/2026/wipo-launches-new-ip-diagnostics-tool-for-the-fashion-industry",
+      "disposition": "LINK_ONLY",
+      "rights": "Link to the tool/news; do not reproduce the assessment verbatim.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S30",
+      "title": "How to Protect Designs?",
+      "institution": "World Intellectual Property Organization",
+      "date": "current",
+      "url": "https://www.wipo.int/en/web/designs/protection",
+      "disposition": "LINK_ONLY",
+      "rights": "Link and paraphrase with attribution.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S31",
+      "title": "Industrial Designs",
+      "institution": "World Intellectual Property Organization",
+      "date": "current",
+      "url": "https://www.wipo.int/en/web/designs/",
+      "disposition": "LINK_ONLY",
+      "rights": "Link only; media rights remain separate.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S32",
+      "title": "Fashion, Beauty, and Intellectual Property: Trademarks",
+      "institution": "United States Patent and Trademark Office",
+      "date": "2024-02-20; updated 2024-02-26",
+      "url": "https://www.uspto.gov/about-us/events/fashion-beauty-and-intellectual-property-trademarks",
+      "disposition": "LINK_ONLY",
+      "rights": "Government page may be cited; do not assume event media or graphics are public domain.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S33",
+      "title": "CFDA Resources",
+      "institution": "Council of Fashion Designers of America",
+      "date": "current",
+      "url": "https://cfda.com/resources/",
+      "disposition": "LINK_ONLY",
+      "rights": "Accessible directory content is not necessarily open-licensed.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S34",
+      "title": "CFDA Sustainability Resource Directory",
+      "institution": "Council of Fashion Designers of America",
+      "date": "second edition current",
+      "url": "https://cfda.com/resources/sustainability-resource-hub/sustainability-resource-directory/",
+      "disposition": "LINK_ONLY",
+      "rights": "Link to the directory; do not scrape or republish wholesale without terms review.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S35",
+      "title": "Tapestry, Inc. Form 10-K for year ended June 27, 2026",
+      "institution": "U.S. Securities and Exchange Commission",
+      "date": "2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000018/tpr-20260627.htm",
+      "disposition": "QUOTE_LINK",
+      "rights": "Public filing; quote narrowly and transform facts into original diagrams.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S36",
+      "title": "Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026",
+      "institution": "U.S. Securities and Exchange Commission",
+      "date": "2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026037074/rl-20260328.htm",
+      "disposition": "QUOTE_LINK",
+      "rights": "Public filing; quote narrowly and diagram facts without implying image rights.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S37",
+      "title": "Ralph Lauren 2026 Proxy Statement",
+      "institution": "U.S. Securities and Exchange Commission",
+      "date": "2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1037038/000114036126025788/ny20071304x1_def14a.htm",
+      "disposition": "QUOTE_LINK",
+      "rights": "Public filing; quote narrowly and diagram facts.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S38",
+      "title": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products",
+      "institution": "European Parliament and Council / EUR-Lex",
+      "date": "2024-06-13; OJ 2024-06-28",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024R1781",
+      "disposition": "QUOTE_LINK",
+      "rights": "Link and quote relevant provisions under EUR-Lex reuse policy.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S39",
+      "title": "Universal Electronic Records Management Requirements, Version 3",
+      "institution": "U.S. National Archives and Records Administration",
+      "date": "2023-06",
+      "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "disposition": "LINK_ONLY",
+      "rights": "Government resource; link/download for education and do not imply endorsement.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S40",
+      "title": "Collections Care",
+      "institution": "Smithsonian Institution Archives",
+      "date": "current",
+      "url": "https://siarchives.si.edu/what-we-do/collections-care",
+      "disposition": "LINK_ONLY",
+      "rights": "Link and paraphrase; page photography requires separate clearance.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S41",
+      "title": "Storage and Handling",
+      "institution": "Smithsonian Institution Archives",
+      "date": "current",
+      "url": "https://siarchives.si.edu/what-we-do/preservation/storage-handling",
+      "disposition": "LINK_ONLY",
+      "rights": "Link and paraphrase; no blanket media reuse.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S42",
+      "title": "Textile Conservation",
+      "institution": "Smithsonian Museum Conservation Institute",
+      "date": "current",
+      "url": "https://mci.si.edu/textile-conservation",
+      "disposition": "LINK_ONLY",
+      "rights": "Link and paraphrase; request permission for images or video.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S43",
+      "title": "How do I store antique textiles at home?",
+      "institution": "Smithsonian Institution",
+      "date": "current",
+      "url": "https://www.si.edu/faqs/antique-textile-storage",
+      "disposition": "LINK_ONLY",
+      "rights": "Link and paraphrase; recommend a conservator for valuable or fragile objects.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S44",
+      "title": "The First Ladies’ Suit",
+      "institution": "Rijksmuseum",
+      "date": "1898",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/The-First-Ladies-Suit--c3644cff7ccc7a71a5c2112ab51898a4",
+      "disposition": "REUSE",
+      "rights": "Object page marks the work Public Domain; retain record credit and persistent URL.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S45",
+      "title": "The Gallery of Fashion",
+      "institution": "Rijksmuseum",
+      "date": "1795-06-01",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/The-Gallery-of-Fashion--f86c776742c90fce7cffe8404df4d99b",
+      "disposition": "REUSE",
+      "rights": "Object page marks the work Public Domain; retain record credit and persistent URL.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S46",
+      "title": "Morning & Evening Costume for July 1817",
+      "institution": "Rijksmuseum",
+      "date": "1817",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Morning-Evening-Costume-for-July-1817--3dd3d9121f0e96e036f8dd841ee3d115",
+      "disposition": "REUSE",
+      "rights": "Object page marks the work Public Domain; retain all named roles and record URL.",
+      "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S47",
+      "title": "Kostuumstudie",
+      "institution": "Rijksmuseum",
+      "date": "1893",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Kostuumstudie--9b1f1d30c7dc8852575bfdd41cfa7551",
+      "disposition": "REUSE",
+      "rights": "Object page marks the work Public Domain; retain object number and credit.",
+      "retrieved": "2026-08-29"
+    }
+  ]
+}

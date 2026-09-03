@@ -1,0 +1,11 @@
+field,value,status
+artifact,"asset-rights-intake",complete
+version,1.1,complete
+purpose,"Record one implementation decision for every visual, recording, document or quotation.",mapped
+governing_question,"Can this exact asset be reused, embedded, quoted, linked, or not used?",mapped
+source_ids_or_fields,"Canonical URL; persistent ID; displayed rights; creator; institution",mapped
+claims_or_schema,"Evidence use and reuse permission are separate determinations",mapped
+production_outputs,"Caption; alt text; credit; transformation log; permission record; takedown contact",mapped
+release_gate,"Unknown provenance or synthetic material is DO NOT USE.",required
+accessibility,"captions; transcripts; keyboard; visible labels",required
+rights,"exact canonical record; item-level decision; transformation log",required

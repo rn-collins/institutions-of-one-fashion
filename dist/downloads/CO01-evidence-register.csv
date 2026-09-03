@@ -1,0 +1,11 @@
+field,value,status
+artifact,"CO01-evidence-register",complete
+version,1.1,complete
+purpose,"Separate each identity asset, record source and unresolved ownership question.",mapped
+governing_question,"Which public record or agreement would establish control?",mapped
+source_ids_or_fields,"S28; S29; S30; S32",mapped
+claims_or_schema,"Trademark; design; copyright; patent; domain; likeness",mapped
+production_outputs,"Asset-by-asset evidence rows; counsel handoff",mapped
+release_gate,"Database results require saved query, retrieval time and disclaimer.",required
+accessibility,"captions; transcripts; keyboard; visible labels",required
+rights,"exact canonical record; item-level decision; transformation log",required

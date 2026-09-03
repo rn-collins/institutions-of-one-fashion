@@ -1,0 +1,313 @@
+{
+  "version": "1.1.0",
+  "packages": [
+    {
+      "id": "B01",
+      "title": "When Does a Designer Become a House?",
+      "domain": "build",
+      "status": "Evidence mapped",
+      "summary": "What changes when “I make clothes” becomes an institution?"
+    },
+    {
+      "id": "B02",
+      "title": "The Founder’s Hand, Decoded",
+      "domain": "build",
+      "status": "Evidence mapped",
+      "summary": "Can tacit aesthetic judgment be documented without flattening it?"
+    },
+    {
+      "id": "B03",
+      "title": "Atelier as Operating System",
+      "domain": "build",
+      "status": "Evidence mapped",
+      "summary": "Which roles carry the designer’s intelligence?"
+    },
+    {
+      "id": "B04",
+      "title": "The Sample Is a Constitution",
+      "domain": "build",
+      "status": "Reporting queue",
+      "summary": "What does a prototype decide about the future institution?"
+    },
+    {
+      "id": "B05",
+      "title": "A Vocabulary You Can Hire Into",
+      "domain": "build",
+      "status": "Reporting queue",
+      "summary": "How do silhouette, color, material, finish, and refusal become teachable?"
+    },
+    {
+      "id": "B06",
+      "title": "Collection One Is Not the Beginning",
+      "domain": "build",
+      "status": "Reporting queue",
+      "summary": "What invisible infrastructure precedes a debut?"
+    },
+    {
+      "id": "B07",
+      "title": "The Independent Designer’s Research Department",
+      "domain": "build",
+      "status": "Reporting queue",
+      "summary": "How can one person build research rigor without pretending to be a conglomerate?"
+    },
+    {
+      "id": "B08",
+      "title": "The Business Partner Beside the Name",
+      "domain": "build",
+      "status": "Reporting queue",
+      "summary": "What institutional capacity is carried by the person not on the label?"
+    },
+    {
+      "id": "B09",
+      "title": "Seven Seasons of Signal",
+      "domain": "build",
+      "status": "Reporting queue",
+      "summary": "How many repetitions create a recognizable code?"
+    },
+    {
+      "id": "B10",
+      "title": "From Client Work to Canon",
+      "domain": "build",
+      "status": "Evidence mapped",
+      "summary": "How do commissions become knowledge rather than one-offs?"
+    },
+    {
+      "id": "CA01",
+      "title": "How the House Speaks When You Are Not in the Room",
+      "domain": "carry",
+      "status": "Evidence mapped",
+      "summary": "Which documents and rituals transmit judgment?"
+    },
+    {
+      "id": "CA02",
+      "title": "Archive as Design Employee",
+      "domain": "carry",
+      "status": "Evidence mapped",
+      "summary": "When does an archive become an active creative resource?"
+    },
+    {
+      "id": "CA03",
+      "title": "The Translation Layer",
+      "domain": "carry",
+      "status": "Evidence mapped",
+      "summary": "What must survive between runway idea and saleable product?"
+    },
+    {
+      "id": "CA04",
+      "title": "Carrying Craft Without Owning Every Hand",
+      "domain": "carry",
+      "status": "Reporting queue",
+      "summary": "How can outside makers preserve house standards?"
+    },
+    {
+      "id": "CA05",
+      "title": "License Without Disappearance",
+      "domain": "carry",
+      "status": "Reporting queue",
+      "summary": "Which elements can travel into fragrance, accessories, home, or collaboration?"
+    },
+    {
+      "id": "CA06",
+      "title": "The Lookbook as Institutional Memory",
+      "domain": "carry",
+      "status": "Reporting queue",
+      "summary": "Is a lookbook marketing, record, specification, or all three?"
+    },
+    {
+      "id": "CA07",
+      "title": "Wholesale Is a Governance Event",
+      "domain": "carry",
+      "status": "Reporting queue",
+      "summary": "What control leaves the house when distribution leaves the house?"
+    },
+    {
+      "id": "CA08",
+      "title": "A House Across Platforms",
+      "domain": "carry",
+      "status": "Reporting queue",
+      "summary": "Can the same codes survive runway, site, social, retail, and press?"
+    },
+    {
+      "id": "CA09",
+      "title": "Teaching the Eye",
+      "domain": "carry",
+      "status": "Reporting queue",
+      "summary": "What can successors learn from critique rather than imitation?"
+    },
+    {
+      "id": "CA10",
+      "title": "Metadata Is Merchandising for Memory",
+      "domain": "carry",
+      "status": "Evidence mapped",
+      "summary": "If a work cannot be found, can it influence the future?"
+    },
+    {
+      "id": "CO01",
+      "title": "Your Name Is Not Necessarily Yours",
+      "domain": "control",
+      "status": "Evidence mapped",
+      "summary": "Who owns the label name, marks, domains, and likeness?"
+    },
+    {
+      "id": "CO02",
+      "title": "The Control Garment",
+      "domain": "control",
+      "status": "Evidence mapped",
+      "summary": "How do equity and voting rights change creative power?"
+    },
+    {
+      "id": "CO03",
+      "title": "Four Rights in One Dress",
+      "domain": "control",
+      "status": "Evidence mapped",
+      "summary": "What can trademark, copyright, design rights, and patent each protect?"
+    },
+    {
+      "id": "CO04",
+      "title": "The Archive Has an Owner",
+      "domain": "control",
+      "status": "Reporting queue",
+      "summary": "Who owns garments, sketches, photographs, recordings, metadata, and access rights?"
+    },
+    {
+      "id": "CO05",
+      "title": "Controlled Company, Controlled Story",
+      "domain": "control",
+      "status": "Reporting queue",
+      "summary": "What does founder voting control preserve—and prevent?"
+    },
+    {
+      "id": "CO06",
+      "title": "The Account Is an Asset",
+      "domain": "control",
+      "status": "Reporting queue",
+      "summary": "Who controls domains, handles, mailing lists, storefronts, and authentication?"
+    },
+    {
+      "id": "CO07",
+      "title": "Collaboration Is an IP Event",
+      "domain": "control",
+      "status": "Reporting queue",
+      "summary": "What is created, borrowed, approved, and retained by each collaborator?"
+    },
+    {
+      "id": "CO08",
+      "title": "The Copy, the Reference, the Archive",
+      "domain": "control",
+      "status": "Reporting queue",
+      "summary": "Where do influence, infringement, and archival reuse diverge?"
+    },
+    {
+      "id": "CO09",
+      "title": "Proof of Making",
+      "domain": "control",
+      "status": "Reporting queue",
+      "summary": "What records establish authorship, date, development, and chain of custody?"
+    },
+    {
+      "id": "CO10",
+      "title": "The Product Passport Becomes the House Record",
+      "domain": "control",
+      "status": "Evidence mapped",
+      "summary": "Can compliance infrastructure also preserve provenance and care?"
+    },
+    {
+      "id": "CO11",
+      "title": "Sell the Company, Keep the Archive?",
+      "domain": "control",
+      "status": "Reporting queue",
+      "summary": "Which assets can and should be separated in a transaction?"
+    },
+    {
+      "id": "CO12",
+      "title": "The Cost of Link-Only Culture",
+      "domain": "control",
+      "status": "Reporting queue",
+      "summary": "What happens when a brand’s memory depends on platforms it does not own?"
+    },
+    {
+      "id": "CN01",
+      "title": "The Founder Is a Single Point of Failure",
+      "domain": "continue",
+      "status": "Evidence mapped",
+      "summary": "Which decisions, relationships, and keys disappear with one person?"
+    },
+    {
+      "id": "CN02",
+      "title": "Successor, Interpreter, or Impersonator?",
+      "domain": "continue",
+      "status": "Evidence mapped",
+      "summary": "What gives a successor legitimacy?"
+    },
+    {
+      "id": "CN03",
+      "title": "The Last Collection Is an Operational Event",
+      "domain": "continue",
+      "status": "Evidence mapped",
+      "summary": "What should happen to orders, staff, IP, files, samples, and promises after incapacity or death?"
+    },
+    {
+      "id": "CN04",
+      "title": "Archive Before Estate",
+      "domain": "continue",
+      "status": "Reporting queue",
+      "summary": "Why begin preservation while the founder can still describe decisions?"
+    },
+    {
+      "id": "CN05",
+      "title": "Foundation, Museum, Company, or School?",
+      "domain": "continue",
+      "status": "Reporting queue",
+      "summary": "Which steward can preserve, interpret, teach, and fund a legacy?"
+    },
+    {
+      "id": "CN06",
+      "title": "Continue the Method, Not the Motif",
+      "domain": "continue",
+      "status": "Reporting queue",
+      "summary": "How does a house evolve without copying visual signatures?"
+    },
+    {
+      "id": "CN07",
+      "title": "The Oral History Is a Succession Document",
+      "domain": "continue",
+      "status": "Reporting queue",
+      "summary": "Which knowledge can only be captured in voice?"
+    },
+    {
+      "id": "CN08",
+      "title": "A Garment Can Outlive Its File",
+      "domain": "continue",
+      "status": "Reporting queue",
+      "summary": "What must be preserved physically and digitally together?"
+    },
+    {
+      "id": "CN09",
+      "title": "Philanthropy as Continuation",
+      "domain": "continue",
+      "status": "Reporting queue",
+      "summary": "Can resources reproduce conditions for future creators rather than reproduce a founder’s style?"
+    },
+    {
+      "id": "CN10",
+      "title": "The House After the House",
+      "domain": "continue",
+      "status": "Evidence mapped",
+      "summary": "What survives when the operating company closes?"
+    },
+    {
+      "id": "CN11",
+      "title": "Provenance Is Future Memory",
+      "domain": "continue",
+      "status": "Reporting queue",
+      "summary": "What chain of evidence lets later audiences trust an object and its story?"
+    },
+    {
+      "id": "CN12",
+      "title": "The Institutional Will",
+      "domain": "continue",
+      "status": "Reporting queue",
+      "summary": "What should a founder decide now about name, archive, creative authority, and public interpretation?"
+    }
+  ]
+}

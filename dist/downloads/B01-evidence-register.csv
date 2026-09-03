@@ -1,0 +1,11 @@
+field,value,status
+artifact,"B01-evidence-register",complete
+version,1.1,complete
+purpose,"Track practice, method, roles, records and assets for the house-threshold argument.",mapped
+governing_question,"Which evidence demonstrates each threshold?",mapped
+source_ids_or_fields,"S11; S16; S21; MET-83877",mapped
+claims_or_schema,"Founder narration; institutional records; mature archive; object metadata",mapped
+production_outputs,"Claim rows; object record; counterevidence memo",mapped
+release_gate,"Link-only oral history; permission-sensitive archive media; Met object reusable.",required
+accessibility,"captions; transcripts; keyboard; visible labels",required
+rights,"exact canonical record; item-level decision; transformation log",required
