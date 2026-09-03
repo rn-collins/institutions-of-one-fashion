@@ -23,4 +23,4 @@ Map one object without inventing missing names; label the gaps as part of the ev
 - **PROPOSAL:** Credit and role records are institutional infrastructure, not ornamental acknowledgments. (S10, S15)
 
 ## Publication discipline
-Do not add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, and evidence labels. Legal analysis is issue-spotting, not legal advice.
+This is U.S.-bounded educational issue spotting, not legal advice. Do not add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, jurisdiction limits, and counsel-review gates.

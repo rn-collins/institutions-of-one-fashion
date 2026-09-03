@@ -1,0 +1,4 @@
+claim,label,source_ids,review
+"Under Delaware law, a corporation's business and affairs are managed by or under the direction of its board unless the statute or certificate provides otherwise.",VERIFIED,"S52",point-of-claim
+"A public Ralph Lauren employment agreement assigns specified creative-direction authority by contract, while the company's proxy and annual report separately describe voting power, offices, and corporate governance.",VERIFIED,"S50; S36; S37",point-of-claim
+"Creative approval, board authority, voting power, equity economics, and employment status are different control layers.",INFERENCE,"S50; S52; S37",point-of-claim

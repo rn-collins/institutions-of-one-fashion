@@ -38,4 +38,4 @@ Documentation can become performative transparency, and legal categories cannot 
 4. Send unresolved rights or attribution questions to qualified counsel.
 
 ## Release gates
-Recording/performance, any bespoke photography, specialist or counsel review where flagged, and RN owner-final approval.
+Recording/performance, any bespoke photography, jurisdiction-specific specialist or counsel review where flagged, and RN owner-final approval.

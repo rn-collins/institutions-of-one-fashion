@@ -1,8 +1,11 @@
 {
-  "manifestVersion": "1.1.0",
-  "published": "2026-08-29",
-  "policy": "No AI-generated imagery. Object-level rights govern.",
-  "policyUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+  "manifestVersion": "1.2.0",
+  "published": "2026-09-03",
+  "policy": "No AI-generated imagery. Object-level rights and the named institution's record govern.",
+  "policyUrls": [
+    "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+    "https://www.loc.gov/free-to-use/fashion/"
+  ],
   "objects": [
     {
       "id": "83877",
@@ -17,16 +20,14 @@
       "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
       "url": "https://www.metmuseum.org/art/collection/search/83877",
       "license": "Public Domain / Met Open Access",
-      "retrieved": "2026-08-29",
-      "isPublicDomain": true,
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
       "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
       "transformations": [
         "responsive display sizing only"
       ],
       "relatedPackages": [
-        "B01",
-        "CA02",
-        "CN04"
+        "CO08"
       ]
     },
     {
@@ -42,16 +43,15 @@
       "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
       "url": "https://www.metmuseum.org/art/collection/search/157996",
       "license": "Public Domain / Met Open Access",
-      "retrieved": "2026-08-29",
-      "isPublicDomain": true,
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
       "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
       "transformations": [
         "responsive display sizing only"
       ],
       "relatedPackages": [
-        "B01",
         "CA02",
-        "CN04"
+        "CA10"
       ]
     },
     {
@@ -67,16 +67,15 @@
       "alt": "Light-colored linen and cotton dress dated around 1903, displayed frontally.",
       "url": "https://www.metmuseum.org/art/collection/search/106420",
       "license": "Public Domain / Met Open Access",
-      "retrieved": "2026-08-29",
-      "isPublicDomain": true,
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
       "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
       "transformations": [
         "responsive display sizing only"
       ],
       "relatedPackages": [
-        "B01",
-        "CA02",
-        "CN04"
+        "CN04",
+        "CO06"
       ]
     },
     {
@@ -92,16 +91,107 @@
       "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
       "url": "https://www.metmuseum.org/art/collection/search/81112",
       "license": "Public Domain / Met Open Access",
-      "retrieved": "2026-08-29",
-      "isPublicDomain": true,
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
       "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
       "transformations": [
         "responsive display sizing only"
       ],
       "relatedPackages": [
         "B01",
-        "CA02",
-        "CN04"
+        "B10"
+      ]
+    },
+    {
+      "id": "loc-gtfy-00717",
+      "title": "Liz Claiborne, fashion designer, with model",
+      "maker": "Bernard Gotfryd",
+      "date": "1982",
+      "accession": "gtfy.00717",
+      "medium": "Photograph",
+      "credit": "Bernard Gotfryd photograph collection, Library of Congress Prints and Photographs Division",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/gtfy/00700/00717v.jpg",
+      "caption": "One frame holds a named designer, a model, a photographer, a collection, and an institutional record—separate roles that public shorthand often compresses.",
+      "alt": "Fashion designer Liz Claiborne standing beside a model in a Library of Congress photograph by Bernard Gotfryd.",
+      "url": "https://www.loc.gov/resource/gtfy.00717/",
+      "license": "Free to Use and Reuse / Library of Congress curated set",
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CO02"
+      ]
+    },
+    {
+      "id": "loc-tofr-08422",
+      "title": "Sporting Look, evening fashions",
+      "maker": "Toni Frissell",
+      "date": "1956",
+      "accession": "tofr.08422",
+      "medium": "Photograph made for Sports Illustrated",
+      "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/tofr/08400/08422v.jpg",
+      "caption": "The image is a distinct authored work around fashion; the clothes, staging, model, commission, publication, and photograph do not collapse into one ownership question.",
+      "alt": "Two models wearing evening fashions in a 1956 Toni Frissell photograph made for Sports Illustrated.",
+      "url": "https://www.loc.gov/resource/tofr.08422/",
+      "license": "Free to Use and Reuse / Library of Congress curated set",
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CO03"
+      ]
+    },
+    {
+      "id": "loc-ppmsca-44953",
+      "title": "Report of New York fashions, spring and summer 1872",
+      "maker": "Butterick & Co.",
+      "date": "1872",
+      "accession": "ppmsca.44953",
+      "medium": "Advertisement lithograph",
+      "credit": "Library of Congress Prints and Photographs Division",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/44900/44953v.jpg",
+      "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+      "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+      "url": "https://www.loc.gov/resource/ppmsca.44953/",
+      "license": "Free to Use and Reuse / Library of Congress curated set",
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CO07"
+      ]
+    },
+    {
+      "id": "loc-pga-06009",
+      "title": "S.D. Sollers & Co., manufacturers of children's fine shoes",
+      "maker": "Duval & Hunter",
+      "date": "1874",
+      "accession": "pga.06009",
+      "medium": "Advertisement lithograph",
+      "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/pga/06000/06009v.jpg",
+      "caption": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+      "alt": "An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter.",
+      "url": "https://www.loc.gov/resource/pga.06009/",
+      "license": "Free to Use and Reuse / Library of Congress curated set",
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CO01"
       ]
     }
   ]

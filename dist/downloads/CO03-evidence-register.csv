@@ -1,0 +1,4 @@
+claim,label,source_ids,review
+"Under U.S. copyright law, copyright initially vests in the author, while a qualifying work made for hire changes who is treated as author and initial owner.",VERIFIED,"S53; S54; S57",point-of-claim
+"A transfer of copyright ownership generally must be in a signed writing, subject to the statute's terms and exceptions.",VERIFIED,"S55",point-of-claim
+"The designer, model, show producer, venue, publication, and photographer may each hold different contractual or legal interests; appearing in or commissioning an image does not by itself answer copyright ownership.",INFERENCE,"S54; S55; S56",point-of-claim

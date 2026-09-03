@@ -480,6 +480,156 @@
       "disposition": "REUSE",
       "rights": "Object page marks the work Public Domain; retain object number and credit.",
       "retrieved": "2026-08-29"
+    },
+    {
+      "id": "S48",
+      "title": "15 U.S.C. § 1052 — Trademarks registrable on the principal register",
+      "institution": "U.S. House Office of the Law Revision Counsel",
+      "date": "current preliminary edition",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1052&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "rights": "U.S. statutory text; quote narrowly and link to the official current source.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S49",
+      "title": "15 U.S.C. § 1060 — Assignment",
+      "institution": "U.S. House Office of the Law Revision Counsel",
+      "date": "current preliminary edition",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "rights": "U.S. statutory text; quote narrowly and link to the official current source.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S50",
+      "title": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren",
+      "institution": "U.S. Securities and Exchange Commission",
+      "date": "effective 2017-04-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217000682/eh1700461_ex1001.htm",
+      "disposition": "QUOTE_LINK",
+      "rights": "Public SEC filing; quote narrowly, link to the filing, and do not imply endorsement.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S51",
+      "title": "Employment Agreement between Ralph Lauren Corporation and Patrice Louvet",
+      "institution": "U.S. Securities and Exchange Commission",
+      "date": "2017",
+      "url": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217001057/eh1700645_ex1001.htm",
+      "disposition": "QUOTE_LINK",
+      "rights": "Public SEC filing; quote narrowly, link to the filing, and distinguish contractual text from editorial inference.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S52",
+      "title": "Delaware General Corporation Law § 141 — Board of directors",
+      "institution": "State of Delaware",
+      "date": "current",
+      "url": "https://delcode.delaware.gov/title8/c001/sc04/index.html#141",
+      "disposition": "QUOTE_LINK",
+      "rights": "Official state statutory text; quote narrowly and link.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S53",
+      "title": "17 U.S.C. § 101 — Definitions",
+      "institution": "U.S. House Office of the Law Revision Counsel",
+      "date": "current preliminary edition",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "rights": "U.S. statutory text; quote narrowly and link.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S54",
+      "title": "17 U.S.C. § 201 — Ownership of copyright",
+      "institution": "U.S. House Office of the Law Revision Counsel",
+      "date": "current preliminary edition",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "rights": "U.S. statutory text; quote narrowly and link.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S55",
+      "title": "17 U.S.C. § 204 — Execution of transfers of copyright ownership",
+      "institution": "U.S. House Office of the Law Revision Counsel",
+      "date": "current preliminary edition",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section204&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "rights": "U.S. statutory text; quote narrowly and link.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S56",
+      "title": "What Photographers Should Know about Copyright",
+      "institution": "U.S. Copyright Office",
+      "date": "current",
+      "url": "https://www.copyright.gov/engage/photographers/",
+      "disposition": "LINK_ONLY",
+      "rights": "Official educational guidance; link and paraphrase with attribution.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S57",
+      "title": "Circular 30: Works Made for Hire",
+      "institution": "U.S. Copyright Office",
+      "date": "current circular",
+      "url": "https://www.copyright.gov/circs/circ30.pdf",
+      "disposition": "LINK_ONLY",
+      "rights": "Official guidance; link and paraphrase, retaining the statutory distinction between employees and qualifying commissioned works.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S58",
+      "title": "Free to Use and Reuse Sets",
+      "institution": "Library of Congress",
+      "date": "program current",
+      "url": "https://www.loc.gov/free-to-use/",
+      "disposition": "REUSE_ITEM_CHECK",
+      "rights": "Program-level reuse context; the exact item record and any item-specific advisory remain controlling.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S59",
+      "title": "Liz Claiborne, fashion designer, with model",
+      "institution": "Library of Congress",
+      "date": "1982",
+      "url": "https://www.loc.gov/resource/gtfy.00717/",
+      "disposition": "REUSE",
+      "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain photographer, collection, identifier, and canonical record.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S60",
+      "title": "Sporting Look, evening fashions",
+      "institution": "Library of Congress",
+      "date": "1956",
+      "url": "https://www.loc.gov/resource/tofr.08422/",
+      "disposition": "REUSE",
+      "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Toni Frissell credit, publication context, identifier, and canonical record.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S61",
+      "title": "Report of New York fashions, spring & summer 1872",
+      "institution": "Library of Congress",
+      "date": "1872",
+      "url": "https://www.loc.gov/resource/ppmsca.44953/",
+      "disposition": "REUSE",
+      "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Butterick & Co. context, identifier, and canonical record.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S62",
+      "title": "S.D. Sollers & Co., manufacturers of children's fine shoes",
+      "institution": "Library of Congress",
+      "date": "1874",
+      "url": "https://www.loc.gov/resource/pga.06009/",
+      "disposition": "REUSE",
+      "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Duval & Hunter attribution, identifier, and canonical record.",
+      "retrieved": "2026-09-03"
     }
   ]
 }

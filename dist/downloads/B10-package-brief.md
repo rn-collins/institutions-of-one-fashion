@@ -38,4 +38,4 @@ Institutionalization can turn a living voice into bureaucracy. The aim is not to
 4. Run the seventy-two-hour founder-absence test.
 
 ## Release gates
-Recording/performance, any bespoke photography, specialist or counsel review where flagged, and RN owner-final approval.
+Recording/performance, any bespoke photography, jurisdiction-specific specialist or counsel review where flagged, and RN owner-final approval.

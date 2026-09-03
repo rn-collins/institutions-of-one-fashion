@@ -1,0 +1,4 @@
+claim,label,source_ids,review
+"Public SEC exhibits show that agreements can allocate title, duties, reporting lines, decision authority, term, compensation, and termination consequences.",VERIFIED,"S50; S51",point-of-claim
+"Copyright ownership and transfers may also turn on whether work qualifies as made for hire and whether an executed writing transfers rights.",VERIFIED,"S53; S54; S55; S57",point-of-claim
+"The institution hidden inside a contract is the operating system created by many clauses acting together, not a single ownership sentence.",INFERENCE,"S50; S51; S52; S55",point-of-claim

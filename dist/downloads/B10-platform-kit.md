@@ -23,4 +23,4 @@ Lead with the operating distinction, give one fashion example, and invite reader
 - **PROPOSAL:** A documented practice can preserve roles, decisions, and evidence beyond publicity. (S08, S39)
 
 ## Publication discipline
-Do not add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, and evidence labels. Legal analysis is issue-spotting, not legal advice.
+This is U.S.-bounded educational issue spotting, not legal advice. Do not add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, jurisdiction limits, and counsel-review gates.

@@ -1,11 +1,4 @@
-field,value,status
-artifact,"CO01-evidence-register",complete
-version,1.1,complete
-purpose,"Separate each identity asset, record source and unresolved ownership question.",mapped
-governing_question,"Which public record or agreement would establish control?",mapped
-source_ids_or_fields,"S28; S29; S30; S32",mapped
-claims_or_schema,"Trademark; design; copyright; patent; domain; likeness",mapped
-production_outputs,"Asset-by-asset evidence rows; counsel handoff",mapped
-release_gate,"Database results require saved query, retrieval time and disclaimer.",required
-accessibility,"captions; transcripts; keyboard; visible labels",required
-rights,"exact canonical record; item-level decision; transformation log",required
+claim,label,source_ids,review
+"Section 2(c) of the Lanham Act bars registration of a mark that consists of or comprises the name, portrait, or signature identifying a particular living individual without written consent.",VERIFIED,"S48",point-of-claim
+"A federally registered mark and the human identity it references are distinct interests; recorded assignments may transfer a registered mark subject to statutory conditions.",VERIFIED,"S48; S49",point-of-claim
+"The label display alone does not establish who owns a mark, company, domain, likeness right, or contractual approval power.",INFERENCE,"S48; S49; S32",point-of-claim
