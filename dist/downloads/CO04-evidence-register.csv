@@ -1,0 +1,4 @@
+claim,label,source_ids,review
+"Under U.S. law, ownership of a material object is distinct from ownership of copyright embodied in it.",VERIFIED,"S63",point-of-claim
+"An archive may contain garments, photographs, drawings, recordings, files, marks, contracts, and access credentials governed by different records and jurisdictions.",INFERENCE,"S63; S08; S39",point-of-claim
+"Possession of the storage room or server does not by itself establish every underlying right.",INFERENCE,"S63",point-of-claim

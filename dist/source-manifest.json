@@ -630,6 +630,96 @@
       "disposition": "REUSE",
       "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Duval & Hunter attribution, identifier, and canonical record.",
       "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S63",
+      "title": "17 U.S.C. § 201 — Ownership of copyright",
+      "institution": "U.S. Copyright Office",
+      "date": "current",
+      "url": "https://www.copyright.gov/title17/92chap2.html",
+      "disposition": "QUOTE_LINK",
+      "rights": "Official statutory text; quote narrowly and link. Subsections (d) and (e) address transfer by law, will, or intestacy.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S64",
+      "title": "Standard Application Help: Claimant — transfer by inheritance",
+      "institution": "U.S. Copyright Office",
+      "date": "current",
+      "url": "https://www.copyright.gov/eco/help-claimant.html",
+      "disposition": "LINK_ONLY",
+      "rights": "Official registration guidance; paraphrase and link. It does not resolve state probate or contract questions.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S65",
+      "title": "Appraisal Policy of the National Archives",
+      "institution": "U.S. National Archives and Records Administration",
+      "date": "current policy; page updated 2026",
+      "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal",
+      "disposition": "LINK_ONLY",
+      "rights": "Official federal archival guidance; use as an authoritative method analogy, not as a rule governing private fashion archives.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S66",
+      "title": "Electronic Records Information for Archivists",
+      "institution": "U.S. National Archives and Records Administration",
+      "date": "current",
+      "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html",
+      "disposition": "LINK_ONLY",
+      "rights": "Official preservation guidance; paraphrase and link. Federal requirements are not represented as binding on private archives.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S67",
+      "title": "Alexander McQueen — Explore the Collections",
+      "institution": "Victoria and Albert Museum",
+      "date": "collection current",
+      "url": "https://www.vam.ac.uk/collections/alexander-mcqueen",
+      "disposition": "LINK_ONLY",
+      "rights": "Collection evidence and institutional interpretation may be cited; images remain link-only unless the item record grants reuse.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S68",
+      "title": "Evening dress",
+      "institution": "The Metropolitan Museum of Art",
+      "date": "ca. 1882",
+      "url": "https://www.metmuseum.org/art/collection/search/159187",
+      "disposition": "REUSE",
+      "rights": "Object record marks image Public Domain under Met Open Access; retain title, maker, date, accession, credit, and canonical link.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S69",
+      "title": "Ball gown",
+      "institution": "The Metropolitan Museum of Art",
+      "date": "1895–1900",
+      "url": "https://www.metmuseum.org/art/collection/search/155989",
+      "disposition": "REUSE",
+      "rights": "Object record marks image Public Domain under Met Open Access; retain title, maker, date, accession, credit, and canonical link.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S70",
+      "title": "Fancy dress costume",
+      "institution": "The Metropolitan Museum of Art",
+      "date": "ca. 1893",
+      "url": "https://www.metmuseum.org/art/collection/search/80430",
+      "disposition": "REUSE",
+      "rights": "Object record marks image Public Domain under Met Open Access; retain title, maker, date, accession, credit, and canonical link.",
+      "retrieved": "2026-09-03"
+    },
+    {
+      "id": "S71",
+      "title": "Evening dress",
+      "institution": "The Metropolitan Museum of Art",
+      "date": "1898–1900",
+      "url": "https://www.metmuseum.org/art/collection/search/84652",
+      "disposition": "REUSE",
+      "rights": "Object record marks image Public Domain under Met Open Access; retain title, maker, date, accession, credit, and canonical link.",
+      "retrieved": "2026-09-03"
     }
   ]
 }

@@ -1,0 +1,4 @@
+claim,label,source_ids,review
+"Museum collection pages preserve institutional interpretation of a designer’s work, but museum custody does not create authority to direct a continuing commercial house.",INFERENCE,"S67; S63",point-of-claim
+"Copyright interests may transfer by contract, will, operation of law, or intestate succession under U.S. law; ownership of the physical object remains distinct.",VERIFIED,"S63; S64",point-of-claim
+"Legitimacy to interpret a deceased designer’s codes can be cultural, curatorial, contractual, corporate, or legal—and those authorities may conflict.",INFERENCE,"S63; S67",point-of-claim

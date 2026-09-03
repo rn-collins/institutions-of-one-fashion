@@ -1,11 +1,4 @@
-field,value,status
-artifact,"CN04-evidence-register",complete
-version,1.1,complete
-purpose,"Pair physical objects, digital files, rights and oral-history prompts.",mapped
-governing_question,"Which knowledge is absent from the file itself?",mapped
-source_ids_or_fields,"S08; S39; S40; S41; S42; S43",mapped
-claims_or_schema,"Identifier pairing; formats; storage; narration; access authority",mapped
-production_outputs,"Seven-day action ledger; file/object pair register; referral triggers",mapped
-release_gate,"Refer valuable or fragile textiles to a qualified conservator.",required
-accessibility,"captions; transcripts; keyboard; visible labels",required
-rights,"exact canonical record; item-level decision; transformation log",required
+claim,label,source_ids,review
+"The Library of Congress recommends inventory, organization, description, multiple copies, and ongoing management for personal digital archives.",VERIFIED,"S08",point-of-claim
+"NARA preservation guidance describes master and backup copies, integrity checking, migration, and documentation as components of long-term access.",VERIFIED,"S66",point-of-claim
+"A founder’s archive can support succession only when decision context, rights, access, and stewardship travel with the files and objects.",PROPOSAL,"S08; S66",point-of-claim

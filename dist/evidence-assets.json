@@ -193,6 +193,98 @@
       "relatedPackages": [
         "CO01"
       ]
+    },
+    {
+      "id": "159187",
+      "title": "Evening dress",
+      "maker": "House of Worth",
+      "date": "ca. 1882",
+      "accession": "2009.300.635a, b",
+      "medium": "Silk",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+      "image": "https://images.metmuseum.org/CRDImages/ci/web-large/DP285734.jpg",
+      "caption": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+      "alt": "Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882.",
+      "url": "https://www.metmuseum.org/art/collection/search/159187",
+      "license": "Public Domain / Met Open Access",
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CO04"
+      ]
+    },
+    {
+      "id": "155989",
+      "title": "Ball gown",
+      "maker": "House of Worth; attributed to Charles Frederick Worth and Jean-Philippe Worth",
+      "date": "1895–1900",
+      "accession": "2009.300.1290a, b",
+      "medium": "Silk",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. C. Oliver Iselin, 1961",
+      "image": "https://images.metmuseum.org/CRDImages/ci/web-large/61.219.7a-b_front_CP4.jpg",
+      "caption": "The dual designer attribution makes succession visible as an evidence question: house continuity does not erase uncertainty about individual authorship.",
+      "alt": "Ornate pale silk House of Worth ball gown with floral decoration and a full trained skirt, dated 1895 to 1900.",
+      "url": "https://www.metmuseum.org/art/collection/search/155989",
+      "license": "Public Domain / Met Open Access",
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CN02"
+      ]
+    },
+    {
+      "id": "80430",
+      "title": "Fancy dress costume",
+      "maker": "House of Worth",
+      "date": "ca. 1893",
+      "accession": "1994.462a, b",
+      "medium": "Silk",
+      "credit": "Gift of James A. and Mary Elizabeth Kingsland, 1994",
+      "image": "https://images.metmuseum.org/CRDImages/ci/web-large/DT3775.jpg",
+      "caption": "An accession-quality record preserves a house object beyond the founder’s lifetime while keeping the object, maker attribution, and museum stewardship distinct.",
+      "alt": "Elaborate House of Worth silk fancy dress costume with a fitted bodice, dark patterned skirt, and dramatic decorative sleeves, around 1893.",
+      "url": "https://www.metmuseum.org/art/collection/search/80430",
+      "license": "Public Domain / Met Open Access",
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CN04"
+      ]
+    },
+    {
+      "id": "84652",
+      "title": "Evening dress",
+      "maker": "House of Worth",
+      "date": "1898–1900",
+      "accession": "1976.258.1a, b",
+      "medium": "Silk",
+      "credit": "Gift of Miss Eva Drexel Dahlgren, 1976",
+      "image": "https://images.metmuseum.org/CRDImages/ci/web-large/DT10335.jpg",
+      "caption": "Made after Charles Frederick Worth’s death, the dress lets the house name continue in the record without proving who controlled every creative or economic decision.",
+      "alt": "House of Worth silk evening dress from 1898 to 1900 with a pale embellished bodice, narrow waist, and richly patterned trained skirt.",
+      "url": "https://www.metmuseum.org/art/collection/search/84652",
+      "license": "Public Domain / Met Open Access",
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CN01"
+      ]
     }
   ]
 }

@@ -1,0 +1,4 @@
+claim,label,source_ids,review
+"The Met records House of Worth garments made both before and after Charles Frederick Worth’s 1895 death under the continuing design-house attribution.",VERIFIED,"S68; S69; S71",point-of-claim
+"A continuing house name does not prove continuity of authorship, governance, ownership, labor, or method.",INFERENCE,"S68; S69; S71",point-of-claim
+"Succession planning should separately map company authority, IP, archive custody, employment, obligations, access, and public interpretation.",PROPOSAL,"S63; S64; S65",point-of-claim

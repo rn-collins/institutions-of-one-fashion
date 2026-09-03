@@ -164,9 +164,9 @@
     },
     {
       "id": "CO04",
-      "title": "The Archive Has an Owner",
+      "title": "Who Owns the Archive?",
       "domain": "control",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "Who owns garments, sketches, photographs, recordings, metadata, and access rights?"
     },
     {
@@ -227,14 +227,14 @@
     },
     {
       "id": "CN01",
-      "title": "The Founder Is a Single Point of Failure",
+      "title": "What Happens to a House After the Founder?",
       "domain": "continue",
       "status": "Evidence mapped",
       "summary": "Which decisions, relationships, and keys disappear with one person?"
     },
     {
       "id": "CN02",
-      "title": "Successor, Interpreter, or Impersonator?",
+      "title": "Who Is Allowed to Interpret a Dead Designer’s Codes?",
       "domain": "continue",
       "status": "Evidence mapped",
       "summary": "What gives a successor legitimacy?"
@@ -248,9 +248,9 @@
     },
     {
       "id": "CN04",
-      "title": "Archive Before Estate",
+      "title": "The Personal Archive as Succession Infrastructure",
       "domain": "continue",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "Why begin preservation while the founder can still describe decisions?"
     },
     {
