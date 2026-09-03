@@ -1,0 +1,3 @@
+claim,label,source_ids,review
+"A platform account is governed by platform access and recovery systems, not possession of the audience itself.",INFERENCE,"S32; S36",point-of-claim
+"An owned contact channel and exportable records reduce—but do not eliminate—platform dependency.",PROPOSAL,"S08; S39",point-of-claim

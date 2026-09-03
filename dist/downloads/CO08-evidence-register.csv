@@ -1,0 +1,3 @@
+claim,label,source_ids,review
+"Copyright, trademark, design protection, and contract answer different questions about creative work.",VERIFIED,"S28; S29; S30; S31",point-of-claim
+"Aesthetic resemblance alone does not determine a legal claim.",INFERENCE,"S28; S30",point-of-claim
