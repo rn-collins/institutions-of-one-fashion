@@ -1,0 +1,4 @@
+claim,label,source_ids,review
+"U.S. Department of Labor garment resources identify wage-and-hour compliance as an operating responsibility in covered garment work.",VERIFIED,"S76; S81",point-of-claim
+"ILO research links purchasing practices in global supply chains to wage and working-condition outcomes and documents gendered segmentation in parts of the garment sector.",VERIFIED,"S85; S86; S87",point-of-claim
+"Credit is not a substitute for lawful pay, safe conditions, bargaining power, remedy, or worker voice.",INFERENCE,"S76; S81; S85; S86",point-of-claim

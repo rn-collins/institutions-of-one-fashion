@@ -1,0 +1,4 @@
+claim,label,source_ids,review
+"The U.S. Copyright Office states that a photographer is generally the author of a photograph unless the work qualifies as a work made for hire.",VERIFIED,"S56; S57; S84",point-of-claim
+"A qualifying work-made-for-hire relationship and a copyright transfer are fact- and agreement-dependent, not implied merely by commissioning or publication.",VERIFIED,"S54; S55; S57; S84",point-of-claim
+"A photographer can define a house’s public image while authorship, copyright ownership, credit, archive custody, and reuse permission remain separate questions.",INFERENCE,"S23; S56; S60; S83",point-of-claim

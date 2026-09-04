@@ -1,0 +1,4 @@
+claim,label,source_ids,review
+"FIT describes stylists as developing visual brand and design concepts that guide work toward a finished product.",VERIFIED,"S82",point-of-claim
+"FIT’s Women of Harper’s Bazaar exhibition framed fashion publishing as collaboration among an editor, fashion editor, and photographer rather than the product of a single role.",VERIFIED,"S83",point-of-claim
+"A styling choice can shape public meaning without automatically establishing copyright ownership, contractual approval, or sole authorship.",INFERENCE,"S53; S54; S82; S83",point-of-claim

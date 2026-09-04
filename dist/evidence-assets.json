@@ -172,7 +172,8 @@
       ],
       "relatedPackages": [
         "CO07",
-        "CA01"
+        "CA01",
+        "CA06"
       ]
     },
     {
@@ -288,6 +289,98 @@
       ],
       "relatedPackages": [
         "CN01"
+      ]
+    },
+    {
+      "id": "loc-tofr-52127",
+      "title": "Gloria Vanderbilt Cooper",
+      "maker": "Toni Frissell",
+      "date": "1966",
+      "accession": "tofr.52127",
+      "medium": "Photograph made for Vogue",
+      "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/tofr/52100/52127v.jpg",
+      "caption": "The frame is not neutral delivery: pose, setting, crop, light, garment, commission, and publication context combine to manufacture a public fashion meaning.",
+      "alt": "Gloria Vanderbilt Cooper photographed by Toni Frissell for Vogue in 1966.",
+      "url": "https://www.loc.gov/resource/tofr.52127/",
+      "license": "Free to Use and Reuse / Library of Congress curated set",
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CA07"
+      ]
+    },
+    {
+      "id": "81630",
+      "title": "Ball gown",
+      "maker": "House of Worth",
+      "date": "ca. 1887",
+      "accession": "1977.292.2a, b",
+      "medium": "Silk, glass, metallic thread",
+      "credit": "Gift of Agnes de Mille, 1977",
+      "image": "https://images.metmuseum.org/CRDImages/ci/web-large/1977.292.2ab_F.jpg",
+      "caption": "Materials such as silk, glass, and metallic thread make skilled transformation visible while the museum record still names only the house as maker.",
+      "alt": "House of Worth ball gown from about 1887, with a structured pale silk silhouette and elaborate surface ornament.",
+      "url": "https://www.metmuseum.org/art/collection/search/81630",
+      "license": "Public Domain / Met Open Access",
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CA08"
+      ]
+    },
+    {
+      "id": "159303",
+      "title": "Walking suit",
+      "maker": "House of Worth",
+      "date": "ca. 1889",
+      "accession": "2009.300.73a, b",
+      "medium": "Silk",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+      "image": "https://images.metmuseum.org/CRDImages/ci/web-large/31.30a-b_front_CP4.jpg",
+      "caption": "A finished suit can preserve the house name while leaving the cutters, fitters, stitchers, finishers, and production negotiations unnamed.",
+      "alt": "Dark silk House of Worth walking suit from about 1889, photographed frontally against a neutral background.",
+      "url": "https://www.metmuseum.org/art/collection/search/159303",
+      "license": "Public Domain / Met Open Access",
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CA08"
+      ]
+    },
+    {
+      "id": "159172",
+      "title": "Ensemble",
+      "maker": "House of Worth",
+      "date": "1893",
+      "accession": "2009.300.620a–e",
+      "medium": "Silk, jet, metal",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Edith Gardiner, 1926",
+      "image": "https://images.metmuseum.org/CRDImages/ci/web-large/26.368a-b_front_CP4.jpg",
+      "caption": "The ensemble carries material decisions across components; the surviving object cannot narrate every demonstration, correction, and embodied judgment that produced them.",
+      "alt": "House of Worth ensemble from 1893 in dark silk with jet and metal ornament, shown frontally.",
+      "url": "https://www.metmuseum.org/art/collection/search/159172",
+      "license": "Public Domain / Met Open Access",
+      "retrieved": "2026-09-03",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "REUSE_REMOTE_UNMODIFIED",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CA09"
       ]
     }
   ]
