@@ -1,9 +1,25 @@
-document.querySelector('.nav-toggle')?.addEventListener('click',event=>{
-  const button=event.currentTarget;
-  const expanded=button.getAttribute('aria-expanded')==='true';
-  button.setAttribute('aria-expanded',String(!expanded));
-  document.querySelector('header nav')?.classList.toggle('open',!expanded);
+const navToggle=document.querySelector('.nav-toggle');
+const primaryNav=document.querySelector('#primary-navigation');
+const closeNavigation=()=>{
+  navToggle?.setAttribute('aria-expanded','false');
+  primaryNav?.classList.remove('open');
+};
+navToggle?.addEventListener('click',()=>{
+  const expanded=navToggle.getAttribute('aria-expanded')==='true';
+  navToggle.setAttribute('aria-expanded',String(!expanded));
+  primaryNav?.classList.toggle('open',!expanded);
 });
+document.addEventListener('keydown',event=>{
+  if(event.key==='Escape'&&primaryNav?.classList.contains('open')){
+    closeNavigation();
+    navToggle?.focus();
+  }
+});
+for(const link of document.querySelectorAll('#primary-navigation a')){
+  const target=new URL(link.href,location.href).pathname.replace(/\/$/,'')||'/';
+  const current=location.pathname.replace(/\/$/,'')||'/';
+  if(target===current)link.setAttribute('aria-current','page');
+}
 
 const search=document.querySelector('[data-search]');
 if(search){
