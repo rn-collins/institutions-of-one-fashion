@@ -1,0 +1,3 @@
+claim,label,source_ids,review
+"Trademark assignments and copyright transfers have distinct U.S. statutory frameworks.",VERIFIED,"S49; S55; S63",point-of-claim
+"Company and archive perimeters may diverge, but the appropriate structure is fact- and jurisdiction-specific.",INFERENCE,"S35; S39",point-of-claim

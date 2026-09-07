@@ -1,0 +1,3 @@
+claim,label,source_ids,review
+"U.S. copyright authorship, initial ownership, work-made-for-hire, and transfer questions require distinct facts.",VERIFIED,"S53; S54; S55; S57",point-of-claim
+"A contemporaneous evidence chain can support but does not automatically decide a rights dispute.",INFERENCE,"S08; S39",point-of-claim

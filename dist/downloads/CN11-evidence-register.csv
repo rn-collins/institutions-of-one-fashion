@@ -1,0 +1,3 @@
+claim,label,source_ids,review
+"Collection records preserve identifiers, material descriptions, dates, credits, and accession information.",VERIFIED,"S03; S04; S05",point-of-claim
+"Provenance claims should preserve gaps, confidence, interventions, and corrections.",PROPOSAL,"S39; S65",point-of-claim

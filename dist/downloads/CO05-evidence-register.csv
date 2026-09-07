@@ -1,0 +1,3 @@
+claim,label,source_ids,review
+"Public filings separate voting, board, executive, and contractual authority.",VERIFIED,"S36; S37; S50; S51; S52",point-of-claim
+"Formal company control does not itself establish truthful or legitimate cultural memory.",INFERENCE,"S08; S39",point-of-claim

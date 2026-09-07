@@ -1,0 +1,3 @@
+claim,label,source_ids,review
+"Museums, companies, schools, and foundations perform different stewardship functions.",INFERENCE,"S21; S40; S42",point-of-claim
+"Private entity, tax, governance, and transfer choices require jurisdiction-specific advice.",PROPOSAL,"S52; S65",point-of-claim

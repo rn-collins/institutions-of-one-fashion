@@ -40,28 +40,28 @@
       "id": "B06",
       "title": "Collection One Is Not the Beginning",
       "domain": "build",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "What invisible infrastructure precedes a debut?"
     },
     {
       "id": "B07",
       "title": "The Independent Designer’s Research Department",
       "domain": "build",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "How can one person build research rigor without pretending to be a conglomerate?"
     },
     {
       "id": "B08",
       "title": "The Business Partner Beside the Name",
       "domain": "build",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "What institutional capacity is carried by the person not on the label?"
     },
     {
       "id": "B09",
       "title": "Seven Seasons of Signal",
       "domain": "build",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "How many repetitions create a recognizable code?"
     },
     {
@@ -173,7 +173,7 @@
       "id": "CO05",
       "title": "Controlled Company, Controlled Story",
       "domain": "control",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "What does founder voting control preserve—and prevent?"
     },
     {
@@ -201,7 +201,7 @@
       "id": "CO09",
       "title": "Proof of Making",
       "domain": "control",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "What records establish authorship, date, development, and chain of custody?"
     },
     {
@@ -215,14 +215,14 @@
       "id": "CO11",
       "title": "Sell the Company, Keep the Archive?",
       "domain": "control",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "Which assets can and should be separated in a transaction?"
     },
     {
       "id": "CO12",
       "title": "The Cost of Link-Only Culture",
       "domain": "control",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "What happens when a brand’s memory depends on platforms it does not own?"
     },
     {
@@ -257,35 +257,35 @@
       "id": "CN05",
       "title": "Foundation, Museum, Company, or School?",
       "domain": "continue",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "Which steward can preserve, interpret, teach, and fund a legacy?"
     },
     {
       "id": "CN06",
       "title": "Continue the Method, Not the Motif",
       "domain": "continue",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "How does a house evolve without copying visual signatures?"
     },
     {
       "id": "CN07",
       "title": "The Oral History Is a Succession Document",
       "domain": "continue",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "Which knowledge can only be captured in voice?"
     },
     {
       "id": "CN08",
       "title": "A Garment Can Outlive Its File",
       "domain": "continue",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "What must be preserved physically and digitally together?"
     },
     {
       "id": "CN09",
       "title": "Philanthropy as Continuation",
       "domain": "continue",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "Can resources reproduce conditions for future creators rather than reproduce a founder’s style?"
     },
     {
@@ -299,14 +299,14 @@
       "id": "CN11",
       "title": "Provenance Is Future Memory",
       "domain": "continue",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "What chain of evidence lets later audiences trust an object and its story?"
     },
     {
       "id": "CN12",
       "title": "The Institutional Will",
       "domain": "continue",
-      "status": "Reporting queue",
+      "status": "Evidence mapped",
       "summary": "What should a founder decide now about name, archive, creative authority, and public interpretation?"
     }
   ]

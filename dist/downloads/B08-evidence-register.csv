@@ -1,0 +1,3 @@
+claim,label,source_ids,review
+"Board, executive, voting, economic, and creative authority are distinct fields in public corporate records.",VERIFIED,"S36; S37; S50; S51; S52",point-of-claim
+"A public title does not establish the full informal or contractual partnership.",INFERENCE,"S50; S51",point-of-claim
