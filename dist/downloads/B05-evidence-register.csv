@@ -1,0 +1,4 @@
+claim,label,source_ids,review
+"The SBA distinguishes sole proprietorships, partnerships, LLCs, corporations, and cooperatives and notes that structure affects taxes, liability, paperwork, and fundraising.",VERIFIED,"S94",point-of-claim
+"Registration requirements vary by structure, activity, and location; formal entity creation is not identical to beginning a creative practice.",VERIFIED,"S94; S95",point-of-claim
+"A creator can build methods, records, relationships, audience routes, and rights inventories before incorporation, but should not imply liability protection or legal status that does not exist.",INFERENCE,"S94; S95; S39",point-of-claim

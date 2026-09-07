@@ -77,7 +77,8 @@
       "relatedPackages": [
         "CN04",
         "CO06",
-        "CA03"
+        "CA03",
+        "B03"
       ]
     },
     {
@@ -101,7 +102,8 @@
       ],
       "relatedPackages": [
         "B01",
-        "B10"
+        "B10",
+        "B05"
       ]
     },
     {
@@ -173,7 +175,8 @@
       "relatedPackages": [
         "CO07",
         "CA01",
-        "CA06"
+        "CA06",
+        "B04"
       ]
     },
     {
@@ -219,7 +222,8 @@
         "responsive display sizing only"
       ],
       "relatedPackages": [
-        "CO04"
+        "CO04",
+        "B02"
       ]
     },
     {
