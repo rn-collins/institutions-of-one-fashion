@@ -1,0 +1,271 @@
+{
+  "version": "1.0.0",
+  "auditDate": "2026-09-07",
+  "count": 44,
+  "reports": [
+    {
+      "packageId": "B01",
+      "title": "When Does a Designer Become a House?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/b01.json"
+    },
+    {
+      "packageId": "B02",
+      "title": "How Does a Designer Develop Recognizable Codes?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/b02.json"
+    },
+    {
+      "packageId": "B03",
+      "title": "Can Taste Become Institutional Knowledge?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/b03.json"
+    },
+    {
+      "packageId": "B04",
+      "title": "When Does an Aesthetic Become a System?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/b04.json"
+    },
+    {
+      "packageId": "B05",
+      "title": "Can a Creator Build a House Before Building a Company?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/b05.json"
+    },
+    {
+      "packageId": "B06",
+      "title": "Collection One Is Not the Beginning",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/b06.json"
+    },
+    {
+      "packageId": "B07",
+      "title": "The Independent Designer’s Research Department",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/b07.json"
+    },
+    {
+      "packageId": "B08",
+      "title": "The Business Partner Beside the Name",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/b08.json"
+    },
+    {
+      "packageId": "B09",
+      "title": "Seven Seasons of Signal",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/b09.json"
+    },
+    {
+      "packageId": "B10",
+      "title": "A Personal Brand Is Not an Institution",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/b10.json"
+    },
+    {
+      "packageId": "CA01",
+      "title": "The Invisible Institution Behind One Collection",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/ca01.json"
+    },
+    {
+      "packageId": "CA02",
+      "title": "Archive as Design Employee",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/ca02.json"
+    },
+    {
+      "packageId": "CA03",
+      "title": "The Patternmaker Behind the Designer",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/ca03.json"
+    },
+    {
+      "packageId": "CA04",
+      "title": "Who Carries a Creative Vision Into Production?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/ca04.json"
+    },
+    {
+      "packageId": "CA05",
+      "title": "The Publicist as Institutional Infrastructure",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/ca05.json"
+    },
+    {
+      "packageId": "CA06",
+      "title": "How Stylists Manufacture Cultural Meaning",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/ca06.json"
+    },
+    {
+      "packageId": "CA07",
+      "title": "The Photographer Who Defines the House",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/ca07.json"
+    },
+    {
+      "packageId": "CA08",
+      "title": "What Fashion Owes Its Craftspeople",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/ca08.json"
+    },
+    {
+      "packageId": "CA09",
+      "title": "How a Fashion House Transfers Tacit Knowledge",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/ca09.json"
+    },
+    {
+      "packageId": "CA10",
+      "title": "The Myth of the Lone Fashion Genius",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/ca10.json"
+    },
+    {
+      "packageId": "CO01",
+      "title": "Your Name Is on the Label—Do You Own It?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/co01.json"
+    },
+    {
+      "packageId": "CO02",
+      "title": "Creative Control Is Not Economic Control",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/co02.json"
+    },
+    {
+      "packageId": "CO03",
+      "title": "Who Owns a Runway Image?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/co03.json"
+    },
+    {
+      "packageId": "CO04",
+      "title": "Who Owns the Archive?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/co04.json"
+    },
+    {
+      "packageId": "CO05",
+      "title": "Controlled Company, Controlled Story",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/co05.json"
+    },
+    {
+      "packageId": "CO06",
+      "title": "A Million Followers Is a Rented Institution",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/co06.json"
+    },
+    {
+      "packageId": "CO07",
+      "title": "The Institution Hidden Inside the Contract",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/co07.json"
+    },
+    {
+      "packageId": "CO08",
+      "title": "Can Taste Be Owned in the Age of Generative AI?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/co08.json"
+    },
+    {
+      "packageId": "CO09",
+      "title": "Proof of Making",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/co09.json"
+    },
+    {
+      "packageId": "CO10",
+      "title": "The Product Passport Becomes the House Record",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/co10.json"
+    },
+    {
+      "packageId": "CO11",
+      "title": "Sell the Company, Keep the Archive?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/co11.json"
+    },
+    {
+      "packageId": "CO12",
+      "title": "The Cost of Link-Only Culture",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/co12.json"
+    },
+    {
+      "packageId": "CN01",
+      "title": "What Happens to a House After the Founder?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/cn01.json"
+    },
+    {
+      "packageId": "CN02",
+      "title": "Who Is Allowed to Interpret a Dead Designer’s Codes?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/cn02.json"
+    },
+    {
+      "packageId": "CN03",
+      "title": "The Last Collection Is an Operational Event",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/cn03.json"
+    },
+    {
+      "packageId": "CN04",
+      "title": "The Personal Archive as Succession Infrastructure",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/cn04.json"
+    },
+    {
+      "packageId": "CN05",
+      "title": "Foundation, Museum, Company, or School?",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/cn05.json"
+    },
+    {
+      "packageId": "CN06",
+      "title": "Continue the Method, Not the Motif",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/cn06.json"
+    },
+    {
+      "packageId": "CN07",
+      "title": "The Oral History Is a Succession Document",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/cn07.json"
+    },
+    {
+      "packageId": "CN08",
+      "title": "A Garment Can Outlive Its File",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/cn08.json"
+    },
+    {
+      "packageId": "CN09",
+      "title": "Philanthropy as Continuation",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/cn09.json"
+    },
+    {
+      "packageId": "CN10",
+      "title": "The House After the House",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/cn10.json"
+    },
+    {
+      "packageId": "CN11",
+      "title": "Provenance Is Future Memory",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/cn11.json"
+    },
+    {
+      "packageId": "CN12",
+      "title": "The Institutional Will",
+      "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS",
+      "report": "/exhaustion/cn12.json"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "version": "1.0.0",
+  "auditDate": "2026-09-07",
+  "scope": "Finite documented search registry; not the entire internet.",
+  "rightsTaxonomy": [
+    {
+      "code": "PUBLIC_DOMAIN_CC0",
+      "treatment": "Store, display and offer the exact verified file for download."
+    },
+    {
+      "code": "OPEN_LICENSE_CONDITIONAL",
+      "treatment": "Store or embed only while preserving the license, attribution and modification conditions."
+    },
+    {
+      "code": "AUTHORIZED_EMBED",
+      "treatment": "Use the rights-holder or platform player; never extract or redistribute the media."
+    },
+    {
+      "code": "QUOTE_LINK",
+      "treatment": "Quote only the narrow passage required and link to the canonical record."
+    },
+    {
+      "code": "LINK_ONLY",
+      "treatment": "Describe and link; do not copy page media or protected expression."
+    },
+    {
+      "code": "PERMISSION_REQUIRED",
+      "treatment": "Hold from reproduction until written permission covers the exact use."
+    },
+    {
+      "code": "FAIR_USE_REVIEW",
+      "treatment": "Hold for fact-specific editorial and qualified-counsel review."
+    },
+    {
+      "code": "REJECTED",
+      "treatment": "Retain the discovery record and the reason; do not publish the asset."
+    }
+  ],
+  "sourceSurfaces": [
+    {
+      "id": "SF01",
+      "name": "The Metropolitan Museum of Art Open Access",
+      "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "kind": "museum objects and collection API",
+      "query": "package title; maker; garment type; archive; house; date",
+      "rightsGate": "Only object records whose image is marked Public Domain/CC0."
+    },
+    {
+      "id": "SF02",
+      "name": "Library of Congress Free to Use and Reuse: Fashion",
+      "url": "https://www.loc.gov/free-to-use/fashion/",
+      "kind": "photographs, prints, film and books",
+      "query": "package title; role; fashion; garment; pattern; archive",
+      "rightsGate": "Collection advisory plus exact item record; preserve creator and identifier."
+    },
+    {
+      "id": "SF03",
+      "name": "Smithsonian Open Access",
+      "url": "https://www.si.edu/openaccess",
+      "kind": "objects, archives, audio, video, datasets and IIIF",
+      "query": "package title; fashion; dress; designer; labor; archive; CC0",
+      "rightsGate": "Only exact digital assets carrying the CC0 designation; Usage Conditions Apply is not open."
+    },
+    {
+      "id": "SF04",
+      "name": "Victoria and Albert Museum Fashion",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "kind": "fashion collections, interpretation and video",
+      "query": "package title; designer; archive; craft; house; photography",
+      "rightsGate": "Link and cite unless the exact item supplies a reusable license."
+    },
+    {
+      "id": "SF05",
+      "name": "Museum at FIT and SPARC",
+      "url": "https://www.fitnyc.edu/academics/library/sparc/index.php",
+      "kind": "finding aids, oral histories, curricula and exhibitions",
+      "query": "package title; designer; patternmaker; stylist; publicist; oral history",
+      "rightsGate": "Finding-aid metadata may be cited; media stays link-only unless separately licensed."
+    },
+    {
+      "id": "SF06",
+      "name": "Europeana",
+      "url": "https://www.europeana.eu/en/collections/topic/55-fashion",
+      "kind": "aggregated European cultural heritage",
+      "query": "package title; fashion; designer; garment; atelier; archive",
+      "rightsGate": "The provider record and standardized item-level rights statement control."
+    },
+    {
+      "id": "SF07",
+      "name": "Internet Archive",
+      "url": "https://archive.org/",
+      "kind": "books, periodicals, film, audio and preserved sites",
+      "query": "package title; fashion house; patternmaking; garment industry; designer",
+      "rightsGate": "Availability is not permission; use only a clearly public-domain/open-license item."
+    },
+    {
+      "id": "SF08",
+      "name": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/",
+      "kind": "images, video, audio and structured categories",
+      "query": "package title; designer; fashion archive; garment; runway",
+      "rightsGate": "Verify the exact file page, creator, source and license; observe attribution/share-alike."
+    },
+    {
+      "id": "SF09",
+      "name": "WIPO Fashion and IP",
+      "url": "https://www.wipo.int/en/web/fashion",
+      "kind": "international IP education and records",
+      "query": "package title; fashion trademark; design; copyright; licensing",
+      "rightsGate": "Link and quote narrowly; educational material is not legal advice or a media license."
+    },
+    {
+      "id": "SF10",
+      "name": "USPTO trademark and examination records",
+      "url": "https://www.uspto.gov/trademarks/search",
+      "kind": "official U.S. trademark records and guidance",
+      "query": "named mark; owner; assignment; trade dress; status",
+      "rightsGate": "Public record evidence; screenshots and legal conclusions require separate review."
+    },
+    {
+      "id": "SF11",
+      "name": "U.S. Copyright Office",
+      "url": "https://www.copyright.gov/",
+      "kind": "statutes, circulars and registration guidance",
+      "query": "package title; photograph; useful article; work made for hire; transfer",
+      "rightsGate": "Quote narrowly and link; guidance does not decide a particular dispute."
+    },
+    {
+      "id": "SF12",
+      "name": "SEC EDGAR",
+      "url": "https://www.sec.gov/edgar/search/",
+      "kind": "public company filings, agreements and transactions",
+      "query": "designer; fashion company; employment; license; archive; control",
+      "rightsGate": "Quote narrowly from the exact filing and distinguish one agreement from industry practice."
+    },
+    {
+      "id": "SF13",
+      "name": "U.S. Department of Labor garment resources",
+      "url": "https://www.dol.gov/agencies/whd/industry-resources/garment",
+      "kind": "official labor compliance resources",
+      "query": "garment labor; supply chain; wages; worker; contractor",
+      "rightsGate": "Link and paraphrase; jurisdiction and worker status remain fact-specific."
+    },
+    {
+      "id": "SF14",
+      "name": "International Labour Organization",
+      "url": "https://www.ilo.org/",
+      "kind": "labor standards, research and project records",
+      "query": "garment work; supply chain; craft; gender; wage; purchasing practice",
+      "rightsGate": "Link and summarize with geography and method intact."
+    },
+    {
+      "id": "SF15",
+      "name": "UNESCO Digital Library",
+      "url": "https://unesdoc.unesco.org/",
+      "kind": "cultural heritage and traditional-knowledge resources",
+      "query": "textile; craft; fashion; traditional knowledge; safeguarding",
+      "rightsGate": "Link and summarize; community authority and item media require independent review."
+    },
+    {
+      "id": "SF16",
+      "name": "Official designer, house and corporate archives",
+      "url": null,
+      "kind": "first-party histories, archives, reports and media",
+      "query": "exact entity; archive; annual report; collection; oral history; terms",
+      "rightsGate": "First-party publication proves neither independence nor reuse permission; record exact URL."
+    },
+    {
+      "id": "SF17",
+      "name": "Official museum and university interactives",
+      "url": "https://labs.cooperhewitt.org/",
+      "kind": "collection APIs, educational interactives and open-source experiments",
+      "query": "fashion collection interactive; archive tool; color; timeline; metadata",
+      "rightsGate": "Link unless source code and license authorize reuse; review privacy and accessibility."
+    },
+    {
+      "id": "SF18",
+      "name": "Government statutes, courts and corporate registries",
+      "url": "https://uscode.house.gov/",
+      "kind": "primary legal and entity records",
+      "query": "exact jurisdiction; statute; company; case; asset; transaction",
+      "rightsGate": "Quote narrowly; jurisdiction, currency and case posture must be explicit."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "packageId": "CA01",
+  "title": "The Invisible Institution Behind One Collection",
+  "domain": "carry",
+  "auditDate": "2026-09-07",
+  "scope": "Exhaustive within the 18-surface registry and recorded queries; not a claim to every item on the internet.",
+  "query": "The Invisible Institution Behind One Collection | Which people, handoffs, records, contracts, and power relations make one collection possible?",
+  "surfaces": [
+    {
+      "surfaceId": "SF01",
+      "name": "The Metropolitan Museum of Art Open Access",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; package title; maker; garment type; archive; house; date",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Only object records whose image is marked Public Domain/CC0."
+    },
+    {
+      "surfaceId": "SF02",
+      "name": "Library of Congress Free to Use and Reuse: Fashion",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; package title; role; fashion; garment; pattern; archive",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Collection advisory plus exact item record; preserve creator and identifier."
+    },
+    {
+      "surfaceId": "SF03",
+      "name": "Smithsonian Open Access",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; package title; fashion; dress; designer; labor; archive; CC0",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Only exact digital assets carrying the CC0 designation; Usage Conditions Apply is not open."
+    },
+    {
+      "surfaceId": "SF04",
+      "name": "Victoria and Albert Museum Fashion",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; package title; designer; archive; craft; house; photography",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Link and cite unless the exact item supplies a reusable license."
+    },
+    {
+      "surfaceId": "SF05",
+      "name": "Museum at FIT and SPARC",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; package title; designer; patternmaker; stylist; publicist; oral history",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Finding-aid metadata may be cited; media stays link-only unless separately licensed."
+    },
+    {
+      "surfaceId": "SF06",
+      "name": "Europeana",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; package title; fashion; designer; garment; atelier; archive",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "The provider record and standardized item-level rights statement control."
+    },
+    {
+      "surfaceId": "SF07",
+      "name": "Internet Archive",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; package title; fashion house; patternmaking; garment industry; designer",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Availability is not permission; use only a clearly public-domain/open-license item."
+    },
+    {
+      "surfaceId": "SF08",
+      "name": "Wikimedia Commons",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; package title; designer; fashion archive; garment; runway",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Verify the exact file page, creator, source and license; observe attribution/share-alike."
+    },
+    {
+      "surfaceId": "SF09",
+      "name": "WIPO Fashion and IP",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; package title; fashion trademark; design; copyright; licensing",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Link and quote narrowly; educational material is not legal advice or a media license."
+    },
+    {
+      "surfaceId": "SF10",
+      "name": "USPTO trademark and examination records",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; named mark; owner; assignment; trade dress; status",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Public record evidence; screenshots and legal conclusions require separate review."
+    },
+    {
+      "surfaceId": "SF11",
+      "name": "U.S. Copyright Office",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; package title; photograph; useful article; work made for hire; transfer",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Quote narrowly and link; guidance does not decide a particular dispute."
+    },
+    {
+      "surfaceId": "SF12",
+      "name": "SEC EDGAR",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; designer; fashion company; employment; license; archive; control",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Quote narrowly from the exact filing and distinguish one agreement from industry practice."
+    },
+    {
+      "surfaceId": "SF13",
+      "name": "U.S. Department of Labor garment resources",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; garment labor; supply chain; wages; worker; contractor",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Link and paraphrase; jurisdiction and worker status remain fact-specific."
+    },
+    {
+      "surfaceId": "SF14",
+      "name": "International Labour Organization",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; garment work; supply chain; craft; gender; wage; purchasing practice",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Link and summarize with geography and method intact."
+    },
+    {
+      "surfaceId": "SF15",
+      "name": "UNESCO Digital Library",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; textile; craft; fashion; traditional knowledge; safeguarding",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Link and summarize; community authority and item media require independent review."
+    },
+    {
+      "surfaceId": "SF16",
+      "name": "Official designer, house and corporate archives",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; exact entity; archive; annual report; collection; oral history; terms",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "First-party publication proves neither independence nor reuse permission; record exact URL."
+    },
+    {
+      "surfaceId": "SF17",
+      "name": "Official museum and university interactives",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; fashion collection interactive; archive tool; color; timeline; metadata",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Link unless source code and license authorize reuse; review privacy and accessibility."
+    },
+    {
+      "surfaceId": "SF18",
+      "name": "Government statutes, courts and corporate registries",
+      "query": "The Invisible Institution Behind One Collection; Which people, handoffs, records, contracts, and power relations make one collection possible?; exact jurisdiction; statute; company; case; asset; transaction",
+      "status": "SEARCHED_AND_RECORDED",
+      "rightsGate": "Quote narrowly; jurisdiction, currency and case posture must be explicit."
+    }
+  ],
+  "candidateIds": [
+    "S53",
+    "S54",
+    "S72",
+    "S73",
+    "S76",
+    "S77",
+    "OBJ-loc-ppmsca-44953"
+  ],
+  "reusableIds": [
+    "OBJ-loc-ppmsca-44953"
+  ],
+  "resourceIds": [
+    "S53",
+    "S54",
+    "S72",
+    "S73",
+    "S76",
+    "S77"
+  ],
+  "exclusions": [
+    {
+      "reason": "No item-level reuse statement or direct-file provenance",
+      "treatment": "LINK_ONLY or omitted from reproduction; canonical discovery record retained when editorially useful."
+    },
+    {
+      "reason": "Duplicate, decorative or weaker than the selected material witness",
+      "treatment": "Not installed in the narrative; candidate remains in the collection ledger."
+    },
+    {
+      "reason": "Permission, fair-use, privacy, publicity, cultural-authority or contract question unresolved",
+      "treatment": "Not reproduced; held for human or qualified-counsel review."
+    }
+  ],
+  "stoppingRule": "Stopped after every registered surface and query was recorded, exact reusable candidates were installed or retained in the Media Library, useful restricted resources were retained as links, duplicate results converged, and another general search was unlikely to change the package evidence. New records reopen the report.",
+  "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS"
+}
