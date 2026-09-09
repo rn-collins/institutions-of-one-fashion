@@ -1,0 +1,27 @@
+name: Import verified I1 publication bundle
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/import-verified-bundle.yml"
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Import verified commits
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          curl -fL -o io1.bundle "https://github.com/rn-collins/institutions-of-one-fashion/releases/download/codex-import-io1-7d58d8f/io1-publication-7d58d8f.bundle"
+          git clone "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" imported
+          cd imported
+          test "$(git rev-parse origin/main)" = "e4b928300f7ec4977eecd837d44c5d22346ccae1" || {
+            echo "Production base changed; refusing import"
+            exit 1
+          }
+          git fetch ../io1.bundle HEAD:refs/heads/codex-io1-publication-7d58d8f
+          test "$(git rev-parse codex-io1-publication-7d58d8f)" = "7d58d8f11428f501b69811c43ddf010edd8905cb"
+          git push origin refs/heads/codex-io1-publication-7d58d8f
