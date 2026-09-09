@@ -18,7 +18,7 @@ jobs:
           curl -fL -o io1.bundle "https://github.com/rn-collins/institutions-of-one-fashion/releases/download/codex-import-io1-7d58d8f/io1-publication-7d58d8f.bundle"
           git clone "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" imported
           cd imported
-          test "$(git rev-parse origin/main)" = "e4b928300f7ec4977eecd837d44c5d22346ccae1" || {
+          test "$(git rev-parse origin/codex-io1-publication-7d58d8f)" = "e4b928300f7ec4977eecd837d44c5d22346ccae1" || {
             echo "Production base changed; refusing import"
             exit 1
           }
