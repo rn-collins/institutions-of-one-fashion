@@ -1,0 +1,932 @@
+{
+  "packageId": "CO08",
+  "title": "Can Taste Be Owned in the Age of Generative AI?",
+  "domain": "control",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "CO08-TITLE",
+      "role": "hook",
+      "caption": "Taste can be recognized, taught, imitated, and commercially valuable without becoming a single ownable legal object; generative AI makes the need to separate those categories urgent.",
+      "source": "/packages/co08",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "OBJ-83877",
+      "role": "material witness",
+      "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+      "source": "https://www.metmuseum.org/art/collection/search/83877",
+      "rights": "Public Domain / Met Open Access"
+    },
+    {
+      "assetId": "CO08-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · TASTE — What exactly is being claimed?. Separate a general sensibility from a named mark, protected work, registered design, confidential process, contractual promise, or misleading commercial representation. Precision prevents cultural grievance from being mistaken for a settled legal result.",
+      "source": "/packages/co08",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CO08-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · TRACE — What entered the process?. Keep a source log for references, licensed assets, model and tool versions, prompts, human selections, rejected outputs, edits, and final approvals. The record supports accountability without proving a legal conclusion on its own.",
+      "source": "/packages/co08",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CO08-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · TRANSFORM — Where is human judgment visible?. Describe the problem, constraints, alternatives, selection criteria, arrangement, revision, and final expressive choices. Avoid claiming that effort alone creates protection; the purpose is to preserve an accurate creative record.",
+      "source": "/packages/co08",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CO08-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · REVIEW — Which question needs counsel or permission?. Flag identifiable source works, living artists or houses named in prompts, confidential inputs, deceptive attribution, commercial marks, uncertain licenses, and jurisdiction-specific design questions for qualified review.",
+      "source": "/packages/co08",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S08",
+      "role": "counterpoint",
+      "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+      "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+    },
+    {
+      "assetId": "S28",
+      "role": "action",
+      "caption": "Intellectual Property in Fashion is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.wipo.int/en/web/fashion",
+      "rights": "Link and paraphrase with attribution; do not reuse third-party stock illustrations."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "Can Taste Be Owned in the Age of Generative AI?: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CO08-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co08",
+          "crop": "native 4:5; no crop",
+          "caption": "Taste can be recognized, taught, imitated, and commercially valuable without becoming a single ownable legal object; generative AI makes the need to separate those categories urgent.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Can Taste Be Owned in the Age of Generative AI?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-83877",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/83877",
+          "crop": "full object with generous field",
+          "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+          "credit": "Gift of Mary Tavener Holmes, 1983",
+          "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CO08-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · TASTE — What exactly is being claimed?. Separate a general sensibility from a named mark, protected work, registered design, confidential process, contractual promise, or misleading commercial representation. Precision prevents cultural grievance from being mistaken for a settled legal result.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what exactly is being claimed? within Can Taste Be Owned in the Age of Generative AI?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CO08-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · TRACE — What entered the process?. Keep a source log for references, licensed assets, model and tool versions, prompts, human selections, rejected outputs, edits, and final approvals. The record supports accountability without proving a legal conclusion on its own.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what entered the process? within Can Taste Be Owned in the Age of Generative AI?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CO08-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · TRANSFORM — Where is human judgment visible?. Describe the problem, constraints, alternatives, selection criteria, arrangement, revision, and final expressive choices. Avoid claiming that effort alone creates protection; the purpose is to preserve an accurate creative record.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping where is human judgment visible? within Can Taste Be Owned in the Age of Generative AI?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CO08-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · REVIEW — Which question needs counsel or permission?. Flag identifiable source works, living artists or houses named in prompts, confidential inputs, deceptive attribution, commercial marks, uncertain licenses, and jurisdiction-specific design questions for qualified review.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping which question needs counsel or permission? within Can Taste Be Owned in the Age of Generative AI?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S28",
+          "visualType": "canonical public record card",
+          "source": "https://www.wipo.int/en/web/fashion",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Intellectual Property in Fashion is retained as evidence, education, reporting or rights context.",
+          "credit": "World Intellectual Property Organization",
+          "alt": "Source card for Intellectual Property in Fashion, credited to World Intellectual Property Organization.",
+          "rights": "Link and paraphrase with attribution; do not reuse third-party stock illustrations.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "Can Taste Be Owned in the Age of Generative AI?: what the record changes",
+      "frames": [
+        {
+          "assetId": "CO08-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co08",
+          "crop": "native 4:5; no crop",
+          "caption": "Taste can be recognized, taught, imitated, and commercially valuable without becoming a single ownable legal object; generative AI makes the need to separate those categories urgent.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Can Taste Be Owned in the Age of Generative AI?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CO08-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · TRANSFORM — Where is human judgment visible?. Describe the problem, constraints, alternatives, selection criteria, arrangement, revision, and final expressive choices. Avoid claiming that effort alone creates protection; the purpose is to preserve an accurate creative record.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping where is human judgment visible? within Can Taste Be Owned in the Age of Generative AI?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CO08-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · REVIEW — Which question needs counsel or permission?. Flag identifiable source works, living artists or houses named in prompts, confidential inputs, deceptive attribution, commercial marks, uncertain licenses, and jurisdiction-specific design questions for qualified review.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping which question needs counsel or permission? within Can Taste Be Owned in the Age of Generative AI?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S28",
+          "visualType": "canonical public record card",
+          "source": "https://www.wipo.int/en/web/fashion",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Intellectual Property in Fashion is retained as evidence, education, reporting or rights context.",
+          "credit": "World Intellectual Property Organization",
+          "alt": "Source card for Intellectual Property in Fashion, credited to World Intellectual Property Organization.",
+          "rights": "Link and paraphrase with attribution; do not reuse third-party stock illustrations.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CO08-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/co08#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Documentation can become performative transparency, and legal categories cannot resolve every ethical question about extraction, cultural authority, labor, or consent. A responsible process needs both legal review and editorial judgment.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for Can Taste Be Owned in the Age of Generative AI?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CO08-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#co08-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Separate facts, influences, protected assets, and interpretations.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for Can Taste Be Owned in the Age of Generative AI?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-83877",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/83877",
+          "crop": "full object with generous field",
+          "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+          "credit": "Gift of Mary Tavener Holmes, 1983",
+          "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-83877",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+        "credit": "Gift of Mary Tavener Holmes, 1983",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CO08-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · TASTE — What exactly is being claimed?. Separate a general sensibility from a named mark, protected work, registered design, confidential process, contractual promise, or misleading commercial representation. Precision prevents cultural grievance from being mistaken for a settled legal result.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CO08-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · TRACE — What entered the process?. Keep a source log for references, licensed assets, model and tool versions, prompts, human selections, rejected outputs, edits, and final approvals. The record supports accountability without proving a legal conclusion on its own.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CO08-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · TRANSFORM — Where is human judgment visible?. Describe the problem, constraints, alternatives, selection criteria, arrangement, revision, and final expressive choices. Avoid claiming that effort alone creates protection; the purpose is to preserve an accurate creative record.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CO08-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · REVIEW — Which question needs counsel or permission?. Flag identifiable source works, living artists or houses named in prompts, confidential inputs, deceptive attribution, commercial marks, uncertain licenses, and jurisdiction-specific design questions for qualified review.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S08",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ],
+    "endCard": "Open CO08 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CO08-TITLE",
+        "title": "Can Taste Be Owned in the Age of Generative AI?",
+        "description": "Taste can be recognized, taught, imitated, and commercially valuable without becoming a single ownable legal object; generative AI makes the need to separate those categories urgent.",
+        "destination": "/packages/co08",
+        "alt": "Title plate for Can Taste Be Owned in the Age of Generative AI?.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-83877",
+        "title": "What entered the process?",
+        "description": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+        "destination": "/packages/co08",
+        "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+        "credit": "Gift of Mary Tavener Holmes, 1983",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "assetId": "S08",
+        "title": "The control record",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/co08",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      },
+      {
+        "assetId": "S08",
+        "title": "A field tool for Can Taste Be Owned in the Age of Generative AI?",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/co08",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CO08-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co08",
+          "crop": "native 4:5; no crop",
+          "caption": "Taste can be recognized, taught, imitated, and commercially valuable without becoming a single ownable legal object; generative AI makes the need to separate those categories urgent.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Can Taste Be Owned in the Age of Generative AI?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-83877",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/83877",
+          "crop": "full object with generous field",
+          "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+          "credit": "Gift of Mary Tavener Holmes, 1983",
+          "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CO08-DIAGRAM-1",
+          "CO08-DIAGRAM-2",
+          "CO08-DIAGRAM-3",
+          "CO08-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CO08-FIELD-10",
+          "OBJ-83877"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "OBJ-83877",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.metmuseum.org/art/collection/search/83877",
+      "crop": "full object with generous field",
+      "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+      "credit": "Gift of Mary Tavener Holmes, 1983",
+      "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+      "rights": "Public Domain / Met Open Access",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "CO08-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/co08",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · TASTE — What exactly is being claimed?. Separate a general sensibility from a named mark, protected work, registered design, confidential process, contractual promise, or misleading commercial representation. Precision prevents cultural grievance from being mistaken for a settled legal result.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what exactly is being claimed? within Can Taste Be Owned in the Age of Generative AI?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "CO08-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/co08",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · TRACE — What entered the process?. Keep a source log for references, licensed assets, model and tool versions, prompts, human selections, rejected outputs, edits, and final approvals. The record supports accountability without proving a legal conclusion on its own.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what entered the process? within Can Taste Be Owned in the Age of Generative AI?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "CO08-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/co08",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · TRANSFORM — Where is human judgment visible?. Describe the problem, constraints, alternatives, selection criteria, arrangement, revision, and final expressive choices. Avoid claiming that effort alone creates protection; the purpose is to preserve an accurate creative record.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping where is human judgment visible? within Can Taste Be Owned in the Age of Generative AI?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "CO08-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/co08",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · REVIEW — Which question needs counsel or permission?. Flag identifiable source works, living artists or houses named in prompts, confidential inputs, deceptive attribution, commercial marks, uncertain licenses, and jurisdiction-specific design questions for qualified review.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping which question needs counsel or permission? within Can Taste Be Owned in the Age of Generative AI?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S08",
+        "title": "Personal Digital Archiving",
+        "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S28",
+        "title": "Intellectual Property in Fashion",
+        "url": "https://www.wipo.int/en/web/fashion",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S29",
+        "title": "WIPO IP Diagnostics for the Fashion Industry",
+        "url": "https://www.wipo.int/en/web/business/w/news/2026/wipo-launches-new-ip-diagnostics-tool-for-the-fashion-industry",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S30",
+        "title": "How to Protect Designs?",
+        "url": "https://www.wipo.int/en/web/designs/protection",
+        "disposition": "LINK_ONLY"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "CO08-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/co08",
+        "crop": "native 4:5; no crop",
+        "caption": "Taste can be recognized, taught, imitated, and commercially valuable without becoming a single ownable legal object; generative AI makes the need to separate those categories urgent.",
+        "credit": "RN Collins",
+        "alt": "Title plate for Can Taste Be Owned in the Age of Generative AI?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "CO08-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/co08",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · TRANSFORM — Where is human judgment visible?. Describe the problem, constraints, alternatives, selection criteria, arrangement, revision, and final expressive choices. Avoid claiming that effort alone creates protection; the purpose is to preserve an accurate creative record.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping where is human judgment visible? within Can Taste Be Owned in the Age of Generative AI?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "CO08-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/co08",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · REVIEW — Which question needs counsel or permission?. Flag identifiable source works, living artists or houses named in prompts, confidential inputs, deceptive attribution, commercial marks, uncertain licenses, and jurisdiction-specific design questions for qualified review.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping which question needs counsel or permission? within Can Taste Be Owned in the Age of Generative AI?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S08",
+        "visualType": "canonical public record card",
+        "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S28",
+        "visualType": "canonical public record card",
+        "source": "https://www.wipo.int/en/web/fashion",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Intellectual Property in Fashion is retained as evidence, education, reporting or rights context.",
+        "credit": "World Intellectual Property Organization",
+        "alt": "Source card for Intellectual Property in Fashion, credited to World Intellectual Property Organization.",
+        "rights": "Link and paraphrase with attribution; do not reuse third-party stock illustrations.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "CO08-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/co08#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "Documentation can become performative transparency, and legal categories cannot resolve every ethical question about extraction, cultural authority, labor, or consent. A responsible process needs both legal review and editorial judgment.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for Can Taste Be Owned in the Age of Generative AI?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "CO08-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#co08-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "Separate facts, influences, protected assets, and interpretations.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for Can Taste Be Owned in the Age of Generative AI?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "OBJ-83877",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.metmuseum.org/art/collection/search/83877",
+        "crop": "full object with generous field",
+        "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+        "credit": "Gift of Mary Tavener Holmes, 1983",
+        "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+        "rights": "Public Domain / Met Open Access",
+        "disposition": "PUBLIC_DOMAIN_CC0",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "CO08-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/co08",
+      "crop": "native 4:5; no crop",
+      "caption": "Taste can be recognized, taught, imitated, and commercially valuable without becoming a single ownable legal object; generative AI makes the need to separate those categories urgent.",
+      "credit": "RN Collins",
+      "alt": "Title plate for Can Taste Be Owned in the Age of Generative AI?.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for Can Taste Be Owned in the Age of Generative AI?. Diagram mapping where is human judgment visible? within Can Taste Be Owned in the Age of Generative AI?. Diagram mapping which question needs counsel or permission? within Can Taste Be Owned in the Age of Generative AI?. Source card for Personal Digital Archiving, credited to Library of Congress. Source card for Intellectual Property in Fashion, credited to World Intellectual Property Organization. Counterpoint card for Can Taste Be Owned in the Age of Generative AI?. Fieldwork prompt for Can Taste Be Owned in the Age of Generative AI?. Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection."
+  },
+  "interactive": {
+    "url": "/tools#co08-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Define the element you are calling taste.",
+        "evidenceAsset": "CO08-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "Separate facts, influences, protected assets, and interpretations.",
+        "evidenceAsset": "CO08-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "Record inputs, permissions, human decisions, and transformations.",
+        "evidenceAsset": "CO08-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Send unresolved rights or attribution questions to qualified counsel.",
+        "evidenceAsset": "CO08-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S08",
+      "title": "Personal Digital Archiving",
+      "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S28",
+      "title": "Intellectual Property in Fashion",
+      "url": "https://www.wipo.int/en/web/fashion",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S29",
+      "title": "WIPO IP Diagnostics for the Fashion Industry",
+      "url": "https://www.wipo.int/en/web/business/w/news/2026/wipo-launches-new-ip-diagnostics-tool-for-the-fashion-industry",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S30",
+      "title": "How to Protect Designs?",
+      "url": "https://www.wipo.int/en/web/designs/protection",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S31",
+      "title": "Industrial Designs",
+      "url": "https://www.wipo.int/en/web/designs/",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S39",
+      "title": "Universal Electronic Records Management Requirements, Version 3",
+      "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X21",
+      "title": "Knock It Off: A History of Design Piracy in the U.S. Women’s Ready-to-Wear Apparel Industry",
+      "url": "https://www.si.edu/object/knock-it-history-design-piracy-us-womens-ready-wear-apparel-industry-sara-b-marcketti-and-jean-l%3Asiris_sil_1060315",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X32",
+      "title": "Copyright and the Fashion Design Industry",
+      "url": "https://www.copyright.gov/docs/regstat072706.html",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X56",
+      "title": "Christian Louboutin v. Yves Saint Laurent",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/11-3303/11-3303-2013-03-08.html",
+      "disposition": "QUOTE_LINK",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "OBJ-83877",
+      "title": "Dress",
+      "url": "https://images.metmuseum.org/CRDImages/ci/web-large/DT7538.jpg",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/83877",
+      "credit": "Gift of Mary Tavener Holmes, 1983",
+      "rights": "Public Domain / Met Open Access"
+    },
+    {
+      "assetId": "OBJ-107061",
+      "title": "Bridesmaid dress",
+      "url": "https://images.metmuseum.org/CRDImages/ci/web-large/C.I.41.14.2_F.jpg",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/107061",
+      "credit": "Gift of Miss Agnes Miles Carpenter, 1941",
+      "rights": "Public Domain / Met Open Access"
+    },
+    {
+      "assetId": "X13",
+      "title": "Bridesmaid dress",
+      "url": null,
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/107061",
+      "credit": "The Metropolitan Museum of Art",
+      "rights": "Public Domain under Met Open Access; exact image installed separately."
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S08",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S28",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S29",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S30",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S31",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S39",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-83877",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-107061",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X13",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X21",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X32",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X56",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}

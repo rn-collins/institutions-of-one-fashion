@@ -1,0 +1,930 @@
+{
+  "packageId": "B05",
+  "title": "Can a Creator Build a House Before Building a Company?",
+  "domain": "build",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "B05-TITLE",
+      "role": "hook",
+      "caption": "A creator can build institutional capacity before forming a company—method, evidence, relationships, audience routes, promises, and an archive—but should never confuse that capacity with legal personality, liability protection, tax status, or governance.",
+      "source": "/packages/b05",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "OBJ-81112",
+      "role": "material witness",
+      "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+      "source": "https://www.metmuseum.org/art/collection/search/81112",
+      "rights": "Public Domain / Met Open Access"
+    },
+    {
+      "assetId": "B05-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · PRACTICE — What already repeats?. Document the offer, client or audience promise, research method, design sequence, collaborator roles, quality threshold, payment path, correction route, and archive habit. Repetition reveals the institution already operating around the person.",
+      "source": "/packages/b05",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "B05-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · RECORD — Can the practice prove what happened?. Use written scopes, invoices, contributor credits, versioned files, rights and permissions records, contact consent, expense evidence, tax records, and object identifiers appropriate to the actual jurisdiction and activity.",
+      "source": "/packages/b05",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "B05-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · SEPARATE — Which formal questions cannot be solved by good habits?. Entity formation, liability, tax treatment, employment, insurance, securities, licenses, registrations, beneficial ownership, contracting authority, and cross-border activity require fact-specific professional review. A beautiful archive does not create a liability shield.",
+      "source": "/packages/b05",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "B05-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · TRANSITION — What should move when structure arrives?. Inventory names, domains, accounts, agreements, equipment, files, marks, designs, licenses, debts, receivables, privacy obligations, and archive custody. Counsel and advisers must determine what can be assigned, licensed, contributed, retained, or newly contracted.",
+      "source": "/packages/b05",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S39",
+      "role": "counterpoint",
+      "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "rights": "Government resource; link/download for education and do not imply endorsement."
+    },
+    {
+      "assetId": "S49",
+      "role": "action",
+      "caption": "15 U.S.C. § 1060 — Assignment is retained as evidence, education, reporting or rights context.",
+      "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim",
+      "rights": "U.S. statutory text; quote narrowly and link to the official current source."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "Can a Creator Build a House Before Building a Company?: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "B05-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b05",
+          "crop": "native 4:5; no crop",
+          "caption": "A creator can build institutional capacity before forming a company—method, evidence, relationships, audience routes, promises, and an archive—but should never confuse that capacity with legal personality, liability protection, tax status, or governance.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Can a Creator Build a House Before Building a Company?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-81112",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/81112",
+          "crop": "full object with generous field",
+          "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+          "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+          "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "B05-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · PRACTICE — What already repeats?. Document the offer, client or audience promise, research method, design sequence, collaborator roles, quality threshold, payment path, correction route, and archive habit. Repetition reveals the institution already operating around the person.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what already repeats? within Can a Creator Build a House Before Building a Company?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "B05-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · RECORD — Can the practice prove what happened?. Use written scopes, invoices, contributor credits, versioned files, rights and permissions records, contact consent, expense evidence, tax records, and object identifiers appropriate to the actual jurisdiction and activity.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can the practice prove what happened? within Can a Creator Build a House Before Building a Company?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "B05-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · SEPARATE — Which formal questions cannot be solved by good habits?. Entity formation, liability, tax treatment, employment, insurance, securities, licenses, registrations, beneficial ownership, contracting authority, and cross-border activity require fact-specific professional review. A beautiful archive does not create a liability shield.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping which formal questions cannot be solved by good habits? within Can a Creator Build a House Before Building a Company?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "B05-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · TRANSITION — What should move when structure arrives?. Inventory names, domains, accounts, agreements, equipment, files, marks, designs, licenses, debts, receivables, privacy obligations, and archive custody. Counsel and advisers must determine what can be assigned, licensed, contributed, retained, or newly contracted.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what should move when structure arrives? within Can a Creator Build a House Before Building a Company?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S49",
+          "visualType": "canonical public record card",
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "15 U.S.C. § 1060 — Assignment is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. House Office of the Law Revision Counsel",
+          "alt": "Source card for 15 U.S.C. § 1060 — Assignment, credited to U.S. House Office of the Law Revision Counsel.",
+          "rights": "U.S. statutory text; quote narrowly and link to the official current source.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "Can a Creator Build a House Before Building a Company?: what the record changes",
+      "frames": [
+        {
+          "assetId": "B05-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b05",
+          "crop": "native 4:5; no crop",
+          "caption": "A creator can build institutional capacity before forming a company—method, evidence, relationships, audience routes, promises, and an archive—but should never confuse that capacity with legal personality, liability protection, tax status, or governance.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Can a Creator Build a House Before Building a Company?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "B05-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · SEPARATE — Which formal questions cannot be solved by good habits?. Entity formation, liability, tax treatment, employment, insurance, securities, licenses, registrations, beneficial ownership, contracting authority, and cross-border activity require fact-specific professional review. A beautiful archive does not create a liability shield.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping which formal questions cannot be solved by good habits? within Can a Creator Build a House Before Building a Company?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "B05-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · TRANSITION — What should move when structure arrives?. Inventory names, domains, accounts, agreements, equipment, files, marks, designs, licenses, debts, receivables, privacy obligations, and archive custody. Counsel and advisers must determine what can be assigned, licensed, contributed, retained, or newly contracted.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what should move when structure arrives? within Can a Creator Build a House Before Building a Company?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S49",
+          "visualType": "canonical public record card",
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "15 U.S.C. § 1060 — Assignment is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. House Office of the Law Revision Counsel",
+          "alt": "Source card for 15 U.S.C. § 1060 — Assignment, credited to U.S. House Office of the Law Revision Counsel.",
+          "rights": "U.S. statutory text; quote narrowly and link to the official current source.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "B05-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/b05#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Celebrating “institution before company” can romanticize informal work, delay protections, conceal unpaid labor, or expose the creator and collaborators to avoidable risk. The point is not to postpone advice. It is to arrive with a legible practice map—and to formalize when the facts, jurisdiction, liability, tax, labor, funding, and continuity needs require it.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for Can a Creator Build a House Before Building a Company?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "B05-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#b05-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Mark the person or entity currently named on each agreement, invoice, domain, account, registration, and insurance record.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for Can a Creator Build a House Before Building a Company?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-81112",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/81112",
+          "crop": "full object with generous field",
+          "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+          "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+          "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-81112",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+        "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "B05-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · PRACTICE — What already repeats?. Document the offer, client or audience promise, research method, design sequence, collaborator roles, quality threshold, payment path, correction route, and archive habit. Repetition reveals the institution already operating around the person.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "B05-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · RECORD — Can the practice prove what happened?. Use written scopes, invoices, contributor credits, versioned files, rights and permissions records, contact consent, expense evidence, tax records, and object identifiers appropriate to the actual jurisdiction and activity.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "B05-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · SEPARATE — Which formal questions cannot be solved by good habits?. Entity formation, liability, tax treatment, employment, insurance, securities, licenses, registrations, beneficial ownership, contracting authority, and cross-border activity require fact-specific professional review. A beautiful archive does not create a liability shield.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "B05-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · TRANSITION — What should move when structure arrives?. Inventory names, domains, accounts, agreements, equipment, files, marks, designs, licenses, debts, receivables, privacy obligations, and archive custody. Counsel and advisers must determine what can be assigned, licensed, contributed, retained, or newly contracted.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S39",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. National Archives and Records Administration",
+        "rights": "Government resource; link/download for education and do not imply endorsement."
+      }
+    ],
+    "endCard": "Open B05 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "B05-TITLE",
+        "title": "Can a Creator Build a House Before Building a Company?",
+        "description": "A creator can build institutional capacity before forming a company—method, evidence, relationships, audience routes, promises, and an archive—but should never confuse that capacity with legal personality, liability protection, tax status, or governance.",
+        "destination": "/packages/b05",
+        "alt": "Title plate for Can a Creator Build a House Before Building a Company?.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-81112",
+        "title": "Can the practice prove what happened?",
+        "description": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+        "destination": "/packages/b05",
+        "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+        "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "assetId": "S39",
+        "title": "The build record",
+        "description": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/b05",
+        "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+        "credit": "U.S. National Archives and Records Administration",
+        "rights": "Government resource; link/download for education and do not imply endorsement."
+      },
+      {
+        "assetId": "S39",
+        "title": "A field tool for Can a Creator Build a House Before Building a Company?",
+        "description": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/b05",
+        "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+        "credit": "U.S. National Archives and Records Administration",
+        "rights": "Government resource; link/download for education and do not imply endorsement."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "B05-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b05",
+          "crop": "native 4:5; no crop",
+          "caption": "A creator can build institutional capacity before forming a company—method, evidence, relationships, audience routes, promises, and an archive—but should never confuse that capacity with legal personality, liability protection, tax status, or governance.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Can a Creator Build a House Before Building a Company?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-81112",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/81112",
+          "crop": "full object with generous field",
+          "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+          "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+          "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "B05-DIAGRAM-1",
+          "B05-DIAGRAM-2",
+          "B05-DIAGRAM-3",
+          "B05-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "B05-FIELD-10",
+          "OBJ-81112"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "OBJ-81112",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.metmuseum.org/art/collection/search/81112",
+      "crop": "full object with generous field",
+      "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+      "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+      "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+      "rights": "Public Domain / Met Open Access",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "B05-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b05",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · PRACTICE — What already repeats?. Document the offer, client or audience promise, research method, design sequence, collaborator roles, quality threshold, payment path, correction route, and archive habit. Repetition reveals the institution already operating around the person.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what already repeats? within Can a Creator Build a House Before Building a Company?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "B05-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b05",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · RECORD — Can the practice prove what happened?. Use written scopes, invoices, contributor credits, versioned files, rights and permissions records, contact consent, expense evidence, tax records, and object identifiers appropriate to the actual jurisdiction and activity.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can the practice prove what happened? within Can a Creator Build a House Before Building a Company?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "B05-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b05",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · SEPARATE — Which formal questions cannot be solved by good habits?. Entity formation, liability, tax treatment, employment, insurance, securities, licenses, registrations, beneficial ownership, contracting authority, and cross-border activity require fact-specific professional review. A beautiful archive does not create a liability shield.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping which formal questions cannot be solved by good habits? within Can a Creator Build a House Before Building a Company?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "B05-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b05",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · TRANSITION — What should move when structure arrives?. Inventory names, domains, accounts, agreements, equipment, files, marks, designs, licenses, debts, receivables, privacy obligations, and archive custody. Counsel and advisers must determine what can be assigned, licensed, contributed, retained, or newly contracted.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what should move when structure arrives? within Can a Creator Build a House Before Building a Company?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S39",
+        "title": "Universal Electronic Records Management Requirements, Version 3",
+        "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S49",
+        "title": "15 U.S.C. § 1060 — Assignment",
+        "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim",
+        "disposition": "QUOTE_LINK"
+      },
+      {
+        "assetId": "S94",
+        "title": "Choose a business structure",
+        "url": "https://www.sba.gov/business-guide/launch-your-business/choose-business-structure",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S95",
+        "title": "Register your business",
+        "url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business",
+        "disposition": "LINK_ONLY"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "B05-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/b05",
+        "crop": "native 4:5; no crop",
+        "caption": "A creator can build institutional capacity before forming a company—method, evidence, relationships, audience routes, promises, and an archive—but should never confuse that capacity with legal personality, liability protection, tax status, or governance.",
+        "credit": "RN Collins",
+        "alt": "Title plate for Can a Creator Build a House Before Building a Company?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "B05-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b05",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · SEPARATE — Which formal questions cannot be solved by good habits?. Entity formation, liability, tax treatment, employment, insurance, securities, licenses, registrations, beneficial ownership, contracting authority, and cross-border activity require fact-specific professional review. A beautiful archive does not create a liability shield.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping which formal questions cannot be solved by good habits? within Can a Creator Build a House Before Building a Company?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "B05-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b05",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · TRANSITION — What should move when structure arrives?. Inventory names, domains, accounts, agreements, equipment, files, marks, designs, licenses, debts, receivables, privacy obligations, and archive custody. Counsel and advisers must determine what can be assigned, licensed, contributed, retained, or newly contracted.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what should move when structure arrives? within Can a Creator Build a House Before Building a Company?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S39",
+        "visualType": "canonical public record card",
+        "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. National Archives and Records Administration",
+        "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+        "rights": "Government resource; link/download for education and do not imply endorsement.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S49",
+        "visualType": "canonical public record card",
+        "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "15 U.S.C. § 1060 — Assignment is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. House Office of the Law Revision Counsel",
+        "alt": "Source card for 15 U.S.C. § 1060 — Assignment, credited to U.S. House Office of the Law Revision Counsel.",
+        "rights": "U.S. statutory text; quote narrowly and link to the official current source.",
+        "disposition": "QUOTE_LINK",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "B05-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/b05#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "Celebrating “institution before company” can romanticize informal work, delay protections, conceal unpaid labor, or expose the creator and collaborators to avoidable risk. The point is not to postpone advice. It is to arrive with a legible practice map—and to formalize when the facts, jurisdiction, liability, tax, labor, funding, and continuity needs require it.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for Can a Creator Build a House Before Building a Company?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "B05-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#b05-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "Mark the person or entity currently named on each agreement, invoice, domain, account, registration, and insurance record.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for Can a Creator Build a House Before Building a Company?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "OBJ-81112",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.metmuseum.org/art/collection/search/81112",
+        "crop": "full object with generous field",
+        "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+        "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+        "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+        "rights": "Public Domain / Met Open Access",
+        "disposition": "PUBLIC_DOMAIN_CC0",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "B05-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/b05",
+      "crop": "native 4:5; no crop",
+      "caption": "A creator can build institutional capacity before forming a company—method, evidence, relationships, audience routes, promises, and an archive—but should never confuse that capacity with legal personality, liability protection, tax status, or governance.",
+      "credit": "RN Collins",
+      "alt": "Title plate for Can a Creator Build a House Before Building a Company?.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for Can a Creator Build a House Before Building a Company?. Diagram mapping which formal questions cannot be solved by good habits? within Can a Creator Build a House Before Building a Company?. Diagram mapping what should move when structure arrives? within Can a Creator Build a House Before Building a Company?. Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration. Source card for 15 U.S.C. § 1060 — Assignment, credited to U.S. House Office of the Law Revision Counsel. Counterpoint card for Can a Creator Build a House Before Building a Company?. Fieldwork prompt for Can a Creator Build a House Before Building a Company?. Elaborately trimmed silk ball gown by the House of Worth, dated around 1872."
+  },
+  "interactive": {
+    "url": "/tools#b05-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Map every recurring promise, role, payment, file, account, right, obligation, and correction route already in use.",
+        "evidenceAsset": "B05-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "Mark the person or entity currently named on each agreement, invoice, domain, account, registration, and insurance record.",
+        "evidenceAsset": "B05-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "List every place where collaborators, customers, money, manufacturing, data, travel, or liability create a professional-review trigger.",
+        "evidenceAsset": "B05-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Take the transition inventory to qualified legal, tax, insurance, employment, and financial advisers in the relevant jurisdictions.",
+        "evidenceAsset": "B05-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S39",
+      "title": "Universal Electronic Records Management Requirements, Version 3",
+      "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S49",
+      "title": "15 U.S.C. § 1060 — Assignment",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1060&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S94",
+      "title": "Choose a business structure",
+      "url": "https://www.sba.gov/business-guide/launch-your-business/choose-business-structure",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S95",
+      "title": "Register your business",
+      "url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X15",
+      "title": "Vestments and how to make them",
+      "url": "https://www.loc.gov/resource/gdcmassbookdig.vestmentshowtoma00west/?st=gallery",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X17",
+      "title": "A system for cutting ladies garments",
+      "url": "https://www.loc.gov/resource/gdcmassbookdig.systemforcutting00leak/?st=pdf",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X43",
+      "title": "Dressmaking",
+      "url": "https://archive.org/details/dressmaking00fale",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X44",
+      "title": "Pattern making",
+      "url": "https://archive.org/details/patternmaking00hanngoog",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X46",
+      "title": "Drafting trousers for men, boys, women",
+      "url": "https://archive.org/details/simonsdraftingtrousers1945",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X47",
+      "title": "The Keystone jacket and dress cutter",
+      "url": "https://archive.org/details/keystonejacketdr00heck",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X50",
+      "title": "Sew your own: kimono-inspired dress",
+      "url": "https://www.vam.ac.uk/articles/sew-your-own-kimono-inspired-dress",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "OBJ-81112",
+      "title": "Ball gown",
+      "url": "https://images.metmuseum.org/CRDImages/ci/web-large/DT426.jpg",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/81112",
+      "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+      "rights": "Public Domain / Met Open Access"
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S39",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S49",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S94",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S95",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-81112",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X15",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X17",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X43",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X44",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X46",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X47",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X50",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}

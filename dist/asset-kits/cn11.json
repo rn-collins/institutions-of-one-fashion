@@ -1,0 +1,1013 @@
+{
+  "packageId": "CN11",
+  "title": "Provenance Is Future Memory",
+  "domain": "continue",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "CN11-TITLE",
+      "role": "hook",
+      "caption": "Provenance is future memory when it preserves a transparent chain of identity, custody, intervention, attribution, evidence, uncertainty, and rights—not merely a prestigious prior owner.",
+      "source": "/packages/cn11",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "S05",
+      "role": "material witness",
+      "caption": "Dress is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.metmuseum.org/art/collection/search/106420",
+      "rights": "Object record marks the image Public Domain; retain full credit and identifier."
+    },
+    {
+      "assetId": "CN11-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · IDENTITY — Is this the same object?. Record stable identifier, components, marks, labels, measurements, materials, images, condition, alterations, and comparison basis; note uncertainty and separated parts.",
+      "source": "/packages/cn11",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN11-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · CHAIN — Can each custody event be evidenced?. Attach acquisition, gift, inheritance, loan, sale, deposit, return, location, responsible party, document, date, and restriction without inventing missing links.",
+      "source": "/packages/cn11",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN11-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · INTERVENE — What changed the object or record?. Log repair, conservation, cleaning, alteration, reframing, digitization, renaming, reattribution, exhibition, reproduction, and metadata correction.",
+      "source": "/packages/cn11",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN11-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · CLAIM — How confident is the story?. Label verified fact, physical observation, attributed conclusion, participant account, inference, disputed statement, and unresolved gap; retain earlier versions and correction history.",
+      "source": "/packages/cn11",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S15",
+      "role": "counterpoint",
+      "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+      "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+      "rights": "Finding-aid metadata may be cited; media is governed item by item."
+    },
+    {
+      "assetId": "S39",
+      "role": "action",
+      "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "rights": "Government resource; link/download for education and do not imply endorsement."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "Provenance Is Future Memory: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CN11-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn11",
+          "crop": "native 4:5; no crop",
+          "caption": "Provenance is future memory when it preserves a transparent chain of identity, custody, intervention, attribution, evidence, uncertainty, and rights—not merely a prestigious prior owner.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Provenance Is Future Memory.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "S05",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/106420",
+          "crop": "full object with generous field",
+          "caption": "Dress is retained as evidence, education, reporting or rights context.",
+          "credit": "The Metropolitan Museum of Art",
+          "alt": "Source card for Dress, credited to The Metropolitan Museum of Art.",
+          "rights": "Object record marks the image Public Domain; retain full credit and identifier.",
+          "disposition": "REUSE",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CN11-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn11",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · IDENTITY — Is this the same object?. Record stable identifier, components, marks, labels, measurements, materials, images, condition, alterations, and comparison basis; note uncertainty and separated parts.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping is this the same object? within Provenance Is Future Memory.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CN11-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn11",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · CHAIN — Can each custody event be evidenced?. Attach acquisition, gift, inheritance, loan, sale, deposit, return, location, responsible party, document, date, and restriction without inventing missing links.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can each custody event be evidenced? within Provenance Is Future Memory.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CN11-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn11",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · INTERVENE — What changed the object or record?. Log repair, conservation, cleaning, alteration, reframing, digitization, renaming, reattribution, exhibition, reproduction, and metadata correction.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what changed the object or record? within Provenance Is Future Memory.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CN11-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn11",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CLAIM — How confident is the story?. Label verified fact, physical observation, attributed conclusion, participant account, inference, disputed statement, and unresolved gap; retain earlier versions and correction history.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping how confident is the story? within Provenance Is Future Memory.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S15",
+          "visualType": "canonical public record card",
+          "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Gladys Marcus Library",
+          "alt": "Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library.",
+          "rights": "Finding-aid metadata may be cited; media is governed item by item.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "Provenance Is Future Memory: what the record changes",
+      "frames": [
+        {
+          "assetId": "CN11-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn11",
+          "crop": "native 4:5; no crop",
+          "caption": "Provenance is future memory when it preserves a transparent chain of identity, custody, intervention, attribution, evidence, uncertainty, and rights—not merely a prestigious prior owner.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Provenance Is Future Memory.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CN11-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn11",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · INTERVENE — What changed the object or record?. Log repair, conservation, cleaning, alteration, reframing, digitization, renaming, reattribution, exhibition, reproduction, and metadata correction.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what changed the object or record? within Provenance Is Future Memory.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CN11-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn11",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CLAIM — How confident is the story?. Label verified fact, physical observation, attributed conclusion, participant account, inference, disputed statement, and unresolved gap; retain earlier versions and correction history.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping how confident is the story? within Provenance Is Future Memory.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S15",
+          "visualType": "canonical public record card",
+          "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Gladys Marcus Library",
+          "alt": "Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library.",
+          "rights": "Finding-aid metadata may be cited; media is governed item by item.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CN11-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/cn11#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Provenance can become a prestige narrative that launders gaps, excludes makers, or treats legal title as ethical legitimacy. Transparent uncertainty is stronger than a seamless but unsupported chain.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for Provenance Is Future Memory.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CN11-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#cn11-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Reconstruct custody events from exact records.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for Provenance Is Future Memory.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "S05",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/106420",
+          "crop": "full object with generous field",
+          "caption": "Dress is retained as evidence, education, reporting or rights context.",
+          "credit": "The Metropolitan Museum of Art",
+          "alt": "Source card for Dress, credited to The Metropolitan Museum of Art.",
+          "rights": "Object record marks the image Public Domain; retain full credit and identifier.",
+          "disposition": "REUSE",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "S05",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "Dress is retained as evidence, education, reporting or rights context.",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Object record marks the image Public Domain; retain full credit and identifier."
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CN11-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · IDENTITY — Is this the same object?. Record stable identifier, components, marks, labels, measurements, materials, images, condition, alterations, and comparison basis; note uncertainty and separated parts.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CN11-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · CHAIN — Can each custody event be evidenced?. Attach acquisition, gift, inheritance, loan, sale, deposit, return, location, responsible party, document, date, and restriction without inventing missing links.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CN11-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · INTERVENE — What changed the object or record?. Log repair, conservation, cleaning, alteration, reframing, digitization, renaming, reattribution, exhibition, reproduction, and metadata correction.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CN11-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · CLAIM — How confident is the story?. Label verified fact, physical observation, attributed conclusion, participant account, inference, disputed statement, and unresolved gap; retain earlier versions and correction history.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S15",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+        "credit": "FIT Gladys Marcus Library",
+        "rights": "Finding-aid metadata may be cited; media is governed item by item."
+      }
+    ],
+    "endCard": "Open CN11 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CN11-TITLE",
+        "title": "Provenance Is Future Memory",
+        "description": "Provenance is future memory when it preserves a transparent chain of identity, custody, intervention, attribution, evidence, uncertainty, and rights—not merely a prestigious prior owner.",
+        "destination": "/packages/cn11",
+        "alt": "Title plate for Provenance Is Future Memory.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "S05",
+        "title": "Can each custody event be evidenced?",
+        "description": "Dress is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/cn11",
+        "alt": "Source card for Dress, credited to The Metropolitan Museum of Art.",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Object record marks the image Public Domain; retain full credit and identifier."
+      },
+      {
+        "assetId": "S15",
+        "title": "The continue record",
+        "description": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/cn11",
+        "alt": "Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library.",
+        "credit": "FIT Gladys Marcus Library",
+        "rights": "Finding-aid metadata may be cited; media is governed item by item."
+      },
+      {
+        "assetId": "S15",
+        "title": "A field tool for Provenance Is Future Memory",
+        "description": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/cn11",
+        "alt": "Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library.",
+        "credit": "FIT Gladys Marcus Library",
+        "rights": "Finding-aid metadata may be cited; media is governed item by item."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CN11-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn11",
+          "crop": "native 4:5; no crop",
+          "caption": "Provenance is future memory when it preserves a transparent chain of identity, custody, intervention, attribution, evidence, uncertainty, and rights—not merely a prestigious prior owner.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Provenance Is Future Memory.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "S05",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/106420",
+          "crop": "full object with generous field",
+          "caption": "Dress is retained as evidence, education, reporting or rights context.",
+          "credit": "The Metropolitan Museum of Art",
+          "alt": "Source card for Dress, credited to The Metropolitan Museum of Art.",
+          "rights": "Object record marks the image Public Domain; retain full credit and identifier.",
+          "disposition": "REUSE",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CN11-DIAGRAM-1",
+          "CN11-DIAGRAM-2",
+          "CN11-DIAGRAM-3",
+          "CN11-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S15",
+          "visualType": "canonical public record card",
+          "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Gladys Marcus Library",
+          "alt": "Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library.",
+          "rights": "Finding-aid metadata may be cited; media is governed item by item.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CN11-FIELD-10",
+          "S05"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "S05",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.metmuseum.org/art/collection/search/106420",
+      "crop": "full object with generous field",
+      "caption": "Dress is retained as evidence, education, reporting or rights context.",
+      "credit": "The Metropolitan Museum of Art",
+      "alt": "Source card for Dress, credited to The Metropolitan Museum of Art.",
+      "rights": "Object record marks the image Public Domain; retain full credit and identifier.",
+      "disposition": "REUSE",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "CN11-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn11",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · IDENTITY — Is this the same object?. Record stable identifier, components, marks, labels, measurements, materials, images, condition, alterations, and comparison basis; note uncertainty and separated parts.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping is this the same object? within Provenance Is Future Memory.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "CN11-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn11",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · CHAIN — Can each custody event be evidenced?. Attach acquisition, gift, inheritance, loan, sale, deposit, return, location, responsible party, document, date, and restriction without inventing missing links.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can each custody event be evidenced? within Provenance Is Future Memory.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "CN11-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn11",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · INTERVENE — What changed the object or record?. Log repair, conservation, cleaning, alteration, reframing, digitization, renaming, reattribution, exhibition, reproduction, and metadata correction.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what changed the object or record? within Provenance Is Future Memory.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "CN11-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn11",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · CLAIM — How confident is the story?. Label verified fact, physical observation, attributed conclusion, participant account, inference, disputed statement, and unresolved gap; retain earlier versions and correction history.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping how confident is the story? within Provenance Is Future Memory.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S15",
+        "title": "FIT oral histories collection, 1967–2023",
+        "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S39",
+        "title": "Universal Electronic Records Management Requirements, Version 3",
+        "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S40",
+        "title": "Collections Care",
+        "url": "https://siarchives.si.edu/what-we-do/collections-care",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S42",
+        "title": "Textile Conservation",
+        "url": "https://mci.si.edu/textile-conservation",
+        "disposition": "LINK_ONLY"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "CN11-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/cn11",
+        "crop": "native 4:5; no crop",
+        "caption": "Provenance is future memory when it preserves a transparent chain of identity, custody, intervention, attribution, evidence, uncertainty, and rights—not merely a prestigious prior owner.",
+        "credit": "RN Collins",
+        "alt": "Title plate for Provenance Is Future Memory.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "CN11-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn11",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · INTERVENE — What changed the object or record?. Log repair, conservation, cleaning, alteration, reframing, digitization, renaming, reattribution, exhibition, reproduction, and metadata correction.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what changed the object or record? within Provenance Is Future Memory.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "CN11-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn11",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · CLAIM — How confident is the story?. Label verified fact, physical observation, attributed conclusion, participant account, inference, disputed statement, and unresolved gap; retain earlier versions and correction history.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping how confident is the story? within Provenance Is Future Memory.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S15",
+        "visualType": "canonical public record card",
+        "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+        "credit": "FIT Gladys Marcus Library",
+        "alt": "Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library.",
+        "rights": "Finding-aid metadata may be cited; media is governed item by item.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S39",
+        "visualType": "canonical public record card",
+        "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. National Archives and Records Administration",
+        "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+        "rights": "Government resource; link/download for education and do not imply endorsement.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "CN11-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/cn11#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "Provenance can become a prestige narrative that launders gaps, excludes makers, or treats legal title as ethical legitimacy. Transparent uncertainty is stronger than a seamless but unsupported chain.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for Provenance Is Future Memory.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "CN11-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#cn11-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "Reconstruct custody events from exact records.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for Provenance Is Future Memory.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "S05",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.metmuseum.org/art/collection/search/106420",
+        "crop": "full object with generous field",
+        "caption": "Dress is retained as evidence, education, reporting or rights context.",
+        "credit": "The Metropolitan Museum of Art",
+        "alt": "Source card for Dress, credited to The Metropolitan Museum of Art.",
+        "rights": "Object record marks the image Public Domain; retain full credit and identifier.",
+        "disposition": "REUSE",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "CN11-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/cn11",
+      "crop": "native 4:5; no crop",
+      "caption": "Provenance is future memory when it preserves a transparent chain of identity, custody, intervention, attribution, evidence, uncertainty, and rights—not merely a prestigious prior owner.",
+      "credit": "RN Collins",
+      "alt": "Title plate for Provenance Is Future Memory.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for Provenance Is Future Memory. Diagram mapping what changed the object or record? within Provenance Is Future Memory. Diagram mapping how confident is the story? within Provenance Is Future Memory. Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library. Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration. Counterpoint card for Provenance Is Future Memory. Fieldwork prompt for Provenance Is Future Memory. Source card for Dress, credited to The Metropolitan Museum of Art."
+  },
+  "interactive": {
+    "url": "/tools#cn11-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Assign one stable object and component identifier.",
+        "evidenceAsset": "CN11-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "Reconstruct custody events from exact records.",
+        "evidenceAsset": "CN11-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "Record every physical and descriptive intervention.",
+        "evidenceAsset": "CN11-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Submit cultural, title, theft, privacy, attribution, and jurisdiction concerns for specialist review.",
+        "evidenceAsset": "CN11-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S15",
+      "title": "FIT oral histories collection, 1967–2023",
+      "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S39",
+      "title": "Universal Electronic Records Management Requirements, Version 3",
+      "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S40",
+      "title": "Collections Care",
+      "url": "https://siarchives.si.edu/what-we-do/collections-care",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S42",
+      "title": "Textile Conservation",
+      "url": "https://mci.si.edu/textile-conservation",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S65",
+      "title": "Appraisal Policy of the National Archives",
+      "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X01",
+      "title": "Smithsonian Open Access",
+      "url": "https://www.si.edu/openaccess",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X03",
+      "title": "Dress designed by Ann Lowe",
+      "url": "https://www.si.edu/object/dress-designed-ann-lowe%3Anmaahc_2007.3.23",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X19",
+      "title": "Feedsack dress",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1105750",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X23",
+      "title": "Open Access API",
+      "url": "https://metmuseum.github.io/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X24",
+      "title": "Smithsonian Open Access developer tools",
+      "url": "https://www.si.edu/openaccess/devtools",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X42",
+      "title": "European Product Registry for Energy Labelling",
+      "url": "https://eprel.ec.europa.eu/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X58",
+      "title": "Historical Resources: Fashion Industry",
+      "url": "https://guides.loc.gov/fashion-industry/history",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X63",
+      "title": "Sustainability of Digital Formats",
+      "url": "https://www.loc.gov/preservation/digital/formats/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "S03",
+      "title": "Dress",
+      "url": null,
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/83877",
+      "credit": "The Metropolitan Museum of Art",
+      "rights": "Object record marks the image Public Domain; retain full credit and identifier."
+    },
+    {
+      "assetId": "S04",
+      "title": "Afternoon dress",
+      "url": null,
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/157996",
+      "credit": "The Metropolitan Museum of Art",
+      "rights": "Object record marks the image Public Domain; retain full credit and identifier."
+    },
+    {
+      "assetId": "S05",
+      "title": "Dress",
+      "url": null,
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/106420",
+      "credit": "The Metropolitan Museum of Art",
+      "rights": "Object record marks the image Public Domain; retain full credit and identifier."
+    },
+    {
+      "assetId": "OBJ-81112",
+      "title": "Ball gown",
+      "url": "https://images.metmuseum.org/CRDImages/ci/web-large/DT426.jpg",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/81112",
+      "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+      "rights": "Public Domain / Met Open Access"
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S03",
+      "disposition": "REUSE",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S04",
+      "disposition": "REUSE",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S05",
+      "disposition": "REUSE",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S15",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S39",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S40",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S42",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S65",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-81112",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X01",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X03",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X19",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X23",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X24",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X42",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X58",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X63",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}

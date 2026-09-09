@@ -1,0 +1,898 @@
+{
+  "packageId": "CN02",
+  "title": "Who Is Allowed to Interpret a Dead Designer’s Codes?",
+  "domain": "continue",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "CN02-TITLE",
+      "role": "hook",
+      "caption": "No single record automatically grants the authority to interpret a dead designer’s codes: legal control, corporate office, curatorial custody, craft knowledge, family memory, community legitimacy, and audience recognition are different claims.",
+      "source": "/packages/cn02",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "OBJ-155989",
+      "role": "material witness",
+      "caption": "The dual designer attribution makes succession visible as an evidence question: house continuity does not erase uncertainty about individual authorship.",
+      "source": "https://www.metmuseum.org/art/collection/search/155989",
+      "rights": "Public Domain / Met Open Access"
+    },
+    {
+      "assetId": "CN02-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · CLAIM — What authority is being asserted?. Name the verb: preserve, exhibit, authenticate, reproduce, license, design, speak for, teach, sell, or change. Avoid the totalizing phrase “protect the legacy.”",
+      "source": "/packages/cn02",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN02-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · RECORD — What supports that claim?. Attach corporate appointment, trademark record, license, will, probate order, copyright chain, collection agreement, employment record, oral history, craft evidence, or community protocol as appropriate.",
+      "source": "/packages/cn02",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN02-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · LIMIT — Where does the authority stop?. A museum accession does not appoint a house successor; inherited copyright does not confer craft mastery; corporate title does not erase community memory; cultural legitimacy does not itself transfer a registered asset.",
+      "source": "/packages/cn02",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN02-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · CONTEST — How can interpretation be challenged and revised?. Publish sources, acknowledge gaps, credit carriers, invite corrections, document dissent, and schedule periodic review rather than presenting succession as final truth.",
+      "source": "/packages/cn02",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S63",
+      "role": "counterpoint",
+      "caption": "17 U.S.C. § 201 — Ownership of copyright is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.copyright.gov/title17/92chap2.html",
+      "rights": "Official statutory text; quote narrowly and link. Subsections (d) and (e) address transfer by law, will, or intestacy."
+    },
+    {
+      "assetId": "S64",
+      "role": "action",
+      "caption": "Standard Application Help: Claimant — transfer by inheritance is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.copyright.gov/eco/help-claimant.html",
+      "rights": "Official registration guidance; paraphrase and link. It does not resolve state probate or contract questions."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "Who Is Allowed to Interpret a Dead Designer’s Codes?: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CN02-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn02",
+          "crop": "native 4:5; no crop",
+          "caption": "No single record automatically grants the authority to interpret a dead designer’s codes: legal control, corporate office, curatorial custody, craft knowledge, family memory, community legitimacy, and audience recognition are different claims.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-155989",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/155989",
+          "crop": "full object with generous field",
+          "caption": "The dual designer attribution makes succession visible as an evidence question: house continuity does not erase uncertainty about individual authorship.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. C. Oliver Iselin, 1961",
+          "alt": "Ornate pale silk House of Worth ball gown with floral decoration and a full trained skirt, dated 1895 to 1900.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CN02-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn02",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · CLAIM — What authority is being asserted?. Name the verb: preserve, exhibit, authenticate, reproduce, license, design, speak for, teach, sell, or change. Avoid the totalizing phrase “protect the legacy.”",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what authority is being asserted? within Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CN02-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn02",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · RECORD — What supports that claim?. Attach corporate appointment, trademark record, license, will, probate order, copyright chain, collection agreement, employment record, oral history, craft evidence, or community protocol as appropriate.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what supports that claim? within Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CN02-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn02",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · LIMIT — Where does the authority stop?. A museum accession does not appoint a house successor; inherited copyright does not confer craft mastery; corporate title does not erase community memory; cultural legitimacy does not itself transfer a registered asset.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping where does the authority stop? within Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CN02-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn02",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CONTEST — How can interpretation be challenged and revised?. Publish sources, acknowledge gaps, credit carriers, invite corrections, document dissent, and schedule periodic review rather than presenting succession as final truth.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping how can interpretation be challenged and revised? within Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S63",
+          "visualType": "canonical public record card",
+          "source": "https://www.copyright.gov/title17/92chap2.html",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "17 U.S.C. § 201 — Ownership of copyright is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Copyright Office",
+          "alt": "Source card for 17 U.S.C. § 201 — Ownership of copyright, credited to U.S. Copyright Office.",
+          "rights": "Official statutory text; quote narrowly and link. Subsections (d) and (e) address transfer by law, will, or intestacy.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S64",
+          "visualType": "canonical public record card",
+          "source": "https://www.copyright.gov/eco/help-claimant.html",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Standard Application Help: Claimant — transfer by inheritance is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Copyright Office",
+          "alt": "Source card for Standard Application Help: Claimant — transfer by inheritance, credited to U.S. Copyright Office.",
+          "rights": "Official registration guidance; paraphrase and link. It does not resolve state probate or contract questions.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "Who Is Allowed to Interpret a Dead Designer’s Codes?: what the record changes",
+      "frames": [
+        {
+          "assetId": "CN02-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn02",
+          "crop": "native 4:5; no crop",
+          "caption": "No single record automatically grants the authority to interpret a dead designer’s codes: legal control, corporate office, curatorial custody, craft knowledge, family memory, community legitimacy, and audience recognition are different claims.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CN02-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn02",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · LIMIT — Where does the authority stop?. A museum accession does not appoint a house successor; inherited copyright does not confer craft mastery; corporate title does not erase community memory; cultural legitimacy does not itself transfer a registered asset.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping where does the authority stop? within Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CN02-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn02",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CONTEST — How can interpretation be challenged and revised?. Publish sources, acknowledge gaps, credit carriers, invite corrections, document dissent, and schedule periodic review rather than presenting succession as final truth.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping how can interpretation be challenged and revised? within Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S63",
+          "visualType": "canonical public record card",
+          "source": "https://www.copyright.gov/title17/92chap2.html",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "17 U.S.C. § 201 — Ownership of copyright is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Copyright Office",
+          "alt": "Source card for 17 U.S.C. § 201 — Ownership of copyright, credited to U.S. Copyright Office.",
+          "rights": "Official statutory text; quote narrowly and link. Subsections (d) and (e) address transfer by law, will, or intestacy.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S64",
+          "visualType": "canonical public record card",
+          "source": "https://www.copyright.gov/eco/help-claimant.html",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Standard Application Help: Claimant — transfer by inheritance is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Copyright Office",
+          "alt": "Source card for Standard Application Help: Claimant — transfer by inheritance, credited to U.S. Copyright Office.",
+          "rights": "Official registration guidance; paraphrase and link. It does not resolve state probate or contract questions.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CN02-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/cn02#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Plural authority can produce paralysis. A continuing house needs accountable decision-makers, not endless vetoes. The answer is not to flatten authority but to define decision scope, consultation, escalation, evidence, and correction before conflict.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CN02-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#cn02-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "List every legal, corporate, curatorial, craft, family, community, and audience authority affected.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-155989",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/155989",
+          "crop": "full object with generous field",
+          "caption": "The dual designer attribution makes succession visible as an evidence question: house continuity does not erase uncertainty about individual authorship.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. C. Oliver Iselin, 1961",
+          "alt": "Ornate pale silk House of Worth ball gown with floral decoration and a full trained skirt, dated 1895 to 1900.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-155989",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "The dual designer attribution makes succession visible as an evidence question: house continuity does not erase uncertainty about individual authorship.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. C. Oliver Iselin, 1961",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CN02-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · CLAIM — What authority is being asserted?. Name the verb: preserve, exhibit, authenticate, reproduce, license, design, speak for, teach, sell, or change. Avoid the totalizing phrase “protect the legacy.”",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CN02-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · RECORD — What supports that claim?. Attach corporate appointment, trademark record, license, will, probate order, copyright chain, collection agreement, employment record, oral history, craft evidence, or community protocol as appropriate.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CN02-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · LIMIT — Where does the authority stop?. A museum accession does not appoint a house successor; inherited copyright does not confer craft mastery; corporate title does not erase community memory; cultural legitimacy does not itself transfer a registered asset.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CN02-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · CONTEST — How can interpretation be challenged and revised?. Publish sources, acknowledge gaps, credit carriers, invite corrections, document dissent, and schedule periodic review rather than presenting succession as final truth.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S63",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "17 U.S.C. § 201 — Ownership of copyright is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. Copyright Office",
+        "rights": "Official statutory text; quote narrowly and link. Subsections (d) and (e) address transfer by law, will, or intestacy."
+      }
+    ],
+    "endCard": "Open CN02 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CN02-TITLE",
+        "title": "Who Is Allowed to Interpret a Dead Designer’s Codes?",
+        "description": "No single record automatically grants the authority to interpret a dead designer’s codes: legal control, corporate office, curatorial custody, craft knowledge, family memory, community legitimacy, and audience recognition are different claims.",
+        "destination": "/packages/cn02",
+        "alt": "Title plate for Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-155989",
+        "title": "What supports that claim?",
+        "description": "The dual designer attribution makes succession visible as an evidence question: house continuity does not erase uncertainty about individual authorship.",
+        "destination": "/packages/cn02",
+        "alt": "Ornate pale silk House of Worth ball gown with floral decoration and a full trained skirt, dated 1895 to 1900.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. C. Oliver Iselin, 1961",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "assetId": "S63",
+        "title": "The continue record",
+        "description": "17 U.S.C. § 201 — Ownership of copyright is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/cn02",
+        "alt": "Source card for 17 U.S.C. § 201 — Ownership of copyright, credited to U.S. Copyright Office.",
+        "credit": "U.S. Copyright Office",
+        "rights": "Official statutory text; quote narrowly and link. Subsections (d) and (e) address transfer by law, will, or intestacy."
+      },
+      {
+        "assetId": "S63",
+        "title": "A field tool for Who Is Allowed to Interpret a Dead Designer’s Codes?",
+        "description": "17 U.S.C. § 201 — Ownership of copyright is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/cn02",
+        "alt": "Source card for 17 U.S.C. § 201 — Ownership of copyright, credited to U.S. Copyright Office.",
+        "credit": "U.S. Copyright Office",
+        "rights": "Official statutory text; quote narrowly and link. Subsections (d) and (e) address transfer by law, will, or intestacy."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CN02-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn02",
+          "crop": "native 4:5; no crop",
+          "caption": "No single record automatically grants the authority to interpret a dead designer’s codes: legal control, corporate office, curatorial custody, craft knowledge, family memory, community legitimacy, and audience recognition are different claims.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-155989",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/155989",
+          "crop": "full object with generous field",
+          "caption": "The dual designer attribution makes succession visible as an evidence question: house continuity does not erase uncertainty about individual authorship.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. C. Oliver Iselin, 1961",
+          "alt": "Ornate pale silk House of Worth ball gown with floral decoration and a full trained skirt, dated 1895 to 1900.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CN02-DIAGRAM-1",
+          "CN02-DIAGRAM-2",
+          "CN02-DIAGRAM-3",
+          "CN02-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S63",
+          "visualType": "canonical public record card",
+          "source": "https://www.copyright.gov/title17/92chap2.html",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "17 U.S.C. § 201 — Ownership of copyright is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Copyright Office",
+          "alt": "Source card for 17 U.S.C. § 201 — Ownership of copyright, credited to U.S. Copyright Office.",
+          "rights": "Official statutory text; quote narrowly and link. Subsections (d) and (e) address transfer by law, will, or intestacy.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CN02-FIELD-10",
+          "OBJ-155989"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "OBJ-155989",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.metmuseum.org/art/collection/search/155989",
+      "crop": "full object with generous field",
+      "caption": "The dual designer attribution makes succession visible as an evidence question: house continuity does not erase uncertainty about individual authorship.",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. C. Oliver Iselin, 1961",
+      "alt": "Ornate pale silk House of Worth ball gown with floral decoration and a full trained skirt, dated 1895 to 1900.",
+      "rights": "Public Domain / Met Open Access",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "CN02-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn02",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · CLAIM — What authority is being asserted?. Name the verb: preserve, exhibit, authenticate, reproduce, license, design, speak for, teach, sell, or change. Avoid the totalizing phrase “protect the legacy.”",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what authority is being asserted? within Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "CN02-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn02",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · RECORD — What supports that claim?. Attach corporate appointment, trademark record, license, will, probate order, copyright chain, collection agreement, employment record, oral history, craft evidence, or community protocol as appropriate.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what supports that claim? within Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "CN02-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn02",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · LIMIT — Where does the authority stop?. A museum accession does not appoint a house successor; inherited copyright does not confer craft mastery; corporate title does not erase community memory; cultural legitimacy does not itself transfer a registered asset.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping where does the authority stop? within Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "CN02-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn02",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · CONTEST — How can interpretation be challenged and revised?. Publish sources, acknowledge gaps, credit carriers, invite corrections, document dissent, and schedule periodic review rather than presenting succession as final truth.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping how can interpretation be challenged and revised? within Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S63",
+        "title": "17 U.S.C. § 201 — Ownership of copyright",
+        "url": "https://www.copyright.gov/title17/92chap2.html",
+        "disposition": "QUOTE_LINK"
+      },
+      {
+        "assetId": "S64",
+        "title": "Standard Application Help: Claimant — transfer by inheritance",
+        "url": "https://www.copyright.gov/eco/help-claimant.html",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S65",
+        "title": "Appraisal Policy of the National Archives",
+        "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S67",
+        "title": "Alexander McQueen — Explore the Collections",
+        "url": "https://www.vam.ac.uk/collections/alexander-mcqueen",
+        "disposition": "LINK_ONLY"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "CN02-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/cn02",
+        "crop": "native 4:5; no crop",
+        "caption": "No single record automatically grants the authority to interpret a dead designer’s codes: legal control, corporate office, curatorial custody, craft knowledge, family memory, community legitimacy, and audience recognition are different claims.",
+        "credit": "RN Collins",
+        "alt": "Title plate for Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "CN02-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn02",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · LIMIT — Where does the authority stop?. A museum accession does not appoint a house successor; inherited copyright does not confer craft mastery; corporate title does not erase community memory; cultural legitimacy does not itself transfer a registered asset.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping where does the authority stop? within Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "CN02-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn02",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · CONTEST — How can interpretation be challenged and revised?. Publish sources, acknowledge gaps, credit carriers, invite corrections, document dissent, and schedule periodic review rather than presenting succession as final truth.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping how can interpretation be challenged and revised? within Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S63",
+        "visualType": "canonical public record card",
+        "source": "https://www.copyright.gov/title17/92chap2.html",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "17 U.S.C. § 201 — Ownership of copyright is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. Copyright Office",
+        "alt": "Source card for 17 U.S.C. § 201 — Ownership of copyright, credited to U.S. Copyright Office.",
+        "rights": "Official statutory text; quote narrowly and link. Subsections (d) and (e) address transfer by law, will, or intestacy.",
+        "disposition": "QUOTE_LINK",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S64",
+        "visualType": "canonical public record card",
+        "source": "https://www.copyright.gov/eco/help-claimant.html",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Standard Application Help: Claimant — transfer by inheritance is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. Copyright Office",
+        "alt": "Source card for Standard Application Help: Claimant — transfer by inheritance, credited to U.S. Copyright Office.",
+        "rights": "Official registration guidance; paraphrase and link. It does not resolve state probate or contract questions.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "CN02-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/cn02#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "Plural authority can produce paralysis. A continuing house needs accountable decision-makers, not endless vetoes. The answer is not to flatten authority but to define decision scope, consultation, escalation, evidence, and correction before conflict.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "CN02-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#cn02-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "List every legal, corporate, curatorial, craft, family, community, and audience authority affected.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "OBJ-155989",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.metmuseum.org/art/collection/search/155989",
+        "crop": "full object with generous field",
+        "caption": "The dual designer attribution makes succession visible as an evidence question: house continuity does not erase uncertainty about individual authorship.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. C. Oliver Iselin, 1961",
+        "alt": "Ornate pale silk House of Worth ball gown with floral decoration and a full trained skirt, dated 1895 to 1900.",
+        "rights": "Public Domain / Met Open Access",
+        "disposition": "PUBLIC_DOMAIN_CC0",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "CN02-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/cn02",
+      "crop": "native 4:5; no crop",
+      "caption": "No single record automatically grants the authority to interpret a dead designer’s codes: legal control, corporate office, curatorial custody, craft knowledge, family memory, community legitimacy, and audience recognition are different claims.",
+      "credit": "RN Collins",
+      "alt": "Title plate for Who Is Allowed to Interpret a Dead Designer’s Codes?.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for Who Is Allowed to Interpret a Dead Designer’s Codes?. Diagram mapping where does the authority stop? within Who Is Allowed to Interpret a Dead Designer’s Codes?. Diagram mapping how can interpretation be challenged and revised? within Who Is Allowed to Interpret a Dead Designer’s Codes?. Source card for 17 U.S.C. § 201 — Ownership of copyright, credited to U.S. Copyright Office. Source card for Standard Application Help: Claimant — transfer by inheritance, credited to U.S. Copyright Office. Counterpoint card for Who Is Allowed to Interpret a Dead Designer’s Codes?. Fieldwork prompt for Who Is Allowed to Interpret a Dead Designer’s Codes?. Ornate pale silk House of Worth ball gown with floral decoration and a full trained skirt, dated 1895 to 1900."
+  },
+  "interactive": {
+    "url": "/tools#cn02-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Choose one proposed act—exhibition, reissue, campaign, collection, authentication, or license.",
+        "evidenceAsset": "CN02-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "List every legal, corporate, curatorial, craft, family, community, and audience authority affected.",
+        "evidenceAsset": "CN02-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "Attach the record supporting each claim and write its boundary.",
+        "evidenceAsset": "CN02-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Create a dissent and correction protocol; send legal conclusions to counsel and cultural or conservation questions to the right specialists.",
+        "evidenceAsset": "CN02-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S63",
+      "title": "17 U.S.C. § 201 — Ownership of copyright",
+      "url": "https://www.copyright.gov/title17/92chap2.html",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S64",
+      "title": "Standard Application Help: Claimant — transfer by inheritance",
+      "url": "https://www.copyright.gov/eco/help-claimant.html",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S65",
+      "title": "Appraisal Policy of the National Archives",
+      "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S67",
+      "title": "Alexander McQueen — Explore the Collections",
+      "url": "https://www.vam.ac.uk/collections/alexander-mcqueen",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X11",
+      "title": "Fashion collection",
+      "url": "https://www.vam.ac.uk/collections/fashion",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X20",
+      "title": "Wedding dress by Christian Dior",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1006049",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X48",
+      "title": "Secrets of Balenciaga’s construction",
+      "url": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction",
+      "disposition": "AUTHORIZED_EMBED",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X49",
+      "title": "Learning from “The Master”",
+      "url": "https://www.vam.ac.uk/articles/learning-from-the-master",
+      "disposition": "AUTHORIZED_EMBED",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X59",
+      "title": "Contemporary fashion designers on Balenciaga",
+      "url": "https://www.vam.ac.uk/articles/contemporary-fashion-designers-on-balenciaga",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "OBJ-155989",
+      "title": "Ball gown",
+      "url": "https://images.metmuseum.org/CRDImages/ci/web-large/61.219.7a-b_front_CP4.jpg",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/155989",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. C. Oliver Iselin, 1961",
+      "rights": "Public Domain / Met Open Access"
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S63",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S64",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S65",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S67",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-155989",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X11",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X20",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X48",
+      "disposition": "AUTHORIZED_EMBED",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X49",
+      "disposition": "AUTHORIZED_EMBED",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X59",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}

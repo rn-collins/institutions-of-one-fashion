@@ -1,0 +1,414 @@
+{
+  "packageId": "CO07",
+  "title": "The Institution Hidden Inside the Contract",
+  "author": "RN Collins",
+  "version": "2.0",
+  "rightsRule": "Evidence leads; atmosphere never substitutes for provenance.",
+  "instagram": {
+    "carouselA": {
+      "title": "The Institution Hidden Inside the Contract: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CO07-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co07",
+          "crop": "native 4:5; no crop",
+          "caption": "A fashion contract does more than price a transaction: it assigns roles, approvals, rights, records, risk, credit, access, transition duties, and the rules that govern what happens when the relationship changes.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Institution Hidden Inside the Contract.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-loc-ppmsca-44953",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/ppmsca.44953/",
+          "crop": "full object with generous field",
+          "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+          "credit": "Library of Congress Prints and Photographs Division",
+          "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CO07-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · BEFORE — What enters the relationship?. Define parties, authority to sign, pre-existing materials, references, confidential inputs, third-party components, permissions, territory, intended channels, and the difference between background assets and new deliverables.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what enters the relationship? within The Institution Hidden Inside the Contract.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CO07-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · DURING — How does work move?. Specify deliverables, milestones, dependencies, review windows, named approvers, revision rounds, acceptance, change control, credit, documentation, source-file delivery, accessibility, and rights evidence. The schedule is a governance map.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping how does work move? within The Institution Hidden Inside the Contract.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CO07-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · CONTROL — Who may do what with the result?. Separate ownership from license; identify exclusivity, fields of use, territory, term, sublicensing, modification, archive, publicity, moral-rights issues where applicable, and statutory work-made-for-hire or transfer requirements.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who may do what with the result? within The Institution Hidden Inside the Contract.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CO07-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · AFTER — What survives change?. Map payment on termination, kill fees, return or deletion, archive copy, confidentiality, transition help, continuing licenses, credit correction, takedown, dispute procedure, and who retains the evidence needed to enforce or explain the deal.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what survives change? within The Institution Hidden Inside the Contract.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S50",
+          "visualType": "canonical public record card",
+          "source": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217000682/eh1700461_ex1001.htm",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Securities and Exchange Commission",
+          "alt": "Source card for Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren, credited to U.S. Securities and Exchange Commission.",
+          "rights": "Public SEC filing; quote narrowly, link to the filing, and do not imply endorsement.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S51",
+          "visualType": "canonical public record card",
+          "source": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217001057/eh1700645_ex1001.htm",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Employment Agreement between Ralph Lauren Corporation and Patrice Louvet is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Securities and Exchange Commission",
+          "alt": "Source card for Employment Agreement between Ralph Lauren Corporation and Patrice Louvet, credited to U.S. Securities and Exchange Commission.",
+          "rights": "Public SEC filing; quote narrowly, link to the filing, and distinguish contractual text from editorial inference.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "The Institution Hidden Inside the Contract: what the record changes",
+      "frames": [
+        {
+          "assetId": "CO07-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co07",
+          "crop": "native 4:5; no crop",
+          "caption": "A fashion contract does more than price a transaction: it assigns roles, approvals, rights, records, risk, credit, access, transition duties, and the rules that govern what happens when the relationship changes.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Institution Hidden Inside the Contract.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CO07-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · CONTROL — Who may do what with the result?. Separate ownership from license; identify exclusivity, fields of use, territory, term, sublicensing, modification, archive, publicity, moral-rights issues where applicable, and statutory work-made-for-hire or transfer requirements.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who may do what with the result? within The Institution Hidden Inside the Contract.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CO07-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · AFTER — What survives change?. Map payment on termination, kill fees, return or deletion, archive copy, confidentiality, transition help, continuing licenses, credit correction, takedown, dispute procedure, and who retains the evidence needed to enforce or explain the deal.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what survives change? within The Institution Hidden Inside the Contract.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S50",
+          "visualType": "canonical public record card",
+          "source": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217000682/eh1700461_ex1001.htm",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Securities and Exchange Commission",
+          "alt": "Source card for Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren, credited to U.S. Securities and Exchange Commission.",
+          "rights": "Public SEC filing; quote narrowly, link to the filing, and do not imply endorsement.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S51",
+          "visualType": "canonical public record card",
+          "source": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217001057/eh1700645_ex1001.htm",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Employment Agreement between Ralph Lauren Corporation and Patrice Louvet is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Securities and Exchange Commission",
+          "alt": "Source card for Employment Agreement between Ralph Lauren Corporation and Patrice Louvet, credited to U.S. Securities and Exchange Commission.",
+          "rights": "Public SEC filing; quote narrowly, link to the filing, and distinguish contractual text from editorial inference.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CO07-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/co07#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Contract architecture can become extractive: the party with leverage can demand sweeping ownership, perpetual use, silence, and risk transfer. More clauses are not automatically fairer. The counterweight is proportionality, real negotiation, legible language, preserved versions, independent advice, and a record of whose labor and community knowledge the agreement affects.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for The Institution Hidden Inside the Contract.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CO07-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#co07-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Mark every approval, acceptance, revision, payment, credit, rights, access, and record obligation.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for The Institution Hidden Inside the Contract.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-loc-ppmsca-44953",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/ppmsca.44953/",
+          "crop": "full object with generous field",
+          "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+          "credit": "Library of Congress Prints and Photographs Division",
+          "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CO07-TITLE",
+        "title": "The Institution Hidden Inside the Contract",
+        "description": "A fashion contract does more than price a transaction: it assigns roles, approvals, rights, records, risk, credit, access, transition duties, and the rules that govern what happens when the relationship changes.",
+        "destination": "/packages/co07",
+        "alt": "Title plate for The Institution Hidden Inside the Contract.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-loc-ppmsca-44953",
+        "title": "How does work move?",
+        "description": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+        "destination": "/packages/co07",
+        "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+        "credit": "Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "assetId": "S50",
+        "title": "The control record",
+        "description": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/co07",
+        "alt": "Source card for Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren, credited to U.S. Securities and Exchange Commission.",
+        "credit": "U.S. Securities and Exchange Commission",
+        "rights": "Public SEC filing; quote narrowly, link to the filing, and do not imply endorsement."
+      },
+      {
+        "assetId": "S50",
+        "title": "A field tool for The Institution Hidden Inside the Contract",
+        "description": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/co07",
+        "alt": "Source card for Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren, credited to U.S. Securities and Exchange Commission.",
+        "credit": "U.S. Securities and Exchange Commission",
+        "rights": "Public SEC filing; quote narrowly, link to the filing, and do not imply endorsement."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CO07-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co07",
+          "crop": "native 4:5; no crop",
+          "caption": "A fashion contract does more than price a transaction: it assigns roles, approvals, rights, records, risk, credit, access, transition duties, and the rules that govern what happens when the relationship changes.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Institution Hidden Inside the Contract.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-loc-ppmsca-44953",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/ppmsca.44953/",
+          "crop": "full object with generous field",
+          "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+          "credit": "Library of Congress Prints and Photographs Division",
+          "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CO07-DIAGRAM-1",
+          "CO07-DIAGRAM-2",
+          "CO07-DIAGRAM-3",
+          "CO07-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S50",
+          "visualType": "canonical public record card",
+          "source": "https://www.sec.gov/Archives/edgar/data/1037038/000095014217000682/eh1700461_ex1001.htm",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Securities and Exchange Commission",
+          "alt": "Source card for Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren, credited to U.S. Securities and Exchange Commission.",
+          "rights": "Public SEC filing; quote narrowly, link to the filing, and do not imply endorsement.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CO07-FIELD-10",
+          "OBJ-loc-ppmsca-44953"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "vertical": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-loc-ppmsca-44953",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+        "credit": "Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CO07-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · BEFORE — What enters the relationship?. Define parties, authority to sign, pre-existing materials, references, confidential inputs, third-party components, permissions, territory, intended channels, and the difference between background assets and new deliverables.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CO07-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · DURING — How does work move?. Specify deliverables, milestones, dependencies, review windows, named approvers, revision rounds, acceptance, change control, credit, documentation, source-file delivery, accessibility, and rights evidence. The schedule is a governance map.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CO07-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · CONTROL — Who may do what with the result?. Separate ownership from license; identify exclusivity, fields of use, territory, term, sublicensing, modification, archive, publicity, moral-rights issues where applicable, and statutory work-made-for-hire or transfer requirements.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CO07-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · AFTER — What survives change?. Map payment on termination, kill fees, return or deletion, archive copy, confidentiality, transition help, continuing licenses, credit correction, takedown, dispute procedure, and who retains the evidence needed to enforce or explain the deal.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S50",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. Securities and Exchange Commission",
+        "rights": "Public SEC filing; quote narrowly, link to the filing, and do not imply endorsement."
+      }
+    ],
+    "endCard": "Open CO07 at institutions-of-one-fashion.vercel.app"
+  }
+}

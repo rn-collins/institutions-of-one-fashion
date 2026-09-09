@@ -1,0 +1,898 @@
+{
+  "packageId": "B01",
+  "title": "When Does a Designer Become a House?",
+  "domain": "build",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "B01-TITLE",
+      "role": "hook",
+      "caption": "A fashion house begins when taste stops being a private instinct and becomes a repeatable system other people can carry, question, record, and continue.",
+      "source": "/packages/b01",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "OBJ-81112",
+      "role": "material witness",
+      "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+      "source": "https://www.metmuseum.org/art/collection/search/81112",
+      "rights": "Public Domain / Met Open Access"
+    },
+    {
+      "assetId": "B01-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · CODE — Can the eye be explained?. A code is not a mood board. It is a set of recurring decisions—silhouette, proportion, material, finish, behavior, refusal—with examples, exceptions, and a reason for each. The test is not whether every object looks alike. It is whether a collaborator can recognize the governing judgment.",
+      "source": "/packages/b01",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "B01-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · CARRY — Can another hand act without impersonating?. An institution needs roles, handoffs, review rituals, and vocabulary. Documentation should transmit the standard while leaving room for skilled interpretation. If every decision must return to the founder, the practice has staff but not institutional capacity.",
+      "source": "/packages/b01",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "B01-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · PROOF — Can the work prove its own making?. Collection records, samples, specifications, correspondence, credits, rights decisions, and accession-quality metadata turn memory into evidence. The record does not replace the object; it prevents the object from becoming anonymous.",
+      "source": "/packages/b01",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "B01-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · CONTINUITY — Can the system survive absence?. A house is tested by illness, departure, conflict, growth, sale, and succession. Continuity requires named authority, access to accounts and files, an archive, and a method for distinguishing evolution from imitation.",
+      "source": "/packages/b01",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S11",
+      "role": "counterpoint",
+      "caption": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+      "source": "https://archiveondemand.fitnyc.edu/item/136259",
+      "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use."
+    },
+    {
+      "assetId": "S15",
+      "role": "action",
+      "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+      "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+      "rights": "Finding-aid metadata may be cited; media is governed item by item."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "When Does a Designer Become a House?: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "B01-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b01",
+          "crop": "native 4:5; no crop",
+          "caption": "A fashion house begins when taste stops being a private instinct and becomes a repeatable system other people can carry, question, record, and continue.",
+          "credit": "RN Collins",
+          "alt": "Title plate for When Does a Designer Become a House?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-81112",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/81112",
+          "crop": "full object with generous field",
+          "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+          "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+          "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "B01-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b01",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · CODE — Can the eye be explained?. A code is not a mood board. It is a set of recurring decisions—silhouette, proportion, material, finish, behavior, refusal—with examples, exceptions, and a reason for each. The test is not whether every object looks alike. It is whether a collaborator can recognize the governing judgment.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can the eye be explained? within When Does a Designer Become a House?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "B01-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b01",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · CARRY — Can another hand act without impersonating?. An institution needs roles, handoffs, review rituals, and vocabulary. Documentation should transmit the standard while leaving room for skilled interpretation. If every decision must return to the founder, the practice has staff but not institutional capacity.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can another hand act without impersonating? within When Does a Designer Become a House?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "B01-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b01",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · PROOF — Can the work prove its own making?. Collection records, samples, specifications, correspondence, credits, rights decisions, and accession-quality metadata turn memory into evidence. The record does not replace the object; it prevents the object from becoming anonymous.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can the work prove its own making? within When Does a Designer Become a House?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "B01-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b01",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CONTINUITY — Can the system survive absence?. A house is tested by illness, departure, conflict, growth, sale, and succession. Continuity requires named authority, access to accounts and files, an archive, and a method for distinguishing evolution from imitation.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can the system survive absence? within When Does a Designer Become a House?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S11",
+          "visualType": "canonical public record card",
+          "source": "https://archiveondemand.fitnyc.edu/item/136259",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Special Collections",
+          "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+          "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S15",
+          "visualType": "canonical public record card",
+          "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Gladys Marcus Library",
+          "alt": "Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library.",
+          "rights": "Finding-aid metadata may be cited; media is governed item by item.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "When Does a Designer Become a House?: what the record changes",
+      "frames": [
+        {
+          "assetId": "B01-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b01",
+          "crop": "native 4:5; no crop",
+          "caption": "A fashion house begins when taste stops being a private instinct and becomes a repeatable system other people can carry, question, record, and continue.",
+          "credit": "RN Collins",
+          "alt": "Title plate for When Does a Designer Become a House?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "B01-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b01",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · PROOF — Can the work prove its own making?. Collection records, samples, specifications, correspondence, credits, rights decisions, and accession-quality metadata turn memory into evidence. The record does not replace the object; it prevents the object from becoming anonymous.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can the work prove its own making? within When Does a Designer Become a House?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "B01-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b01",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CONTINUITY — Can the system survive absence?. A house is tested by illness, departure, conflict, growth, sale, and succession. Continuity requires named authority, access to accounts and files, an archive, and a method for distinguishing evolution from imitation.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can the system survive absence? within When Does a Designer Become a House?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S11",
+          "visualType": "canonical public record card",
+          "source": "https://archiveondemand.fitnyc.edu/item/136259",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Special Collections",
+          "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+          "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S15",
+          "visualType": "canonical public record card",
+          "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Gladys Marcus Library",
+          "alt": "Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library.",
+          "rights": "Finding-aid metadata may be cited; media is governed item by item.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "B01-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/b01#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Codifying taste can become a cage. The goal is not to freeze a signature look; it is to preserve how decisions are made—including how the house recognizes when its old answer is no longer enough.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for When Does a Designer Become a House?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "B01-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#b01-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "For each decision, attach one example and one deliberate exception.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for When Does a Designer Become a House?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-81112",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/81112",
+          "crop": "full object with generous field",
+          "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+          "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+          "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-81112",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+        "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "B01-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · CODE — Can the eye be explained?. A code is not a mood board. It is a set of recurring decisions—silhouette, proportion, material, finish, behavior, refusal—with examples, exceptions, and a reason for each. The test is not whether every object looks alike. It is whether a collaborator can recognize the governing judgment.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "B01-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · CARRY — Can another hand act without impersonating?. An institution needs roles, handoffs, review rituals, and vocabulary. Documentation should transmit the standard while leaving room for skilled interpretation. If every decision must return to the founder, the practice has staff but not institutional capacity.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "B01-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · PROOF — Can the work prove its own making?. Collection records, samples, specifications, correspondence, credits, rights decisions, and accession-quality metadata turn memory into evidence. The record does not replace the object; it prevents the object from becoming anonymous.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "B01-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · CONTINUITY — Can the system survive absence?. A house is tested by illness, departure, conflict, growth, sale, and succession. Continuity requires named authority, access to accounts and files, an archive, and a method for distinguishing evolution from imitation.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S11",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+        "credit": "FIT Special Collections",
+        "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use."
+      }
+    ],
+    "endCard": "Open B01 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "B01-TITLE",
+        "title": "When Does a Designer Become a House?",
+        "description": "A fashion house begins when taste stops being a private instinct and becomes a repeatable system other people can carry, question, record, and continue.",
+        "destination": "/packages/b01",
+        "alt": "Title plate for When Does a Designer Become a House?.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-81112",
+        "title": "Can another hand act without impersonating?",
+        "description": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+        "destination": "/packages/b01",
+        "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+        "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "assetId": "S11",
+        "title": "The build record",
+        "description": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/b01",
+        "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+        "credit": "FIT Special Collections",
+        "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use."
+      },
+      {
+        "assetId": "S11",
+        "title": "A field tool for When Does a Designer Become a House?",
+        "description": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/b01",
+        "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+        "credit": "FIT Special Collections",
+        "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "B01-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b01",
+          "crop": "native 4:5; no crop",
+          "caption": "A fashion house begins when taste stops being a private instinct and becomes a repeatable system other people can carry, question, record, and continue.",
+          "credit": "RN Collins",
+          "alt": "Title plate for When Does a Designer Become a House?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-81112",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/81112",
+          "crop": "full object with generous field",
+          "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+          "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+          "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "B01-DIAGRAM-1",
+          "B01-DIAGRAM-2",
+          "B01-DIAGRAM-3",
+          "B01-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S11",
+          "visualType": "canonical public record card",
+          "source": "https://archiveondemand.fitnyc.edu/item/136259",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Special Collections",
+          "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+          "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "B01-FIELD-10",
+          "OBJ-81112"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "OBJ-81112",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.metmuseum.org/art/collection/search/81112",
+      "crop": "full object with generous field",
+      "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+      "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+      "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+      "rights": "Public Domain / Met Open Access",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "B01-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b01",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · CODE — Can the eye be explained?. A code is not a mood board. It is a set of recurring decisions—silhouette, proportion, material, finish, behavior, refusal—with examples, exceptions, and a reason for each. The test is not whether every object looks alike. It is whether a collaborator can recognize the governing judgment.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can the eye be explained? within When Does a Designer Become a House?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "B01-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b01",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · CARRY — Can another hand act without impersonating?. An institution needs roles, handoffs, review rituals, and vocabulary. Documentation should transmit the standard while leaving room for skilled interpretation. If every decision must return to the founder, the practice has staff but not institutional capacity.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can another hand act without impersonating? within When Does a Designer Become a House?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "B01-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b01",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · PROOF — Can the work prove its own making?. Collection records, samples, specifications, correspondence, credits, rights decisions, and accession-quality metadata turn memory into evidence. The record does not replace the object; it prevents the object from becoming anonymous.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can the work prove its own making? within When Does a Designer Become a House?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "B01-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b01",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · CONTINUITY — Can the system survive absence?. A house is tested by illness, departure, conflict, growth, sale, and succession. Continuity requires named authority, access to accounts and files, an archive, and a method for distinguishing evolution from imitation.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can the system survive absence? within When Does a Designer Become a House?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S11",
+        "title": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982",
+        "url": "https://archiveondemand.fitnyc.edu/item/136259",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S15",
+        "title": "FIT oral histories collection, 1967–2023",
+        "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S16",
+        "title": "Parsons School of Design Fashion Design Department records",
+        "url": "https://aspace.archives.newschool.edu/repositories/resources?field%5B%5D=title&filter_fields%5B%5D=subjects&filter_values%5B%5D=Fashion+design",
+        "disposition": "UNRESOLVED"
+      },
+      {
+        "assetId": "S21",
+        "title": "Gianfranco Ferré Research Center",
+        "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+        "disposition": "LINK_ONLY"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "B01-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/b01",
+        "crop": "native 4:5; no crop",
+        "caption": "A fashion house begins when taste stops being a private instinct and becomes a repeatable system other people can carry, question, record, and continue.",
+        "credit": "RN Collins",
+        "alt": "Title plate for When Does a Designer Become a House?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "B01-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b01",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · PROOF — Can the work prove its own making?. Collection records, samples, specifications, correspondence, credits, rights decisions, and accession-quality metadata turn memory into evidence. The record does not replace the object; it prevents the object from becoming anonymous.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can the work prove its own making? within When Does a Designer Become a House?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "B01-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b01",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · CONTINUITY — Can the system survive absence?. A house is tested by illness, departure, conflict, growth, sale, and succession. Continuity requires named authority, access to accounts and files, an archive, and a method for distinguishing evolution from imitation.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can the system survive absence? within When Does a Designer Become a House?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S11",
+        "visualType": "canonical public record card",
+        "source": "https://archiveondemand.fitnyc.edu/item/136259",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+        "credit": "FIT Special Collections",
+        "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+        "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S15",
+        "visualType": "canonical public record card",
+        "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+        "credit": "FIT Gladys Marcus Library",
+        "alt": "Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library.",
+        "rights": "Finding-aid metadata may be cited; media is governed item by item.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "B01-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/b01#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "Codifying taste can become a cage. The goal is not to freeze a signature look; it is to preserve how decisions are made—including how the house recognizes when its old answer is no longer enough.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for When Does a Designer Become a House?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "B01-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#b01-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "For each decision, attach one example and one deliberate exception.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for When Does a Designer Become a House?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "OBJ-81112",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.metmuseum.org/art/collection/search/81112",
+        "crop": "full object with generous field",
+        "caption": "The house is visible as both maker attribution and an enduring cataloguing unit.",
+        "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+        "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
+        "rights": "Public Domain / Met Open Access",
+        "disposition": "PUBLIC_DOMAIN_CC0",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "B01-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/b01",
+      "crop": "native 4:5; no crop",
+      "caption": "A fashion house begins when taste stops being a private instinct and becomes a repeatable system other people can carry, question, record, and continue.",
+      "credit": "RN Collins",
+      "alt": "Title plate for When Does a Designer Become a House?.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for When Does a Designer Become a House?. Diagram mapping can the work prove its own making? within When Does a Designer Become a House?. Diagram mapping can the system survive absence? within When Does a Designer Become a House?. Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections. Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library. Counterpoint card for When Does a Designer Become a House?. Fieldwork prompt for When Does a Designer Become a House?. Elaborately trimmed silk ball gown by the House of Worth, dated around 1872."
+  },
+  "interactive": {
+    "url": "/tools#b01-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Write five decisions that recur across the work.",
+        "evidenceAsset": "B01-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "For each decision, attach one example and one deliberate exception.",
+        "evidenceAsset": "B01-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "Name the person, record, or ritual that carries it when the founder is absent.",
+        "evidenceAsset": "B01-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Mark every answer that still exists only in the founder’s memory.",
+        "evidenceAsset": "B01-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S11",
+      "title": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982",
+      "url": "https://archiveondemand.fitnyc.edu/item/136259",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S15",
+      "title": "FIT oral histories collection, 1967–2023",
+      "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S16",
+      "title": "Parsons School of Design Fashion Design Department records",
+      "url": "https://aspace.archives.newschool.edu/repositories/resources?field%5B%5D=title&filter_fields%5B%5D=subjects&filter_values%5B%5D=Fashion+design",
+      "disposition": "UNRESOLVED",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S21",
+      "title": "Gianfranco Ferré Research Center",
+      "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S39",
+      "title": "Universal Electronic Records Management Requirements, Version 3",
+      "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S40",
+      "title": "Collections Care",
+      "url": "https://siarchives.si.edu/what-we-do/collections-care",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X03",
+      "title": "Dress designed by Ann Lowe",
+      "url": "https://www.si.edu/object/dress-designed-ann-lowe%3Anmaahc_2007.3.23",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X22",
+      "title": "The Hidden History of American Fashion",
+      "url": "https://www.si.edu/object/hidden-history-american-fashion-rediscovering-twentieth-century-women-designers-edited-nancy-deihl%3Asiris_sil_1089521",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X57",
+      "title": "Chinese American fashion designer oral-history digitization project",
+      "url": "https://www.archives.gov/nhprc/newsletter/april2024",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "OBJ-81112",
+      "title": "Ball gown",
+      "url": "https://images.metmuseum.org/CRDImages/ci/web-large/DT426.jpg",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/81112",
+      "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
+      "rights": "Public Domain / Met Open Access"
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S11",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S15",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S16",
+      "disposition": "UNRESOLVED",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S21",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S39",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S40",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-81112",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X03",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X22",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X57",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}

@@ -1,0 +1,414 @@
+{
+  "packageId": "B08",
+  "title": "The Business Partner Beside the Name",
+  "author": "RN Collins",
+  "version": "2.0",
+  "rightsRule": "Evidence leads; atmosphere never substitutes for provenance.",
+  "instagram": {
+    "carouselA": {
+      "title": "The Business Partner Beside the Name: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "B08-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b08",
+          "crop": "native 4:5; no crop",
+          "caption": "The person beside the name can carry finance, operations, relationships, governance, contradiction, and continuity—capacity that should be documented rather than erased as support.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Business Partner Beside the Name.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-loc-gtfy-00717",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/gtfy.00717/",
+          "crop": "full object with generous field",
+          "caption": "One frame holds a named designer, a model, a photographer, a collection, and an institutional record—separate roles that public shorthand often compresses.",
+          "credit": "Bernard Gotfryd photograph collection, Library of Congress Prints and Photographs Division",
+          "alt": "Fashion designer Liz Claiborne standing beside a model in a Library of Congress photograph by Bernard Gotfryd.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "B08-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · CAPACITY — What burden leaves the founder?. Name the decisions, relationships, records, calendars, risks, and emotional labor the partner carries. Replace “business side” with observable work and consequences.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what burden leaves the founder? within The Business Partner Beside the Name.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "B08-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · AUTHORITY — What may each person decide?. Write decision rights as verb plus object, threshold, required consultation, override, evidence, and appeal. Separate custom from enforceable authority.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what may each person decide? within The Business Partner Beside the Name.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "B08-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · ECONOMICS — How are value and downside shared?. Map equity, votes, salary, royalty, bonus, expenses, guarantees, vesting, transfer, dilution, information, and exit separately. Public filings are examples, not templates.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping how are value and downside shared? within The Business Partner Beside the Name.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "B08-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · BREAK — What happens when alignment ends?. Run deadlock, incapacity, departure, nonperformance, acquisition, founder conflict, and reputational crisis through the actual governance and contract records with qualified counsel.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what happens when alignment ends? within The Business Partner Beside the Name.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S35",
+          "visualType": "canonical public record card",
+          "source": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000018/tpr-20260627.htm",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Tapestry, Inc. Form 10-K for year ended June 27, 2026 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Securities and Exchange Commission",
+          "alt": "Source card for Tapestry, Inc. Form 10-K for year ended June 27, 2026, credited to U.S. Securities and Exchange Commission.",
+          "rights": "Public filing; quote narrowly and transform facts into original diagrams.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S36",
+          "visualType": "canonical public record card",
+          "source": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026037074/rl-20260328.htm",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Securities and Exchange Commission",
+          "alt": "Source card for Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026, credited to U.S. Securities and Exchange Commission.",
+          "rights": "Public filing; quote narrowly and diagram facts without implying image rights.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "The Business Partner Beside the Name: what the record changes",
+      "frames": [
+        {
+          "assetId": "B08-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b08",
+          "crop": "native 4:5; no crop",
+          "caption": "The person beside the name can carry finance, operations, relationships, governance, contradiction, and continuity—capacity that should be documented rather than erased as support.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Business Partner Beside the Name.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "B08-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · ECONOMICS — How are value and downside shared?. Map equity, votes, salary, royalty, bonus, expenses, guarantees, vesting, transfer, dilution, information, and exit separately. Public filings are examples, not templates.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping how are value and downside shared? within The Business Partner Beside the Name.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "B08-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · BREAK — What happens when alignment ends?. Run deadlock, incapacity, departure, nonperformance, acquisition, founder conflict, and reputational crisis through the actual governance and contract records with qualified counsel.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what happens when alignment ends? within The Business Partner Beside the Name.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S35",
+          "visualType": "canonical public record card",
+          "source": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000018/tpr-20260627.htm",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Tapestry, Inc. Form 10-K for year ended June 27, 2026 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Securities and Exchange Commission",
+          "alt": "Source card for Tapestry, Inc. Form 10-K for year ended June 27, 2026, credited to U.S. Securities and Exchange Commission.",
+          "rights": "Public filing; quote narrowly and transform facts into original diagrams.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S36",
+          "visualType": "canonical public record card",
+          "source": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026037074/rl-20260328.htm",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Securities and Exchange Commission",
+          "alt": "Source card for Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026, credited to U.S. Securities and Exchange Commission.",
+          "rights": "Public filing; quote narrowly and diagram facts without implying image rights.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "B08-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/b08#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Celebrating the operational partner can obscure staff, workers, advisers, and communities who also carry the institution. Conversely, romanticizing founder chemistry can hide unequal economics or undocumented authority. Precision makes collaboration visible without pretending harmony.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for The Business Partner Beside the Name.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "B08-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#b08-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Attach corporate, contract, account, and practice evidence separately.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for The Business Partner Beside the Name.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-loc-gtfy-00717",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/gtfy.00717/",
+          "crop": "full object with generous field",
+          "caption": "One frame holds a named designer, a model, a photographer, a collection, and an institutional record—separate roles that public shorthand often compresses.",
+          "credit": "Bernard Gotfryd photograph collection, Library of Congress Prints and Photographs Division",
+          "alt": "Fashion designer Liz Claiborne standing beside a model in a Library of Congress photograph by Bernard Gotfryd.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "B08-TITLE",
+        "title": "The Business Partner Beside the Name",
+        "description": "The person beside the name can carry finance, operations, relationships, governance, contradiction, and continuity—capacity that should be documented rather than erased as support.",
+        "destination": "/packages/b08",
+        "alt": "Title plate for The Business Partner Beside the Name.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-loc-gtfy-00717",
+        "title": "What may each person decide?",
+        "description": "One frame holds a named designer, a model, a photographer, a collection, and an institutional record—separate roles that public shorthand often compresses.",
+        "destination": "/packages/b08",
+        "alt": "Fashion designer Liz Claiborne standing beside a model in a Library of Congress photograph by Bernard Gotfryd.",
+        "credit": "Bernard Gotfryd photograph collection, Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "assetId": "S35",
+        "title": "The build record",
+        "description": "Tapestry, Inc. Form 10-K for year ended June 27, 2026 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/b08",
+        "alt": "Source card for Tapestry, Inc. Form 10-K for year ended June 27, 2026, credited to U.S. Securities and Exchange Commission.",
+        "credit": "U.S. Securities and Exchange Commission",
+        "rights": "Public filing; quote narrowly and transform facts into original diagrams."
+      },
+      {
+        "assetId": "S35",
+        "title": "A field tool for The Business Partner Beside the Name",
+        "description": "Tapestry, Inc. Form 10-K for year ended June 27, 2026 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/b08",
+        "alt": "Source card for Tapestry, Inc. Form 10-K for year ended June 27, 2026, credited to U.S. Securities and Exchange Commission.",
+        "credit": "U.S. Securities and Exchange Commission",
+        "rights": "Public filing; quote narrowly and transform facts into original diagrams."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "B08-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b08",
+          "crop": "native 4:5; no crop",
+          "caption": "The person beside the name can carry finance, operations, relationships, governance, contradiction, and continuity—capacity that should be documented rather than erased as support.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Business Partner Beside the Name.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-loc-gtfy-00717",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/gtfy.00717/",
+          "crop": "full object with generous field",
+          "caption": "One frame holds a named designer, a model, a photographer, a collection, and an institutional record—separate roles that public shorthand often compresses.",
+          "credit": "Bernard Gotfryd photograph collection, Library of Congress Prints and Photographs Division",
+          "alt": "Fashion designer Liz Claiborne standing beside a model in a Library of Congress photograph by Bernard Gotfryd.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "B08-DIAGRAM-1",
+          "B08-DIAGRAM-2",
+          "B08-DIAGRAM-3",
+          "B08-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S35",
+          "visualType": "canonical public record card",
+          "source": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000018/tpr-20260627.htm",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Tapestry, Inc. Form 10-K for year ended June 27, 2026 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Securities and Exchange Commission",
+          "alt": "Source card for Tapestry, Inc. Form 10-K for year ended June 27, 2026, credited to U.S. Securities and Exchange Commission.",
+          "rights": "Public filing; quote narrowly and transform facts into original diagrams.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "B08-FIELD-10",
+          "OBJ-loc-gtfy-00717"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "vertical": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-loc-gtfy-00717",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "One frame holds a named designer, a model, a photographer, a collection, and an institutional record—separate roles that public shorthand often compresses.",
+        "credit": "Bernard Gotfryd photograph collection, Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "B08-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · CAPACITY — What burden leaves the founder?. Name the decisions, relationships, records, calendars, risks, and emotional labor the partner carries. Replace “business side” with observable work and consequences.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "B08-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · AUTHORITY — What may each person decide?. Write decision rights as verb plus object, threshold, required consultation, override, evidence, and appeal. Separate custom from enforceable authority.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "B08-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · ECONOMICS — How are value and downside shared?. Map equity, votes, salary, royalty, bonus, expenses, guarantees, vesting, transfer, dilution, information, and exit separately. Public filings are examples, not templates.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "B08-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · BREAK — What happens when alignment ends?. Run deadlock, incapacity, departure, nonperformance, acquisition, founder conflict, and reputational crisis through the actual governance and contract records with qualified counsel.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S35",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Tapestry, Inc. Form 10-K for year ended June 27, 2026 is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. Securities and Exchange Commission",
+        "rights": "Public filing; quote narrowly and transform facts into original diagrams."
+      }
+    ],
+    "endCard": "Open B08 at institutions-of-one-fashion.vercel.app"
+  }
+}

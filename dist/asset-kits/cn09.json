@@ -1,0 +1,914 @@
+{
+  "packageId": "CN09",
+  "title": "Philanthropy as Continuation",
+  "domain": "continue",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "CN09-TITLE",
+      "role": "hook",
+      "caption": "Philanthropic continuation is strongest when it funds the conditions for new creators to build authority—not when it requires them to reproduce a founder’s style or gratitude.",
+      "source": "/packages/cn09",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "OBJ-loc-pga-06009",
+      "role": "material witness",
+      "caption": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+      "source": "https://www.loc.gov/resource/pga.06009/",
+      "rights": "Free to Use and Reuse / Library of Congress curated set"
+    },
+    {
+      "assetId": "CN09-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · CONDITION — Which barrier is being changed?. Use participant and field evidence to name the constraint—time, space, tools, care, legal access, production, archive, education, market, or safety—without inventing deficit narratives.",
+      "source": "/packages/cn09",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN09-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · POWER — Who defines success?. Allocate governance among participants, practitioners, community authorities, staff, independent reviewers, and funder; disclose conflicts and create appeal and correction routes.",
+      "source": "/packages/cn09",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN09-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · RIGHT — What do recipients retain?. Separate grant conditions, IP, name and likeness, documentation, data, confidentiality, cultural knowledge, publication, archive, and post-program access.",
+      "source": "/packages/cn09",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN09-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · CONTINUE — What remains when funding stops?. Plan unrestricted assets, maintained tools, open or governed curricula, participant networks, preserved records, successor funding, and an ethical closure route.",
+      "source": "/packages/cn09",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S39",
+      "role": "counterpoint",
+      "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "rights": "Government resource; link/download for education and do not imply endorsement."
+    },
+    {
+      "assetId": "S53",
+      "role": "action",
+      "caption": "17 U.S.C. § 101 — Definitions is retained as evidence, education, reporting or rights context.",
+      "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim",
+      "rights": "U.S. statutory text; quote narrowly and link."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "Philanthropy as Continuation: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CN09-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn09",
+          "crop": "native 4:5; no crop",
+          "caption": "Philanthropic continuation is strongest when it funds the conditions for new creators to build authority—not when it requires them to reproduce a founder’s style or gratitude.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Philanthropy as Continuation.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-loc-pga-06009",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/pga.06009/",
+          "crop": "full object with generous field",
+          "caption": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+          "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+          "alt": "An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CN09-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn09",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · CONDITION — Which barrier is being changed?. Use participant and field evidence to name the constraint—time, space, tools, care, legal access, production, archive, education, market, or safety—without inventing deficit narratives.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping which barrier is being changed? within Philanthropy as Continuation.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CN09-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn09",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · POWER — Who defines success?. Allocate governance among participants, practitioners, community authorities, staff, independent reviewers, and funder; disclose conflicts and create appeal and correction routes.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who defines success? within Philanthropy as Continuation.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CN09-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn09",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · RIGHT — What do recipients retain?. Separate grant conditions, IP, name and likeness, documentation, data, confidentiality, cultural knowledge, publication, archive, and post-program access.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what do recipients retain? within Philanthropy as Continuation.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CN09-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn09",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CONTINUE — What remains when funding stops?. Plan unrestricted assets, maintained tools, open or governed curricula, participant networks, preserved records, successor funding, and an ethical closure route.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what remains when funding stops? within Philanthropy as Continuation.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S53",
+          "visualType": "canonical public record card",
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "17 U.S.C. § 101 — Definitions is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. House Office of the Law Revision Counsel",
+          "alt": "Source card for 17 U.S.C. § 101 — Definitions, credited to U.S. House Office of the Law Revision Counsel.",
+          "rights": "U.S. statutory text; quote narrowly and link.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "Philanthropy as Continuation: what the record changes",
+      "frames": [
+        {
+          "assetId": "CN09-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn09",
+          "crop": "native 4:5; no crop",
+          "caption": "Philanthropic continuation is strongest when it funds the conditions for new creators to build authority—not when it requires them to reproduce a founder’s style or gratitude.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Philanthropy as Continuation.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CN09-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn09",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · RIGHT — What do recipients retain?. Separate grant conditions, IP, name and likeness, documentation, data, confidentiality, cultural knowledge, publication, archive, and post-program access.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what do recipients retain? within Philanthropy as Continuation.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CN09-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn09",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CONTINUE — What remains when funding stops?. Plan unrestricted assets, maintained tools, open or governed curricula, participant networks, preserved records, successor funding, and an ethical closure route.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what remains when funding stops? within Philanthropy as Continuation.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S53",
+          "visualType": "canonical public record card",
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "17 U.S.C. § 101 — Definitions is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. House Office of the Law Revision Counsel",
+          "alt": "Source card for 17 U.S.C. § 101 — Definitions, credited to U.S. House Office of the Law Revision Counsel.",
+          "rights": "U.S. statutory text; quote narrowly and link.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CN09-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/cn09#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "A founder may genuinely expand opportunity while retaining disproportionate agenda power. Participant governance and independent evaluation matter because gratitude is not consent and visibility is not benefit.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for Philanthropy as Continuation.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CN09-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#cn09-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Map money, decision, data, rights, credit, and appeal flows.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for Philanthropy as Continuation.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-loc-pga-06009",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/pga.06009/",
+          "crop": "full object with generous field",
+          "caption": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+          "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+          "alt": "An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-loc-pga-06009",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+        "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CN09-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · CONDITION — Which barrier is being changed?. Use participant and field evidence to name the constraint—time, space, tools, care, legal access, production, archive, education, market, or safety—without inventing deficit narratives.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CN09-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · POWER — Who defines success?. Allocate governance among participants, practitioners, community authorities, staff, independent reviewers, and funder; disclose conflicts and create appeal and correction routes.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CN09-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · RIGHT — What do recipients retain?. Separate grant conditions, IP, name and likeness, documentation, data, confidentiality, cultural knowledge, publication, archive, and post-program access.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CN09-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · CONTINUE — What remains when funding stops?. Plan unrestricted assets, maintained tools, open or governed curricula, participant networks, preserved records, successor funding, and an ethical closure route.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S39",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. National Archives and Records Administration",
+        "rights": "Government resource; link/download for education and do not imply endorsement."
+      }
+    ],
+    "endCard": "Open CN09 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CN09-TITLE",
+        "title": "Philanthropy as Continuation",
+        "description": "Philanthropic continuation is strongest when it funds the conditions for new creators to build authority—not when it requires them to reproduce a founder’s style or gratitude.",
+        "destination": "/packages/cn09",
+        "alt": "Title plate for Philanthropy as Continuation.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-loc-pga-06009",
+        "title": "Who defines success?",
+        "description": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+        "destination": "/packages/cn09",
+        "alt": "An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter.",
+        "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "assetId": "S39",
+        "title": "The continue record",
+        "description": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/cn09",
+        "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+        "credit": "U.S. National Archives and Records Administration",
+        "rights": "Government resource; link/download for education and do not imply endorsement."
+      },
+      {
+        "assetId": "S39",
+        "title": "A field tool for Philanthropy as Continuation",
+        "description": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/cn09",
+        "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+        "credit": "U.S. National Archives and Records Administration",
+        "rights": "Government resource; link/download for education and do not imply endorsement."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CN09-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn09",
+          "crop": "native 4:5; no crop",
+          "caption": "Philanthropic continuation is strongest when it funds the conditions for new creators to build authority—not when it requires them to reproduce a founder’s style or gratitude.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Philanthropy as Continuation.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-loc-pga-06009",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/pga.06009/",
+          "crop": "full object with generous field",
+          "caption": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+          "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+          "alt": "An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CN09-DIAGRAM-1",
+          "CN09-DIAGRAM-2",
+          "CN09-DIAGRAM-3",
+          "CN09-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CN09-FIELD-10",
+          "OBJ-loc-pga-06009"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "OBJ-loc-pga-06009",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.loc.gov/resource/pga.06009/",
+      "crop": "full object with generous field",
+      "caption": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+      "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+      "alt": "An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter.",
+      "rights": "Free to Use and Reuse / Library of Congress curated set",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "CN09-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn09",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · CONDITION — Which barrier is being changed?. Use participant and field evidence to name the constraint—time, space, tools, care, legal access, production, archive, education, market, or safety—without inventing deficit narratives.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping which barrier is being changed? within Philanthropy as Continuation.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "CN09-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn09",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · POWER — Who defines success?. Allocate governance among participants, practitioners, community authorities, staff, independent reviewers, and funder; disclose conflicts and create appeal and correction routes.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping who defines success? within Philanthropy as Continuation.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "CN09-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn09",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · RIGHT — What do recipients retain?. Separate grant conditions, IP, name and likeness, documentation, data, confidentiality, cultural knowledge, publication, archive, and post-program access.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what do recipients retain? within Philanthropy as Continuation.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "CN09-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn09",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · CONTINUE — What remains when funding stops?. Plan unrestricted assets, maintained tools, open or governed curricula, participant networks, preserved records, successor funding, and an ethical closure route.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what remains when funding stops? within Philanthropy as Continuation.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S39",
+        "title": "Universal Electronic Records Management Requirements, Version 3",
+        "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S53",
+        "title": "17 U.S.C. § 101 — Definitions",
+        "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim",
+        "disposition": "QUOTE_LINK"
+      },
+      {
+        "assetId": "S54",
+        "title": "17 U.S.C. § 201 — Ownership of copyright",
+        "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim",
+        "disposition": "QUOTE_LINK"
+      },
+      {
+        "assetId": "S65",
+        "title": "Appraisal Policy of the National Archives",
+        "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal",
+        "disposition": "LINK_ONLY"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "CN09-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/cn09",
+        "crop": "native 4:5; no crop",
+        "caption": "Philanthropic continuation is strongest when it funds the conditions for new creators to build authority—not when it requires them to reproduce a founder’s style or gratitude.",
+        "credit": "RN Collins",
+        "alt": "Title plate for Philanthropy as Continuation.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "CN09-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn09",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · RIGHT — What do recipients retain?. Separate grant conditions, IP, name and likeness, documentation, data, confidentiality, cultural knowledge, publication, archive, and post-program access.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what do recipients retain? within Philanthropy as Continuation.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "CN09-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn09",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · CONTINUE — What remains when funding stops?. Plan unrestricted assets, maintained tools, open or governed curricula, participant networks, preserved records, successor funding, and an ethical closure route.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what remains when funding stops? within Philanthropy as Continuation.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S39",
+        "visualType": "canonical public record card",
+        "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. National Archives and Records Administration",
+        "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+        "rights": "Government resource; link/download for education and do not imply endorsement.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S53",
+        "visualType": "canonical public record card",
+        "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "17 U.S.C. § 101 — Definitions is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. House Office of the Law Revision Counsel",
+        "alt": "Source card for 17 U.S.C. § 101 — Definitions, credited to U.S. House Office of the Law Revision Counsel.",
+        "rights": "U.S. statutory text; quote narrowly and link.",
+        "disposition": "QUOTE_LINK",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "CN09-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/cn09#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "A founder may genuinely expand opportunity while retaining disproportionate agenda power. Participant governance and independent evaluation matter because gratitude is not consent and visibility is not benefit.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for Philanthropy as Continuation.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "CN09-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#cn09-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "Map money, decision, data, rights, credit, and appeal flows.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for Philanthropy as Continuation.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "OBJ-loc-pga-06009",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.loc.gov/resource/pga.06009/",
+        "crop": "full object with generous field",
+        "caption": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+        "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+        "alt": "An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter.",
+        "rights": "Free to Use and Reuse / Library of Congress curated set",
+        "disposition": "PUBLIC_DOMAIN_CC0",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "CN09-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/cn09",
+      "crop": "native 4:5; no crop",
+      "caption": "Philanthropic continuation is strongest when it funds the conditions for new creators to build authority—not when it requires them to reproduce a founder’s style or gratitude.",
+      "credit": "RN Collins",
+      "alt": "Title plate for Philanthropy as Continuation.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for Philanthropy as Continuation. Diagram mapping what do recipients retain? within Philanthropy as Continuation. Diagram mapping what remains when funding stops? within Philanthropy as Continuation. Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration. Source card for 17 U.S.C. § 101 — Definitions, credited to U.S. House Office of the Law Revision Counsel. Counterpoint card for Philanthropy as Continuation. Fieldwork prompt for Philanthropy as Continuation. An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter."
+  },
+  "interactive": {
+    "url": "/tools#cn09-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Define one barrier with affected creators.",
+        "evidenceAsset": "CN09-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "Map money, decision, data, rights, credit, and appeal flows.",
+        "evidenceAsset": "CN09-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "Pay participant and practitioner review labor.",
+        "evidenceAsset": "CN09-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Design the program’s closure and asset-return plan before launch.",
+        "evidenceAsset": "CN09-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S39",
+      "title": "Universal Electronic Records Management Requirements, Version 3",
+      "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S53",
+      "title": "17 U.S.C. § 101 — Definitions",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S54",
+      "title": "17 U.S.C. § 201 — Ownership of copyright",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S65",
+      "title": "Appraisal Policy of the National Archives",
+      "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S73",
+      "title": "Patternmaking certificate",
+      "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S87",
+      "title": "Decent Work in the Garment Sector Supply Chains in Asia",
+      "url": "https://www.ilo.org/projects-and-partnerships/projects/decent-work-garment-sector-supply-chains-asia",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S88",
+      "title": "Handmade for the 21st century: safeguarding traditional Indian textiles",
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000382921",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X35",
+      "title": "UNESCO Intangible Cultural Heritage Lists",
+      "url": "https://ich.unesco.org/en/lists",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X57",
+      "title": "Chinese American fashion designer oral-history digitization project",
+      "url": "https://www.archives.gov/nhprc/newsletter/april2024",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X60",
+      "title": "Fashion at the Library",
+      "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "OBJ-loc-pga-06009",
+      "title": "S.D. Sollers & Co., manufacturers of children's fine shoes",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/pga/06000/06009v.jpg",
+      "canonicalUrl": "https://www.loc.gov/resource/pga.06009/",
+      "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+      "rights": "Free to Use and Reuse / Library of Congress curated set"
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S39",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S53",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S54",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S65",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S73",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S87",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S88",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-loc-pga-06009",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X35",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X57",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X60",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}

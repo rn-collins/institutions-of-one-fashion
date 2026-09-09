@@ -1,0 +1,414 @@
+{
+  "packageId": "CO05",
+  "title": "Controlled Company, Controlled Story",
+  "author": "RN Collins",
+  "version": "2.0",
+  "rightsRule": "Evidence leads; atmosphere never substitutes for provenance.",
+  "instagram": {
+    "carouselA": {
+      "title": "Controlled Company, Controlled Story: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CO05-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co05",
+          "crop": "native 4:5; no crop",
+          "caption": "Founder voting or board control can shape who appoints leaders and approves major corporate acts, but it cannot guarantee truthful archives, good design, worker voice, or permanent cultural legitimacy.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Controlled Company, Controlled Story.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-loc-gtfy-00717",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/gtfy.00717/",
+          "crop": "full object with generous field",
+          "caption": "One frame holds a named designer, a model, a photographer, a collection, and an institutional record—separate roles that public shorthand often compresses.",
+          "credit": "Bernard Gotfryd photograph collection, Library of Congress Prints and Photographs Division",
+          "alt": "Fashion designer Liz Claiborne standing beside a model in a Library of Congress photograph by Bernard Gotfryd.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CO05-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · VOTE — What does the vote actually reach?. Record security class, votes per share, ownership date, agreements, transfer limits, quorum, reserved matters, and the exact filing. Do not convert disclosed voting power into a claim about every creative decision.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what does the vote actually reach? within Controlled Company, Controlled Story.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CO05-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · BOARD — Who directs the corporation?. For a Delaware corporation, inspect certificate, bylaws, board composition, committee and delegation records with §141. Founder status alone is not a board rule.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who directs the corporation? within Controlled Company, Controlled Story.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CO05-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · STORY — Which systems shape public memory?. Map archive access, approval language, publicity, account control, historian or curator independence, contributor correction, and disputed records separately from corporate votes.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping which systems shape public memory? within Controlled Company, Controlled Story.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CO05-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CONSTRAINT — Who can challenge the controller?. Identify independent directors, contractual rights, worker and collaborator channels, law, fiduciary review, press scrutiny, archive policy, and correction routes without assuming any is effective in a particular company.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who can challenge the controller? within Controlled Company, Controlled Story.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S36",
+          "visualType": "canonical public record card",
+          "source": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026037074/rl-20260328.htm",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Securities and Exchange Commission",
+          "alt": "Source card for Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026, credited to U.S. Securities and Exchange Commission.",
+          "rights": "Public filing; quote narrowly and diagram facts without implying image rights.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "Controlled Company, Controlled Story: what the record changes",
+      "frames": [
+        {
+          "assetId": "CO05-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co05",
+          "crop": "native 4:5; no crop",
+          "caption": "Founder voting or board control can shape who appoints leaders and approves major corporate acts, but it cannot guarantee truthful archives, good design, worker voice, or permanent cultural legitimacy.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Controlled Company, Controlled Story.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CO05-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · STORY — Which systems shape public memory?. Map archive access, approval language, publicity, account control, historian or curator independence, contributor correction, and disputed records separately from corporate votes.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping which systems shape public memory? within Controlled Company, Controlled Story.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CO05-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CONSTRAINT — Who can challenge the controller?. Identify independent directors, contractual rights, worker and collaborator channels, law, fiduciary review, press scrutiny, archive policy, and correction routes without assuming any is effective in a particular company.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who can challenge the controller? within Controlled Company, Controlled Story.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S36",
+          "visualType": "canonical public record card",
+          "source": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026037074/rl-20260328.htm",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. Securities and Exchange Commission",
+          "alt": "Source card for Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026, credited to U.S. Securities and Exchange Commission.",
+          "rights": "Public filing; quote narrowly and diagram facts without implying image rights.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CO05-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/co05#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Founder control can protect experimentation and continuity; it can also preserve error and concentrate the power to describe other people’s labor. Control is neither virtue nor vice without facts, process, dissent, and outcome.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for Controlled Company, Controlled Story.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CO05-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#co05-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Attach one exact governing record to every formal power claim.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for Controlled Company, Controlled Story.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-loc-gtfy-00717",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/gtfy.00717/",
+          "crop": "full object with generous field",
+          "caption": "One frame holds a named designer, a model, a photographer, a collection, and an institutional record—separate roles that public shorthand often compresses.",
+          "credit": "Bernard Gotfryd photograph collection, Library of Congress Prints and Photographs Division",
+          "alt": "Fashion designer Liz Claiborne standing beside a model in a Library of Congress photograph by Bernard Gotfryd.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CO05-TITLE",
+        "title": "Controlled Company, Controlled Story",
+        "description": "Founder voting or board control can shape who appoints leaders and approves major corporate acts, but it cannot guarantee truthful archives, good design, worker voice, or permanent cultural legitimacy.",
+        "destination": "/packages/co05",
+        "alt": "Title plate for Controlled Company, Controlled Story.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-loc-gtfy-00717",
+        "title": "Who directs the corporation?",
+        "description": "One frame holds a named designer, a model, a photographer, a collection, and an institutional record—separate roles that public shorthand often compresses.",
+        "destination": "/packages/co05",
+        "alt": "Fashion designer Liz Claiborne standing beside a model in a Library of Congress photograph by Bernard Gotfryd.",
+        "credit": "Bernard Gotfryd photograph collection, Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "assetId": "S08",
+        "title": "The control record",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/co05",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      },
+      {
+        "assetId": "S08",
+        "title": "A field tool for Controlled Company, Controlled Story",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/co05",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CO05-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co05",
+          "crop": "native 4:5; no crop",
+          "caption": "Founder voting or board control can shape who appoints leaders and approves major corporate acts, but it cannot guarantee truthful archives, good design, worker voice, or permanent cultural legitimacy.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Controlled Company, Controlled Story.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-loc-gtfy-00717",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/gtfy.00717/",
+          "crop": "full object with generous field",
+          "caption": "One frame holds a named designer, a model, a photographer, a collection, and an institutional record—separate roles that public shorthand often compresses.",
+          "credit": "Bernard Gotfryd photograph collection, Library of Congress Prints and Photographs Division",
+          "alt": "Fashion designer Liz Claiborne standing beside a model in a Library of Congress photograph by Bernard Gotfryd.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CO05-DIAGRAM-1",
+          "CO05-DIAGRAM-2",
+          "CO05-DIAGRAM-3",
+          "CO05-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CO05-FIELD-10",
+          "OBJ-loc-gtfy-00717"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "vertical": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-loc-gtfy-00717",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "One frame holds a named designer, a model, a photographer, a collection, and an institutional record—separate roles that public shorthand often compresses.",
+        "credit": "Bernard Gotfryd photograph collection, Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CO05-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · VOTE — What does the vote actually reach?. Record security class, votes per share, ownership date, agreements, transfer limits, quorum, reserved matters, and the exact filing. Do not convert disclosed voting power into a claim about every creative decision.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CO05-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · BOARD — Who directs the corporation?. For a Delaware corporation, inspect certificate, bylaws, board composition, committee and delegation records with §141. Founder status alone is not a board rule.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CO05-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · STORY — Which systems shape public memory?. Map archive access, approval language, publicity, account control, historian or curator independence, contributor correction, and disputed records separately from corporate votes.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CO05-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · CONSTRAINT — Who can challenge the controller?. Identify independent directors, contractual rights, worker and collaborator channels, law, fiduciary review, press scrutiny, archive policy, and correction routes without assuming any is effective in a particular company.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S08",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ],
+    "endCard": "Open CO05 at institutions-of-one-fashion.vercel.app"
+  }
+}

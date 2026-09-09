@@ -1,0 +1,978 @@
+{
+  "packageId": "CO12",
+  "title": "The Cost of Link-Only Culture",
+  "domain": "control",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "CO12-TITLE",
+      "role": "hook",
+      "caption": "Link-only publication can respect rights, but a culture whose evidence lives only behind unstable links inherits broken memory, platform power, and unequal access.",
+      "source": "/packages/co12",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "OBJ-loc-tofr-52127",
+      "role": "material witness",
+      "caption": "The frame is not neutral delivery: pose, setting, crop, light, garment, commission, and publication context combine to manufacture a public fashion meaning.",
+      "source": "https://www.loc.gov/resource/tofr.52127/",
+      "rights": "Free to Use and Reuse / Library of Congress curated set"
+    },
+    {
+      "assetId": "CO12-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · DEPEND — Which memory exists only elsewhere?. Inventory source URL, platform, account owner, identifier, format, access condition, geography, login, cost, rights, and evidence use.",
+      "source": "/packages/co12",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CO12-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · PERMIT — What may lawfully be retained?. Separate public visibility, download ability, license, authorized embed, preservation copy, quotation, metadata, and link. Review contracts and jurisdiction where uncertain.",
+      "source": "/packages/co12",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CO12-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · DESCRIBE — What survives without the media?. Write a faithful factual description, creator and institution credit, date, identifier, evidentiary relevance, rights status, and retrieval history without substituting invented imagery.",
+      "source": "/packages/co12",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CO12-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · RECOVER — What happens after failure?. Schedule link checks, preserve redirects and replacement records, document loss, contact stewards, update citations, and keep correction history.",
+      "source": "/packages/co12",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S08",
+      "role": "counterpoint",
+      "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+      "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+    },
+    {
+      "assetId": "S15",
+      "role": "action",
+      "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+      "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+      "rights": "Finding-aid metadata may be cited; media is governed item by item."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "The Cost of Link-Only Culture: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CO12-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co12",
+          "crop": "native 4:5; no crop",
+          "caption": "Link-only publication can respect rights, but a culture whose evidence lives only behind unstable links inherits broken memory, platform power, and unequal access.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Cost of Link-Only Culture.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-loc-tofr-52127",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/tofr.52127/",
+          "crop": "full object with generous field",
+          "caption": "The frame is not neutral delivery: pose, setting, crop, light, garment, commission, and publication context combine to manufacture a public fashion meaning.",
+          "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
+          "alt": "Gloria Vanderbilt Cooper photographed by Toni Frissell for Vogue in 1966.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CO12-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co12",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · DEPEND — Which memory exists only elsewhere?. Inventory source URL, platform, account owner, identifier, format, access condition, geography, login, cost, rights, and evidence use.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping which memory exists only elsewhere? within The Cost of Link-Only Culture.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CO12-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co12",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · PERMIT — What may lawfully be retained?. Separate public visibility, download ability, license, authorized embed, preservation copy, quotation, metadata, and link. Review contracts and jurisdiction where uncertain.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what may lawfully be retained? within The Cost of Link-Only Culture.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CO12-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co12",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · DESCRIBE — What survives without the media?. Write a faithful factual description, creator and institution credit, date, identifier, evidentiary relevance, rights status, and retrieval history without substituting invented imagery.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what survives without the media? within The Cost of Link-Only Culture.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CO12-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co12",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · RECOVER — What happens after failure?. Schedule link checks, preserve redirects and replacement records, document loss, contact stewards, update citations, and keep correction history.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what happens after failure? within The Cost of Link-Only Culture.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S15",
+          "visualType": "canonical public record card",
+          "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Gladys Marcus Library",
+          "alt": "Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library.",
+          "rights": "Finding-aid metadata may be cited; media is governed item by item.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "The Cost of Link-Only Culture: what the record changes",
+      "frames": [
+        {
+          "assetId": "CO12-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co12",
+          "crop": "native 4:5; no crop",
+          "caption": "Link-only publication can respect rights, but a culture whose evidence lives only behind unstable links inherits broken memory, platform power, and unequal access.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Cost of Link-Only Culture.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CO12-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co12",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · DESCRIBE — What survives without the media?. Write a faithful factual description, creator and institution credit, date, identifier, evidentiary relevance, rights status, and retrieval history without substituting invented imagery.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what survives without the media? within The Cost of Link-Only Culture.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CO12-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co12",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · RECOVER — What happens after failure?. Schedule link checks, preserve redirects and replacement records, document loss, contact stewards, update citations, and keep correction history.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what happens after failure? within The Cost of Link-Only Culture.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S15",
+          "visualType": "canonical public record card",
+          "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Gladys Marcus Library",
+          "alt": "Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library.",
+          "rights": "Finding-aid metadata may be cited; media is governed item by item.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CO12-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/co12#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Preservation rhetoric can become a justification for copying creators’ work without consent. Conversely, rights uncertainty can erase minoritized histories first. The response is resourced permission work, accurate metadata, lawful preservation, and transparent absence.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for The Cost of Link-Only Culture.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CO12-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#co12-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Classify permitted copy, embed, excerpt, metadata-only, link-only, and no-use.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for The Cost of Link-Only Culture.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-loc-tofr-52127",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/tofr.52127/",
+          "crop": "full object with generous field",
+          "caption": "The frame is not neutral delivery: pose, setting, crop, light, garment, commission, and publication context combine to manufacture a public fashion meaning.",
+          "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
+          "alt": "Gloria Vanderbilt Cooper photographed by Toni Frissell for Vogue in 1966.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-loc-tofr-52127",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "The frame is not neutral delivery: pose, setting, crop, light, garment, commission, and publication context combine to manufacture a public fashion meaning.",
+        "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CO12-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · DEPEND — Which memory exists only elsewhere?. Inventory source URL, platform, account owner, identifier, format, access condition, geography, login, cost, rights, and evidence use.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CO12-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · PERMIT — What may lawfully be retained?. Separate public visibility, download ability, license, authorized embed, preservation copy, quotation, metadata, and link. Review contracts and jurisdiction where uncertain.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CO12-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · DESCRIBE — What survives without the media?. Write a faithful factual description, creator and institution credit, date, identifier, evidentiary relevance, rights status, and retrieval history without substituting invented imagery.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CO12-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · RECOVER — What happens after failure?. Schedule link checks, preserve redirects and replacement records, document loss, contact stewards, update citations, and keep correction history.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S08",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ],
+    "endCard": "Open CO12 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CO12-TITLE",
+        "title": "The Cost of Link-Only Culture",
+        "description": "Link-only publication can respect rights, but a culture whose evidence lives only behind unstable links inherits broken memory, platform power, and unequal access.",
+        "destination": "/packages/co12",
+        "alt": "Title plate for The Cost of Link-Only Culture.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-loc-tofr-52127",
+        "title": "What may lawfully be retained?",
+        "description": "The frame is not neutral delivery: pose, setting, crop, light, garment, commission, and publication context combine to manufacture a public fashion meaning.",
+        "destination": "/packages/co12",
+        "alt": "Gloria Vanderbilt Cooper photographed by Toni Frissell for Vogue in 1966.",
+        "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "assetId": "S08",
+        "title": "The control record",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/co12",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      },
+      {
+        "assetId": "S08",
+        "title": "A field tool for The Cost of Link-Only Culture",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/co12",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CO12-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co12",
+          "crop": "native 4:5; no crop",
+          "caption": "Link-only publication can respect rights, but a culture whose evidence lives only behind unstable links inherits broken memory, platform power, and unequal access.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Cost of Link-Only Culture.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-loc-tofr-52127",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/tofr.52127/",
+          "crop": "full object with generous field",
+          "caption": "The frame is not neutral delivery: pose, setting, crop, light, garment, commission, and publication context combine to manufacture a public fashion meaning.",
+          "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
+          "alt": "Gloria Vanderbilt Cooper photographed by Toni Frissell for Vogue in 1966.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CO12-DIAGRAM-1",
+          "CO12-DIAGRAM-2",
+          "CO12-DIAGRAM-3",
+          "CO12-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CO12-FIELD-10",
+          "OBJ-loc-tofr-52127"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "OBJ-loc-tofr-52127",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.loc.gov/resource/tofr.52127/",
+      "crop": "full object with generous field",
+      "caption": "The frame is not neutral delivery: pose, setting, crop, light, garment, commission, and publication context combine to manufacture a public fashion meaning.",
+      "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
+      "alt": "Gloria Vanderbilt Cooper photographed by Toni Frissell for Vogue in 1966.",
+      "rights": "Free to Use and Reuse / Library of Congress curated set",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "CO12-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/co12",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · DEPEND — Which memory exists only elsewhere?. Inventory source URL, platform, account owner, identifier, format, access condition, geography, login, cost, rights, and evidence use.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping which memory exists only elsewhere? within The Cost of Link-Only Culture.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "CO12-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/co12",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · PERMIT — What may lawfully be retained?. Separate public visibility, download ability, license, authorized embed, preservation copy, quotation, metadata, and link. Review contracts and jurisdiction where uncertain.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what may lawfully be retained? within The Cost of Link-Only Culture.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "CO12-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/co12",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · DESCRIBE — What survives without the media?. Write a faithful factual description, creator and institution credit, date, identifier, evidentiary relevance, rights status, and retrieval history without substituting invented imagery.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what survives without the media? within The Cost of Link-Only Culture.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "CO12-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/co12",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · RECOVER — What happens after failure?. Schedule link checks, preserve redirects and replacement records, document loss, contact stewards, update citations, and keep correction history.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what happens after failure? within The Cost of Link-Only Culture.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S08",
+        "title": "Personal Digital Archiving",
+        "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S15",
+        "title": "FIT oral histories collection, 1967–2023",
+        "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S23",
+        "title": "Condé Nast Archive",
+        "url": "https://artsandculture.google.com/partner/conde-nast-archive",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S24",
+        "title": "HCC Fashion Archive",
+        "url": "https://artsandculture.google.com/partner/hcc-fashion",
+        "disposition": "LINK_ONLY"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "CO12-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/co12",
+        "crop": "native 4:5; no crop",
+        "caption": "Link-only publication can respect rights, but a culture whose evidence lives only behind unstable links inherits broken memory, platform power, and unequal access.",
+        "credit": "RN Collins",
+        "alt": "Title plate for The Cost of Link-Only Culture.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "CO12-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/co12",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · DESCRIBE — What survives without the media?. Write a faithful factual description, creator and institution credit, date, identifier, evidentiary relevance, rights status, and retrieval history without substituting invented imagery.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what survives without the media? within The Cost of Link-Only Culture.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "CO12-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/co12",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · RECOVER — What happens after failure?. Schedule link checks, preserve redirects and replacement records, document loss, contact stewards, update citations, and keep correction history.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what happens after failure? within The Cost of Link-Only Culture.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S08",
+        "visualType": "canonical public record card",
+        "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S15",
+        "visualType": "canonical public record card",
+        "source": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "FIT oral histories collection, 1967–2023 is retained as evidence, education, reporting or rights context.",
+        "credit": "FIT Gladys Marcus Library",
+        "alt": "Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library.",
+        "rights": "Finding-aid metadata may be cited; media is governed item by item.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "CO12-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/co12#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "Preservation rhetoric can become a justification for copying creators’ work without consent. Conversely, rights uncertainty can erase minoritized histories first. The response is resourced permission work, accurate metadata, lawful preservation, and transparent absence.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for The Cost of Link-Only Culture.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "CO12-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#co12-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "Classify permitted copy, embed, excerpt, metadata-only, link-only, and no-use.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for The Cost of Link-Only Culture.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "OBJ-loc-tofr-52127",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.loc.gov/resource/tofr.52127/",
+        "crop": "full object with generous field",
+        "caption": "The frame is not neutral delivery: pose, setting, crop, light, garment, commission, and publication context combine to manufacture a public fashion meaning.",
+        "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
+        "alt": "Gloria Vanderbilt Cooper photographed by Toni Frissell for Vogue in 1966.",
+        "rights": "Free to Use and Reuse / Library of Congress curated set",
+        "disposition": "PUBLIC_DOMAIN_CC0",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "CO12-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/co12",
+      "crop": "native 4:5; no crop",
+      "caption": "Link-only publication can respect rights, but a culture whose evidence lives only behind unstable links inherits broken memory, platform power, and unequal access.",
+      "credit": "RN Collins",
+      "alt": "Title plate for The Cost of Link-Only Culture.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for The Cost of Link-Only Culture. Diagram mapping what survives without the media? within The Cost of Link-Only Culture. Diagram mapping what happens after failure? within The Cost of Link-Only Culture. Source card for Personal Digital Archiving, credited to Library of Congress. Source card for FIT oral histories collection, 1967–2023, credited to FIT Gladys Marcus Library. Counterpoint card for The Cost of Link-Only Culture. Fieldwork prompt for The Cost of Link-Only Culture. Gloria Vanderbilt Cooper photographed by Toni Frissell for Vogue in 1966."
+  },
+  "interactive": {
+    "url": "/tools#co12-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Identify every exhibition claim supported only by an external link.",
+        "evidenceAsset": "CO12-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "Classify permitted copy, embed, excerpt, metadata-only, link-only, and no-use.",
+        "evidenceAsset": "CO12-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "Create a faithful absent-object record for one restricted work.",
+        "evidenceAsset": "CO12-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Break one test URL and perform the documented recovery route.",
+        "evidenceAsset": "CO12-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S08",
+      "title": "Personal Digital Archiving",
+      "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S15",
+      "title": "FIT oral histories collection, 1967–2023",
+      "url": "https://sparc.fitnyc.edu/repositories/2/archival_objects/3962",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S23",
+      "title": "Condé Nast Archive",
+      "url": "https://artsandculture.google.com/partner/conde-nast-archive",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S24",
+      "title": "HCC Fashion Archive",
+      "url": "https://artsandculture.google.com/partner/hcc-fashion",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S27",
+      "title": "V&A Fashion in Motion",
+      "url": "https://artsandculture.google.com/story/v-a-fashion-in-motion-victoria-and-albert-museum/CAUBD7gX1IiTKw",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S39",
+      "title": "Universal Electronic Records Management Requirements, Version 3",
+      "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S65",
+      "title": "Appraisal Policy of the National Archives",
+      "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S66",
+      "title": "Electronic Records Information for Archivists",
+      "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X02",
+      "title": "Open Access FAQ",
+      "url": "https://www.si.edu/openaccess/faq",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X26",
+      "title": "Europeana Rights Statements",
+      "url": "https://pro.europeana.eu/page/available-rights-statements",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X27",
+      "title": "DPLA Rights Statements",
+      "url": "https://pro.dp.la/hubs/rights-statements",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X58",
+      "title": "Historical Resources: Fashion Industry",
+      "url": "https://guides.loc.gov/fashion-industry/history",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X62",
+      "title": "Save Page Now",
+      "url": "https://web.archive.org/save/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X64",
+      "title": "Guidance on Managing Social Media Records",
+      "url": "https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "OBJ-loc-tofr-52127",
+      "title": "Gloria Vanderbilt Cooper",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/tofr/52100/52127v.jpg",
+      "canonicalUrl": "https://www.loc.gov/resource/tofr.52127/",
+      "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
+      "rights": "Free to Use and Reuse / Library of Congress curated set"
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S08",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S15",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S23",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S24",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S27",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S39",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S65",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S66",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-loc-tofr-52127",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X02",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X26",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X27",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X58",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X62",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X64",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}

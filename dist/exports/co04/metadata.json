@@ -1,0 +1,414 @@
+{
+  "packageId": "CO04",
+  "title": "Who Owns the Archive?",
+  "author": "RN Collins",
+  "version": "2.0",
+  "rightsRule": "Evidence leads; atmosphere never substitutes for provenance.",
+  "instagram": {
+    "carouselA": {
+      "title": "Who Owns the Archive?: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CO04-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co04",
+          "crop": "native 4:5; no crop",
+          "caption": "A fashion archive is not one asset. It is a governed constellation of physical objects, copyrights, marks, contracts, files, testimony, privacy interests, access permissions, and institutional obligations.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Who Owns the Archive?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-159187",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/159187",
+          "crop": "full object with generous field",
+          "caption": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+          "alt": "Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CO04-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co04",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · INVENTORY — What is actually here?. Assign a persistent identifier to each object, file, recording, agreement, credential, and related record. Preserve original order and provenance before reorganizing for convenience.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what is actually here? within Who Owns the Archive?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CO04-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co04",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · SEPARATE — Which interest attaches to which item?. Record physical title, copyright authorship and transfers, trademark or design records, contract limits, privacy, access, and conservation separately. One accession row may need several rights rows.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping which interest attaches to which item? within Who Owns the Archive?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CO04-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co04",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · GOVERN — Who may possess, use, reproduce, lend, digitize, describe, and dispose?. Turn vague control into verbs, responsible parties, territory, term, approval, exceptions, recovery, and a source document. Unknown is a valid status; guessed ownership is not.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who may possess, use, reproduce, lend, digitize, describe, and dispose? within Who Owns the Archive?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CO04-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co04",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · STEWARD — What must remain usable after a transfer?. Require identifiers, checksums, condition notes, formats, contextual narration, rights evidence, audit history, and a correction route to travel with the archive.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what must remain usable after a transfer? within Who Owns the Archive?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "Who Owns the Archive?: what the record changes",
+      "frames": [
+        {
+          "assetId": "CO04-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co04",
+          "crop": "native 4:5; no crop",
+          "caption": "A fashion archive is not one asset. It is a governed constellation of physical objects, copyrights, marks, contracts, files, testimony, privacy interests, access permissions, and institutional obligations.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Who Owns the Archive?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CO04-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co04",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · GOVERN — Who may possess, use, reproduce, lend, digitize, describe, and dispose?. Turn vague control into verbs, responsible parties, territory, term, approval, exceptions, recovery, and a source document. Unknown is a valid status; guessed ownership is not.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who may possess, use, reproduce, lend, digitize, describe, and dispose? within Who Owns the Archive?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CO04-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co04",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · STEWARD — What must remain usable after a transfer?. Require identifiers, checksums, condition notes, formats, contextual narration, rights evidence, audit history, and a correction route to travel with the archive.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what must remain usable after a transfer? within Who Owns the Archive?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CO04-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/co04#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Fragmenting the archive into rights can obscure its cultural wholeness; treating it as culturally whole can obscure the rights and labor of photographers, makers, sitters, donors, employees, and communities. Ethical stewardship must keep both views in frame.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for Who Owns the Archive?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CO04-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#co04-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "For each, separate custody, material title, copyright, contract, privacy, access, and conservation evidence.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for Who Owns the Archive?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-159187",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/159187",
+          "crop": "full object with generous field",
+          "caption": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+          "alt": "Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CO04-TITLE",
+        "title": "Who Owns the Archive?",
+        "description": "A fashion archive is not one asset. It is a governed constellation of physical objects, copyrights, marks, contracts, files, testimony, privacy interests, access permissions, and institutional obligations.",
+        "destination": "/packages/co04",
+        "alt": "Title plate for Who Owns the Archive?.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-159187",
+        "title": "Which interest attaches to which item?",
+        "description": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+        "destination": "/packages/co04",
+        "alt": "Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "assetId": "S08",
+        "title": "The control record",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/co04",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      },
+      {
+        "assetId": "S08",
+        "title": "A field tool for Who Owns the Archive?",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/co04",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CO04-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co04",
+          "crop": "native 4:5; no crop",
+          "caption": "A fashion archive is not one asset. It is a governed constellation of physical objects, copyrights, marks, contracts, files, testimony, privacy interests, access permissions, and institutional obligations.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Who Owns the Archive?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-159187",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/159187",
+          "crop": "full object with generous field",
+          "caption": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+          "alt": "Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CO04-DIAGRAM-1",
+          "CO04-DIAGRAM-2",
+          "CO04-DIAGRAM-3",
+          "CO04-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CO04-FIELD-10",
+          "OBJ-159187"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "vertical": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-159187",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CO04-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · INVENTORY — What is actually here?. Assign a persistent identifier to each object, file, recording, agreement, credential, and related record. Preserve original order and provenance before reorganizing for convenience.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CO04-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · SEPARATE — Which interest attaches to which item?. Record physical title, copyright authorship and transfers, trademark or design records, contract limits, privacy, access, and conservation separately. One accession row may need several rights rows.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CO04-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · GOVERN — Who may possess, use, reproduce, lend, digitize, describe, and dispose?. Turn vague control into verbs, responsible parties, territory, term, approval, exceptions, recovery, and a source document. Unknown is a valid status; guessed ownership is not.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CO04-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · STEWARD — What must remain usable after a transfer?. Require identifiers, checksums, condition notes, formats, contextual narration, rights evidence, audit history, and a correction route to travel with the archive.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S08",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ],
+    "endCard": "Open CO04 at institutions-of-one-fashion.vercel.app"
+  }
+}
