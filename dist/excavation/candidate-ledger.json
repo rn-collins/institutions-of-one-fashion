@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "auditDate": "2026-09-07",
-  "count": 126,
+  "count": 179,
   "candidates": [
     {
       "id": "S01",
@@ -21,7 +21,10 @@
       "alt": null,
       "credit": "The Metropolitan Museum of Art",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "S02",
@@ -41,7 +44,10 @@
       "alt": null,
       "credit": "The Metropolitan Museum of Art",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "S03",
@@ -61,7 +67,10 @@
       "alt": null,
       "credit": "The Metropolitan Museum of Art",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "S04",
@@ -81,7 +90,10 @@
       "alt": null,
       "credit": "The Metropolitan Museum of Art",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "S05",
@@ -101,7 +113,10 @@
       "alt": null,
       "credit": "The Metropolitan Museum of Art",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "S06",
@@ -121,7 +136,10 @@
       "alt": null,
       "credit": "The Metropolitan Museum of Art",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "S07",
@@ -141,7 +159,10 @@
       "alt": null,
       "credit": "Library of Congress",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "S08",
@@ -179,7 +200,10 @@
       "alt": null,
       "credit": "Library of Congress",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "S09",
@@ -199,7 +223,10 @@
       "alt": null,
       "credit": "Smithsonian Learning Lab",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF03"
+      ]
     },
     {
       "id": "S10",
@@ -221,7 +248,10 @@
       "alt": null,
       "credit": "National Museum of African American History and Culture",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF03"
+      ]
     },
     {
       "id": "S11",
@@ -246,7 +276,10 @@
       "alt": null,
       "credit": "FIT Special Collections",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF05"
+      ]
     },
     {
       "id": "S12",
@@ -266,7 +299,10 @@
       "alt": null,
       "credit": "FIT Special Collections",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF05"
+      ]
     },
     {
       "id": "S13",
@@ -287,7 +323,10 @@
       "alt": null,
       "credit": "FIT Special Collections",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF05"
+      ]
     },
     {
       "id": "S14",
@@ -307,7 +346,10 @@
       "alt": null,
       "credit": "FIT Special Collections",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF05"
+      ]
     },
     {
       "id": "S15",
@@ -333,7 +375,10 @@
       "alt": null,
       "credit": "FIT Gladys Marcus Library",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF05"
+      ]
     },
     {
       "id": "S16",
@@ -354,7 +399,8 @@
       "alt": null,
       "credit": "The New School Archives",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S17",
@@ -374,7 +420,8 @@
       "alt": null,
       "credit": "The New School Archives",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S18",
@@ -394,7 +441,8 @@
       "alt": null,
       "credit": "The New School Archives",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S19",
@@ -414,7 +462,8 @@
       "alt": null,
       "credit": "The New School Archives",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S20",
@@ -434,7 +483,8 @@
       "alt": null,
       "credit": "The New School Archives",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S21",
@@ -460,7 +510,8 @@
       "alt": null,
       "credit": "Politecnico di Milano / Google Arts & Culture",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S22",
@@ -482,7 +533,8 @@
       "alt": null,
       "credit": "Politecnico di Milano / Google Arts & Culture",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S23",
@@ -505,7 +557,8 @@
       "alt": null,
       "credit": "Condé Nast / Google Arts & Culture",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S24",
@@ -527,7 +580,8 @@
       "alt": null,
       "credit": "Houston City College / Google Arts & Culture",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S25",
@@ -549,7 +603,8 @@
       "alt": null,
       "credit": "MoMu / Google Arts & Culture",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S26",
@@ -569,7 +624,8 @@
       "alt": null,
       "credit": "Parsons / Google Arts & Culture",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S27",
@@ -589,7 +645,10 @@
       "alt": null,
       "credit": "Victoria and Albert Museum / Google Arts & Culture",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF04"
+      ]
     },
     {
       "id": "S28",
@@ -612,7 +671,10 @@
       "alt": null,
       "credit": "World Intellectual Property Organization",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF09"
+      ]
     },
     {
       "id": "S29",
@@ -632,7 +694,10 @@
       "alt": null,
       "credit": "World Intellectual Property Organization",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF09"
+      ]
     },
     {
       "id": "S30",
@@ -652,7 +717,10 @@
       "alt": null,
       "credit": "World Intellectual Property Organization",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF09"
+      ]
     },
     {
       "id": "S31",
@@ -672,7 +740,10 @@
       "alt": null,
       "credit": "World Intellectual Property Organization",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF09"
+      ]
     },
     {
       "id": "S32",
@@ -694,7 +765,10 @@
       "alt": null,
       "credit": "United States Patent and Trademark Office",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF10"
+      ]
     },
     {
       "id": "S33",
@@ -716,7 +790,10 @@
       "alt": null,
       "credit": "Council of Fashion Designers of America",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF16"
+      ]
     },
     {
       "id": "S34",
@@ -736,7 +813,10 @@
       "alt": null,
       "credit": "Council of Fashion Designers of America",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF16"
+      ]
     },
     {
       "id": "S35",
@@ -759,7 +839,10 @@
       "alt": null,
       "credit": "U.S. Securities and Exchange Commission",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF12"
+      ]
     },
     {
       "id": "S36",
@@ -783,7 +866,10 @@
       "alt": null,
       "credit": "U.S. Securities and Exchange Commission",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF12"
+      ]
     },
     {
       "id": "S37",
@@ -805,7 +891,10 @@
       "alt": null,
       "credit": "U.S. Securities and Exchange Commission",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF12"
+      ]
     },
     {
       "id": "S38",
@@ -827,7 +916,8 @@
       "alt": null,
       "credit": "European Parliament and Council / EUR-Lex",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S39",
@@ -871,7 +961,10 @@
       "alt": null,
       "credit": "U.S. National Archives and Records Administration",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF18"
+      ]
     },
     {
       "id": "S40",
@@ -896,7 +989,10 @@
       "alt": null,
       "credit": "Smithsonian Institution Archives",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF03"
+      ]
     },
     {
       "id": "S41",
@@ -917,7 +1013,10 @@
       "alt": null,
       "credit": "Smithsonian Institution Archives",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF03"
+      ]
     },
     {
       "id": "S42",
@@ -941,7 +1040,10 @@
       "alt": null,
       "credit": "Smithsonian Museum Conservation Institute",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF03"
+      ]
     },
     {
       "id": "S43",
@@ -961,7 +1063,10 @@
       "alt": null,
       "credit": "Smithsonian Institution",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": [
+        "SF03"
+      ]
     },
     {
       "id": "S44",
@@ -981,7 +1086,8 @@
       "alt": null,
       "credit": "Rijksmuseum",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S45",
@@ -1001,7 +1107,8 @@
       "alt": null,
       "credit": "Rijksmuseum",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S46",
@@ -1021,7 +1128,8 @@
       "alt": null,
       "credit": "Rijksmuseum",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S47",
@@ -1041,7 +1149,8 @@
       "alt": null,
       "credit": "Rijksmuseum",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-08-29"
+      "accessed": "2026-08-29",
+      "surfaceIds": []
     },
     {
       "id": "S48",
@@ -1061,7 +1170,10 @@
       "alt": null,
       "credit": "U.S. House Office of the Law Revision Counsel",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF16"
+      ]
     },
     {
       "id": "S49",
@@ -1086,7 +1198,10 @@
       "alt": null,
       "credit": "U.S. House Office of the Law Revision Counsel",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF16"
+      ]
     },
     {
       "id": "S50",
@@ -1110,7 +1225,10 @@
       "alt": null,
       "credit": "U.S. Securities and Exchange Commission",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF12"
+      ]
     },
     {
       "id": "S51",
@@ -1134,7 +1252,10 @@
       "alt": null,
       "credit": "U.S. Securities and Exchange Commission",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF12"
+      ]
     },
     {
       "id": "S52",
@@ -1161,7 +1282,8 @@
       "alt": null,
       "credit": "State of Delaware",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": []
     },
     {
       "id": "S53",
@@ -1186,7 +1308,10 @@
       "alt": null,
       "credit": "U.S. House Office of the Law Revision Counsel",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF16"
+      ]
     },
     {
       "id": "S54",
@@ -1212,7 +1337,10 @@
       "alt": null,
       "credit": "U.S. House Office of the Law Revision Counsel",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF16"
+      ]
     },
     {
       "id": "S55",
@@ -1238,7 +1366,10 @@
       "alt": null,
       "credit": "U.S. House Office of the Law Revision Counsel",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF16"
+      ]
     },
     {
       "id": "S56",
@@ -1259,7 +1390,10 @@
       "alt": null,
       "credit": "U.S. Copyright Office",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF11"
+      ]
     },
     {
       "id": "S57",
@@ -1282,7 +1416,10 @@
       "alt": null,
       "credit": "U.S. Copyright Office",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF11"
+      ]
     },
     {
       "id": "S58",
@@ -1302,7 +1439,10 @@
       "alt": null,
       "credit": "Library of Congress",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "S59",
@@ -1322,7 +1462,10 @@
       "alt": null,
       "credit": "Library of Congress",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "S60",
@@ -1342,7 +1485,10 @@
       "alt": null,
       "credit": "Library of Congress",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "S61",
@@ -1362,7 +1508,10 @@
       "alt": null,
       "credit": "Library of Congress",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "S62",
@@ -1382,7 +1531,10 @@
       "alt": null,
       "credit": "Library of Congress",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "S63",
@@ -1410,7 +1562,10 @@
       "alt": null,
       "credit": "U.S. Copyright Office",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF11"
+      ]
     },
     {
       "id": "S64",
@@ -1435,7 +1590,10 @@
       "alt": null,
       "credit": "U.S. Copyright Office",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF11"
+      ]
     },
     {
       "id": "S65",
@@ -1466,7 +1624,10 @@
       "alt": null,
       "credit": "U.S. National Archives and Records Administration",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF18"
+      ]
     },
     {
       "id": "S66",
@@ -1495,7 +1656,10 @@
       "alt": null,
       "credit": "U.S. National Archives and Records Administration",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF18"
+      ]
     },
     {
       "id": "S67",
@@ -1517,7 +1681,10 @@
       "alt": null,
       "credit": "Victoria and Albert Museum",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF04"
+      ]
     },
     {
       "id": "S68",
@@ -1538,7 +1705,10 @@
       "alt": null,
       "credit": "The Metropolitan Museum of Art",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "S69",
@@ -1558,7 +1728,10 @@
       "alt": null,
       "credit": "The Metropolitan Museum of Art",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "S70",
@@ -1578,7 +1751,10 @@
       "alt": null,
       "credit": "The Metropolitan Museum of Art",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "S71",
@@ -1598,7 +1774,10 @@
       "alt": null,
       "credit": "The Metropolitan Museum of Art",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "S72",
@@ -1628,7 +1807,10 @@
       "alt": null,
       "credit": "Fashion Institute of Technology Special Collections and College Archives",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF05"
+      ]
     },
     {
       "id": "S73",
@@ -1658,7 +1840,10 @@
       "alt": null,
       "credit": "Fashion Institute of Technology",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF05"
+      ]
     },
     {
       "id": "S74",
@@ -1682,7 +1867,10 @@
       "alt": null,
       "credit": "Victoria and Albert Museum",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF04"
+      ]
     },
     {
       "id": "S75",
@@ -1705,7 +1893,10 @@
       "alt": null,
       "credit": "Victoria and Albert Museum",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF04"
+      ]
     },
     {
       "id": "S76",
@@ -1732,7 +1923,10 @@
       "alt": null,
       "credit": "U.S. Department of Labor, Wage and Hour Division",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF13"
+      ]
     },
     {
       "id": "S77",
@@ -1753,7 +1947,10 @@
       "alt": null,
       "credit": "U.S. Securities and Exchange Commission",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF12"
+      ]
     },
     {
       "id": "S78",
@@ -1773,7 +1970,10 @@
       "alt": null,
       "credit": "U.S. Securities and Exchange Commission",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF12"
+      ]
     },
     {
       "id": "S79",
@@ -1793,7 +1993,10 @@
       "alt": null,
       "credit": "The Museum at FIT",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF05"
+      ]
     },
     {
       "id": "S80",
@@ -1813,7 +2016,10 @@
       "alt": null,
       "credit": "Fashion Institute of Technology Special Collections and College Archives",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF05"
+      ]
     },
     {
       "id": "S81",
@@ -1835,7 +2041,10 @@
       "alt": null,
       "credit": "U.S. Department of Labor, Wage and Hour Division",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-03"
+      "accessed": "2026-09-03",
+      "surfaceIds": [
+        "SF13"
+      ]
     },
     {
       "id": "S82",
@@ -1855,7 +2064,10 @@
       "alt": null,
       "credit": "Fashion Institute of Technology",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-04"
+      "accessed": "2026-09-04",
+      "surfaceIds": [
+        "SF05"
+      ]
     },
     {
       "id": "S83",
@@ -1876,7 +2088,10 @@
       "alt": null,
       "credit": "Fashion Institute of Technology",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-04"
+      "accessed": "2026-09-04",
+      "surfaceIds": [
+        "SF05"
+      ]
     },
     {
       "id": "S84",
@@ -1897,7 +2112,10 @@
       "alt": null,
       "credit": "U.S. Copyright Office",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-04"
+      "accessed": "2026-09-04",
+      "surfaceIds": [
+        "SF11"
+      ]
     },
     {
       "id": "S85",
@@ -1917,7 +2135,10 @@
       "alt": null,
       "credit": "International Labour Organization",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-04"
+      "accessed": "2026-09-04",
+      "surfaceIds": [
+        "SF14"
+      ]
     },
     {
       "id": "S86",
@@ -1937,7 +2158,10 @@
       "alt": null,
       "credit": "International Labour Organization",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-04"
+      "accessed": "2026-09-04",
+      "surfaceIds": [
+        "SF14"
+      ]
     },
     {
       "id": "S87",
@@ -1959,7 +2183,10 @@
       "alt": null,
       "credit": "International Labour Organization",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-04"
+      "accessed": "2026-09-04",
+      "surfaceIds": [
+        "SF14"
+      ]
     },
     {
       "id": "S88",
@@ -1983,7 +2210,10 @@
       "alt": null,
       "credit": "UNESCO",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-04"
+      "accessed": "2026-09-04",
+      "surfaceIds": [
+        "SF15"
+      ]
     },
     {
       "id": "S89",
@@ -2003,7 +2233,10 @@
       "alt": null,
       "credit": "Library of Congress",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-04"
+      "accessed": "2026-09-04",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "S90",
@@ -2023,7 +2256,10 @@
       "alt": null,
       "credit": "Library of Congress",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-04"
+      "accessed": "2026-09-04",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "S91",
@@ -2047,7 +2283,10 @@
       "alt": null,
       "credit": "U.S. Copyright Office",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-05"
+      "accessed": "2026-09-05",
+      "surfaceIds": [
+        "SF11"
+      ]
     },
     {
       "id": "S92",
@@ -2071,7 +2310,10 @@
       "alt": null,
       "credit": "U.S. Copyright Office",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-05"
+      "accessed": "2026-09-05",
+      "surfaceIds": [
+        "SF11"
+      ]
     },
     {
       "id": "S93",
@@ -2094,7 +2336,10 @@
       "alt": null,
       "credit": "U.S. Patent and Trademark Office",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-05"
+      "accessed": "2026-09-05",
+      "surfaceIds": [
+        "SF10"
+      ]
     },
     {
       "id": "S94",
@@ -2115,7 +2360,8 @@
       "alt": null,
       "credit": "U.S. Small Business Administration",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-05"
+      "accessed": "2026-09-05",
+      "surfaceIds": []
     },
     {
       "id": "S95",
@@ -2136,7 +2382,8 @@
       "alt": null,
       "credit": "U.S. Small Business Administration",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-05"
+      "accessed": "2026-09-05",
+      "surfaceIds": []
     },
     {
       "id": "S96",
@@ -2156,7 +2403,10 @@
       "alt": null,
       "credit": "The Metropolitan Museum of Art",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-05"
+      "accessed": "2026-09-05",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "S97",
@@ -2176,7 +2426,10 @@
       "alt": null,
       "credit": "Library of Congress",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-05"
+      "accessed": "2026-09-05",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "S98",
@@ -2197,7 +2450,10 @@
       "alt": null,
       "credit": "The Metropolitan Museum of Art",
       "relevance": "Evidence, education, reporting or rights context.",
-      "accessed": "2026-09-05"
+      "accessed": "2026-09-05",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "OBJ-83877",
@@ -2219,7 +2475,10 @@
       "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
       "credit": "Gift of Mary Tavener Holmes, 1983",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "OBJ-157996",
@@ -2242,7 +2501,10 @@
       "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
       "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "OBJ-106420",
@@ -2265,7 +2527,10 @@
       "alt": "Light-colored linen and cotton dress dated around 1903, displayed frontally.",
       "credit": "Gift of Miss Eva Drexel Dahlgren, 1976",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "OBJ-81112",
@@ -2288,7 +2553,10 @@
       "alt": "Elaborately trimmed silk ball gown by the House of Worth, dated around 1872.",
       "credit": "Gift of Mrs. Philip K. Rhinelander, 1946",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "OBJ-loc-gtfy-00717",
@@ -2311,7 +2579,10 @@
       "alt": "Fashion designer Liz Claiborne standing beside a model in a Library of Congress photograph by Bernard Gotfryd.",
       "credit": "Bernard Gotfryd photograph collection, Library of Congress Prints and Photographs Division",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "OBJ-loc-tofr-08422",
@@ -2333,7 +2604,10 @@
       "alt": "Two models wearing evening fashions in a 1956 Toni Frissell photograph made for Sports Illustrated.",
       "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "OBJ-loc-ppmsca-44953",
@@ -2358,7 +2632,10 @@
       "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
       "credit": "Library of Congress Prints and Photographs Division",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "OBJ-loc-pga-06009",
@@ -2379,7 +2656,10 @@
       "alt": "An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter.",
       "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "OBJ-159187",
@@ -2402,7 +2682,10 @@
       "alt": "Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882.",
       "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "OBJ-155989",
@@ -2423,7 +2706,10 @@
       "alt": "Ornate pale silk House of Worth ball gown with floral decoration and a full trained skirt, dated 1895 to 1900.",
       "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. C. Oliver Iselin, 1961",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "OBJ-80430",
@@ -2444,7 +2730,10 @@
       "alt": "Elaborate House of Worth silk fancy dress costume with a fitted bodice, dark patterned skirt, and dramatic decorative sleeves, around 1893.",
       "credit": "Gift of James A. and Mary Elizabeth Kingsland, 1994",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "OBJ-84652",
@@ -2465,7 +2754,61 @@
       "alt": "House of Worth silk evening dress from 1898 to 1900 with a pale embellished bodice, narrow waist, and richly patterned trained skirt.",
       "credit": "Gift of Miss Eva Drexel Dahlgren, 1976",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
+    },
+    {
+      "id": "OBJ-107061",
+      "candidateType": "reusable-image",
+      "title": "Bridesmaid dress",
+      "creator": "A. F. Jammes",
+      "date": "1896",
+      "institution": "The Metropolitan Museum of Art",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/107061",
+      "directMediaUrl": "https://images.metmuseum.org/CRDImages/ci/web-large/C.I.41.14.2_F.jpg",
+      "rights": "Public Domain / Met Open Access",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "relatedPackages": [
+        "CO08",
+        "CO09",
+        "B09"
+      ],
+      "caption": "A documented copy after a Worth model makes the line between reference, attribution, and surviving object evidence visible.",
+      "alt": "A pale 1896 bridesmaid dress by A. F. Jammes, catalogued by The Metropolitan Museum of Art.",
+      "credit": "Gift of Miss Agnes Miles Carpenter, 1941",
+      "relevance": "Material witness installed in the related exhibitions.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
+    },
+    {
+      "id": "OBJ-159180",
+      "candidateType": "reusable-image",
+      "title": "Dress",
+      "creator": "Maison Pingat",
+      "date": "ca. 1885",
+      "institution": "The Metropolitan Museum of Art",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/159180",
+      "directMediaUrl": "https://images.metmuseum.org/CRDImages/ci/web-large/29.952a-b_front_CP4.jpg",
+      "rights": "Public Domain / Met Open Access",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "relatedPackages": [
+        "B02",
+        "B03",
+        "CA03",
+        "CA08"
+      ],
+      "caption": "Maison Pingat survives here through an exact maker record, construction evidence, custody, and an open image—not through fame alone.",
+      "alt": "A richly structured Maison Pingat silk and cotton dress from about 1885.",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Lillian E. Glenn Peirce and Mabel Glenn Cooper, 1929",
+      "relevance": "Material witness installed in the related exhibitions.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "OBJ-loc-tofr-52127",
@@ -2486,7 +2829,10 @@
       "alt": "Gloria Vanderbilt Cooper photographed by Toni Frissell for Vogue in 1966.",
       "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
     },
     {
       "id": "OBJ-81630",
@@ -2506,7 +2852,10 @@
       "alt": "House of Worth ball gown from about 1887, with a structured pale silk silhouette and elaborate surface ornament.",
       "credit": "Gift of Agnes de Mille, 1977",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "OBJ-159303",
@@ -2526,7 +2875,10 @@
       "alt": "Dark silk House of Worth walking suit from about 1889, photographed frontally against a neutral background.",
       "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "OBJ-159172",
@@ -2547,7 +2899,10 @@
       "alt": "House of Worth ensemble from 1893 in dark silk with jet and metal ornament, shown frontally.",
       "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Edith Gardiner, 1926",
       "relevance": "Material witness installed in the related exhibitions.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
     },
     {
       "id": "X01",
@@ -2580,7 +2935,10 @@
       "alt": null,
       "credit": "Smithsonian Institution",
       "relevance": "Additional official resource located during the dated excavation pass.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF03"
+      ]
     },
     {
       "id": "X02",
@@ -2611,7 +2969,10 @@
       "alt": null,
       "credit": "Smithsonian Institution",
       "relevance": "Additional official resource located during the dated excavation pass.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF03"
+      ]
     },
     {
       "id": "X03",
@@ -2642,7 +3003,10 @@
       "alt": null,
       "credit": "National Museum of African American History and Culture",
       "relevance": "Additional official resource located during the dated excavation pass.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF03"
+      ]
     },
     {
       "id": "X04",
@@ -2671,7 +3035,10 @@
       "alt": null,
       "credit": "National Museum of American History",
       "relevance": "Additional official resource located during the dated excavation pass.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF03"
+      ]
     },
     {
       "id": "X05",
@@ -2702,7 +3069,10 @@
       "alt": null,
       "credit": "Smithsonian National Museum of American History Archives Center",
       "relevance": "Additional official resource located during the dated excavation pass.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF03"
+      ]
     },
     {
       "id": "X06",
@@ -2731,7 +3101,10 @@
       "alt": null,
       "credit": "Victoria and Albert Museum",
       "relevance": "Additional official resource located during the dated excavation pass.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF04"
+      ]
     },
     {
       "id": "X07",
@@ -2760,7 +3133,10 @@
       "alt": null,
       "credit": "Museum of Arts and Design",
       "relevance": "Additional official resource located during the dated excavation pass.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF16"
+      ]
     },
     {
       "id": "X08",
@@ -2789,7 +3165,10 @@
       "alt": null,
       "credit": "Museum of Modern Art",
       "relevance": "Additional official resource located during the dated excavation pass.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF17"
+      ]
     },
     {
       "id": "X09",
@@ -2818,7 +3197,10 @@
       "alt": null,
       "credit": "National Museum of African American History and Culture",
       "relevance": "Additional official resource located during the dated excavation pass.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF03"
+      ]
     },
     {
       "id": "X10",
@@ -2851,7 +3233,10 @@
       "alt": null,
       "credit": "Fashion Institute of Technology",
       "relevance": "Additional official resource located during the dated excavation pass.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF05"
+      ]
     },
     {
       "id": "X11",
@@ -2884,7 +3269,10 @@
       "alt": null,
       "credit": "Victoria and Albert Museum",
       "relevance": "Additional official resource located during the dated excavation pass.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF04"
+      ]
     },
     {
       "id": "X12",
@@ -2915,7 +3303,1809 @@
       "alt": null,
       "credit": "Cooper Hewitt, Smithsonian Design Museum",
       "relevance": "Additional official resource located during the dated excavation pass.",
-      "accessed": "2026-09-07"
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF03",
+        "SF17"
+      ]
+    },
+    {
+      "id": "X13",
+      "title": "Bridesmaid dress",
+      "creator": "A. F. Jammes",
+      "date": "1896; accessed 2026-09-07",
+      "institution": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/art/collection/search/107061",
+      "kind": "collection object",
+      "rights": "Public Domain under Met Open Access; exact image installed separately.",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "packages": [
+        "B09",
+        "CO08",
+        "CO09"
+      ],
+      "candidateType": "collection object",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/107061",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B09",
+        "CO08",
+        "CO09"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "The Metropolitan Museum of Art",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
+    },
+    {
+      "id": "X14",
+      "title": "Dress",
+      "creator": "Maison Pingat",
+      "date": "ca. 1885; accessed 2026-09-07",
+      "institution": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/art/collection/search/159180",
+      "kind": "collection object",
+      "rights": "Public Domain under Met Open Access; exact image installed separately.",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "packages": [
+        "B02",
+        "B03",
+        "CA03",
+        "CA08"
+      ],
+      "candidateType": "collection object",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/159180",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B02",
+        "B03",
+        "CA03",
+        "CA08"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "The Metropolitan Museum of Art",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
+    },
+    {
+      "id": "X15",
+      "title": "Vestments and how to make them",
+      "creator": "Lilla B. N. Weston",
+      "date": "1914",
+      "institution": "Library of Congress",
+      "url": "https://www.loc.gov/resource/gdcmassbookdig.vestmentshowtoma00west/?st=gallery",
+      "kind": "digitized book",
+      "rights": "Library of Congress item identifies the work as free to use and reuse.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B03",
+        "B04",
+        "B05",
+        "CA04"
+      ],
+      "candidateType": "digitized book",
+      "canonicalUrl": "https://www.loc.gov/resource/gdcmassbookdig.vestmentshowtoma00west/?st=gallery",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B03",
+        "B04",
+        "B05",
+        "CA04"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Library of Congress",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
+    },
+    {
+      "id": "X16",
+      "title": "Shelter and clothing",
+      "creator": "Helen Kinne and Anna M. Cooley",
+      "date": "1913",
+      "institution": "Library of Congress",
+      "url": "https://www.loc.gov/resource/gdcmassbookdig.shelterclothingt01kinn/?sp=3&st=slideshow",
+      "kind": "digitized book",
+      "rights": "Library of Congress item identifies the work as free to use and reuse.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B03",
+        "B06",
+        "CA03",
+        "CA04"
+      ],
+      "candidateType": "digitized book",
+      "canonicalUrl": "https://www.loc.gov/resource/gdcmassbookdig.shelterclothingt01kinn/?sp=3&st=slideshow",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B03",
+        "B06",
+        "CA03",
+        "CA04"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Library of Congress",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
+    },
+    {
+      "id": "X17",
+      "title": "A system for cutting ladies garments",
+      "creator": "S. T. Leak",
+      "date": "1917",
+      "institution": "Library of Congress",
+      "url": "https://www.loc.gov/resource/gdcmassbookdig.systemforcutting00leak/?st=pdf",
+      "kind": "digitized patternmaking manual",
+      "rights": "Library of Congress item identifies the work as free to use and reuse.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B03",
+        "B04",
+        "B05",
+        "CA03"
+      ],
+      "candidateType": "digitized patternmaking manual",
+      "canonicalUrl": "https://www.loc.gov/resource/gdcmassbookdig.systemforcutting00leak/?st=pdf",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B03",
+        "B04",
+        "B05",
+        "CA03"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Library of Congress",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
+    },
+    {
+      "id": "X18",
+      "title": "Costume design for a New York production",
+      "creator": "Federal Theatre Project",
+      "date": "1935–1939",
+      "institution": "Library of Congress",
+      "url": "https://www.loc.gov/resource/fprcd.11070018.0/",
+      "kind": "costume design drawing",
+      "rights": "Library of Congress item is in a free-to-use collection; exact record governs.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B04",
+        "B07",
+        "CA01",
+        "CA05"
+      ],
+      "candidateType": "costume design drawing",
+      "canonicalUrl": "https://www.loc.gov/resource/fprcd.11070018.0/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B04",
+        "B07",
+        "CA01",
+        "CA05"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Library of Congress",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
+    },
+    {
+      "id": "X19",
+      "title": "Feedsack dress",
+      "creator": "unknown maker",
+      "date": "twentieth century; accessed 2026-09-07",
+      "institution": "National Museum of American History",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1105750",
+      "kind": "collection object",
+      "rights": "Smithsonian record marks the digital asset CC0; canonical record retained.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B06",
+        "CA04",
+        "CN08",
+        "CN11"
+      ],
+      "candidateType": "collection object",
+      "canonicalUrl": "https://americanhistory.si.edu/collections/object/nmah_1105750",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B06",
+        "CA04",
+        "CN08",
+        "CN11"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "National Museum of American History",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF03"
+      ]
+    },
+    {
+      "id": "X20",
+      "title": "Wedding dress by Christian Dior",
+      "creator": "House of Dior",
+      "date": "twentieth century; accessed 2026-09-07",
+      "institution": "National Museum of American History",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1006049",
+      "kind": "collection object",
+      "rights": "Smithsonian record marks the digital asset CC0; canonical record retained pending direct-file ingest.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B02",
+        "B09",
+        "CN02",
+        "CN06"
+      ],
+      "candidateType": "collection object",
+      "canonicalUrl": "https://americanhistory.si.edu/collections/object/nmah_1006049",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B02",
+        "B09",
+        "CN02",
+        "CN06"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "National Museum of American History",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF03"
+      ]
+    },
+    {
+      "id": "X21",
+      "title": "Knock It Off: A History of Design Piracy in the U.S. Women’s Ready-to-Wear Apparel Industry",
+      "creator": "Sara B. Marcketti and Jean L. Parsons",
+      "date": "2016",
+      "institution": "Smithsonian Libraries",
+      "url": "https://www.si.edu/object/knock-it-history-design-piracy-us-womens-ready-wear-apparel-industry-sara-b-marcketti-and-jean-l%3Asiris_sil_1060315",
+      "kind": "book record",
+      "rights": "Bibliographic discovery record; book remains link-only.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CO03",
+        "CO07",
+        "CO08",
+        "CO09"
+      ],
+      "candidateType": "book record",
+      "canonicalUrl": "https://www.si.edu/object/knock-it-history-design-piracy-us-womens-ready-wear-apparel-industry-sara-b-marcketti-and-jean-l%3Asiris_sil_1060315",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CO03",
+        "CO07",
+        "CO08",
+        "CO09"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Smithsonian Libraries",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF03"
+      ]
+    },
+    {
+      "id": "X22",
+      "title": "The Hidden History of American Fashion",
+      "creator": "Nancy Deihl, editor",
+      "date": "2018",
+      "institution": "Smithsonian Libraries",
+      "url": "https://www.si.edu/object/hidden-history-american-fashion-rediscovering-twentieth-century-women-designers-edited-nancy-deihl%3Asiris_sil_1089521",
+      "kind": "book record",
+      "rights": "Bibliographic discovery record; book remains link-only.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B01",
+        "B10",
+        "CA10",
+        "CN10"
+      ],
+      "candidateType": "book record",
+      "canonicalUrl": "https://www.si.edu/object/hidden-history-american-fashion-rediscovering-twentieth-century-women-designers-edited-nancy-deihl%3Asiris_sil_1089521",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B01",
+        "B10",
+        "CA10",
+        "CN10"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Smithsonian Libraries",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF03",
+        "SF16"
+      ]
+    },
+    {
+      "id": "X23",
+      "title": "Open Access API",
+      "creator": "The Metropolitan Museum of Art",
+      "date": "current; accessed 2026-09-07",
+      "institution": "The Metropolitan Museum of Art",
+      "url": "https://metmuseum.github.io/",
+      "kind": "open dataset and API",
+      "rights": "API documentation; object-level Public Domain status controls media reuse.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B07",
+        "CA02",
+        "CA10",
+        "CN11"
+      ],
+      "candidateType": "open dataset and API",
+      "canonicalUrl": "https://metmuseum.github.io/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B07",
+        "CA02",
+        "CA10",
+        "CN11"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "The Metropolitan Museum of Art",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF01"
+      ]
+    },
+    {
+      "id": "X24",
+      "title": "Smithsonian Open Access developer tools",
+      "creator": "Smithsonian Institution",
+      "date": "current; accessed 2026-09-07",
+      "institution": "Smithsonian Institution",
+      "url": "https://www.si.edu/openaccess/devtools",
+      "kind": "open dataset and API",
+      "rights": "Official API documentation; item-level restrictions still control.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B07",
+        "CA02",
+        "CA10",
+        "CN11"
+      ],
+      "candidateType": "open dataset and API",
+      "canonicalUrl": "https://www.si.edu/openaccess/devtools",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B07",
+        "CA02",
+        "CA10",
+        "CN11"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Smithsonian Institution",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF03"
+      ]
+    },
+    {
+      "id": "X25",
+      "title": "Cooper Hewitt Collection API",
+      "creator": "Cooper Hewitt Smithsonian Design Museum",
+      "date": "current; accessed 2026-09-07",
+      "institution": "Cooper Hewitt",
+      "url": "https://collection.cooperhewitt.org/api/",
+      "kind": "collection interactive and API",
+      "rights": "Link to official API; individual collection objects retain their stated rights.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B03",
+        "B07",
+        "CA02",
+        "CA09"
+      ],
+      "candidateType": "collection interactive and API",
+      "canonicalUrl": "https://collection.cooperhewitt.org/api/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B03",
+        "B07",
+        "CA02",
+        "CA09"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Cooper Hewitt",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF17"
+      ]
+    },
+    {
+      "id": "X26",
+      "title": "Europeana Rights Statements",
+      "creator": "Europeana Foundation",
+      "date": "current; accessed 2026-09-07",
+      "institution": "Europeana",
+      "url": "https://pro.europeana.eu/page/available-rights-statements",
+      "kind": "rights guidance",
+      "rights": "Official item-rights vocabulary; provider item statement controls.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CO03",
+        "CO04",
+        "CO12",
+        "CN08"
+      ],
+      "candidateType": "rights guidance",
+      "canonicalUrl": "https://pro.europeana.eu/page/available-rights-statements",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CO03",
+        "CO04",
+        "CO12",
+        "CN08"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Europeana",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF06"
+      ]
+    },
+    {
+      "id": "X27",
+      "title": "DPLA Rights Statements",
+      "creator": "Digital Public Library of America",
+      "date": "current; accessed 2026-09-07",
+      "institution": "DPLA",
+      "url": "https://pro.dp.la/hubs/rights-statements",
+      "kind": "rights guidance",
+      "rights": "Official aggregator guidance; contributing institution record controls.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CO03",
+        "CO04",
+        "CO12",
+        "CN08"
+      ],
+      "candidateType": "rights guidance",
+      "canonicalUrl": "https://pro.dp.la/hubs/rights-statements",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CO03",
+        "CO04",
+        "CO12",
+        "CN08"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "DPLA",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": []
+    },
+    {
+      "id": "X28",
+      "title": "Trademark Search system",
+      "creator": "United States Patent and Trademark Office",
+      "date": "current; accessed 2026-09-07",
+      "institution": "USPTO",
+      "url": "https://tmsearch.uspto.gov/",
+      "kind": "government records search",
+      "rights": "Public search interface; exact live record and counsel review required.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CO01",
+        "CO05",
+        "CO07",
+        "CN12"
+      ],
+      "candidateType": "government records search",
+      "canonicalUrl": "https://tmsearch.uspto.gov/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CO01",
+        "CO05",
+        "CO07",
+        "CN12"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "USPTO",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF10"
+      ]
+    },
+    {
+      "id": "X29",
+      "title": "Trademark Assignment Search",
+      "creator": "United States Patent and Trademark Office",
+      "date": "current; accessed 2026-09-07",
+      "institution": "USPTO",
+      "url": "https://assignmentcenter.uspto.gov/",
+      "kind": "government assignment records",
+      "rights": "Public search interface; recorded assignment is not a complete ownership opinion.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CO01",
+        "CO05",
+        "CO11",
+        "CN12"
+      ],
+      "candidateType": "government assignment records",
+      "canonicalUrl": "https://assignmentcenter.uspto.gov/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CO01",
+        "CO05",
+        "CO11",
+        "CN12"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "USPTO",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF10"
+      ]
+    },
+    {
+      "id": "X30",
+      "title": "Companies House company information service",
+      "creator": "Companies House",
+      "date": "current; accessed 2026-09-07",
+      "institution": "UK Government",
+      "url": "https://find-and-update.company-information.service.gov.uk/",
+      "kind": "corporate registry",
+      "rights": "Public registry; filing status and jurisdictional limits must remain explicit.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B08",
+        "CO02",
+        "CO05",
+        "CO11"
+      ],
+      "candidateType": "corporate registry",
+      "canonicalUrl": "https://find-and-update.company-information.service.gov.uk/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B08",
+        "CO02",
+        "CO05",
+        "CO11"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "UK Government",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF18"
+      ]
+    },
+    {
+      "id": "X31",
+      "title": "SEC EDGAR APIs",
+      "creator": "U.S. Securities and Exchange Commission",
+      "date": "current; accessed 2026-09-07",
+      "institution": "SEC",
+      "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+      "kind": "government dataset",
+      "rights": "Official public filing API; exact filing context controls quotation.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B08",
+        "CA07",
+        "CO02",
+        "CO07",
+        "CO11"
+      ],
+      "candidateType": "government dataset",
+      "canonicalUrl": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B08",
+        "CA07",
+        "CO02",
+        "CO07",
+        "CO11"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "SEC",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF12"
+      ]
+    },
+    {
+      "id": "X32",
+      "title": "Copyright and the Fashion Design Industry",
+      "creator": "U.S. Copyright Office",
+      "date": "current; accessed 2026-09-07",
+      "institution": "U.S. Copyright Office",
+      "url": "https://www.copyright.gov/docs/regstat072706.html",
+      "kind": "government testimony",
+      "rights": "Public government text; cite narrowly and retain date/context.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CO03",
+        "CO07",
+        "CO08",
+        "CO09"
+      ],
+      "candidateType": "government testimony",
+      "canonicalUrl": "https://www.copyright.gov/docs/regstat072706.html",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CO03",
+        "CO07",
+        "CO08",
+        "CO09"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "U.S. Copyright Office",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF11"
+      ]
+    },
+    {
+      "id": "X33",
+      "title": "Garment industry compliance resources",
+      "creator": "Wage and Hour Division",
+      "date": "current; accessed 2026-09-07",
+      "institution": "U.S. Department of Labor",
+      "url": "https://www.dol.gov/agencies/whd/industry-resources/garment",
+      "kind": "government labor resource",
+      "rights": "Official guidance; jurisdiction and worker facts remain case-specific.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CA04",
+        "CA07",
+        "B08",
+        "CN05"
+      ],
+      "candidateType": "government labor resource",
+      "canonicalUrl": "https://www.dol.gov/agencies/whd/industry-resources/garment",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CA04",
+        "CA07",
+        "B08",
+        "CN05"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "U.S. Department of Labor",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF13"
+      ]
+    },
+    {
+      "id": "X34",
+      "title": "ILO Better Work programme",
+      "creator": "International Labour Organization and IFC",
+      "date": "current; accessed 2026-09-07",
+      "institution": "International Labour Organization",
+      "url": "https://betterwork.org/",
+      "kind": "labor research and program data",
+      "rights": "Link and summarize with geography and methods intact.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CA04",
+        "CA07",
+        "B08",
+        "CN05"
+      ],
+      "candidateType": "labor research and program data",
+      "canonicalUrl": "https://betterwork.org/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CA04",
+        "CA07",
+        "B08",
+        "CN05"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "International Labour Organization",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF14"
+      ]
+    },
+    {
+      "id": "X35",
+      "title": "UNESCO Intangible Cultural Heritage Lists",
+      "creator": "UNESCO",
+      "date": "current; accessed 2026-09-07",
+      "institution": "UNESCO",
+      "url": "https://ich.unesco.org/en/lists",
+      "kind": "cultural heritage registry",
+      "rights": "Official registry; inscription is not a media license or ownership ruling.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CA04",
+        "CA09",
+        "CN05",
+        "CN09"
+      ],
+      "candidateType": "cultural heritage registry",
+      "canonicalUrl": "https://ich.unesco.org/en/lists",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CA04",
+        "CA09",
+        "CN05",
+        "CN09"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "UNESCO",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF15"
+      ]
+    },
+    {
+      "id": "X36",
+      "title": "Personal Digital Archiving",
+      "creator": "Library of Congress",
+      "date": "current; accessed 2026-09-07",
+      "institution": "Library of Congress",
+      "url": "https://www.digitalpreservation.gov/personalarchiving/",
+      "kind": "preservation resource",
+      "rights": "Official educational resource; link and quote narrowly.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CO06",
+        "CN01",
+        "CN04",
+        "CN07",
+        "CN08",
+        "CN12"
+      ],
+      "candidateType": "preservation resource",
+      "canonicalUrl": "https://www.digitalpreservation.gov/personalarchiving/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CO06",
+        "CN01",
+        "CN04",
+        "CN07",
+        "CN08",
+        "CN12"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Library of Congress",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
+    },
+    {
+      "id": "X37",
+      "title": "National Archives records management guidance",
+      "creator": "National Archives and Records Administration",
+      "date": "current; accessed 2026-09-07",
+      "institution": "NARA",
+      "url": "https://www.archives.gov/records-mgmt",
+      "kind": "government preservation resource",
+      "rights": "Official guidance; adapt as method, not a bespoke legal conclusion.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CA10",
+        "CO04",
+        "CN01",
+        "CN03",
+        "CN04",
+        "CN08"
+      ],
+      "candidateType": "government preservation resource",
+      "canonicalUrl": "https://www.archives.gov/records-mgmt",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CA10",
+        "CO04",
+        "CN01",
+        "CN03",
+        "CN04",
+        "CN08"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "NARA",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF18"
+      ]
+    },
+    {
+      "id": "X39",
+      "title": "WIPO Global Brand Database",
+      "creator": "World Intellectual Property Organization",
+      "date": "current; accessed 2026-09-07",
+      "institution": "WIPO",
+      "url": "https://branddb.wipo.int/",
+      "kind": "international trademark database",
+      "rights": "Public search tool; exact territorial record and counsel review required.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CO01",
+        "CO05",
+        "CO11",
+        "CN12"
+      ],
+      "candidateType": "international trademark database",
+      "canonicalUrl": "https://branddb.wipo.int/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CO01",
+        "CO05",
+        "CO11",
+        "CN12"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "WIPO",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF09"
+      ]
+    },
+    {
+      "id": "X40",
+      "title": "Internet Archive Scholar",
+      "creator": "Internet Archive",
+      "date": "current; accessed 2026-09-07",
+      "institution": "Internet Archive",
+      "url": "https://scholar.archive.org/",
+      "kind": "research discovery tool",
+      "rights": "Discovery does not establish reuse permission; exact item terms control.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B06",
+        "B07",
+        "CA09",
+        "CA10"
+      ],
+      "candidateType": "research discovery tool",
+      "canonicalUrl": "https://scholar.archive.org/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B06",
+        "B07",
+        "CA09",
+        "CA10"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Internet Archive",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF07"
+      ]
+    },
+    {
+      "id": "X41",
+      "title": "The Fashion and Textile Museum collection and programme",
+      "creator": "Fashion and Textile Museum",
+      "date": "current; accessed 2026-09-07",
+      "institution": "Fashion and Textile Museum",
+      "url": "https://fashiontextilemuseum.org/",
+      "kind": "museum exhibition and learning resource",
+      "rights": "Official museum site; linked for research, with item-level media held from reproduction.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CA06",
+        "CA08",
+        "CN06"
+      ],
+      "candidateType": "museum exhibition and learning resource",
+      "canonicalUrl": "https://fashiontextilemuseum.org/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CA06",
+        "CA08",
+        "CN06"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Fashion and Textile Museum",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": []
+    },
+    {
+      "id": "X42",
+      "title": "European Product Registry for Energy Labelling",
+      "creator": "European Commission",
+      "date": "current; accessed 2026-09-07",
+      "institution": "European Commission",
+      "url": "https://eprel.ec.europa.eu/",
+      "kind": "public product registry model",
+      "rights": "Official public registry; linked as a comparative record architecture, not as proof of fashion-product compliance.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CO10",
+        "CN08",
+        "CN11"
+      ],
+      "candidateType": "public product registry model",
+      "canonicalUrl": "https://eprel.ec.europa.eu/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CO10",
+        "CN08",
+        "CN11"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "European Commission",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": []
+    },
+    {
+      "id": "X43",
+      "title": "Dressmaking",
+      "creator": "Jane Fales",
+      "date": "1917",
+      "institution": "Internet Archive",
+      "url": "https://archive.org/details/dressmaking00fale",
+      "kind": "rights-marked digitized manual",
+      "rights": "Work-level public-domain-era candidate; Internet Archive availability alone is not file-level permission, so linked pending scan-source verification.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B03",
+        "B04",
+        "B05",
+        "CA03",
+        "CA04"
+      ],
+      "candidateType": "rights-marked digitized manual",
+      "canonicalUrl": "https://archive.org/details/dressmaking00fale",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B03",
+        "B04",
+        "B05",
+        "CA03",
+        "CA04"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Internet Archive",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF07"
+      ]
+    },
+    {
+      "id": "X44",
+      "title": "Pattern making",
+      "creator": "Agnes Keith Hanna",
+      "date": "1922",
+      "institution": "Internet Archive",
+      "url": "https://archive.org/details/patternmaking00hanngoog",
+      "kind": "rights-marked digitized manual",
+      "rights": "Work-level public-domain-era candidate; file provenance requires item review before local ingest.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B03",
+        "B04",
+        "B05",
+        "CA03",
+        "CA09"
+      ],
+      "candidateType": "rights-marked digitized manual",
+      "canonicalUrl": "https://archive.org/details/patternmaking00hanngoog",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B03",
+        "B04",
+        "B05",
+        "CA03",
+        "CA09"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Internet Archive",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF07"
+      ]
+    },
+    {
+      "id": "X45",
+      "title": "Complete course in dressmaking: Draping and Pattern Making",
+      "creator": "Isabel De Nyse Conover",
+      "date": "1922",
+      "institution": "Internet Archive",
+      "url": "https://archive.org/details/completecoursein08cono",
+      "kind": "rights-marked digitized manual",
+      "rights": "Linked at work level; the exact derivative file and scan-source rights were not independently cleared for redistribution.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B03",
+        "B04",
+        "CA03",
+        "CA04",
+        "CA09"
+      ],
+      "candidateType": "rights-marked digitized manual",
+      "canonicalUrl": "https://archive.org/details/completecoursein08cono",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B03",
+        "B04",
+        "CA03",
+        "CA04",
+        "CA09"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Internet Archive",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF07"
+      ]
+    },
+    {
+      "id": "X46",
+      "title": "Drafting trousers for men, boys, women",
+      "creator": "Simon",
+      "date": "1945",
+      "institution": "Internet Archive",
+      "url": "https://archive.org/details/simonsdraftingtrousers1945",
+      "kind": "rights-marked digitized manual",
+      "rights": "Item page displays Public Domain Mark 1.0; retained as a canonical resource rather than duplicating its derivative files.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B03",
+        "B05",
+        "CA03",
+        "CA04"
+      ],
+      "candidateType": "rights-marked digitized manual",
+      "canonicalUrl": "https://archive.org/details/simonsdraftingtrousers1945",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B03",
+        "B05",
+        "CA03",
+        "CA04"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Internet Archive",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF07"
+      ]
+    },
+    {
+      "id": "X47",
+      "title": "The Keystone jacket and dress cutter",
+      "creator": "Charles Hecklinger",
+      "date": "1895",
+      "institution": "Internet Archive",
+      "url": "https://archive.org/details/keystonejacketdr00heck",
+      "kind": "rights-marked digitized manual",
+      "rights": "Public-domain-era work; linked pending exact derivative-file provenance verification.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B03",
+        "B04",
+        "B05",
+        "CA09"
+      ],
+      "candidateType": "rights-marked digitized manual",
+      "canonicalUrl": "https://archive.org/details/keystonejacketdr00heck",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B03",
+        "B04",
+        "B05",
+        "CA09"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Internet Archive",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF07"
+      ]
+    },
+    {
+      "id": "X48",
+      "title": "Secrets of Balenciaga’s construction",
+      "creator": "Victoria and Albert Museum",
+      "date": "2023; accessed 2026-09-07",
+      "institution": "Victoria and Albert Museum",
+      "url": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction",
+      "kind": "official educational animation",
+      "rights": "Protected museum text and media; use the first-party page/player only.",
+      "disposition": "AUTHORIZED_EMBED",
+      "packages": [
+        "B02",
+        "B03",
+        "B04",
+        "B09",
+        "CA09",
+        "CN02",
+        "CN06"
+      ],
+      "candidateType": "official educational animation",
+      "canonicalUrl": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B02",
+        "B03",
+        "B04",
+        "B09",
+        "CA09",
+        "CN02",
+        "CN06"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Victoria and Albert Museum",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF04"
+      ]
+    },
+    {
+      "id": "X49",
+      "title": "Learning from “The Master”",
+      "creator": "Victoria and Albert Museum and London College of Fashion",
+      "date": "2023; accessed 2026-09-07",
+      "institution": "Victoria and Albert Museum",
+      "url": "https://www.vam.ac.uk/articles/learning-from-the-master",
+      "kind": "official educational animation and reconstruction",
+      "rights": "Protected first-party media; link or authorized player only.",
+      "disposition": "AUTHORIZED_EMBED",
+      "packages": [
+        "B02",
+        "B03",
+        "CA03",
+        "CA09",
+        "CN02",
+        "CN06"
+      ],
+      "candidateType": "official educational animation and reconstruction",
+      "canonicalUrl": "https://www.vam.ac.uk/articles/learning-from-the-master",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B02",
+        "B03",
+        "CA03",
+        "CA09",
+        "CN02",
+        "CN06"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Victoria and Albert Museum",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF04"
+      ]
+    },
+    {
+      "id": "X50",
+      "title": "Sew your own: kimono-inspired dress",
+      "creator": "Monisola Omotoso and Victoria and Albert Museum",
+      "date": "2023; accessed 2026-09-07",
+      "institution": "Victoria and Albert Museum",
+      "url": "https://www.vam.ac.uk/articles/sew-your-own-kimono-inspired-dress",
+      "kind": "official educational build",
+      "rights": "First-party educational page; patterns and page media remain under their stated site conditions.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B03",
+        "B05",
+        "CA04",
+        "CA09"
+      ],
+      "candidateType": "official educational build",
+      "canonicalUrl": "https://www.vam.ac.uk/articles/sew-your-own-kimono-inspired-dress",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B03",
+        "B05",
+        "CA04",
+        "CA09"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Victoria and Albert Museum",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF04"
+      ]
+    },
+    {
+      "id": "X51",
+      "title": "J.Crew Creative Director Employment Agreement",
+      "creator": "J.Crew Group, Inc.",
+      "date": "2010",
+      "institution": "U.S. Securities and Exchange Commission",
+      "url": "https://www.sec.gov/Archives/edgar/data/1051251/000119312510204267/dex108.htm",
+      "kind": "public corporate agreement",
+      "rights": "Official filing text; quote narrowly, preserve date and company-specific context.",
+      "disposition": "QUOTE_LINK",
+      "packages": [
+        "B08",
+        "CO02",
+        "CO07",
+        "CN01",
+        "CN03"
+      ],
+      "candidateType": "public corporate agreement",
+      "canonicalUrl": "https://www.sec.gov/Archives/edgar/data/1051251/000119312510204267/dex108.htm",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B08",
+        "CO02",
+        "CO07",
+        "CN01",
+        "CN03"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "U.S. Securities and Exchange Commission",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF12"
+      ]
+    },
+    {
+      "id": "X52",
+      "title": "J.Crew Employment Agreement: confidential creative records provisions",
+      "creator": "J.Crew Group, Inc.",
+      "date": "2018",
+      "institution": "U.S. Securities and Exchange Commission",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513842/000119312519244895/d741756dex1016.htm",
+      "kind": "public corporate agreement",
+      "rights": "Official filing text; one agreement is not universal industry practice.",
+      "disposition": "QUOTE_LINK",
+      "packages": [
+        "B08",
+        "CA10",
+        "CO04",
+        "CO07",
+        "CN03",
+        "CN08"
+      ],
+      "candidateType": "public corporate agreement",
+      "canonicalUrl": "https://www.sec.gov/Archives/edgar/data/1513842/000119312519244895/d741756dex1016.htm",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B08",
+        "CA10",
+        "CO04",
+        "CO07",
+        "CN03",
+        "CN08"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "U.S. Securities and Exchange Commission",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF12"
+      ]
+    },
+    {
+      "id": "X53",
+      "title": "Michael Kors Employment Agreement",
+      "creator": "Michael Kors Holdings Limited",
+      "date": "2015",
+      "institution": "U.S. Securities and Exchange Commission",
+      "url": "https://www.sec.gov/Archives/edgar/data/1530721/000119312515201923/d900571dex107.htm",
+      "kind": "public corporate agreement",
+      "rights": "Official SEC exhibit; quote narrowly and retain contractual context.",
+      "disposition": "QUOTE_LINK",
+      "packages": [
+        "B08",
+        "CO02",
+        "CO05",
+        "CO07",
+        "CO11",
+        "CN01"
+      ],
+      "candidateType": "public corporate agreement",
+      "canonicalUrl": "https://www.sec.gov/Archives/edgar/data/1530721/000119312515201923/d900571dex107.htm",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B08",
+        "CO02",
+        "CO05",
+        "CO07",
+        "CO11",
+        "CN01"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "U.S. Securities and Exchange Commission",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF12"
+      ]
+    },
+    {
+      "id": "X54",
+      "title": "JLM Couture, Inc. v. Gutman",
+      "creator": "United States Court of Appeals for the Second Circuit",
+      "date": "2022",
+      "institution": "Justia mirror of federal opinion",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/21-870/21-870-2022-01-25.html",
+      "kind": "court opinion",
+      "rights": "Public judicial opinion; linked to accessible mirror and requires counsel review before application.",
+      "disposition": "QUOTE_LINK",
+      "packages": [
+        "CO01",
+        "CO02",
+        "CO07",
+        "CO11",
+        "CN01",
+        "CN12"
+      ],
+      "candidateType": "court opinion",
+      "canonicalUrl": "https://law.justia.com/cases/federal/appellate-courts/ca2/21-870/21-870-2022-01-25.html",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CO01",
+        "CO02",
+        "CO07",
+        "CO11",
+        "CN01",
+        "CN12"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Justia mirror of federal opinion",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF18"
+      ]
+    },
+    {
+      "id": "X55",
+      "title": "JA Apparel Corp. v. Abboud",
+      "creator": "United States District Court for the Southern District of New York",
+      "date": "2010",
+      "institution": "Justia mirror of federal opinion",
+      "url": "https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2007cv07787/312411/58/",
+      "kind": "court opinion",
+      "rights": "Public judicial opinion; accessible mirror is link-only and interpretation remains counsel-gated.",
+      "disposition": "QUOTE_LINK",
+      "packages": [
+        "CO01",
+        "CO05",
+        "CO11",
+        "CN12"
+      ],
+      "candidateType": "court opinion",
+      "canonicalUrl": "https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2007cv07787/312411/58/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CO01",
+        "CO05",
+        "CO11",
+        "CN12"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Justia mirror of federal opinion",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF18"
+      ]
+    },
+    {
+      "id": "X56",
+      "title": "Christian Louboutin v. Yves Saint Laurent",
+      "creator": "United States Court of Appeals for the Second Circuit",
+      "date": "2013",
+      "institution": "Justia mirror of federal opinion",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/11-3303/11-3303-2013-03-08.html",
+      "kind": "court opinion",
+      "rights": "Public judicial opinion; quote narrowly and preserve procedural posture.",
+      "disposition": "QUOTE_LINK",
+      "packages": [
+        "B02",
+        "CO03",
+        "CO08",
+        "CO09"
+      ],
+      "candidateType": "court opinion",
+      "canonicalUrl": "https://law.justia.com/cases/federal/appellate-courts/ca2/11-3303/11-3303-2013-03-08.html",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B02",
+        "CO03",
+        "CO08",
+        "CO09"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Justia mirror of federal opinion",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF18"
+      ]
+    },
+    {
+      "id": "X57",
+      "title": "Chinese American fashion designer oral-history digitization project",
+      "creator": "Museum of Chinese in America / NHPRC",
+      "date": "2024",
+      "institution": "National Archives and Records Administration",
+      "url": "https://www.archives.gov/nhprc/newsletter/april2024",
+      "kind": "official oral-history project record",
+      "rights": "Project description is linkable; interviews and media remain item-specific.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B01",
+        "B10",
+        "CA05",
+        "CA10",
+        "CN05",
+        "CN07",
+        "CN09",
+        "CN10"
+      ],
+      "candidateType": "official oral-history project record",
+      "canonicalUrl": "https://www.archives.gov/nhprc/newsletter/april2024",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B01",
+        "B10",
+        "CA05",
+        "CA10",
+        "CN05",
+        "CN07",
+        "CN09",
+        "CN10"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "National Archives and Records Administration",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF18"
+      ]
+    },
+    {
+      "id": "X58",
+      "title": "Historical Resources: Fashion Industry",
+      "creator": "Science, Technology and Business Division",
+      "date": "updated 2026",
+      "institution": "Library of Congress",
+      "url": "https://guides.loc.gov/fashion-industry/history",
+      "kind": "official research guide",
+      "rights": "Official research guide; linked as discovery infrastructure, not as a media license.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B06",
+        "B07",
+        "B10",
+        "CA01",
+        "CA06",
+        "CA07",
+        "CO10",
+        "CO12",
+        "CN10",
+        "CN11"
+      ],
+      "candidateType": "official research guide",
+      "canonicalUrl": "https://guides.loc.gov/fashion-industry/history",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B06",
+        "B07",
+        "B10",
+        "CA01",
+        "CA06",
+        "CA07",
+        "CO10",
+        "CO12",
+        "CN10",
+        "CN11"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Library of Congress",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
+    },
+    {
+      "id": "X59",
+      "title": "Contemporary fashion designers on Balenciaga",
+      "creator": "Victoria and Albert Museum",
+      "date": "2023; accessed 2026-09-07",
+      "institution": "Victoria and Albert Museum",
+      "url": "https://www.vam.ac.uk/articles/contemporary-fashion-designers-on-balenciaga",
+      "kind": "official designer commentary",
+      "rights": "Protected first-party article and media; link and paraphrase only.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "B02",
+        "B09",
+        "CA06",
+        "CA09",
+        "CN02",
+        "CN06"
+      ],
+      "candidateType": "official designer commentary",
+      "canonicalUrl": "https://www.vam.ac.uk/articles/contemporary-fashion-designers-on-balenciaga",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "B02",
+        "B09",
+        "CA06",
+        "CA09",
+        "CN02",
+        "CN06"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Victoria and Albert Museum",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF04",
+        "SF16"
+      ]
+    },
+    {
+      "id": "X60",
+      "title": "Fashion at the Library",
+      "creator": "American Folklife Center",
+      "date": "current; accessed 2026-09-07",
+      "institution": "Library of Congress",
+      "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/",
+      "kind": "official fashion and craft research channel",
+      "rights": "Discovery channel; each article and asset retains its own rights record.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CA04",
+        "CA05",
+        "CA06",
+        "CA10",
+        "CN05",
+        "CN07",
+        "CN09",
+        "CN10"
+      ],
+      "candidateType": "official fashion and craft research channel",
+      "canonicalUrl": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CA04",
+        "CA05",
+        "CA06",
+        "CA10",
+        "CN05",
+        "CN07",
+        "CN09",
+        "CN10"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Library of Congress",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
+    },
+    {
+      "id": "X61",
+      "title": "V&A Archives",
+      "creator": "Victoria and Albert Museum",
+      "date": "current; accessed 2026-09-07",
+      "institution": "Victoria and Albert Museum",
+      "url": "https://www.vam.ac.uk/info/archives",
+      "kind": "official archive access resource",
+      "rights": "Finding and access information only; archival items retain their individual rights.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CA02",
+        "CA08",
+        "CO04",
+        "CN04"
+      ],
+      "candidateType": "official archive access resource",
+      "canonicalUrl": "https://www.vam.ac.uk/info/archives",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CA02",
+        "CA08",
+        "CO04",
+        "CN04"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Victoria and Albert Museum",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF04"
+      ]
+    },
+    {
+      "id": "X62",
+      "title": "Save Page Now",
+      "creator": "Internet Archive",
+      "date": "current; accessed 2026-09-07",
+      "institution": "Internet Archive",
+      "url": "https://web.archive.org/save/",
+      "kind": "web preservation tool",
+      "rights": "Tool link only; capture availability does not grant republication rights in captured content.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CA08",
+        "CO06",
+        "CO12",
+        "CN08"
+      ],
+      "candidateType": "web preservation tool",
+      "canonicalUrl": "https://web.archive.org/save/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CA08",
+        "CO06",
+        "CO12",
+        "CN08"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Internet Archive",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF07"
+      ]
+    },
+    {
+      "id": "X63",
+      "title": "Sustainability of Digital Formats",
+      "creator": "Library of Congress",
+      "date": "current; accessed 2026-09-07",
+      "institution": "Library of Congress",
+      "url": "https://www.loc.gov/preservation/digital/formats/",
+      "kind": "digital preservation knowledge base",
+      "rights": "Official technical guidance; link and quote narrowly.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CA02",
+        "CA10",
+        "CN04",
+        "CN08",
+        "CN11"
+      ],
+      "candidateType": "digital preservation knowledge base",
+      "canonicalUrl": "https://www.loc.gov/preservation/digital/formats/",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CA02",
+        "CA10",
+        "CN04",
+        "CN08",
+        "CN11"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "Library of Congress",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF02"
+      ]
+    },
+    {
+      "id": "X64",
+      "title": "Guidance on Managing Social Media Records",
+      "creator": "National Archives and Records Administration",
+      "date": "current; accessed 2026-09-07",
+      "institution": "NARA",
+      "url": "https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html",
+      "kind": "government records guidance",
+      "rights": "Official federal records guidance; used comparatively, not as a rule binding private fashion businesses.",
+      "disposition": "LINK_ONLY",
+      "packages": [
+        "CO06",
+        "CO12",
+        "CN01",
+        "CN08"
+      ],
+      "candidateType": "government records guidance",
+      "canonicalUrl": "https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html",
+      "directMediaUrl": null,
+      "relatedPackages": [
+        "CO06",
+        "CO12",
+        "CN01",
+        "CN08"
+      ],
+      "caption": null,
+      "alt": null,
+      "credit": "NARA",
+      "relevance": "Additional official resource located during the dated excavation pass.",
+      "accessed": "2026-09-07",
+      "surfaceIds": [
+        "SF18"
+      ]
     }
   ]
 }

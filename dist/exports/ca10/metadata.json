@@ -1,0 +1,414 @@
+{
+  "packageId": "CA10",
+  "title": "The Myth of the Lone Fashion Genius",
+  "author": "RN Collins",
+  "version": "2.0",
+  "rightsRule": "Evidence leads; atmosphere never substitutes for provenance.",
+  "instagram": {
+    "carouselA": {
+      "title": "The Myth of the Lone Fashion Genius: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CA10-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/ca10",
+          "crop": "native 4:5; no crop",
+          "caption": "The lone fashion genius is a useful publicity device and a poor description of how collections acquire form, finish, circulation, and memory.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Myth of the Lone Fashion Genius.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-157996",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/157996",
+          "crop": "full object with generous field",
+          "caption": "A less-remembered house remains researchable because its object record survives.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+          "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CA10-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca10",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · SIGNATURE — Why does one name dominate?. A single name gives press, commerce, and memory a compact handle. It can truthfully identify creative authority while still concealing the distributed labor required to materialize that authority.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping why does one name dominate? within The Myth of the Lone Fashion Genius.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CA10-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca10",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · CONSTELLATION — Who translated the idea?. Build a role map from concept to archive. Record not only names but decisions: who interpreted proportion, solved construction, negotiated feasibility, shaped the image, and preserved the evidence.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who translated the idea? within The Myth of the Lone Fashion Genius.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CA10-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca10",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · CREDIT — What should the record retain?. Credits should travel with garments, images, video, collection notes, and archival deposits. The durable record needs consistent role language and a correction path when work is omitted or misdescribed.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what should the record retain? within The Myth of the Lone Fashion Genius.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CA10-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca10",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · POWER — Does visibility follow value?. Credit cannot by itself repair inequitable pay, ownership, or authority. It does, however, make labor and decision structures more legible—creating evidence for harder questions about compensation and control.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping does visibility follow value? within The Myth of the Lone Fashion Genius.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S10",
+          "visualType": "canonical public record card",
+          "source": "https://nmaahc.si.edu/object/nmaahc_2016.129.3.1a-.2a",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Joyce A. Bailey Oral History Interview is retained as evidence, education, reporting or rights context.",
+          "credit": "National Museum of African American History and Culture",
+          "alt": "Source card for Joyce A. Bailey Oral History Interview, credited to National Museum of African American History and Culture.",
+          "rights": "Usage Conditions Apply; permission is required for media reuse.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S11",
+          "visualType": "canonical public record card",
+          "source": "https://archiveondemand.fitnyc.edu/item/136259",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Special Collections",
+          "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+          "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "The Myth of the Lone Fashion Genius: what the record changes",
+      "frames": [
+        {
+          "assetId": "CA10-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/ca10",
+          "crop": "native 4:5; no crop",
+          "caption": "The lone fashion genius is a useful publicity device and a poor description of how collections acquire form, finish, circulation, and memory.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Myth of the Lone Fashion Genius.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CA10-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca10",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · CREDIT — What should the record retain?. Credits should travel with garments, images, video, collection notes, and archival deposits. The durable record needs consistent role language and a correction path when work is omitted or misdescribed.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what should the record retain? within The Myth of the Lone Fashion Genius.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CA10-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca10",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · POWER — Does visibility follow value?. Credit cannot by itself repair inequitable pay, ownership, or authority. It does, however, make labor and decision structures more legible—creating evidence for harder questions about compensation and control.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping does visibility follow value? within The Myth of the Lone Fashion Genius.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S10",
+          "visualType": "canonical public record card",
+          "source": "https://nmaahc.si.edu/object/nmaahc_2016.129.3.1a-.2a",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Joyce A. Bailey Oral History Interview is retained as evidence, education, reporting or rights context.",
+          "credit": "National Museum of African American History and Culture",
+          "alt": "Source card for Joyce A. Bailey Oral History Interview, credited to National Museum of African American History and Culture.",
+          "rights": "Usage Conditions Apply; permission is required for media reuse.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S11",
+          "visualType": "canonical public record card",
+          "source": "https://archiveondemand.fitnyc.edu/item/136259",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Special Collections",
+          "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+          "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CA10-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/ca10#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Replacing one heroic story with an indiscriminate list can flatten responsibility. A useful credit system distinguishes creative authority, execution, approval, contribution, and ownership rather than pretending every role is identical.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for The Myth of the Lone Fashion Genius.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CA10-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#ca10-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Trace every decision and hand from research to publication.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for The Myth of the Lone Fashion Genius.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-157996",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/157996",
+          "crop": "full object with generous field",
+          "caption": "A less-remembered house remains researchable because its object record survives.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+          "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CA10-TITLE",
+        "title": "The Myth of the Lone Fashion Genius",
+        "description": "The lone fashion genius is a useful publicity device and a poor description of how collections acquire form, finish, circulation, and memory.",
+        "destination": "/packages/ca10",
+        "alt": "Title plate for The Myth of the Lone Fashion Genius.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-157996",
+        "title": "Who translated the idea?",
+        "description": "A less-remembered house remains researchable because its object record survives.",
+        "destination": "/packages/ca10",
+        "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "assetId": "S10",
+        "title": "The carry record",
+        "description": "Joyce A. Bailey Oral History Interview is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/ca10",
+        "alt": "Source card for Joyce A. Bailey Oral History Interview, credited to National Museum of African American History and Culture.",
+        "credit": "National Museum of African American History and Culture",
+        "rights": "Usage Conditions Apply; permission is required for media reuse."
+      },
+      {
+        "assetId": "S10",
+        "title": "A field tool for The Myth of the Lone Fashion Genius",
+        "description": "Joyce A. Bailey Oral History Interview is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/ca10",
+        "alt": "Source card for Joyce A. Bailey Oral History Interview, credited to National Museum of African American History and Culture.",
+        "credit": "National Museum of African American History and Culture",
+        "rights": "Usage Conditions Apply; permission is required for media reuse."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CA10-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/ca10",
+          "crop": "native 4:5; no crop",
+          "caption": "The lone fashion genius is a useful publicity device and a poor description of how collections acquire form, finish, circulation, and memory.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Myth of the Lone Fashion Genius.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-157996",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/157996",
+          "crop": "full object with generous field",
+          "caption": "A less-remembered house remains researchable because its object record survives.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+          "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CA10-DIAGRAM-1",
+          "CA10-DIAGRAM-2",
+          "CA10-DIAGRAM-3",
+          "CA10-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S10",
+          "visualType": "canonical public record card",
+          "source": "https://nmaahc.si.edu/object/nmaahc_2016.129.3.1a-.2a",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Joyce A. Bailey Oral History Interview is retained as evidence, education, reporting or rights context.",
+          "credit": "National Museum of African American History and Culture",
+          "alt": "Source card for Joyce A. Bailey Oral History Interview, credited to National Museum of African American History and Culture.",
+          "rights": "Usage Conditions Apply; permission is required for media reuse.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CA10-FIELD-10",
+          "OBJ-157996"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "vertical": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-157996",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "A less-remembered house remains researchable because its object record survives.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CA10-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · SIGNATURE — Why does one name dominate?. A single name gives press, commerce, and memory a compact handle. It can truthfully identify creative authority while still concealing the distributed labor required to materialize that authority.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CA10-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · CONSTELLATION — Who translated the idea?. Build a role map from concept to archive. Record not only names but decisions: who interpreted proportion, solved construction, negotiated feasibility, shaped the image, and preserved the evidence.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CA10-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · CREDIT — What should the record retain?. Credits should travel with garments, images, video, collection notes, and archival deposits. The durable record needs consistent role language and a correction path when work is omitted or misdescribed.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CA10-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · POWER — Does visibility follow value?. Credit cannot by itself repair inequitable pay, ownership, or authority. It does, however, make labor and decision structures more legible—creating evidence for harder questions about compensation and control.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S10",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Joyce A. Bailey Oral History Interview is retained as evidence, education, reporting or rights context.",
+        "credit": "National Museum of African American History and Culture",
+        "rights": "Usage Conditions Apply; permission is required for media reuse."
+      }
+    ],
+    "endCard": "Open CA10 at institutions-of-one-fashion.vercel.app"
+  }
+}

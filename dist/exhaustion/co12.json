@@ -10,128 +10,215 @@
       "surfaceId": "SF01",
       "name": "The Metropolitan Museum of Art Open Access",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; package title; maker; garment type; archive; house; date",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
+      "resultCount": 0,
+      "candidateIds": [],
       "rightsGate": "Only object records whose image is marked Public Domain/CC0."
     },
     {
       "surfaceId": "SF02",
       "name": "Library of Congress Free to Use and Reuse: Fashion",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; package title; role; fashion; garment; pattern; archive",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "QUALIFYING_CANDIDATES_RECORDED",
+      "resultCount": 3,
+      "candidateIds": [
+        "S08",
+        "OBJ-loc-tofr-52127",
+        "X58"
+      ],
       "rightsGate": "Collection advisory plus exact item record; preserve creator and identifier."
     },
     {
       "surfaceId": "SF03",
       "name": "Smithsonian Open Access",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; package title; fashion; dress; designer; labor; archive; CC0",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "QUALIFYING_CANDIDATES_RECORDED",
+      "resultCount": 1,
+      "candidateIds": [
+        "X02"
+      ],
       "rightsGate": "Only exact digital assets carrying the CC0 designation; Usage Conditions Apply is not open."
     },
     {
       "surfaceId": "SF04",
       "name": "Victoria and Albert Museum Fashion",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; package title; designer; archive; craft; house; photography",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "QUALIFYING_CANDIDATES_RECORDED",
+      "resultCount": 1,
+      "candidateIds": [
+        "S27"
+      ],
       "rightsGate": "Link and cite unless the exact item supplies a reusable license."
     },
     {
       "surfaceId": "SF05",
       "name": "Museum at FIT and SPARC",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; package title; designer; patternmaker; stylist; publicist; oral history",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "QUALIFYING_CANDIDATES_RECORDED",
+      "resultCount": 1,
+      "candidateIds": [
+        "S15"
+      ],
       "rightsGate": "Finding-aid metadata may be cited; media stays link-only unless separately licensed."
     },
     {
       "surfaceId": "SF06",
       "name": "Europeana",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; package title; fashion; designer; garment; atelier; archive",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "QUALIFYING_CANDIDATES_RECORDED",
+      "resultCount": 1,
+      "candidateIds": [
+        "X26"
+      ],
       "rightsGate": "The provider record and standardized item-level rights statement control."
     },
     {
       "surfaceId": "SF07",
       "name": "Internet Archive",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; package title; fashion house; patternmaking; garment industry; designer",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "QUALIFYING_CANDIDATES_RECORDED",
+      "resultCount": 1,
+      "candidateIds": [
+        "X62"
+      ],
       "rightsGate": "Availability is not permission; use only a clearly public-domain/open-license item."
     },
     {
       "surfaceId": "SF08",
       "name": "Wikimedia Commons",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; package title; designer; fashion archive; garment; runway",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
+      "resultCount": 0,
+      "candidateIds": [],
       "rightsGate": "Verify the exact file page, creator, source and license; observe attribution/share-alike."
     },
     {
       "surfaceId": "SF09",
       "name": "WIPO Fashion and IP",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; package title; fashion trademark; design; copyright; licensing",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
+      "resultCount": 0,
+      "candidateIds": [],
       "rightsGate": "Link and quote narrowly; educational material is not legal advice or a media license."
     },
     {
       "surfaceId": "SF10",
       "name": "USPTO trademark and examination records",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; named mark; owner; assignment; trade dress; status",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
+      "resultCount": 0,
+      "candidateIds": [],
       "rightsGate": "Public record evidence; screenshots and legal conclusions require separate review."
     },
     {
       "surfaceId": "SF11",
       "name": "U.S. Copyright Office",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; package title; photograph; useful article; work made for hire; transfer",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
+      "resultCount": 0,
+      "candidateIds": [],
       "rightsGate": "Quote narrowly and link; guidance does not decide a particular dispute."
     },
     {
       "surfaceId": "SF12",
       "name": "SEC EDGAR",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; designer; fashion company; employment; license; archive; control",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
+      "resultCount": 0,
+      "candidateIds": [],
       "rightsGate": "Quote narrowly from the exact filing and distinguish one agreement from industry practice."
     },
     {
       "surfaceId": "SF13",
       "name": "U.S. Department of Labor garment resources",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; garment labor; supply chain; wages; worker; contractor",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
+      "resultCount": 0,
+      "candidateIds": [],
       "rightsGate": "Link and paraphrase; jurisdiction and worker status remain fact-specific."
     },
     {
       "surfaceId": "SF14",
       "name": "International Labour Organization",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; garment work; supply chain; craft; gender; wage; purchasing practice",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
+      "resultCount": 0,
+      "candidateIds": [],
       "rightsGate": "Link and summarize with geography and method intact."
     },
     {
       "surfaceId": "SF15",
       "name": "UNESCO Digital Library",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; textile; craft; fashion; traditional knowledge; safeguarding",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
+      "resultCount": 0,
+      "candidateIds": [],
       "rightsGate": "Link and summarize; community authority and item media require independent review."
     },
     {
       "surfaceId": "SF16",
       "name": "Official designer, house and corporate archives",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; exact entity; archive; annual report; collection; oral history; terms",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
+      "resultCount": 0,
+      "candidateIds": [],
       "rightsGate": "First-party publication proves neither independence nor reuse permission; record exact URL."
     },
     {
       "surfaceId": "SF17",
       "name": "Official museum and university interactives",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; fashion collection interactive; archive tool; color; timeline; metadata",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
+      "resultCount": 0,
+      "candidateIds": [],
       "rightsGate": "Link unless source code and license authorize reuse; review privacy and accessibility."
     },
     {
       "surfaceId": "SF18",
       "name": "Government statutes, courts and corporate registries",
       "query": "The Cost of Link-Only Culture; What happens when a brand’s memory depends on platforms it does not own?; exact jurisdiction; statute; company; case; asset; transaction",
-      "status": "SEARCHED_AND_RECORDED",
+      "status": "QUALIFYING_CANDIDATES_RECORDED",
+      "resultCount": 4,
+      "candidateIds": [
+        "S39",
+        "S65",
+        "S66",
+        "X64"
+      ],
       "rightsGate": "Quote narrowly; jurisdiction, currency and case posture must be explicit."
     }
+  ],
+  "newCandidateCount": 5,
+  "thirdWaveCandidateCount": 3,
+  "qualifiedCount": 15,
+  "rejectedCount": 0,
+  "duplicateCount": 0,
+  "installedUniqueMediaCount": 1,
+  "zeroResultSurfaceIds": [
+    "SF01",
+    "SF08",
+    "SF09",
+    "SF10",
+    "SF11",
+    "SF12",
+    "SF13",
+    "SF14",
+    "SF15",
+    "SF16",
+    "SF17"
+  ],
+  "openGaps": [
+    "No qualifying package-specific result retained from The Metropolitan Museum of Art Open Access; discovery remains reopenable.",
+    "No qualifying package-specific result retained from Wikimedia Commons; discovery remains reopenable.",
+    "No qualifying package-specific result retained from WIPO Fashion and IP; discovery remains reopenable.",
+    "No qualifying package-specific result retained from USPTO trademark and examination records; discovery remains reopenable.",
+    "No qualifying package-specific result retained from U.S. Copyright Office; discovery remains reopenable.",
+    "No qualifying package-specific result retained from SEC EDGAR; discovery remains reopenable.",
+    "No qualifying package-specific result retained from U.S. Department of Labor garment resources; discovery remains reopenable.",
+    "No qualifying package-specific result retained from International Labour Organization; discovery remains reopenable.",
+    "No qualifying package-specific result retained from UNESCO Digital Library; discovery remains reopenable.",
+    "No qualifying package-specific result retained from Official designer, house and corporate archives; discovery remains reopenable.",
+    "No qualifying package-specific result retained from Official museum and university interactives; discovery remains reopenable."
   ],
   "candidateIds": [
     "S08",
@@ -143,7 +230,12 @@
     "S65",
     "S66",
     "OBJ-loc-tofr-52127",
-    "X02"
+    "X02",
+    "X26",
+    "X27",
+    "X58",
+    "X62",
+    "X64"
   ],
   "reusableIds": [
     "OBJ-loc-tofr-52127"
@@ -157,7 +249,12 @@
     "S39",
     "S65",
     "S66",
-    "X02"
+    "X02",
+    "X26",
+    "X27",
+    "X58",
+    "X62",
+    "X64"
   ],
   "exclusions": [
     {
@@ -173,6 +270,6 @@
       "treatment": "Not reproduced; held for human or qualified-counsel review."
     }
   ],
-  "stoppingRule": "Stopped after every registered surface and query was recorded, exact reusable candidates were installed or retained in the Media Library, useful restricted resources were retained as links, duplicate results converged, and another general search was unlikely to change the package evidence. New records reopen the report.",
+  "stoppingRule": "Stopped after all 18 named surfaces were queried on 2026-09-07; qualifying records were retained, exact duplicate URLs and assets were removed, every reusable file was checked at work and file level, and remaining no-result surfaces were named. New records or changed rights statements reopen the report.",
   "status": "REGISTRY_EXHAUSTED_WITH_DISCLOSED_LIMITS"
 }

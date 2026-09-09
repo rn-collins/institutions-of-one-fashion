@@ -1,0 +1,946 @@
+{
+  "packageId": "CA06",
+  "title": "How Stylists Manufacture Cultural Meaning",
+  "domain": "carry",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "CA06-TITLE",
+      "role": "hook",
+      "caption": "A stylist does not merely arrange clothes. Styling selects, relates, withholds, and frames objects so that a look can enter culture—yet interpretation, authorship, ownership, credit, approval, and compensation must remain separate evidence questions.",
+      "source": "/packages/ca06",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "OBJ-loc-ppmsca-44953",
+      "role": "material witness",
+      "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+      "source": "https://www.loc.gov/resource/ppmsca.44953/",
+      "rights": "Free to Use and Reuse / Library of Congress curated set"
+    },
+    {
+      "assetId": "CA06-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · SELECT — What entered the frame—and what was refused?. Record garments, accessories, bodies, props, references, substitutions, exclusions, and the reason each choice altered the proposition. Selection is evidence of judgment, not automatic proof of a legal right.",
+      "source": "/packages/ca06",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CA06-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · RELATE — What meaning emerged between objects?. Styling works relationally: proportion, sequence, contradiction, repetition, casting, gesture, and context can produce meanings that no isolated garment contains. Cultural specialists should review references drawn from communities whose authority is not held by the commissioning house.",
+      "source": "/packages/ca06",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CA06-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · ALLOCATE — Who approved, authored, owned, and was paid?. Attach the brief and call sheet; identify stylist, assistant, designer, photographer, model, producer, hair and makeup; then attach credit, fee, license, approval, archive-copy, and correction terms without assuming they coincide.",
+      "source": "/packages/ca06",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CA06-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · PRESERVE — Can the interpretation be reconstructed?. Keep pulls, returns, alternates, captions, credits, contact sheets where licensed, final selects, usage territories, expiry dates, and participant corrections. Archive the reasoning without republishing restricted material.",
+      "source": "/packages/ca06",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S08",
+      "role": "counterpoint",
+      "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+      "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+    },
+    {
+      "assetId": "S39",
+      "role": "action",
+      "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "rights": "Government resource; link/download for education and do not imply endorsement."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "How Stylists Manufacture Cultural Meaning: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CA06-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/ca06",
+          "crop": "native 4:5; no crop",
+          "caption": "A stylist does not merely arrange clothes. Styling selects, relates, withholds, and frames objects so that a look can enter culture—yet interpretation, authorship, ownership, credit, approval, and compensation must remain separate evidence questions.",
+          "credit": "RN Collins",
+          "alt": "Title plate for How Stylists Manufacture Cultural Meaning.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-loc-ppmsca-44953",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/ppmsca.44953/",
+          "crop": "full object with generous field",
+          "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+          "credit": "Library of Congress Prints and Photographs Division",
+          "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CA06-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca06",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · SELECT — What entered the frame—and what was refused?. Record garments, accessories, bodies, props, references, substitutions, exclusions, and the reason each choice altered the proposition. Selection is evidence of judgment, not automatic proof of a legal right.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what entered the frame—and what was refused? within How Stylists Manufacture Cultural Meaning.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CA06-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca06",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · RELATE — What meaning emerged between objects?. Styling works relationally: proportion, sequence, contradiction, repetition, casting, gesture, and context can produce meanings that no isolated garment contains. Cultural specialists should review references drawn from communities whose authority is not held by the commissioning house.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what meaning emerged between objects? within How Stylists Manufacture Cultural Meaning.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CA06-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca06",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · ALLOCATE — Who approved, authored, owned, and was paid?. Attach the brief and call sheet; identify stylist, assistant, designer, photographer, model, producer, hair and makeup; then attach credit, fee, license, approval, archive-copy, and correction terms without assuming they coincide.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who approved, authored, owned, and was paid? within How Stylists Manufacture Cultural Meaning.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CA06-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca06",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · PRESERVE — Can the interpretation be reconstructed?. Keep pulls, returns, alternates, captions, credits, contact sheets where licensed, final selects, usage territories, expiry dates, and participant corrections. Archive the reasoning without republishing restricted material.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can the interpretation be reconstructed? within How Stylists Manufacture Cultural Meaning.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "How Stylists Manufacture Cultural Meaning: what the record changes",
+      "frames": [
+        {
+          "assetId": "CA06-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/ca06",
+          "crop": "native 4:5; no crop",
+          "caption": "A stylist does not merely arrange clothes. Styling selects, relates, withholds, and frames objects so that a look can enter culture—yet interpretation, authorship, ownership, credit, approval, and compensation must remain separate evidence questions.",
+          "credit": "RN Collins",
+          "alt": "Title plate for How Stylists Manufacture Cultural Meaning.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CA06-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca06",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · ALLOCATE — Who approved, authored, owned, and was paid?. Attach the brief and call sheet; identify stylist, assistant, designer, photographer, model, producer, hair and makeup; then attach credit, fee, license, approval, archive-copy, and correction terms without assuming they coincide.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who approved, authored, owned, and was paid? within How Stylists Manufacture Cultural Meaning.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CA06-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca06",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · PRESERVE — Can the interpretation be reconstructed?. Keep pulls, returns, alternates, captions, credits, contact sheets where licensed, final selects, usage territories, expiry dates, and participant corrections. Archive the reasoning without republishing restricted material.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can the interpretation be reconstructed? within How Stylists Manufacture Cultural Meaning.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CA06-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/ca06#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Treating styling as authorship can erase the designer, photographer, model, hair and makeup teams, assistants, cultural sources, and commissioner; treating it as logistics erases interpretation. The answer is a role-specific record, not a larger heroic claim.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for How Stylists Manufacture Cultural Meaning.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CA06-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#ca06-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Write the cultural proposition in one sentence, then list the styling decisions that support it.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for How Stylists Manufacture Cultural Meaning.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-loc-ppmsca-44953",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/ppmsca.44953/",
+          "crop": "full object with generous field",
+          "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+          "credit": "Library of Congress Prints and Photographs Division",
+          "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-loc-ppmsca-44953",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+        "credit": "Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CA06-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · SELECT — What entered the frame—and what was refused?. Record garments, accessories, bodies, props, references, substitutions, exclusions, and the reason each choice altered the proposition. Selection is evidence of judgment, not automatic proof of a legal right.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CA06-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · RELATE — What meaning emerged between objects?. Styling works relationally: proportion, sequence, contradiction, repetition, casting, gesture, and context can produce meanings that no isolated garment contains. Cultural specialists should review references drawn from communities whose authority is not held by the commissioning house.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CA06-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · ALLOCATE — Who approved, authored, owned, and was paid?. Attach the brief and call sheet; identify stylist, assistant, designer, photographer, model, producer, hair and makeup; then attach credit, fee, license, approval, archive-copy, and correction terms without assuming they coincide.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CA06-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · PRESERVE — Can the interpretation be reconstructed?. Keep pulls, returns, alternates, captions, credits, contact sheets where licensed, final selects, usage territories, expiry dates, and participant corrections. Archive the reasoning without republishing restricted material.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S08",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ],
+    "endCard": "Open CA06 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CA06-TITLE",
+        "title": "How Stylists Manufacture Cultural Meaning",
+        "description": "A stylist does not merely arrange clothes. Styling selects, relates, withholds, and frames objects so that a look can enter culture—yet interpretation, authorship, ownership, credit, approval, and compensation must remain separate evidence questions.",
+        "destination": "/packages/ca06",
+        "alt": "Title plate for How Stylists Manufacture Cultural Meaning.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-loc-ppmsca-44953",
+        "title": "What meaning emerged between objects?",
+        "description": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+        "destination": "/packages/ca06",
+        "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+        "credit": "Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "assetId": "S08",
+        "title": "The carry record",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/ca06",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      },
+      {
+        "assetId": "S08",
+        "title": "A field tool for How Stylists Manufacture Cultural Meaning",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/ca06",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CA06-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/ca06",
+          "crop": "native 4:5; no crop",
+          "caption": "A stylist does not merely arrange clothes. Styling selects, relates, withholds, and frames objects so that a look can enter culture—yet interpretation, authorship, ownership, credit, approval, and compensation must remain separate evidence questions.",
+          "credit": "RN Collins",
+          "alt": "Title plate for How Stylists Manufacture Cultural Meaning.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-loc-ppmsca-44953",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/ppmsca.44953/",
+          "crop": "full object with generous field",
+          "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+          "credit": "Library of Congress Prints and Photographs Division",
+          "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CA06-DIAGRAM-1",
+          "CA06-DIAGRAM-2",
+          "CA06-DIAGRAM-3",
+          "CA06-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CA06-FIELD-10",
+          "OBJ-loc-ppmsca-44953"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "OBJ-loc-ppmsca-44953",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.loc.gov/resource/ppmsca.44953/",
+      "crop": "full object with generous field",
+      "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+      "credit": "Library of Congress Prints and Photographs Division",
+      "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+      "rights": "Free to Use and Reuse / Library of Congress curated set",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "CA06-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca06",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · SELECT — What entered the frame—and what was refused?. Record garments, accessories, bodies, props, references, substitutions, exclusions, and the reason each choice altered the proposition. Selection is evidence of judgment, not automatic proof of a legal right.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what entered the frame—and what was refused? within How Stylists Manufacture Cultural Meaning.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "CA06-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca06",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · RELATE — What meaning emerged between objects?. Styling works relationally: proportion, sequence, contradiction, repetition, casting, gesture, and context can produce meanings that no isolated garment contains. Cultural specialists should review references drawn from communities whose authority is not held by the commissioning house.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what meaning emerged between objects? within How Stylists Manufacture Cultural Meaning.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "CA06-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca06",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · ALLOCATE — Who approved, authored, owned, and was paid?. Attach the brief and call sheet; identify stylist, assistant, designer, photographer, model, producer, hair and makeup; then attach credit, fee, license, approval, archive-copy, and correction terms without assuming they coincide.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping who approved, authored, owned, and was paid? within How Stylists Manufacture Cultural Meaning.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "CA06-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca06",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · PRESERVE — Can the interpretation be reconstructed?. Keep pulls, returns, alternates, captions, credits, contact sheets where licensed, final selects, usage territories, expiry dates, and participant corrections. Archive the reasoning without republishing restricted material.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can the interpretation be reconstructed? within How Stylists Manufacture Cultural Meaning.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S08",
+        "title": "Personal Digital Archiving",
+        "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S39",
+        "title": "Universal Electronic Records Management Requirements, Version 3",
+        "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S53",
+        "title": "17 U.S.C. § 101 — Definitions",
+        "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim",
+        "disposition": "QUOTE_LINK"
+      },
+      {
+        "assetId": "S54",
+        "title": "17 U.S.C. § 201 — Ownership of copyright",
+        "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim",
+        "disposition": "QUOTE_LINK"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "CA06-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/ca06",
+        "crop": "native 4:5; no crop",
+        "caption": "A stylist does not merely arrange clothes. Styling selects, relates, withholds, and frames objects so that a look can enter culture—yet interpretation, authorship, ownership, credit, approval, and compensation must remain separate evidence questions.",
+        "credit": "RN Collins",
+        "alt": "Title plate for How Stylists Manufacture Cultural Meaning.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "CA06-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca06",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · ALLOCATE — Who approved, authored, owned, and was paid?. Attach the brief and call sheet; identify stylist, assistant, designer, photographer, model, producer, hair and makeup; then attach credit, fee, license, approval, archive-copy, and correction terms without assuming they coincide.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping who approved, authored, owned, and was paid? within How Stylists Manufacture Cultural Meaning.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "CA06-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca06",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · PRESERVE — Can the interpretation be reconstructed?. Keep pulls, returns, alternates, captions, credits, contact sheets where licensed, final selects, usage territories, expiry dates, and participant corrections. Archive the reasoning without republishing restricted material.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can the interpretation be reconstructed? within How Stylists Manufacture Cultural Meaning.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S08",
+        "visualType": "canonical public record card",
+        "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S39",
+        "visualType": "canonical public record card",
+        "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. National Archives and Records Administration",
+        "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+        "rights": "Government resource; link/download for education and do not imply endorsement.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "CA06-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/ca06#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "Treating styling as authorship can erase the designer, photographer, model, hair and makeup teams, assistants, cultural sources, and commissioner; treating it as logistics erases interpretation. The answer is a role-specific record, not a larger heroic claim.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for How Stylists Manufacture Cultural Meaning.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "CA06-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#ca06-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "Write the cultural proposition in one sentence, then list the styling decisions that support it.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for How Stylists Manufacture Cultural Meaning.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "OBJ-loc-ppmsca-44953",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.loc.gov/resource/ppmsca.44953/",
+        "crop": "full object with generous field",
+        "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+        "credit": "Library of Congress Prints and Photographs Division",
+        "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+        "rights": "Free to Use and Reuse / Library of Congress curated set",
+        "disposition": "PUBLIC_DOMAIN_CC0",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "CA06-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/ca06",
+      "crop": "native 4:5; no crop",
+      "caption": "A stylist does not merely arrange clothes. Styling selects, relates, withholds, and frames objects so that a look can enter culture—yet interpretation, authorship, ownership, credit, approval, and compensation must remain separate evidence questions.",
+      "credit": "RN Collins",
+      "alt": "Title plate for How Stylists Manufacture Cultural Meaning.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for How Stylists Manufacture Cultural Meaning. Diagram mapping who approved, authored, owned, and was paid? within How Stylists Manufacture Cultural Meaning. Diagram mapping can the interpretation be reconstructed? within How Stylists Manufacture Cultural Meaning. Source card for Personal Digital Archiving, credited to Library of Congress. Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration. Counterpoint card for How Stylists Manufacture Cultural Meaning. Fieldwork prompt for How Stylists Manufacture Cultural Meaning. A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872."
+  },
+  "interactive": {
+    "url": "/tools#ca06-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Choose one published fashion image and inventory every visible and credited contributor.",
+        "evidenceAsset": "CA06-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "Write the cultural proposition in one sentence, then list the styling decisions that support it.",
+        "evidenceAsset": "CA06-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "Attach agreements or mark fee, credit, approval, license, archive, and correction terms unresolved.",
+        "evidenceAsset": "CA06-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Ask a relevant cultural specialist to review any reference whose authority the team does not hold.",
+        "evidenceAsset": "CA06-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S08",
+      "title": "Personal Digital Archiving",
+      "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S39",
+      "title": "Universal Electronic Records Management Requirements, Version 3",
+      "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S53",
+      "title": "17 U.S.C. § 101 — Definitions",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S54",
+      "title": "17 U.S.C. § 201 — Ownership of copyright",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S55",
+      "title": "17 U.S.C. § 204 — Execution of transfers of copyright ownership",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section204&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S82",
+      "title": "Styling for Creative Media",
+      "url": "https://www.fitnyc.edu/academics/academic-divisions/art-and-design/fabric-styling/index.php",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S83",
+      "title": "The Women of Harper's Bazaar, 1936–1958",
+      "url": "https://news.fitnyc.edu/2016/03/03/exhibition-the-women-of-harpers-bazaar-1936-1958/",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S84",
+      "title": "Standard Application Help: Author",
+      "url": "https://www.copyright.gov/eco/help-author.html",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X41",
+      "title": "The Fashion and Textile Museum collection and programme",
+      "url": "https://fashiontextilemuseum.org/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X58",
+      "title": "Historical Resources: Fashion Industry",
+      "url": "https://guides.loc.gov/fashion-industry/history",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X59",
+      "title": "Contemporary fashion designers on Balenciaga",
+      "url": "https://www.vam.ac.uk/articles/contemporary-fashion-designers-on-balenciaga",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X60",
+      "title": "Fashion at the Library",
+      "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "OBJ-loc-ppmsca-44953",
+      "title": "Report of New York fashions, spring and summer 1872",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/44900/44953v.jpg",
+      "canonicalUrl": "https://www.loc.gov/resource/ppmsca.44953/",
+      "credit": "Library of Congress Prints and Photographs Division",
+      "rights": "Free to Use and Reuse / Library of Congress curated set"
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S08",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S39",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S53",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S54",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S55",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S82",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S83",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S84",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-loc-ppmsca-44953",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X41",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X58",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X59",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X60",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}

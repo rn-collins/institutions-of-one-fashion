@@ -1,0 +1,978 @@
+{
+  "packageId": "CN05",
+  "title": "Foundation, Museum, Company, or School?",
+  "domain": "continue",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "CN05-TITLE",
+      "role": "hook",
+      "caption": "Foundation, museum, company, and school are different stewardship architectures; none can simultaneously maximize control, access, interpretation, teaching, commerce, and permanence.",
+      "source": "/packages/cn05",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "OBJ-159187",
+      "role": "material witness",
+      "caption": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+      "source": "https://www.metmuseum.org/art/collection/search/159187",
+      "rights": "Public Domain / Met Open Access"
+    },
+    {
+      "assetId": "CN05-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · PURPOSE — What must continue?. Separate object care, digital preservation, research, public access, teaching, grants, commercial licensing, authentication, publication, and correction into explicit functions.",
+      "source": "/packages/cn05",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN05-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · ASSET — What would each steward receive?. Inventory title, custody, copyright, marks, contracts, data, restrictions, donor terms, cultural authority, liabilities, funding, and operational dependencies.",
+      "source": "/packages/cn05",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN05-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · GOVERN — Who decides and who can challenge?. Design board or leadership composition, expertise, conflicts, terms, removal, founder and community voice, worker or contributor input, research independence, appeals, and review.",
+      "source": "/packages/cn05",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN05-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · FUND — Can care survive attention cycles?. Model conservation, storage, digitization, staffing, insurance, systems, access, education, rights clearance, and contingency costs without assuming sales or donations will cover them.",
+      "source": "/packages/cn05",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S21",
+      "role": "counterpoint",
+      "caption": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+      "source": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+      "rights": "Use an official embed only if offered; otherwise link only."
+    },
+    {
+      "assetId": "S39",
+      "role": "action",
+      "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "rights": "Government resource; link/download for education and do not imply endorsement."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "Foundation, Museum, Company, or School?: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CN05-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn05",
+          "crop": "native 4:5; no crop",
+          "caption": "Foundation, museum, company, and school are different stewardship architectures; none can simultaneously maximize control, access, interpretation, teaching, commerce, and permanence.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Foundation, Museum, Company, or School?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-159187",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/159187",
+          "crop": "full object with generous field",
+          "caption": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+          "alt": "Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CN05-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · PURPOSE — What must continue?. Separate object care, digital preservation, research, public access, teaching, grants, commercial licensing, authentication, publication, and correction into explicit functions.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what must continue? within Foundation, Museum, Company, or School?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CN05-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · ASSET — What would each steward receive?. Inventory title, custody, copyright, marks, contracts, data, restrictions, donor terms, cultural authority, liabilities, funding, and operational dependencies.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what would each steward receive? within Foundation, Museum, Company, or School?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CN05-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · GOVERN — Who decides and who can challenge?. Design board or leadership composition, expertise, conflicts, terms, removal, founder and community voice, worker or contributor input, research independence, appeals, and review.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who decides and who can challenge? within Foundation, Museum, Company, or School?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CN05-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · FUND — Can care survive attention cycles?. Model conservation, storage, digitization, staffing, insurance, systems, access, education, rights clearance, and contingency costs without assuming sales or donations will cover them.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can care survive attention cycles? within Foundation, Museum, Company, or School?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S21",
+          "visualType": "canonical public record card",
+          "source": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+          "credit": "Politecnico di Milano / Google Arts & Culture",
+          "alt": "Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture.",
+          "rights": "Use an official embed only if offered; otherwise link only.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "Foundation, Museum, Company, or School?: what the record changes",
+      "frames": [
+        {
+          "assetId": "CN05-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn05",
+          "crop": "native 4:5; no crop",
+          "caption": "Foundation, museum, company, and school are different stewardship architectures; none can simultaneously maximize control, access, interpretation, teaching, commerce, and permanence.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Foundation, Museum, Company, or School?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CN05-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · GOVERN — Who decides and who can challenge?. Design board or leadership composition, expertise, conflicts, terms, removal, founder and community voice, worker or contributor input, research independence, appeals, and review.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who decides and who can challenge? within Foundation, Museum, Company, or School?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CN05-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn05",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · FUND — Can care survive attention cycles?. Model conservation, storage, digitization, staffing, insurance, systems, access, education, rights clearance, and contingency costs without assuming sales or donations will cover them.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can care survive attention cycles? within Foundation, Museum, Company, or School?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S21",
+          "visualType": "canonical public record card",
+          "source": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+          "credit": "Politecnico di Milano / Google Arts & Culture",
+          "alt": "Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture.",
+          "rights": "Use an official embed only if offered; otherwise link only.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CN05-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/cn05#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "A prestigious steward can still close access, underfund care, commercialize memory, or erase communities. Founder control can protect intent or block necessary reinterpretation. The answer is accountable function and resources, not institutional aura.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for Foundation, Museum, Company, or School?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CN05-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#cn05-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Map each asset and restriction to possible stewards.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for Foundation, Museum, Company, or School?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-159187",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/159187",
+          "crop": "full object with generous field",
+          "caption": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+          "alt": "Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-159187",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CN05-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · PURPOSE — What must continue?. Separate object care, digital preservation, research, public access, teaching, grants, commercial licensing, authentication, publication, and correction into explicit functions.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CN05-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · ASSET — What would each steward receive?. Inventory title, custody, copyright, marks, contracts, data, restrictions, donor terms, cultural authority, liabilities, funding, and operational dependencies.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CN05-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · GOVERN — Who decides and who can challenge?. Design board or leadership composition, expertise, conflicts, terms, removal, founder and community voice, worker or contributor input, research independence, appeals, and review.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CN05-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · FUND — Can care survive attention cycles?. Model conservation, storage, digitization, staffing, insurance, systems, access, education, rights clearance, and contingency costs without assuming sales or donations will cover them.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S21",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+        "credit": "Politecnico di Milano / Google Arts & Culture",
+        "rights": "Use an official embed only if offered; otherwise link only."
+      }
+    ],
+    "endCard": "Open CN05 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CN05-TITLE",
+        "title": "Foundation, Museum, Company, or School?",
+        "description": "Foundation, museum, company, and school are different stewardship architectures; none can simultaneously maximize control, access, interpretation, teaching, commerce, and permanence.",
+        "destination": "/packages/cn05",
+        "alt": "Title plate for Foundation, Museum, Company, or School?.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-159187",
+        "title": "What would each steward receive?",
+        "description": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+        "destination": "/packages/cn05",
+        "alt": "Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "assetId": "S21",
+        "title": "The continue record",
+        "description": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/cn05",
+        "alt": "Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture.",
+        "credit": "Politecnico di Milano / Google Arts & Culture",
+        "rights": "Use an official embed only if offered; otherwise link only."
+      },
+      {
+        "assetId": "S21",
+        "title": "A field tool for Foundation, Museum, Company, or School?",
+        "description": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/cn05",
+        "alt": "Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture.",
+        "credit": "Politecnico di Milano / Google Arts & Culture",
+        "rights": "Use an official embed only if offered; otherwise link only."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CN05-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn05",
+          "crop": "native 4:5; no crop",
+          "caption": "Foundation, museum, company, and school are different stewardship architectures; none can simultaneously maximize control, access, interpretation, teaching, commerce, and permanence.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Foundation, Museum, Company, or School?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-159187",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/159187",
+          "crop": "full object with generous field",
+          "caption": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+          "alt": "Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CN05-DIAGRAM-1",
+          "CN05-DIAGRAM-2",
+          "CN05-DIAGRAM-3",
+          "CN05-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S21",
+          "visualType": "canonical public record card",
+          "source": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+          "credit": "Politecnico di Milano / Google Arts & Culture",
+          "alt": "Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture.",
+          "rights": "Use an official embed only if offered; otherwise link only.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CN05-FIELD-10",
+          "OBJ-159187"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "OBJ-159187",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.metmuseum.org/art/collection/search/159187",
+      "crop": "full object with generous field",
+      "caption": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+      "alt": "Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882.",
+      "rights": "Public Domain / Met Open Access",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "CN05-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn05",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · PURPOSE — What must continue?. Separate object care, digital preservation, research, public access, teaching, grants, commercial licensing, authentication, publication, and correction into explicit functions.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what must continue? within Foundation, Museum, Company, or School?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "CN05-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn05",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · ASSET — What would each steward receive?. Inventory title, custody, copyright, marks, contracts, data, restrictions, donor terms, cultural authority, liabilities, funding, and operational dependencies.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what would each steward receive? within Foundation, Museum, Company, or School?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "CN05-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn05",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · GOVERN — Who decides and who can challenge?. Design board or leadership composition, expertise, conflicts, terms, removal, founder and community voice, worker or contributor input, research independence, appeals, and review.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping who decides and who can challenge? within Foundation, Museum, Company, or School?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "CN05-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn05",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · FUND — Can care survive attention cycles?. Model conservation, storage, digitization, staffing, insurance, systems, access, education, rights clearance, and contingency costs without assuming sales or donations will cover them.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can care survive attention cycles? within Foundation, Museum, Company, or School?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S21",
+        "title": "Gianfranco Ferré Research Center",
+        "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S39",
+        "title": "Universal Electronic Records Management Requirements, Version 3",
+        "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S40",
+        "title": "Collections Care",
+        "url": "https://siarchives.si.edu/what-we-do/collections-care",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S41",
+        "title": "Storage and Handling",
+        "url": "https://siarchives.si.edu/what-we-do/preservation/storage-handling",
+        "disposition": "LINK_ONLY"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "CN05-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/cn05",
+        "crop": "native 4:5; no crop",
+        "caption": "Foundation, museum, company, and school are different stewardship architectures; none can simultaneously maximize control, access, interpretation, teaching, commerce, and permanence.",
+        "credit": "RN Collins",
+        "alt": "Title plate for Foundation, Museum, Company, or School?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "CN05-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn05",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · GOVERN — Who decides and who can challenge?. Design board or leadership composition, expertise, conflicts, terms, removal, founder and community voice, worker or contributor input, research independence, appeals, and review.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping who decides and who can challenge? within Foundation, Museum, Company, or School?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "CN05-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn05",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · FUND — Can care survive attention cycles?. Model conservation, storage, digitization, staffing, insurance, systems, access, education, rights clearance, and contingency costs without assuming sales or donations will cover them.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can care survive attention cycles? within Foundation, Museum, Company, or School?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S21",
+        "visualType": "canonical public record card",
+        "source": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+        "credit": "Politecnico di Milano / Google Arts & Culture",
+        "alt": "Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture.",
+        "rights": "Use an official embed only if offered; otherwise link only.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S39",
+        "visualType": "canonical public record card",
+        "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. National Archives and Records Administration",
+        "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+        "rights": "Government resource; link/download for education and do not imply endorsement.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "CN05-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/cn05#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "A prestigious steward can still close access, underfund care, commercialize memory, or erase communities. Founder control can protect intent or block necessary reinterpretation. The answer is accountable function and resources, not institutional aura.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for Foundation, Museum, Company, or School?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "CN05-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#cn05-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "Map each asset and restriction to possible stewards.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for Foundation, Museum, Company, or School?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "OBJ-159187",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.metmuseum.org/art/collection/search/159187",
+        "crop": "full object with generous field",
+        "caption": "The record separates the material dress, House of Worth attribution, Charles Frederick Worth design credit, accession, and the museum’s present custody.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+        "alt": "Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882.",
+        "rights": "Public Domain / Met Open Access",
+        "disposition": "PUBLIC_DOMAIN_CC0",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "CN05-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/cn05",
+      "crop": "native 4:5; no crop",
+      "caption": "Foundation, museum, company, and school are different stewardship architectures; none can simultaneously maximize control, access, interpretation, teaching, commerce, and permanence.",
+      "credit": "RN Collins",
+      "alt": "Title plate for Foundation, Museum, Company, or School?.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for Foundation, Museum, Company, or School?. Diagram mapping who decides and who can challenge? within Foundation, Museum, Company, or School?. Diagram mapping can care survive attention cycles? within Foundation, Museum, Company, or School?. Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture. Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration. Counterpoint card for Foundation, Museum, Company, or School?. Fieldwork prompt for Foundation, Museum, Company, or School?. Ivory and blue silk evening dress with a fitted bodice, deep neckline, and long trained skirt, designed by Charles Frederick Worth around 1882."
+  },
+  "interactive": {
+    "url": "/tools#cn05-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Rank the ten stewardship functions by nonnegotiable outcome.",
+        "evidenceAsset": "CN05-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "Map each asset and restriction to possible stewards.",
+        "evidenceAsset": "CN05-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "Test governance for conflict, capture, silence, and founder absence.",
+        "evidenceAsset": "CN05-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Obtain nonprofit, museum, tax, IP, employment, and cultural review as applicable.",
+        "evidenceAsset": "CN05-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S21",
+      "title": "Gianfranco Ferré Research Center",
+      "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S39",
+      "title": "Universal Electronic Records Management Requirements, Version 3",
+      "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S40",
+      "title": "Collections Care",
+      "url": "https://siarchives.si.edu/what-we-do/collections-care",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S41",
+      "title": "Storage and Handling",
+      "url": "https://siarchives.si.edu/what-we-do/preservation/storage-handling",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S42",
+      "title": "Textile Conservation",
+      "url": "https://mci.si.edu/textile-conservation",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S52",
+      "title": "Delaware General Corporation Law § 141 — Board of directors",
+      "url": "https://delcode.delaware.gov/title8/c001/sc04/index.html#141",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S63",
+      "title": "17 U.S.C. § 201 — Ownership of copyright",
+      "url": "https://www.copyright.gov/title17/92chap2.html",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S65",
+      "title": "Appraisal Policy of the National Archives",
+      "url": "https://www.archives.gov/records-mgmt/scheduling/appraisal",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X09",
+      "title": "Joyce A. Bailey Oral History Interview",
+      "url": "https://www.si.edu/object/joyce-bailey-oral-history-interview%3Anmaahc_2016.129.3.1a-.2a",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X33",
+      "title": "Garment industry compliance resources",
+      "url": "https://www.dol.gov/agencies/whd/industry-resources/garment",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X34",
+      "title": "ILO Better Work programme",
+      "url": "https://betterwork.org/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X35",
+      "title": "UNESCO Intangible Cultural Heritage Lists",
+      "url": "https://ich.unesco.org/en/lists",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X57",
+      "title": "Chinese American fashion designer oral-history digitization project",
+      "url": "https://www.archives.gov/nhprc/newsletter/april2024",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X60",
+      "title": "Fashion at the Library",
+      "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "OBJ-159187",
+      "title": "Evening dress",
+      "url": "https://images.metmuseum.org/CRDImages/ci/web-large/DP285734.jpg",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/159187",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the Princess Viggo in accordance with the wishes of the Misses Hewitt, 1931",
+      "rights": "Public Domain / Met Open Access"
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S21",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S39",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S40",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S41",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S42",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S52",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S63",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S65",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-159187",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X09",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X33",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X34",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X35",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X57",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X60",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}

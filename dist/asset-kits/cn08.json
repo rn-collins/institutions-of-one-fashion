@@ -1,0 +1,1026 @@
+{
+  "packageId": "CN08",
+  "title": "A Garment Can Outlive Its File",
+  "domain": "continue",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "CN08-TITLE",
+      "role": "hook",
+      "caption": "A garment and its digital record are interdependent preservation systems: the object carries material evidence the file cannot feel, while the file carries context the object cannot state.",
+      "source": "/packages/cn08",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "OBJ-83877",
+      "role": "material witness",
+      "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+      "source": "https://www.metmuseum.org/art/collection/search/83877",
+      "rights": "Public Domain / Met Open Access"
+    },
+    {
+      "assetId": "CN08-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · IDENTIFY — Can object and file find each other?. Assign stable identifiers to garment, component, container, digital folder, preservation copy, image, and related record; never rely on filename or shelf memory alone.",
+      "source": "/packages/cn08",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN08-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · DESCRIBE — What evidence belongs to each medium?. Record physical material, construction, wear and condition separately from file provenance, format, metadata, rights, version, and fixity. Link without collapsing.",
+      "source": "/packages/cn08",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN08-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · CARE — What threatens survival?. Assess handling, light, pests, humidity, storage materials, damage, hardware, software, format, bit integrity, access, vendor, and backup with appropriate specialists.",
+      "source": "/packages/cn08",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CN08-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · USE — How will access avoid harm?. Define handling, digitization, research, display, reproduction, privacy, cultural restriction, loan, treatment, and correction rules; record every intervention.",
+      "source": "/packages/cn08",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S39",
+      "role": "counterpoint",
+      "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "rights": "Government resource; link/download for education and do not imply endorsement."
+    },
+    {
+      "assetId": "S40",
+      "role": "action",
+      "caption": "Collections Care is retained as evidence, education, reporting or rights context.",
+      "source": "https://siarchives.si.edu/what-we-do/collections-care",
+      "rights": "Link and paraphrase; page photography requires separate clearance."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "A Garment Can Outlive Its File: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CN08-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn08",
+          "crop": "native 4:5; no crop",
+          "caption": "A garment and its digital record are interdependent preservation systems: the object carries material evidence the file cannot feel, while the file carries context the object cannot state.",
+          "credit": "RN Collins",
+          "alt": "Title plate for A Garment Can Outlive Its File.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-83877",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/83877",
+          "crop": "full object with generous field",
+          "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+          "credit": "Gift of Mary Tavener Holmes, 1983",
+          "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CN08-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · IDENTIFY — Can object and file find each other?. Assign stable identifiers to garment, component, container, digital folder, preservation copy, image, and related record; never rely on filename or shelf memory alone.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can object and file find each other? within A Garment Can Outlive Its File.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CN08-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · DESCRIBE — What evidence belongs to each medium?. Record physical material, construction, wear and condition separately from file provenance, format, metadata, rights, version, and fixity. Link without collapsing.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what evidence belongs to each medium? within A Garment Can Outlive Its File.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CN08-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · CARE — What threatens survival?. Assess handling, light, pests, humidity, storage materials, damage, hardware, software, format, bit integrity, access, vendor, and backup with appropriate specialists.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what threatens survival? within A Garment Can Outlive Its File.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CN08-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · USE — How will access avoid harm?. Define handling, digitization, research, display, reproduction, privacy, cultural restriction, loan, treatment, and correction rules; record every intervention.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping how will access avoid harm? within A Garment Can Outlive Its File.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S40",
+          "visualType": "canonical public record card",
+          "source": "https://siarchives.si.edu/what-we-do/collections-care",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Collections Care is retained as evidence, education, reporting or rights context.",
+          "credit": "Smithsonian Institution Archives",
+          "alt": "Source card for Collections Care, credited to Smithsonian Institution Archives.",
+          "rights": "Link and paraphrase; page photography requires separate clearance.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "A Garment Can Outlive Its File: what the record changes",
+      "frames": [
+        {
+          "assetId": "CN08-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn08",
+          "crop": "native 4:5; no crop",
+          "caption": "A garment and its digital record are interdependent preservation systems: the object carries material evidence the file cannot feel, while the file carries context the object cannot state.",
+          "credit": "RN Collins",
+          "alt": "Title plate for A Garment Can Outlive Its File.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CN08-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · CARE — What threatens survival?. Assess handling, light, pests, humidity, storage materials, damage, hardware, software, format, bit integrity, access, vendor, and backup with appropriate specialists.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what threatens survival? within A Garment Can Outlive Its File.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CN08-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/cn08",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · USE — How will access avoid harm?. Define handling, digitization, research, display, reproduction, privacy, cultural restriction, loan, treatment, and correction rules; record every intervention.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping how will access avoid harm? within A Garment Can Outlive Its File.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S40",
+          "visualType": "canonical public record card",
+          "source": "https://siarchives.si.edu/what-we-do/collections-care",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Collections Care is retained as evidence, education, reporting or rights context.",
+          "credit": "Smithsonian Institution Archives",
+          "alt": "Source card for Collections Care, credited to Smithsonian Institution Archives.",
+          "rights": "Link and paraphrase; page photography requires separate clearance.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CN08-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/cn08#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Digitization can create access while encouraging the fiction that the physical object has been preserved. Conservation can protect an object while making it inaccessible. Stewardship must negotiate both forms of loss.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for A Garment Can Outlive Its File.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CN08-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#cn08-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Create identifiers and record missing connections.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for A Garment Can Outlive Its File.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-83877",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/83877",
+          "crop": "full object with generous field",
+          "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+          "credit": "Gift of Mary Tavener Holmes, 1983",
+          "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-83877",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+        "credit": "Gift of Mary Tavener Holmes, 1983",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CN08-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · IDENTIFY — Can object and file find each other?. Assign stable identifiers to garment, component, container, digital folder, preservation copy, image, and related record; never rely on filename or shelf memory alone.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CN08-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · DESCRIBE — What evidence belongs to each medium?. Record physical material, construction, wear and condition separately from file provenance, format, metadata, rights, version, and fixity. Link without collapsing.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CN08-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · CARE — What threatens survival?. Assess handling, light, pests, humidity, storage materials, damage, hardware, software, format, bit integrity, access, vendor, and backup with appropriate specialists.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CN08-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · USE — How will access avoid harm?. Define handling, digitization, research, display, reproduction, privacy, cultural restriction, loan, treatment, and correction rules; record every intervention.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S39",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. National Archives and Records Administration",
+        "rights": "Government resource; link/download for education and do not imply endorsement."
+      }
+    ],
+    "endCard": "Open CN08 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CN08-TITLE",
+        "title": "A Garment Can Outlive Its File",
+        "description": "A garment and its digital record are interdependent preservation systems: the object carries material evidence the file cannot feel, while the file carries context the object cannot state.",
+        "destination": "/packages/cn08",
+        "alt": "Title plate for A Garment Can Outlive Its File.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-83877",
+        "title": "What evidence belongs to each medium?",
+        "description": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+        "destination": "/packages/cn08",
+        "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+        "credit": "Gift of Mary Tavener Holmes, 1983",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "assetId": "S39",
+        "title": "The continue record",
+        "description": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/cn08",
+        "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+        "credit": "U.S. National Archives and Records Administration",
+        "rights": "Government resource; link/download for education and do not imply endorsement."
+      },
+      {
+        "assetId": "S39",
+        "title": "A field tool for A Garment Can Outlive Its File",
+        "description": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/cn08",
+        "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+        "credit": "U.S. National Archives and Records Administration",
+        "rights": "Government resource; link/download for education and do not imply endorsement."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CN08-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/cn08",
+          "crop": "native 4:5; no crop",
+          "caption": "A garment and its digital record are interdependent preservation systems: the object carries material evidence the file cannot feel, while the file carries context the object cannot state.",
+          "credit": "RN Collins",
+          "alt": "Title plate for A Garment Can Outlive Its File.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-83877",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/83877",
+          "crop": "full object with generous field",
+          "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+          "credit": "Gift of Mary Tavener Holmes, 1983",
+          "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CN08-DIAGRAM-1",
+          "CN08-DIAGRAM-2",
+          "CN08-DIAGRAM-3",
+          "CN08-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S39",
+          "visualType": "canonical public record card",
+          "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. National Archives and Records Administration",
+          "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+          "rights": "Government resource; link/download for education and do not imply endorsement.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CN08-FIELD-10",
+          "OBJ-83877"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "OBJ-83877",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.metmuseum.org/art/collection/search/83877",
+      "crop": "full object with generous field",
+      "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+      "credit": "Gift of Mary Tavener Holmes, 1983",
+      "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+      "rights": "Public Domain / Met Open Access",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "CN08-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn08",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · IDENTIFY — Can object and file find each other?. Assign stable identifiers to garment, component, container, digital folder, preservation copy, image, and related record; never rely on filename or shelf memory alone.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can object and file find each other? within A Garment Can Outlive Its File.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "CN08-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn08",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · DESCRIBE — What evidence belongs to each medium?. Record physical material, construction, wear and condition separately from file provenance, format, metadata, rights, version, and fixity. Link without collapsing.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what evidence belongs to each medium? within A Garment Can Outlive Its File.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "CN08-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn08",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · CARE — What threatens survival?. Assess handling, light, pests, humidity, storage materials, damage, hardware, software, format, bit integrity, access, vendor, and backup with appropriate specialists.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what threatens survival? within A Garment Can Outlive Its File.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "CN08-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn08",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · USE — How will access avoid harm?. Define handling, digitization, research, display, reproduction, privacy, cultural restriction, loan, treatment, and correction rules; record every intervention.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping how will access avoid harm? within A Garment Can Outlive Its File.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S39",
+        "title": "Universal Electronic Records Management Requirements, Version 3",
+        "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S40",
+        "title": "Collections Care",
+        "url": "https://siarchives.si.edu/what-we-do/collections-care",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S41",
+        "title": "Storage and Handling",
+        "url": "https://siarchives.si.edu/what-we-do/preservation/storage-handling",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S42",
+        "title": "Textile Conservation",
+        "url": "https://mci.si.edu/textile-conservation",
+        "disposition": "LINK_ONLY"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "CN08-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/cn08",
+        "crop": "native 4:5; no crop",
+        "caption": "A garment and its digital record are interdependent preservation systems: the object carries material evidence the file cannot feel, while the file carries context the object cannot state.",
+        "credit": "RN Collins",
+        "alt": "Title plate for A Garment Can Outlive Its File.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "CN08-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn08",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · CARE — What threatens survival?. Assess handling, light, pests, humidity, storage materials, damage, hardware, software, format, bit integrity, access, vendor, and backup with appropriate specialists.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what threatens survival? within A Garment Can Outlive Its File.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "CN08-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/cn08",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · USE — How will access avoid harm?. Define handling, digitization, research, display, reproduction, privacy, cultural restriction, loan, treatment, and correction rules; record every intervention.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping how will access avoid harm? within A Garment Can Outlive Its File.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S39",
+        "visualType": "canonical public record card",
+        "source": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Universal Electronic Records Management Requirements, Version 3 is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. National Archives and Records Administration",
+        "alt": "Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration.",
+        "rights": "Government resource; link/download for education and do not imply endorsement.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S40",
+        "visualType": "canonical public record card",
+        "source": "https://siarchives.si.edu/what-we-do/collections-care",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Collections Care is retained as evidence, education, reporting or rights context.",
+        "credit": "Smithsonian Institution Archives",
+        "alt": "Source card for Collections Care, credited to Smithsonian Institution Archives.",
+        "rights": "Link and paraphrase; page photography requires separate clearance.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "CN08-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/cn08#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "Digitization can create access while encouraging the fiction that the physical object has been preserved. Conservation can protect an object while making it inaccessible. Stewardship must negotiate both forms of loss.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for A Garment Can Outlive Its File.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "CN08-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#cn08-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "Create identifiers and record missing connections.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for A Garment Can Outlive Its File.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "OBJ-83877",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.metmuseum.org/art/collection/search/83877",
+        "crop": "full object with generous field",
+        "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+        "credit": "Gift of Mary Tavener Holmes, 1983",
+        "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+        "rights": "Public Domain / Met Open Access",
+        "disposition": "PUBLIC_DOMAIN_CC0",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "CN08-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/cn08",
+      "crop": "native 4:5; no crop",
+      "caption": "A garment and its digital record are interdependent preservation systems: the object carries material evidence the file cannot feel, while the file carries context the object cannot state.",
+      "credit": "RN Collins",
+      "alt": "Title plate for A Garment Can Outlive Its File.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for A Garment Can Outlive Its File. Diagram mapping what threatens survival? within A Garment Can Outlive Its File. Diagram mapping how will access avoid harm? within A Garment Can Outlive Its File. Source card for Universal Electronic Records Management Requirements, Version 3, credited to U.S. National Archives and Records Administration. Source card for Collections Care, credited to Smithsonian Institution Archives. Counterpoint card for A Garment Can Outlive Its File. Fieldwork prompt for A Garment Can Outlive Its File. Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection."
+  },
+  "interactive": {
+    "url": "/tools#cn08-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Pair one garment with every known physical and digital relative.",
+        "evidenceAsset": "CN08-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "Create identifiers and record missing connections.",
+        "evidenceAsset": "CN08-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "Obtain conservation and digital-preservation risk assessments.",
+        "evidenceAsset": "CN08-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Test recovery from a preservation copy and retrieval from physical storage.",
+        "evidenceAsset": "CN08-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S39",
+      "title": "Universal Electronic Records Management Requirements, Version 3",
+      "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S40",
+      "title": "Collections Care",
+      "url": "https://siarchives.si.edu/what-we-do/collections-care",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S41",
+      "title": "Storage and Handling",
+      "url": "https://siarchives.si.edu/what-we-do/preservation/storage-handling",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S42",
+      "title": "Textile Conservation",
+      "url": "https://mci.si.edu/textile-conservation",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S43",
+      "title": "How do I store antique textiles at home?",
+      "url": "https://www.si.edu/faqs/antique-textile-storage",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S66",
+      "title": "Electronic Records Information for Archivists",
+      "url": "https://www.archives.gov/research/electronic-records/info-for-archivists.html",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X01",
+      "title": "Smithsonian Open Access",
+      "url": "https://www.si.edu/openaccess",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X19",
+      "title": "Feedsack dress",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1105750",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X26",
+      "title": "Europeana Rights Statements",
+      "url": "https://pro.europeana.eu/page/available-rights-statements",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X27",
+      "title": "DPLA Rights Statements",
+      "url": "https://pro.dp.la/hubs/rights-statements",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X36",
+      "title": "Personal Digital Archiving",
+      "url": "https://www.digitalpreservation.gov/personalarchiving/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X37",
+      "title": "National Archives records management guidance",
+      "url": "https://www.archives.gov/records-mgmt",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X42",
+      "title": "European Product Registry for Energy Labelling",
+      "url": "https://eprel.ec.europa.eu/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X52",
+      "title": "J.Crew Employment Agreement: confidential creative records provisions",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513842/000119312519244895/d741756dex1016.htm",
+      "disposition": "QUOTE_LINK",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X62",
+      "title": "Save Page Now",
+      "url": "https://web.archive.org/save/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X63",
+      "title": "Sustainability of Digital Formats",
+      "url": "https://www.loc.gov/preservation/digital/formats/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X64",
+      "title": "Guidance on Managing Social Media Records",
+      "url": "https://www.archives.gov/records-mgmt/bulletins/2014/2014-02.html",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "OBJ-83877",
+      "title": "Dress",
+      "url": "https://images.metmuseum.org/CRDImages/ci/web-large/DT7538.jpg",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/83877",
+      "credit": "Gift of Mary Tavener Holmes, 1983",
+      "rights": "Public Domain / Met Open Access"
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S39",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S40",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S41",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S42",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S43",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S66",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-83877",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X01",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X19",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X26",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X27",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X36",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X37",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X42",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X52",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X62",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X63",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X64",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}

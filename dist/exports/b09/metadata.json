@@ -1,0 +1,414 @@
+{
+  "packageId": "B09",
+  "title": "Seven Seasons of Signal",
+  "author": "RN Collins",
+  "version": "2.0",
+  "rightsRule": "Evidence leads; atmosphere never substitutes for provenance.",
+  "instagram": {
+    "carouselA": {
+      "title": "Seven Seasons of Signal: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "B09-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b09",
+          "crop": "native 4:5; no crop",
+          "caption": "A house code becomes credible through patterned decisions and meaningful exceptions across time—not through one viral object or the mechanical repetition of a motif.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Seven Seasons of Signal.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "X13",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/107061",
+          "crop": "full object with generous field",
+          "caption": "Bridesmaid dress is retained as additional official resource located during the dated excavation pass.",
+          "credit": "The Metropolitan Museum of Art",
+          "alt": "Source card for Bridesmaid dress, credited to The Metropolitan Museum of Art.",
+          "rights": "Public Domain under Met Open Access; exact image installed separately.",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "B09-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b09",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · SAMPLE — Is the comparison set honest?. Define seasons, object types, images, dates, sources, missing records, and selection criteria before describing a pattern. Do not cherry-pick only the most recognizable work.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping is the comparison set honest? within Seven Seasons of Signal.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "B09-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b09",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · CODE — What exactly recurs?. Code silhouette, proportion, material, construction, color, gesture, image, language, casting, and refusal as separate observable fields. Keep description distinct from interpretation.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what exactly recurs? within Seven Seasons of Signal.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "B09-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b09",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · EXCEPTION — What does change reveal?. Record deliberate departures, commercial compromises, collaborator interventions, technical limits, and failed experiments. Exceptions show whether the method governs more than a motif.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what does change reveal? within Seven Seasons of Signal.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "B09-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b09",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CLAIM — What may be said or protected?. Separate cultural recognition, creator testimony, trademark evidence, product-design trade dress, copyrightable expression, design rights, and unresolved legal questions. Route protection claims to jurisdiction-specific counsel.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what may be said or protected? within Seven Seasons of Signal.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S11",
+          "visualType": "canonical public record card",
+          "source": "https://archiveondemand.fitnyc.edu/item/136259",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Special Collections",
+          "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+          "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S21",
+          "visualType": "canonical public record card",
+          "source": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+          "credit": "Politecnico di Milano / Google Arts & Culture",
+          "alt": "Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture.",
+          "rights": "Use an official embed only if offered; otherwise link only.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "Seven Seasons of Signal: what the record changes",
+      "frames": [
+        {
+          "assetId": "B09-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b09",
+          "crop": "native 4:5; no crop",
+          "caption": "A house code becomes credible through patterned decisions and meaningful exceptions across time—not through one viral object or the mechanical repetition of a motif.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Seven Seasons of Signal.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "B09-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b09",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · EXCEPTION — What does change reveal?. Record deliberate departures, commercial compromises, collaborator interventions, technical limits, and failed experiments. Exceptions show whether the method governs more than a motif.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what does change reveal? within Seven Seasons of Signal.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "B09-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b09",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CLAIM — What may be said or protected?. Separate cultural recognition, creator testimony, trademark evidence, product-design trade dress, copyrightable expression, design rights, and unresolved legal questions. Route protection claims to jurisdiction-specific counsel.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what may be said or protected? within Seven Seasons of Signal.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S11",
+          "visualType": "canonical public record card",
+          "source": "https://archiveondemand.fitnyc.edu/item/136259",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Special Collections",
+          "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+          "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S21",
+          "visualType": "canonical public record card",
+          "source": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+          "credit": "Politecnico di Milano / Google Arts & Culture",
+          "alt": "Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture.",
+          "rights": "Use an official embed only if offered; otherwise link only.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "B09-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/b09#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Longitudinal coding can flatten fashion into measurable sameness, reward consistency over growth, or assign every recurring feature to the visible founder. The counterweight is exceptions, contributor evidence, historical context, and permission for the institution to change.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for Seven Seasons of Signal.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "B09-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#b09-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Code ten observable fields and preserve counterexamples.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for Seven Seasons of Signal.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "X13",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/107061",
+          "crop": "full object with generous field",
+          "caption": "Bridesmaid dress is retained as additional official resource located during the dated excavation pass.",
+          "credit": "The Metropolitan Museum of Art",
+          "alt": "Source card for Bridesmaid dress, credited to The Metropolitan Museum of Art.",
+          "rights": "Public Domain under Met Open Access; exact image installed separately.",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "B09-TITLE",
+        "title": "Seven Seasons of Signal",
+        "description": "A house code becomes credible through patterned decisions and meaningful exceptions across time—not through one viral object or the mechanical repetition of a motif.",
+        "destination": "/packages/b09",
+        "alt": "Title plate for Seven Seasons of Signal.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "X13",
+        "title": "What exactly recurs?",
+        "description": "Bridesmaid dress is retained as additional official resource located during the dated excavation pass.",
+        "destination": "/packages/b09",
+        "alt": "Source card for Bridesmaid dress, credited to The Metropolitan Museum of Art.",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public Domain under Met Open Access; exact image installed separately."
+      },
+      {
+        "assetId": "S11",
+        "title": "The build record",
+        "description": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/b09",
+        "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+        "credit": "FIT Special Collections",
+        "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use."
+      },
+      {
+        "assetId": "S11",
+        "title": "A field tool for Seven Seasons of Signal",
+        "description": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/b09",
+        "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+        "credit": "FIT Special Collections",
+        "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "B09-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b09",
+          "crop": "native 4:5; no crop",
+          "caption": "A house code becomes credible through patterned decisions and meaningful exceptions across time—not through one viral object or the mechanical repetition of a motif.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Seven Seasons of Signal.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "X13",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/107061",
+          "crop": "full object with generous field",
+          "caption": "Bridesmaid dress is retained as additional official resource located during the dated excavation pass.",
+          "credit": "The Metropolitan Museum of Art",
+          "alt": "Source card for Bridesmaid dress, credited to The Metropolitan Museum of Art.",
+          "rights": "Public Domain under Met Open Access; exact image installed separately.",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "B09-DIAGRAM-1",
+          "B09-DIAGRAM-2",
+          "B09-DIAGRAM-3",
+          "B09-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S11",
+          "visualType": "canonical public record card",
+          "source": "https://archiveondemand.fitnyc.edu/item/136259",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+          "credit": "FIT Special Collections",
+          "alt": "Source card for Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982, credited to FIT Special Collections.",
+          "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "B09-FIELD-10",
+          "X13"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "vertical": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "X13",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "Bridesmaid dress is retained as additional official resource located during the dated excavation pass.",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public Domain under Met Open Access; exact image installed separately."
+      },
+      {
+        "time": "8–16s",
+        "assetId": "B09-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · SAMPLE — Is the comparison set honest?. Define seasons, object types, images, dates, sources, missing records, and selection criteria before describing a pattern. Do not cherry-pick only the most recognizable work.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "B09-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · CODE — What exactly recurs?. Code silhouette, proportion, material, construction, color, gesture, image, language, casting, and refusal as separate observable fields. Keep description distinct from interpretation.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "B09-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · EXCEPTION — What does change reveal?. Record deliberate departures, commercial compromises, collaborator interventions, technical limits, and failed experiments. Exceptions show whether the method governs more than a motif.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "B09-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · CLAIM — What may be said or protected?. Separate cultural recognition, creator testimony, trademark evidence, product-design trade dress, copyrightable expression, design rights, and unresolved legal questions. Route protection claims to jurisdiction-specific counsel.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S11",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982 is retained as evidence, education, reporting or rights context.",
+        "credit": "FIT Special Collections",
+        "rights": "In Copyright; copying, display, or upload requires permission except reviewed fair use."
+      }
+    ],
+    "endCard": "Open B09 at institutions-of-one-fashion.vercel.app"
+  }
+}

@@ -1,0 +1,2253 @@
+{
+  "version": "2.0",
+  "auditDate": "2026-09-07",
+  "count": 179,
+  "candidates": [
+    {
+      "assetId": "S01",
+      "title": "Evening dress",
+      "disposition": "UNRESOLVED",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S02",
+      "title": "Morning dress",
+      "disposition": "UNRESOLVED",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S03",
+      "title": "Dress",
+      "disposition": "REUSE",
+      "destinations": [
+        "CN11:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S04",
+      "title": "Afternoon dress",
+      "disposition": "REUSE",
+      "destinations": [
+        "CN11:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S05",
+      "title": "Dress",
+      "disposition": "REUSE",
+      "destinations": [
+        "CN11:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S06",
+      "title": "Open Access",
+      "disposition": "REUSE_POLICY",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S07",
+      "title": "Fashion — Free to Use and Reuse",
+      "disposition": "REUSE_ITEM_CHECK",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S08",
+      "title": "Personal Digital Archiving",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B06:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B07:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B10:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA03:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA06:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO04:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO05:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO06:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO08:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO09:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO10:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO11:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO12:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN01:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN03:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN04:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN06:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN07:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN12:instagram-carousel-a+instagram-carousel-b+package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S09",
+      "title": "Open Access at the Smithsonian",
+      "disposition": "REUSE_ITEM_CHECK",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S10",
+      "title": "Joyce A. Bailey Oral History Interview",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA08:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA10:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN07:instagram-carousel-a+instagram-carousel-b+package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S11",
+      "title": "Project of the Fashion Industries Oral History Series: Bonnie Cashin 1982",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B01:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B09:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B10:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA10:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN06:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN07:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S12",
+      "title": "Interview of Liz Claiborne, 1990 July 10 and 17",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA10:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S13",
+      "title": "FIT Oral History: Ralph Lauren",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B10:package-resources-room",
+        "CA10:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S14",
+      "title": "Adele Simpson Oral History",
+      "disposition": "UNRESOLVED",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S15",
+      "title": "FIT oral histories collection, 1967–2023",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B01:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B10:package-resources-room",
+        "CA10:package-resources-room",
+        "CO12:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN07:package-resources-room",
+        "CN10:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN11:instagram-carousel-a+instagram-carousel-b+package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S16",
+      "title": "Parsons School of Design Fashion Design Department records",
+      "disposition": "UNRESOLVED",
+      "destinations": [
+        "B01:package-resources-room",
+        "CA10:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S17",
+      "title": "Parsons School of Design School of Fashion records",
+      "disposition": "UNRESOLVED",
+      "destinations": [
+        "CA10:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S18",
+      "title": "Dorothy Haon and Marion Haon papers",
+      "disposition": "UNRESOLVED",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S19",
+      "title": "Lucie Porges fashion design papers",
+      "disposition": "UNRESOLVED",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S20",
+      "title": "Mary Ann Restivo fashion runway video recordings",
+      "disposition": "UNRESOLVED",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S21",
+      "title": "Gianfranco Ferré Research Center",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B01:package-resources-room",
+        "B07:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B09:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA02:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA09:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN05:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S22",
+      "title": "Gianfranco Ferré Research Center",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B07:package-resources-room",
+        "CA02:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA09:instagram-carousel-a+instagram-carousel-b+package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S23",
+      "title": "Condé Nast Archive",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B07:package-resources-room",
+        "CA02:package-resources-room",
+        "CA07:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S24",
+      "title": "HCC Fashion Archive",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B07:package-resources-room",
+        "CA02:package-resources-room",
+        "CO12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S25",
+      "title": "MoMu — Fashion Museum Antwerp",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B07:package-resources-room",
+        "B09:package-resources-room",
+        "CN10:instagram-carousel-a+instagram-carousel-b+package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S26",
+      "title": "Parsons School of Design",
+      "disposition": "LINK_ONLY",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S27",
+      "title": "V&A Fashion in Motion",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S28",
+      "title": "Intellectual Property in Fashion",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B06:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B10:package-resources-room",
+        "CO08:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN10:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S29",
+      "title": "WIPO IP Diagnostics for the Fashion Industry",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S30",
+      "title": "How to Protect Designs?",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S31",
+      "title": "Industrial Designs",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S32",
+      "title": "Fashion, Beauty, and Intellectual Property: Trademarks",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B10:package-resources-room",
+        "CO01:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO06:instagram-carousel-a+instagram-carousel-b+package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S33",
+      "title": "CFDA Resources",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B06:package-resources-room",
+        "B10:package-resources-room",
+        "CO06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S34",
+      "title": "CFDA Sustainability Resource Directory",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO10:instagram-carousel-a+instagram-carousel-b+package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S35",
+      "title": "Tapestry, Inc. Form 10-K for year ended June 27, 2026",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "B08:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA02:package-resources-room",
+        "CO11:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN10:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S36",
+      "title": "Ralph Lauren Corporation Form 10-K, fiscal year ended March 28, 2026",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "B08:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO02:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO05:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO06:package-resources-room",
+        "CO11:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S37",
+      "title": "Ralph Lauren 2026 Proxy Statement",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "B08:package-resources-room",
+        "CO02:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO05:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S38",
+      "title": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "CA04:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO10:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S39",
+      "title": "Universal Electronic Records Management Requirements, Version 3",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B01:package-resources-room",
+        "B05:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B06:package-resources-room",
+        "B07:package-resources-room",
+        "B10:package-resources-room",
+        "CA03:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA05:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA06:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO04:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO05:package-resources-room",
+        "CO06:package-resources-room",
+        "CO08:package-resources-room",
+        "CO09:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO10:package-resources-room",
+        "CO11:package-resources-room",
+        "CO12:package-resources-room",
+        "CN03:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN05:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN06:package-resources-room",
+        "CN07:package-resources-room",
+        "CN08:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN09:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN10:package-resources-room",
+        "CN11:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN12:instagram-carousel-a+instagram-carousel-b+package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S40",
+      "title": "Collections Care",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B01:package-resources-room",
+        "CO11:package-resources-room",
+        "CN05:package-resources-room",
+        "CN08:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN11:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S41",
+      "title": "Storage and Handling",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CN05:package-resources-room",
+        "CN08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S42",
+      "title": "Textile Conservation",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO10:package-resources-room",
+        "CO11:package-resources-room",
+        "CN05:package-resources-room",
+        "CN08:package-resources-room",
+        "CN11:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S43",
+      "title": "How do I store antique textiles at home?",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CN08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S44",
+      "title": "The First Ladies’ Suit",
+      "disposition": "REUSE",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S45",
+      "title": "The Gallery of Fashion",
+      "disposition": "REUSE",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S46",
+      "title": "Morning & Evening Costume for July 1817",
+      "disposition": "REUSE",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S47",
+      "title": "Kostuumstudie",
+      "disposition": "REUSE",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S48",
+      "title": "15 U.S.C. § 1052 — Trademarks registrable on the principal register",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "CO01:instagram-carousel-a+instagram-carousel-b+package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S49",
+      "title": "15 U.S.C. § 1060 — Assignment",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "B05:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B08:package-resources-room",
+        "CO01:package-resources-room",
+        "CO11:package-resources-room",
+        "CN10:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S50",
+      "title": "Amended and Restated Employment Agreement between Ralph Lauren Corporation and Ralph Lauren",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "B08:package-resources-room",
+        "CO02:package-resources-room",
+        "CO05:package-resources-room",
+        "CO07:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN03:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S51",
+      "title": "Employment Agreement between Ralph Lauren Corporation and Patrice Louvet",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "B08:package-resources-room",
+        "CO02:package-resources-room",
+        "CO05:package-resources-room",
+        "CO07:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN03:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S52",
+      "title": "Delaware General Corporation Law § 141 — Board of directors",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "B08:package-resources-room",
+        "CO01:package-resources-room",
+        "CO02:package-resources-room",
+        "CO05:package-resources-room",
+        "CO07:package-resources-room",
+        "CN03:package-resources-room",
+        "CN05:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S53",
+      "title": "17 U.S.C. § 101 — Definitions",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "CA01:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA06:package-resources-room",
+        "CO03:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO07:package-resources-room",
+        "CO09:package-resources-room",
+        "CN09:instagram-carousel-a+instagram-carousel-b+package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S54",
+      "title": "17 U.S.C. § 201 — Ownership of copyright",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "CA01:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA06:package-resources-room",
+        "CA07:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO03:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CO07:package-resources-room",
+        "CO09:package-resources-room",
+        "CN09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S55",
+      "title": "17 U.S.C. § 204 — Execution of transfers of copyright ownership",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "CA06:package-resources-room",
+        "CA07:package-resources-room",
+        "CO03:package-resources-room",
+        "CO07:package-resources-room",
+        "CO09:package-resources-room",
+        "CO11:package-resources-room",
+        "CN10:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S56",
+      "title": "What Photographers Should Know about Copyright",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA07:package-resources-room",
+        "CO03:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S57",
+      "title": "Circular 30: Works Made for Hire",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA07:package-resources-room",
+        "CO03:package-resources-room",
+        "CO07:package-resources-room",
+        "CO09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S58",
+      "title": "Free to Use and Reuse Sets",
+      "disposition": "REUSE_ITEM_CHECK",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S59",
+      "title": "Liz Claiborne, fashion designer, with model",
+      "disposition": "REUSE",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S60",
+      "title": "Sporting Look, evening fashions",
+      "disposition": "REUSE",
+      "destinations": [
+        "CA07:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S61",
+      "title": "Report of New York fashions, spring & summer 1872",
+      "disposition": "REUSE",
+      "destinations": [
+        "B04:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S62",
+      "title": "S.D. Sollers & Co., manufacturers of children's fine shoes",
+      "disposition": "REUSE",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S63",
+      "title": "17 U.S.C. § 201 — Ownership of copyright",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "CO04:package-resources-room",
+        "CO11:package-resources-room",
+        "CN01:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN02:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN03:package-resources-room",
+        "CN04:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN05:package-resources-room",
+        "CN10:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S64",
+      "title": "Standard Application Help: Claimant — transfer by inheritance",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO04:package-resources-room",
+        "CN01:package-resources-room",
+        "CN02:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CN03:package-resources-room",
+        "CN04:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S65",
+      "title": "Appraisal Policy of the National Archives",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO04:package-resources-room",
+        "CO09:package-resources-room",
+        "CO11:package-resources-room",
+        "CO12:package-resources-room",
+        "CN01:package-resources-room",
+        "CN02:package-resources-room",
+        "CN03:package-resources-room",
+        "CN05:package-resources-room",
+        "CN09:package-resources-room",
+        "CN10:package-resources-room",
+        "CN11:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S66",
+      "title": "Electronic Records Information for Archivists",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO04:package-resources-room",
+        "CO09:package-resources-room",
+        "CO10:package-resources-room",
+        "CO12:package-resources-room",
+        "CN01:package-resources-room",
+        "CN03:package-resources-room",
+        "CN04:package-resources-room",
+        "CN07:package-resources-room",
+        "CN08:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S67",
+      "title": "Alexander McQueen — Explore the Collections",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B09:package-resources-room",
+        "CN02:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S68",
+      "title": "Evening dress",
+      "disposition": "REUSE",
+      "destinations": [
+        "B02:package-media-library",
+        "CN01:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S69",
+      "title": "Ball gown",
+      "disposition": "REUSE",
+      "destinations": [
+        "CN01:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S70",
+      "title": "Fancy dress costume",
+      "disposition": "REUSE",
+      "destinations": [],
+      "collectionFallback": "COLLECTION_LEVEL:excavation-index",
+      "reason": "Candidate is collection-level and remains visible in the excavation ledger."
+    },
+    {
+      "assetId": "S71",
+      "title": "Evening dress",
+      "disposition": "REUSE",
+      "destinations": [
+        "CN01:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S72",
+      "title": "Interview of Christine Pupillo, Leonard Trattner, and Harry Greenberg of the Patternmaking Department",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B02:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B03:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B04:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B09:package-resources-room",
+        "CA01:package-resources-room",
+        "CA03:package-resources-room",
+        "CA08:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA09:package-resources-room",
+        "CO09:package-resources-room",
+        "CN06:package-resources-room",
+        "CN07:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S73",
+      "title": "Patternmaking certificate",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B02:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B03:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B04:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "B06:package-resources-room",
+        "CA01:package-resources-room",
+        "CA03:package-resources-room",
+        "CA04:instagram-carousel-a+instagram-carousel-b+package-resources-room",
+        "CA09:package-resources-room",
+        "CO09:package-resources-room",
+        "CN06:package-resources-room",
+        "CN09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S74",
+      "title": "Introducing Cristóbal Balenciaga",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B07:package-resources-room",
+        "B09:package-resources-room",
+        "CA03:package-resources-room",
+        "CA09:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S75",
+      "title": "Alexander McQueen — an introduction",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B07:package-resources-room",
+        "B09:package-resources-room",
+        "CA03:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S76",
+      "title": "Garment Industry Compliance Assistance Toolkit",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "B04:package-resources-room",
+        "B06:package-resources-room",
+        "CA01:package-resources-room",
+        "CA04:package-resources-room",
+        "CA08:package-resources-room",
+        "CA09:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S77",
+      "title": "Restated License Agreement between Target Brands, Inc., Mossimo, Inc., and Mossimo Giannulli",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "CA01:package-resources-room",
+        "CA04:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S78",
+      "title": "Consulting Agreement concerning Estée Lauder brand services and persona uses",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "CA05:instagram-carousel-a+instagram-carousel-b+package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S79",
+      "title": "Eleanor Lambert: Empress of Seventh Avenue",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA05:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S80",
+      "title": "Eleanor Lambert collection, 1942–2003",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA05:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S81",
+      "title": "Garment industry resources",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B06:package-resources-room",
+        "CA04:package-resources-room",
+        "CA08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S82",
+      "title": "Styling for Creative Media",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S83",
+      "title": "The Women of Harper's Bazaar, 1936–1958",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA06:package-resources-room",
+        "CA07:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S84",
+      "title": "Standard Application Help: Author",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "CA06:package-resources-room",
+        "CA07:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S85",
+      "title": "How to achieve gender equality in global garment supply chains",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S86",
+      "title": "Purchasing practices and low wages in global supply chains",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S87",
+      "title": "Decent Work in the Garment Sector Supply Chains in Asia",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA08:package-resources-room",
+        "CA09:package-resources-room",
+        "CN09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S88",
+      "title": "Handmade for the 21st century: safeguarding traditional Indian textiles",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "CA08:package-resources-room",
+        "CA09:package-resources-room",
+        "CN06:package-resources-room",
+        "CN09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S89",
+      "title": "Gloria Vanderbilt Cooper",
+      "disposition": "REUSE",
+      "destinations": [
+        "CA07:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S90",
+      "title": "Fashion — Free to Use and Reuse",
+      "disposition": "REUSE_ITEM_CHECK",
+      "destinations": [
+        "B04:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S91",
+      "title": "Protection for Fashion Design — Statement of the Register of Copyrights",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "B02:package-resources-room",
+        "B03:package-resources-room",
+        "B04:package-resources-room",
+        "B09:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S92",
+      "title": "Useful Articles",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B02:package-resources-room",
+        "B03:package-resources-room",
+        "B04:package-resources-room",
+        "B09:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S93",
+      "title": "Trademark Manual of Examining Procedure §1202.02 — Registration of Trade Dress",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B02:package-resources-room",
+        "B04:package-resources-room",
+        "B09:package-resources-room",
+        "CN10:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S94",
+      "title": "Choose a business structure",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B05:package-resources-room",
+        "B06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S95",
+      "title": "Register your business",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B05:package-resources-room",
+        "B06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S96",
+      "title": "The Metropolitan Museum of Art Collection API",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B02:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S97",
+      "title": "Rights and Access — Toni Frissell Collection",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B04:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "S98",
+      "title": "The Costume Institute collection",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B02:package-resources-room",
+        "B09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-83877",
+      "title": "Dress",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "CA04:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CO08:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CN08:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-157996",
+      "title": "Afternoon dress",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "B07:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CA02:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CA10:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CN10:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-106420",
+      "title": "Dress",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "B03:package-media-library",
+        "CA03:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CO06:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CN04:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-81112",
+      "title": "Ball gown",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "B01:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "B05:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "B10:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CN11:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-loc-gtfy-00717",
+      "title": "Liz Claiborne, fashion designer, with model",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "B08:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CO02:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CO05:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CN07:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-loc-tofr-08422",
+      "title": "Sporting Look, evening fashions",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "B09:package-media-library",
+        "CA05:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CO03:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-loc-ppmsca-44953",
+      "title": "Report of New York fashions, spring and summer 1872",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "B04:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "B06:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CA01:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CA06:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CO07:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CO09:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-loc-pga-06009",
+      "title": "S.D. Sollers & Co., manufacturers of children's fine shoes",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "CO01:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CN09:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-159187",
+      "title": "Evening dress",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "B02:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CO04:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CO11:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CN05:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-155989",
+      "title": "Ball gown",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "CN02:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CN06:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-80430",
+      "title": "Fancy dress costume",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "CN04:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CN12:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-84652",
+      "title": "Evening dress",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "CN01:package-media-library",
+        "CN03:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-107061",
+      "title": "Bridesmaid dress",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "B09:package-media-library",
+        "CO08:package-media-library",
+        "CO09:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-159180",
+      "title": "Dress",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "B02:package-media-library",
+        "B03:package-media-library",
+        "CA03:package-media-library",
+        "CA08:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-loc-tofr-52127",
+      "title": "Gloria Vanderbilt Cooper",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "CA07:package-media-library",
+        "CO12:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-81630",
+      "title": "Ball gown",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "CA08:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-159303",
+      "title": "Walking suit",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "CA08:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "OBJ-159172",
+      "title": "Ensemble",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "CA09:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CO10:instagram-carousel-a+instagram-carousel-b+package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X01",
+      "title": "Smithsonian Open Access",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B07:package-resources-room",
+        "CA02:package-resources-room",
+        "CO04:package-resources-room",
+        "CN08:package-resources-room",
+        "CN11:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X02",
+      "title": "Open Access FAQ",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B07:package-resources-room",
+        "CO03:package-resources-room",
+        "CO04:package-resources-room",
+        "CO12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X03",
+      "title": "Dress designed by Ann Lowe",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B01:package-resources-room",
+        "B02:package-resources-room",
+        "CA08:package-resources-room",
+        "CN11:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X04",
+      "title": "Diana Dew's Designs",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B04:package-resources-room",
+        "B07:package-resources-room",
+        "CO09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X05",
+      "title": "Division of Costume Audiovisual Collection",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA05:package-resources-room",
+        "CA07:package-resources-room",
+        "CN03:package-resources-room",
+        "CN07:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X06",
+      "title": "Fashion in Motion",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B09:package-resources-room",
+        "CA07:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X07",
+      "title": "The World of Anna Sui",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B02:package-resources-room",
+        "B09:package-resources-room",
+        "CA02:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X08",
+      "title": "Oral history",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "CA09:package-resources-room",
+        "CN07:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X09",
+      "title": "Joyce A. Bailey Oral History Interview",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA10:package-resources-room",
+        "CN05:package-resources-room",
+        "CN07:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X10",
+      "title": "Special Collections and FIT Archive",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B07:package-resources-room",
+        "CA02:package-resources-room",
+        "CA03:package-resources-room",
+        "CA05:package-resources-room",
+        "CN07:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X11",
+      "title": "Fashion collection",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B02:package-resources-room",
+        "B09:package-resources-room",
+        "CA02:package-resources-room",
+        "CN02:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X12",
+      "title": "Dive into Color / collection-data experiments",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "B04:package-resources-room",
+        "B07:package-resources-room",
+        "CA02:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X13",
+      "title": "Bridesmaid dress",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "B09:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CO08:package-media-library",
+        "CO09:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X14",
+      "title": "Dress",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "B02:package-media-library",
+        "B03:instagram-carousel-a+instagram-carousel-b+package-media-library",
+        "CA03:package-media-library",
+        "CA08:package-media-library"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X15",
+      "title": "Vestments and how to make them",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "B04:package-resources-room",
+        "B05:package-resources-room",
+        "CA04:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X16",
+      "title": "Shelter and clothing",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "B06:package-resources-room",
+        "CA03:package-resources-room",
+        "CA04:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X17",
+      "title": "A system for cutting ladies garments",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "B04:package-resources-room",
+        "B05:package-resources-room",
+        "CA03:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X18",
+      "title": "Costume design for a New York production",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B04:package-resources-room",
+        "B07:package-resources-room",
+        "CA01:package-resources-room",
+        "CA05:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X19",
+      "title": "Feedsack dress",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B06:package-resources-room",
+        "CA04:package-resources-room",
+        "CN08:package-resources-room",
+        "CN11:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X20",
+      "title": "Wedding dress by Christian Dior",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B02:package-resources-room",
+        "B09:package-resources-room",
+        "CN02:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X21",
+      "title": "Knock It Off: A History of Design Piracy in the U.S. Women’s Ready-to-Wear Apparel Industry",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO03:package-resources-room",
+        "CO07:package-resources-room",
+        "CO08:package-resources-room",
+        "CO09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X22",
+      "title": "The Hidden History of American Fashion",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B01:package-resources-room",
+        "B10:package-resources-room",
+        "CA10:package-resources-room",
+        "CN10:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X23",
+      "title": "Open Access API",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B07:package-resources-room",
+        "CA02:package-resources-room",
+        "CA10:package-resources-room",
+        "CN11:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X24",
+      "title": "Smithsonian Open Access developer tools",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B07:package-resources-room",
+        "CA02:package-resources-room",
+        "CA10:package-resources-room",
+        "CN11:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X25",
+      "title": "Cooper Hewitt Collection API",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "B07:package-resources-room",
+        "CA02:package-resources-room",
+        "CA09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X26",
+      "title": "Europeana Rights Statements",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO03:package-resources-room",
+        "CO04:package-resources-room",
+        "CO12:package-resources-room",
+        "CN08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X27",
+      "title": "DPLA Rights Statements",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO03:package-resources-room",
+        "CO04:package-resources-room",
+        "CO12:package-resources-room",
+        "CN08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X28",
+      "title": "Trademark Search system",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO01:package-resources-room",
+        "CO05:package-resources-room",
+        "CO07:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X29",
+      "title": "Trademark Assignment Search",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO01:package-resources-room",
+        "CO05:package-resources-room",
+        "CO11:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X30",
+      "title": "Companies House company information service",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B08:package-resources-room",
+        "CO02:package-resources-room",
+        "CO05:package-resources-room",
+        "CO11:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X31",
+      "title": "SEC EDGAR APIs",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B08:package-resources-room",
+        "CA07:package-resources-room",
+        "CO02:package-resources-room",
+        "CO07:package-resources-room",
+        "CO11:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X32",
+      "title": "Copyright and the Fashion Design Industry",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO03:package-resources-room",
+        "CO07:package-resources-room",
+        "CO08:package-resources-room",
+        "CO09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X33",
+      "title": "Garment industry compliance resources",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B08:package-resources-room",
+        "CA04:package-resources-room",
+        "CA07:package-resources-room",
+        "CN05:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X34",
+      "title": "ILO Better Work programme",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B08:package-resources-room",
+        "CA04:package-resources-room",
+        "CA07:package-resources-room",
+        "CN05:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X35",
+      "title": "UNESCO Intangible Cultural Heritage Lists",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA04:package-resources-room",
+        "CA09:package-resources-room",
+        "CN05:package-resources-room",
+        "CN09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X36",
+      "title": "Personal Digital Archiving",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO06:package-resources-room",
+        "CN01:package-resources-room",
+        "CN04:package-resources-room",
+        "CN07:package-resources-room",
+        "CN08:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X37",
+      "title": "National Archives records management guidance",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA10:package-resources-room",
+        "CO04:package-resources-room",
+        "CN01:package-resources-room",
+        "CN03:package-resources-room",
+        "CN04:package-resources-room",
+        "CN08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X39",
+      "title": "WIPO Global Brand Database",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO01:package-resources-room",
+        "CO05:package-resources-room",
+        "CO11:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X40",
+      "title": "Internet Archive Scholar",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B06:package-resources-room",
+        "B07:package-resources-room",
+        "CA09:package-resources-room",
+        "CA10:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X41",
+      "title": "The Fashion and Textile Museum collection and programme",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA06:package-resources-room",
+        "CA08:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X42",
+      "title": "European Product Registry for Energy Labelling",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO10:package-resources-room",
+        "CN08:package-resources-room",
+        "CN11:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X43",
+      "title": "Dressmaking",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "B04:package-resources-room",
+        "B05:package-resources-room",
+        "CA03:package-resources-room",
+        "CA04:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X44",
+      "title": "Pattern making",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "B04:package-resources-room",
+        "B05:package-resources-room",
+        "CA03:package-resources-room",
+        "CA09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X45",
+      "title": "Complete course in dressmaking: Draping and Pattern Making",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "B04:package-resources-room",
+        "CA03:package-resources-room",
+        "CA04:package-resources-room",
+        "CA09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X46",
+      "title": "Drafting trousers for men, boys, women",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "B05:package-resources-room",
+        "CA03:package-resources-room",
+        "CA04:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X47",
+      "title": "The Keystone jacket and dress cutter",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "B04:package-resources-room",
+        "B05:package-resources-room",
+        "CA09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X48",
+      "title": "Secrets of Balenciaga’s construction",
+      "disposition": "AUTHORIZED_EMBED",
+      "destinations": [
+        "B02:package-resources-room",
+        "B03:package-resources-room",
+        "B04:package-resources-room",
+        "B09:package-resources-room",
+        "CA09:package-resources-room",
+        "CN02:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X49",
+      "title": "Learning from “The Master”",
+      "disposition": "AUTHORIZED_EMBED",
+      "destinations": [
+        "B02:package-resources-room",
+        "B03:package-resources-room",
+        "CA03:package-resources-room",
+        "CA09:package-resources-room",
+        "CN02:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X50",
+      "title": "Sew your own: kimono-inspired dress",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B03:package-resources-room",
+        "B05:package-resources-room",
+        "CA04:package-resources-room",
+        "CA09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X51",
+      "title": "J.Crew Creative Director Employment Agreement",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "B08:package-resources-room",
+        "CO02:package-resources-room",
+        "CO07:package-resources-room",
+        "CN01:package-resources-room",
+        "CN03:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X52",
+      "title": "J.Crew Employment Agreement: confidential creative records provisions",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "B08:package-resources-room",
+        "CA10:package-resources-room",
+        "CO04:package-resources-room",
+        "CO07:package-resources-room",
+        "CN03:package-resources-room",
+        "CN08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X53",
+      "title": "Michael Kors Employment Agreement",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "B08:package-resources-room",
+        "CO02:package-resources-room",
+        "CO05:package-resources-room",
+        "CO07:package-resources-room",
+        "CO11:package-resources-room",
+        "CN01:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X54",
+      "title": "JLM Couture, Inc. v. Gutman",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "CO01:package-resources-room",
+        "CO02:package-resources-room",
+        "CO07:package-resources-room",
+        "CO11:package-resources-room",
+        "CN01:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X55",
+      "title": "JA Apparel Corp. v. Abboud",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "CO01:package-resources-room",
+        "CO05:package-resources-room",
+        "CO11:package-resources-room",
+        "CN12:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X56",
+      "title": "Christian Louboutin v. Yves Saint Laurent",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "B02:package-resources-room",
+        "CO03:package-resources-room",
+        "CO08:package-resources-room",
+        "CO09:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X57",
+      "title": "Chinese American fashion designer oral-history digitization project",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B01:package-resources-room",
+        "B10:package-resources-room",
+        "CA05:package-resources-room",
+        "CA10:package-resources-room",
+        "CN05:package-resources-room",
+        "CN07:package-resources-room",
+        "CN09:package-resources-room",
+        "CN10:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X58",
+      "title": "Historical Resources: Fashion Industry",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B06:package-resources-room",
+        "B07:package-resources-room",
+        "B10:package-resources-room",
+        "CA01:package-resources-room",
+        "CA06:package-resources-room",
+        "CA07:package-resources-room",
+        "CO10:package-resources-room",
+        "CO12:package-resources-room",
+        "CN10:package-resources-room",
+        "CN11:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X59",
+      "title": "Contemporary fashion designers on Balenciaga",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "B02:package-resources-room",
+        "B09:package-resources-room",
+        "CA06:package-resources-room",
+        "CA09:package-resources-room",
+        "CN02:package-resources-room",
+        "CN06:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X60",
+      "title": "Fashion at the Library",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA04:package-resources-room",
+        "CA05:package-resources-room",
+        "CA06:package-resources-room",
+        "CA10:package-resources-room",
+        "CN05:package-resources-room",
+        "CN07:package-resources-room",
+        "CN09:package-resources-room",
+        "CN10:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X61",
+      "title": "V&A Archives",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA02:package-resources-room",
+        "CA08:package-resources-room",
+        "CO04:package-resources-room",
+        "CN04:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X62",
+      "title": "Save Page Now",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA08:package-resources-room",
+        "CO06:package-resources-room",
+        "CO12:package-resources-room",
+        "CN08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X63",
+      "title": "Sustainability of Digital Formats",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CA02:package-resources-room",
+        "CA10:package-resources-room",
+        "CN04:package-resources-room",
+        "CN08:package-resources-room",
+        "CN11:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    },
+    {
+      "assetId": "X64",
+      "title": "Guidance on Managing Social Media Records",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "CO06:package-resources-room",
+        "CO12:package-resources-room",
+        "CN01:package-resources-room",
+        "CN08:package-resources-room"
+      ],
+      "collectionFallback": null,
+      "reason": "Mapped to every related package."
+    }
+  ]
+}

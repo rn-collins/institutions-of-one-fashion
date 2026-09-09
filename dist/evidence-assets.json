@@ -320,6 +320,61 @@
       ]
     },
     {
+      "id": "107061",
+      "title": "Bridesmaid dress",
+      "maker": "A. F. Jammes",
+      "date": "1896",
+      "accession": "C.I.41.14.2",
+      "medium": "Textile garment",
+      "credit": "Gift of Miss Agnes Miles Carpenter, 1941",
+      "image": "/media/107061.jpg",
+      "caption": "A documented copy after a Worth model makes the line between reference, attribution, and surviving object evidence visible.",
+      "alt": "A pale 1896 bridesmaid dress by A. F. Jammes, catalogued by The Metropolitan Museum of Art.",
+      "url": "https://www.metmuseum.org/art/collection/search/107061",
+      "license": "Public Domain / Met Open Access",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ci/web-large/C.I.41.14.2_F.jpg",
+      "download": "/media/107061.jpg",
+      "retrieved": "2026-09-07",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "LOCAL_ARCHIVAL_COPY_FOR_PUBLICATION",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "CO08",
+        "CO09",
+        "B09"
+      ]
+    },
+    {
+      "id": "159180",
+      "title": "Dress",
+      "maker": "Maison Pingat",
+      "date": "ca. 1885",
+      "accession": "2009.300.628a, b",
+      "medium": "Silk, cotton",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Lillian E. Glenn Peirce and Mabel Glenn Cooper, 1929",
+      "image": "/media/159180.jpg",
+      "caption": "Maison Pingat survives here through an exact maker record, construction evidence, custody, and an open image—not through fame alone.",
+      "alt": "A richly structured Maison Pingat silk and cotton dress from about 1885.",
+      "url": "https://www.metmuseum.org/art/collection/search/159180",
+      "license": "Public Domain / Met Open Access",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ci/web-large/29.952a-b_front_CP4.jpg",
+      "download": "/media/159180.jpg",
+      "retrieved": "2026-09-07",
+      "isRightsClearedForThisUse": true,
+      "implementationDecision": "LOCAL_ARCHIVAL_COPY_FOR_PUBLICATION",
+      "transformations": [
+        "responsive display sizing only"
+      ],
+      "relatedPackages": [
+        "B02",
+        "B03",
+        "CA03",
+        "CA08"
+      ]
+    },
+    {
       "id": "loc-tofr-52127",
       "title": "Gloria Vanderbilt Cooper",
       "maker": "Toni Frissell",

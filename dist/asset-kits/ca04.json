@@ -1,0 +1,1010 @@
+{
+  "packageId": "CA04",
+  "title": "Who Carries a Creative Vision Into Production?",
+  "domain": "carry",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "CA04-TITLE",
+      "role": "hook",
+      "caption": "Creative vision reaches production through negotiated translations among people, factories, contractors, files, budgets, standards, law, and material limits; the process distributes power rather than merely executing a designer’s command.",
+      "source": "/packages/ca04",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "OBJ-83877",
+      "role": "material witness",
+      "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+      "source": "https://www.metmuseum.org/art/collection/search/83877",
+      "rights": "Public Domain / Met Open Access"
+    },
+    {
+      "assetId": "CA04-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · TRANSLATE — What does “the vision” mean operationally?. Turn aesthetic direction into testable specifications while preserving the reason behind them: material, construction, tolerance, finish, movement, color, hand, durability, repair, packaging, cost, timing, and acceptable variation.",
+      "source": "/packages/ca04",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CA04-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · LOCATE LABOR — Who performs each transformation?. Name the actual employer, worker, contractor, vendor, or licensee where verified; record jurisdiction, role, classification source, wage-and-hour review, safety route, language access, and subcontracting uncertainty. Do not let a purchase order erase people.",
+      "source": "/packages/ca04",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CA04-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · ALLOCATE POWER — Who can approve, reject, revise, pause, and be paid?. Bind decisions to thresholds, response times, evidence, escalation, payment milestones, change-order treatment, quality disputes, intellectual-property terms, confidentiality, and termination. “Final approval” must name both subject and consequence.",
+      "source": "/packages/ca04",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CA04-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · CLOSE THE LOOP — What returns from production to the house?. Capture deviations, defects, worker or supplier feedback, material substitutions, fit outcomes, quantities, waste, cost changes, approvals, corrected specifications, provenance, and archive records so production knowledge can alter the next collection.",
+      "source": "/packages/ca04",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S38",
+      "role": "counterpoint",
+      "caption": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products is retained as evidence, education, reporting or rights context.",
+      "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024R1781",
+      "rights": "Link and quote relevant provisions under EUR-Lex reuse policy."
+    },
+    {
+      "assetId": "S73",
+      "role": "action",
+      "caption": "Patternmaking certificate is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php",
+      "rights": "Official curriculum description; paraphrase and link. Page media is not treated as open licensed."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "Who Carries a Creative Vision Into Production?: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CA04-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/ca04",
+          "crop": "native 4:5; no crop",
+          "caption": "Creative vision reaches production through negotiated translations among people, factories, contractors, files, budgets, standards, law, and material limits; the process distributes power rather than merely executing a designer’s command.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Who Carries a Creative Vision Into Production?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-83877",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/83877",
+          "crop": "full object with generous field",
+          "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+          "credit": "Gift of Mary Tavener Holmes, 1983",
+          "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CA04-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca04",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · TRANSLATE — What does “the vision” mean operationally?. Turn aesthetic direction into testable specifications while preserving the reason behind them: material, construction, tolerance, finish, movement, color, hand, durability, repair, packaging, cost, timing, and acceptable variation.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what does “the vision” mean operationally? within Who Carries a Creative Vision Into Production?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CA04-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca04",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · LOCATE LABOR — Who performs each transformation?. Name the actual employer, worker, contractor, vendor, or licensee where verified; record jurisdiction, role, classification source, wage-and-hour review, safety route, language access, and subcontracting uncertainty. Do not let a purchase order erase people.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who performs each transformation? within Who Carries a Creative Vision Into Production?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CA04-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca04",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · ALLOCATE POWER — Who can approve, reject, revise, pause, and be paid?. Bind decisions to thresholds, response times, evidence, escalation, payment milestones, change-order treatment, quality disputes, intellectual-property terms, confidentiality, and termination. “Final approval” must name both subject and consequence.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who can approve, reject, revise, pause, and be paid? within Who Carries a Creative Vision Into Production?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CA04-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca04",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CLOSE THE LOOP — What returns from production to the house?. Capture deviations, defects, worker or supplier feedback, material substitutions, fit outcomes, quantities, waste, cost changes, approvals, corrected specifications, provenance, and archive records so production knowledge can alter the next collection.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what returns from production to the house? within Who Carries a Creative Vision Into Production?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S38",
+          "visualType": "canonical public record card",
+          "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024R1781",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products is retained as evidence, education, reporting or rights context.",
+          "credit": "European Parliament and Council / EUR-Lex",
+          "alt": "Source card for Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products, credited to European Parliament and Council / EUR-Lex.",
+          "rights": "Link and quote relevant provisions under EUR-Lex reuse policy.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S73",
+          "visualType": "canonical public record card",
+          "source": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Patternmaking certificate is retained as evidence, education, reporting or rights context.",
+          "credit": "Fashion Institute of Technology",
+          "alt": "Source card for Patternmaking certificate, credited to Fashion Institute of Technology.",
+          "rights": "Official curriculum description; paraphrase and link. Page media is not treated as open licensed.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "Who Carries a Creative Vision Into Production?: what the record changes",
+      "frames": [
+        {
+          "assetId": "CA04-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/ca04",
+          "crop": "native 4:5; no crop",
+          "caption": "Creative vision reaches production through negotiated translations among people, factories, contractors, files, budgets, standards, law, and material limits; the process distributes power rather than merely executing a designer’s command.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Who Carries a Creative Vision Into Production?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CA04-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca04",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · ALLOCATE POWER — Who can approve, reject, revise, pause, and be paid?. Bind decisions to thresholds, response times, evidence, escalation, payment milestones, change-order treatment, quality disputes, intellectual-property terms, confidentiality, and termination. “Final approval” must name both subject and consequence.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who can approve, reject, revise, pause, and be paid? within Who Carries a Creative Vision Into Production?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CA04-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca04",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · CLOSE THE LOOP — What returns from production to the house?. Capture deviations, defects, worker or supplier feedback, material substitutions, fit outcomes, quantities, waste, cost changes, approvals, corrected specifications, provenance, and archive records so production knowledge can alter the next collection.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what returns from production to the house? within Who Carries a Creative Vision Into Production?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S38",
+          "visualType": "canonical public record card",
+          "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024R1781",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products is retained as evidence, education, reporting or rights context.",
+          "credit": "European Parliament and Council / EUR-Lex",
+          "alt": "Source card for Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products, credited to European Parliament and Council / EUR-Lex.",
+          "rights": "Link and quote relevant provisions under EUR-Lex reuse policy.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S73",
+          "visualType": "canonical public record card",
+          "source": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Patternmaking certificate is retained as evidence, education, reporting or rights context.",
+          "credit": "Fashion Institute of Technology",
+          "alt": "Source card for Patternmaking certificate, credited to Fashion Institute of Technology.",
+          "rights": "Official curriculum description; paraphrase and link. Page media is not treated as open licensed.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CA04-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/ca04#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "A highly documented production system can improve accountability yet push surveillance and paperwork onto workers with the least power. A house can also use technical standards to demand impossible precision without paying for development or change. Documentation must support remedy, learning, and fair allocation—not merely brand protection.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for Who Carries a Creative Vision Into Production?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CA04-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#ca04-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Identify every place where subcontracting, classification, pay, safety, or decision authority is unknown.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for Who Carries a Creative Vision Into Production?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-83877",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/83877",
+          "crop": "full object with generous field",
+          "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+          "credit": "Gift of Mary Tavener Holmes, 1983",
+          "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-83877",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+        "credit": "Gift of Mary Tavener Holmes, 1983",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CA04-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · TRANSLATE — What does “the vision” mean operationally?. Turn aesthetic direction into testable specifications while preserving the reason behind them: material, construction, tolerance, finish, movement, color, hand, durability, repair, packaging, cost, timing, and acceptable variation.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CA04-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · LOCATE LABOR — Who performs each transformation?. Name the actual employer, worker, contractor, vendor, or licensee where verified; record jurisdiction, role, classification source, wage-and-hour review, safety route, language access, and subcontracting uncertainty. Do not let a purchase order erase people.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CA04-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · ALLOCATE POWER — Who can approve, reject, revise, pause, and be paid?. Bind decisions to thresholds, response times, evidence, escalation, payment milestones, change-order treatment, quality disputes, intellectual-property terms, confidentiality, and termination. “Final approval” must name both subject and consequence.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CA04-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · CLOSE THE LOOP — What returns from production to the house?. Capture deviations, defects, worker or supplier feedback, material substitutions, fit outcomes, quantities, waste, cost changes, approvals, corrected specifications, provenance, and archive records so production knowledge can alter the next collection.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S38",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products is retained as evidence, education, reporting or rights context.",
+        "credit": "European Parliament and Council / EUR-Lex",
+        "rights": "Link and quote relevant provisions under EUR-Lex reuse policy."
+      }
+    ],
+    "endCard": "Open CA04 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CA04-TITLE",
+        "title": "Who Carries a Creative Vision Into Production?",
+        "description": "Creative vision reaches production through negotiated translations among people, factories, contractors, files, budgets, standards, law, and material limits; the process distributes power rather than merely executing a designer’s command.",
+        "destination": "/packages/ca04",
+        "alt": "Title plate for Who Carries a Creative Vision Into Production?.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-83877",
+        "title": "Who performs each transformation?",
+        "description": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+        "destination": "/packages/ca04",
+        "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+        "credit": "Gift of Mary Tavener Holmes, 1983",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "assetId": "S38",
+        "title": "The carry record",
+        "description": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/ca04",
+        "alt": "Source card for Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products, credited to European Parliament and Council / EUR-Lex.",
+        "credit": "European Parliament and Council / EUR-Lex",
+        "rights": "Link and quote relevant provisions under EUR-Lex reuse policy."
+      },
+      {
+        "assetId": "S38",
+        "title": "A field tool for Who Carries a Creative Vision Into Production?",
+        "description": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/ca04",
+        "alt": "Source card for Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products, credited to European Parliament and Council / EUR-Lex.",
+        "credit": "European Parliament and Council / EUR-Lex",
+        "rights": "Link and quote relevant provisions under EUR-Lex reuse policy."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CA04-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/ca04",
+          "crop": "native 4:5; no crop",
+          "caption": "Creative vision reaches production through negotiated translations among people, factories, contractors, files, budgets, standards, law, and material limits; the process distributes power rather than merely executing a designer’s command.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Who Carries a Creative Vision Into Production?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-83877",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/83877",
+          "crop": "full object with generous field",
+          "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+          "credit": "Gift of Mary Tavener Holmes, 1983",
+          "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CA04-DIAGRAM-1",
+          "CA04-DIAGRAM-2",
+          "CA04-DIAGRAM-3",
+          "CA04-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S38",
+          "visualType": "canonical public record card",
+          "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024R1781",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products is retained as evidence, education, reporting or rights context.",
+          "credit": "European Parliament and Council / EUR-Lex",
+          "alt": "Source card for Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products, credited to European Parliament and Council / EUR-Lex.",
+          "rights": "Link and quote relevant provisions under EUR-Lex reuse policy.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CA04-FIELD-10",
+          "OBJ-83877"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "OBJ-83877",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.metmuseum.org/art/collection/search/83877",
+      "crop": "full object with generous field",
+      "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+      "credit": "Gift of Mary Tavener Holmes, 1983",
+      "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+      "rights": "Public Domain / Met Open Access",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "CA04-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca04",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · TRANSLATE — What does “the vision” mean operationally?. Turn aesthetic direction into testable specifications while preserving the reason behind them: material, construction, tolerance, finish, movement, color, hand, durability, repair, packaging, cost, timing, and acceptable variation.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what does “the vision” mean operationally? within Who Carries a Creative Vision Into Production?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "CA04-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca04",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · LOCATE LABOR — Who performs each transformation?. Name the actual employer, worker, contractor, vendor, or licensee where verified; record jurisdiction, role, classification source, wage-and-hour review, safety route, language access, and subcontracting uncertainty. Do not let a purchase order erase people.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping who performs each transformation? within Who Carries a Creative Vision Into Production?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "CA04-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca04",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · ALLOCATE POWER — Who can approve, reject, revise, pause, and be paid?. Bind decisions to thresholds, response times, evidence, escalation, payment milestones, change-order treatment, quality disputes, intellectual-property terms, confidentiality, and termination. “Final approval” must name both subject and consequence.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping who can approve, reject, revise, pause, and be paid? within Who Carries a Creative Vision Into Production?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "CA04-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca04",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · CLOSE THE LOOP — What returns from production to the house?. Capture deviations, defects, worker or supplier feedback, material substitutions, fit outcomes, quantities, waste, cost changes, approvals, corrected specifications, provenance, and archive records so production knowledge can alter the next collection.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what returns from production to the house? within Who Carries a Creative Vision Into Production?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S38",
+        "title": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024R1781",
+        "disposition": "QUOTE_LINK"
+      },
+      {
+        "assetId": "S73",
+        "title": "Patternmaking certificate",
+        "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S76",
+        "title": "Garment Industry Compliance Assistance Toolkit",
+        "url": "https://www.dol.gov/agencies/whd/compliance-assistance/toolkits/garment",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S77",
+        "title": "Restated License Agreement between Target Brands, Inc., Mossimo, Inc., and Mossimo Giannulli",
+        "url": "https://www.sec.gov/Archives/edgar/data/1005181/000110465906029856/a06-10480_2ex10d13.htm",
+        "disposition": "QUOTE_LINK"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "CA04-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/ca04",
+        "crop": "native 4:5; no crop",
+        "caption": "Creative vision reaches production through negotiated translations among people, factories, contractors, files, budgets, standards, law, and material limits; the process distributes power rather than merely executing a designer’s command.",
+        "credit": "RN Collins",
+        "alt": "Title plate for Who Carries a Creative Vision Into Production?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "CA04-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca04",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · ALLOCATE POWER — Who can approve, reject, revise, pause, and be paid?. Bind decisions to thresholds, response times, evidence, escalation, payment milestones, change-order treatment, quality disputes, intellectual-property terms, confidentiality, and termination. “Final approval” must name both subject and consequence.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping who can approve, reject, revise, pause, and be paid? within Who Carries a Creative Vision Into Production?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "CA04-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca04",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · CLOSE THE LOOP — What returns from production to the house?. Capture deviations, defects, worker or supplier feedback, material substitutions, fit outcomes, quantities, waste, cost changes, approvals, corrected specifications, provenance, and archive records so production knowledge can alter the next collection.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what returns from production to the house? within Who Carries a Creative Vision Into Production?.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S38",
+        "visualType": "canonical public record card",
+        "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024R1781",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products is retained as evidence, education, reporting or rights context.",
+        "credit": "European Parliament and Council / EUR-Lex",
+        "alt": "Source card for Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products, credited to European Parliament and Council / EUR-Lex.",
+        "rights": "Link and quote relevant provisions under EUR-Lex reuse policy.",
+        "disposition": "QUOTE_LINK",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S73",
+        "visualType": "canonical public record card",
+        "source": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Patternmaking certificate is retained as evidence, education, reporting or rights context.",
+        "credit": "Fashion Institute of Technology",
+        "alt": "Source card for Patternmaking certificate, credited to Fashion Institute of Technology.",
+        "rights": "Official curriculum description; paraphrase and link. Page media is not treated as open licensed.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "CA04-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/ca04#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "A highly documented production system can improve accountability yet push surveillance and paperwork onto workers with the least power. A house can also use technical standards to demand impossible precision without paying for development or change. Documentation must support remedy, learning, and fair allocation—not merely brand protection.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for Who Carries a Creative Vision Into Production?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "CA04-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#ca04-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "Identify every place where subcontracting, classification, pay, safety, or decision authority is unknown.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for Who Carries a Creative Vision Into Production?.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "OBJ-83877",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.metmuseum.org/art/collection/search/83877",
+        "crop": "full object with generous field",
+        "caption": "A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.",
+        "credit": "Gift of Mary Tavener Holmes, 1983",
+        "alt": "Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.",
+        "rights": "Public Domain / Met Open Access",
+        "disposition": "PUBLIC_DOMAIN_CC0",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "CA04-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/ca04",
+      "crop": "native 4:5; no crop",
+      "caption": "Creative vision reaches production through negotiated translations among people, factories, contractors, files, budgets, standards, law, and material limits; the process distributes power rather than merely executing a designer’s command.",
+      "credit": "RN Collins",
+      "alt": "Title plate for Who Carries a Creative Vision Into Production?.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for Who Carries a Creative Vision Into Production?. Diagram mapping who can approve, reject, revise, pause, and be paid? within Who Carries a Creative Vision Into Production?. Diagram mapping what returns from production to the house? within Who Carries a Creative Vision Into Production?. Source card for Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products, credited to European Parliament and Council / EUR-Lex. Source card for Patternmaking certificate, credited to Fashion Institute of Technology. Counterpoint card for Who Carries a Creative Vision Into Production?. Fieldwork prompt for Who Carries a Creative Vision Into Production?. Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection."
+  },
+  "interactive": {
+    "url": "/tools#ca04-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Trace one style from approved concept through every entity, location, file, sample, shipment, and approval to final receipt.",
+        "evidenceAsset": "CA04-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "Identify every place where subcontracting, classification, pay, safety, or decision authority is unknown.",
+        "evidenceAsset": "CA04-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "Compare the written specification with the production outcome and record each deviation and who absorbed its cost.",
+        "evidenceAsset": "CA04-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Interview participants separately about where the process lost information or shifted risk, then preserve disagreement rather than averaging it away.",
+        "evidenceAsset": "CA04-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S38",
+      "title": "Regulation (EU) 2024/1781 establishing a framework for ecodesign requirements for sustainable products",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024R1781",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S73",
+      "title": "Patternmaking certificate",
+      "url": "https://www.fitnyc.edu/academics/academic-divisions/ccps/credit/certificates/patternmaking.php",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S76",
+      "title": "Garment Industry Compliance Assistance Toolkit",
+      "url": "https://www.dol.gov/agencies/whd/compliance-assistance/toolkits/garment",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S77",
+      "title": "Restated License Agreement between Target Brands, Inc., Mossimo, Inc., and Mossimo Giannulli",
+      "url": "https://www.sec.gov/Archives/edgar/data/1005181/000110465906029856/a06-10480_2ex10d13.htm",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S81",
+      "title": "Garment industry resources",
+      "url": "https://www.dol.gov/agencies/whd/industry-resources/garment",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X15",
+      "title": "Vestments and how to make them",
+      "url": "https://www.loc.gov/resource/gdcmassbookdig.vestmentshowtoma00west/?st=gallery",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X16",
+      "title": "Shelter and clothing",
+      "url": "https://www.loc.gov/resource/gdcmassbookdig.shelterclothingt01kinn/?sp=3&st=slideshow",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X19",
+      "title": "Feedsack dress",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1105750",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X33",
+      "title": "Garment industry compliance resources",
+      "url": "https://www.dol.gov/agencies/whd/industry-resources/garment",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X34",
+      "title": "ILO Better Work programme",
+      "url": "https://betterwork.org/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X35",
+      "title": "UNESCO Intangible Cultural Heritage Lists",
+      "url": "https://ich.unesco.org/en/lists",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X43",
+      "title": "Dressmaking",
+      "url": "https://archive.org/details/dressmaking00fale",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X45",
+      "title": "Complete course in dressmaking: Draping and Pattern Making",
+      "url": "https://archive.org/details/completecoursein08cono",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X46",
+      "title": "Drafting trousers for men, boys, women",
+      "url": "https://archive.org/details/simonsdraftingtrousers1945",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X50",
+      "title": "Sew your own: kimono-inspired dress",
+      "url": "https://www.vam.ac.uk/articles/sew-your-own-kimono-inspired-dress",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X60",
+      "title": "Fashion at the Library",
+      "url": "https://blogs.loc.gov/folklife/category/fashion-at-the-library/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "OBJ-83877",
+      "title": "Dress",
+      "url": "https://images.metmuseum.org/CRDImages/ci/web-large/DT7538.jpg",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/83877",
+      "credit": "Gift of Mary Tavener Holmes, 1983",
+      "rights": "Public Domain / Met Open Access"
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S38",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S73",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S76",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S77",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S81",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-83877",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X15",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X16",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X19",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X33",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X34",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X35",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X43",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X45",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X46",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X50",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X60",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}

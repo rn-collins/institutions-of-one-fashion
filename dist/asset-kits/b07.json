@@ -1,0 +1,1074 @@
+{
+  "packageId": "B07",
+  "title": "The Independent Designer’s Research Department",
+  "domain": "build",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "B07-TITLE",
+      "role": "hook",
+      "caption": "An independent designer can operate a rigorous research department by making questions, sources, permissions, interpretation, counterevidence, and retrieval part of the studio rhythm.",
+      "source": "/packages/b07",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "OBJ-157996",
+      "role": "material witness",
+      "caption": "A less-remembered house remains researchable because its object record survives.",
+      "source": "https://www.metmuseum.org/art/collection/search/157996",
+      "rights": "Public Domain / Met Open Access"
+    },
+    {
+      "assetId": "B07-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · ASK — Can the question change the work?. Frame a bounded design or institutional question, a decision date, relevant communities, and evidence that would require revision. “Inspiration” is too broad to audit.",
+      "source": "/packages/b07",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "B07-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · SOURCE — Can each reference be recovered?. Preserve creator, title, date, institution, identifier, canonical URL, access date, rights statement, excerpt limits, and local notes. Keep link-only records visible without copying restricted media.",
+      "source": "/packages/b07",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "B07-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · INTERPRET — Where does fact end and judgment begin?. Write source description, studio inference, transformation, disagreement, and cultural-authority question in separate fields. This prevents an appealing object from being made to prove more than its record supports.",
+      "source": "/packages/b07",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "B07-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · RETURN — What did research change?. Attach the altered silhouette, material, process, refusal, claim, credit, or archive rule to the source trail. If nothing changed, record why the reference was rejected rather than laundering it into a mood board.",
+      "source": "/packages/b07",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S08",
+      "role": "counterpoint",
+      "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+      "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+    },
+    {
+      "assetId": "S21",
+      "role": "action",
+      "caption": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+      "source": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+      "rights": "Use an official embed only if offered; otherwise link only."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "The Independent Designer’s Research Department: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "B07-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b07",
+          "crop": "native 4:5; no crop",
+          "caption": "An independent designer can operate a rigorous research department by making questions, sources, permissions, interpretation, counterevidence, and retrieval part of the studio rhythm.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Independent Designer’s Research Department.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-157996",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/157996",
+          "crop": "full object with generous field",
+          "caption": "A less-remembered house remains researchable because its object record survives.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+          "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "B07-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · ASK — Can the question change the work?. Frame a bounded design or institutional question, a decision date, relevant communities, and evidence that would require revision. “Inspiration” is too broad to audit.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can the question change the work? within The Independent Designer’s Research Department.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "B07-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · SOURCE — Can each reference be recovered?. Preserve creator, title, date, institution, identifier, canonical URL, access date, rights statement, excerpt limits, and local notes. Keep link-only records visible without copying restricted media.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping can each reference be recovered? within The Independent Designer’s Research Department.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "B07-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · INTERPRET — Where does fact end and judgment begin?. Write source description, studio inference, transformation, disagreement, and cultural-authority question in separate fields. This prevents an appealing object from being made to prove more than its record supports.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping where does fact end and judgment begin? within The Independent Designer’s Research Department.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "B07-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · RETURN — What did research change?. Attach the altered silhouette, material, process, refusal, claim, credit, or archive rule to the source trail. If nothing changed, record why the reference was rejected rather than laundering it into a mood board.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what did research change? within The Independent Designer’s Research Department.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S21",
+          "visualType": "canonical public record card",
+          "source": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+          "credit": "Politecnico di Milano / Google Arts & Culture",
+          "alt": "Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture.",
+          "rights": "Use an official embed only if offered; otherwise link only.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "The Independent Designer’s Research Department: what the record changes",
+      "frames": [
+        {
+          "assetId": "B07-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b07",
+          "crop": "native 4:5; no crop",
+          "caption": "An independent designer can operate a rigorous research department by making questions, sources, permissions, interpretation, counterevidence, and retrieval part of the studio rhythm.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Independent Designer’s Research Department.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "B07-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · INTERPRET — Where does fact end and judgment begin?. Write source description, studio inference, transformation, disagreement, and cultural-authority question in separate fields. This prevents an appealing object from being made to prove more than its record supports.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping where does fact end and judgment begin? within The Independent Designer’s Research Department.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "B07-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · RETURN — What did research change?. Attach the altered silhouette, material, process, refusal, claim, credit, or archive rule to the source trail. If nothing changed, record why the reference was rejected rather than laundering it into a mood board.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what did research change? within The Independent Designer’s Research Department.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S21",
+          "visualType": "canonical public record card",
+          "source": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+          "credit": "Politecnico di Milano / Google Arts & Culture",
+          "alt": "Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture.",
+          "rights": "Use an official embed only if offered; otherwise link only.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "B07-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/b07#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Formal research systems can privilege institutions that already catalogued their holdings and marginalize living, oral, community, or embodied knowledge. Rigor must include consent, compensation, cultural review, and the right not to extract—not only better metadata.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for The Independent Designer’s Research Department.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "B07-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#b07-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Create five exact source records and one counter-source.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for The Independent Designer’s Research Department.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-157996",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/157996",
+          "crop": "full object with generous field",
+          "caption": "A less-remembered house remains researchable because its object record survives.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+          "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-157996",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "A less-remembered house remains researchable because its object record survives.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "B07-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · ASK — Can the question change the work?. Frame a bounded design or institutional question, a decision date, relevant communities, and evidence that would require revision. “Inspiration” is too broad to audit.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "B07-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · SOURCE — Can each reference be recovered?. Preserve creator, title, date, institution, identifier, canonical URL, access date, rights statement, excerpt limits, and local notes. Keep link-only records visible without copying restricted media.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "B07-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · INTERPRET — Where does fact end and judgment begin?. Write source description, studio inference, transformation, disagreement, and cultural-authority question in separate fields. This prevents an appealing object from being made to prove more than its record supports.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "B07-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · RETURN — What did research change?. Attach the altered silhouette, material, process, refusal, claim, credit, or archive rule to the source trail. If nothing changed, record why the reference was rejected rather than laundering it into a mood board.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S08",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ],
+    "endCard": "Open B07 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "B07-TITLE",
+        "title": "The Independent Designer’s Research Department",
+        "description": "An independent designer can operate a rigorous research department by making questions, sources, permissions, interpretation, counterevidence, and retrieval part of the studio rhythm.",
+        "destination": "/packages/b07",
+        "alt": "Title plate for The Independent Designer’s Research Department.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-157996",
+        "title": "Can each reference be recovered?",
+        "description": "A less-remembered house remains researchable because its object record survives.",
+        "destination": "/packages/b07",
+        "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+        "rights": "Public Domain / Met Open Access"
+      },
+      {
+        "assetId": "S08",
+        "title": "The build record",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/b07",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      },
+      {
+        "assetId": "S08",
+        "title": "A field tool for The Independent Designer’s Research Department",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/b07",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "B07-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b07",
+          "crop": "native 4:5; no crop",
+          "caption": "An independent designer can operate a rigorous research department by making questions, sources, permissions, interpretation, counterevidence, and retrieval part of the studio rhythm.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Independent Designer’s Research Department.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-157996",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.metmuseum.org/art/collection/search/157996",
+          "crop": "full object with generous field",
+          "caption": "A less-remembered house remains researchable because its object record survives.",
+          "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+          "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
+          "rights": "Public Domain / Met Open Access",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "B07-DIAGRAM-1",
+          "B07-DIAGRAM-2",
+          "B07-DIAGRAM-3",
+          "B07-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "B07-FIELD-10",
+          "OBJ-157996"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "OBJ-157996",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.metmuseum.org/art/collection/search/157996",
+      "crop": "full object with generous field",
+      "caption": "A less-remembered house remains researchable because its object record survives.",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+      "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
+      "rights": "Public Domain / Met Open Access",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "B07-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b07",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · ASK — Can the question change the work?. Frame a bounded design or institutional question, a decision date, relevant communities, and evidence that would require revision. “Inspiration” is too broad to audit.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can the question change the work? within The Independent Designer’s Research Department.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "B07-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b07",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · SOURCE — Can each reference be recovered?. Preserve creator, title, date, institution, identifier, canonical URL, access date, rights statement, excerpt limits, and local notes. Keep link-only records visible without copying restricted media.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping can each reference be recovered? within The Independent Designer’s Research Department.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "B07-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b07",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · INTERPRET — Where does fact end and judgment begin?. Write source description, studio inference, transformation, disagreement, and cultural-authority question in separate fields. This prevents an appealing object from being made to prove more than its record supports.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping where does fact end and judgment begin? within The Independent Designer’s Research Department.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "B07-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b07",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · RETURN — What did research change?. Attach the altered silhouette, material, process, refusal, claim, credit, or archive rule to the source trail. If nothing changed, record why the reference was rejected rather than laundering it into a mood board.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what did research change? within The Independent Designer’s Research Department.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S08",
+        "title": "Personal Digital Archiving",
+        "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S21",
+        "title": "Gianfranco Ferré Research Center",
+        "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S22",
+        "title": "Gianfranco Ferré Research Center",
+        "url": "https://artsandculture.google.com/story/WQUhce5OUFK2Xg",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S23",
+        "title": "Condé Nast Archive",
+        "url": "https://artsandculture.google.com/partner/conde-nast-archive",
+        "disposition": "LINK_ONLY"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "B07-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/b07",
+        "crop": "native 4:5; no crop",
+        "caption": "An independent designer can operate a rigorous research department by making questions, sources, permissions, interpretation, counterevidence, and retrieval part of the studio rhythm.",
+        "credit": "RN Collins",
+        "alt": "Title plate for The Independent Designer’s Research Department.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "B07-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b07",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · INTERPRET — Where does fact end and judgment begin?. Write source description, studio inference, transformation, disagreement, and cultural-authority question in separate fields. This prevents an appealing object from being made to prove more than its record supports.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping where does fact end and judgment begin? within The Independent Designer’s Research Department.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "B07-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/b07",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · RETURN — What did research change?. Attach the altered silhouette, material, process, refusal, claim, credit, or archive rule to the source trail. If nothing changed, record why the reference was rejected rather than laundering it into a mood board.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what did research change? within The Independent Designer’s Research Department.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S08",
+        "visualType": "canonical public record card",
+        "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S21",
+        "visualType": "canonical public record card",
+        "source": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Gianfranco Ferré Research Center is retained as evidence, education, reporting or rights context.",
+        "credit": "Politecnico di Milano / Google Arts & Culture",
+        "alt": "Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture.",
+        "rights": "Use an official embed only if offered; otherwise link only.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "B07-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/b07#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "Formal research systems can privilege institutions that already catalogued their holdings and marginalize living, oral, community, or embodied knowledge. Rigor must include consent, compensation, cultural review, and the right not to extract—not only better metadata.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for The Independent Designer’s Research Department.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "B07-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#b07-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "Create five exact source records and one counter-source.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for The Independent Designer’s Research Department.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "OBJ-157996",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.metmuseum.org/art/collection/search/157996",
+        "crop": "full object with generous field",
+        "caption": "A less-remembered house remains researchable because its object record survives.",
+        "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+        "alt": "Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle.",
+        "rights": "Public Domain / Met Open Access",
+        "disposition": "PUBLIC_DOMAIN_CC0",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "B07-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/b07",
+      "crop": "native 4:5; no crop",
+      "caption": "An independent designer can operate a rigorous research department by making questions, sources, permissions, interpretation, counterevidence, and retrieval part of the studio rhythm.",
+      "credit": "RN Collins",
+      "alt": "Title plate for The Independent Designer’s Research Department.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for The Independent Designer’s Research Department. Diagram mapping where does fact end and judgment begin? within The Independent Designer’s Research Department. Diagram mapping what did research change? within The Independent Designer’s Research Department. Source card for Personal Digital Archiving, credited to Library of Congress. Source card for Gianfranco Ferré Research Center, credited to Politecnico di Milano / Google Arts & Culture. Counterpoint card for The Independent Designer’s Research Department. Fieldwork prompt for The Independent Designer’s Research Department. Pale silk afternoon dress by Jeanne Hallée, shown from the front at a three-quarter angle."
+  },
+  "interactive": {
+    "url": "/tools#b07-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Choose one live studio question and define the revision condition.",
+        "evidenceAsset": "B07-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "Create five exact source records and one counter-source.",
+        "evidenceAsset": "B07-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "Separate observation, inference, proposed transformation, and permission.",
+        "evidenceAsset": "B07-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Document the design decision each retained or rejected source changed.",
+        "evidenceAsset": "B07-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S08",
+      "title": "Personal Digital Archiving",
+      "url": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S21",
+      "title": "Gianfranco Ferré Research Center",
+      "url": "https://artsandculture.google.com/partner/fondazione-gianfranco-ferre",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S22",
+      "title": "Gianfranco Ferré Research Center",
+      "url": "https://artsandculture.google.com/story/WQUhce5OUFK2Xg",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S23",
+      "title": "Condé Nast Archive",
+      "url": "https://artsandculture.google.com/partner/conde-nast-archive",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S24",
+      "title": "HCC Fashion Archive",
+      "url": "https://artsandculture.google.com/partner/hcc-fashion",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S25",
+      "title": "MoMu — Fashion Museum Antwerp",
+      "url": "https://artsandculture.google.com/partner/momu",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S39",
+      "title": "Universal Electronic Records Management Requirements, Version 3",
+      "url": "https://www.archives.gov/records-mgmt/policy/universalermrequirements",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S74",
+      "title": "Introducing Cristóbal Balenciaga",
+      "url": "https://www.vam.ac.uk/articles/introducing-cristobal-balenciaga",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S75",
+      "title": "Alexander McQueen — an introduction",
+      "url": "https://www.vam.ac.uk/articles/alexander-mcqueen-an-introduction",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X01",
+      "title": "Smithsonian Open Access",
+      "url": "https://www.si.edu/openaccess",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X02",
+      "title": "Open Access FAQ",
+      "url": "https://www.si.edu/openaccess/faq",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X04",
+      "title": "Diana Dew's Designs",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1758910",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X10",
+      "title": "Special Collections and FIT Archive",
+      "url": "https://www.fitnyc.edu/academics/library/sparc/index.php",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X12",
+      "title": "Dive into Color / collection-data experiments",
+      "url": "https://labs.cooperhewitt.org/tag/api/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X18",
+      "title": "Costume design for a New York production",
+      "url": "https://www.loc.gov/resource/fprcd.11070018.0/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X23",
+      "title": "Open Access API",
+      "url": "https://metmuseum.github.io/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X24",
+      "title": "Smithsonian Open Access developer tools",
+      "url": "https://www.si.edu/openaccess/devtools",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X25",
+      "title": "Cooper Hewitt Collection API",
+      "url": "https://collection.cooperhewitt.org/api/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X40",
+      "title": "Internet Archive Scholar",
+      "url": "https://scholar.archive.org/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X58",
+      "title": "Historical Resources: Fashion Industry",
+      "url": "https://guides.loc.gov/fashion-industry/history",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "OBJ-157996",
+      "title": "Afternoon dress",
+      "url": "https://images.metmuseum.org/CRDImages/ci/web-large/50.72.1a-b_threequarter_front_CP4.jpg",
+      "canonicalUrl": "https://www.metmuseum.org/art/collection/search/157996",
+      "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art; Gift of Marion Litchfield, 1950",
+      "rights": "Public Domain / Met Open Access"
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S08",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S21",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S22",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S23",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S24",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S25",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S39",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S74",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S75",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-157996",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X01",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X02",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X04",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X10",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X12",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X18",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X23",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X24",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X25",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X40",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X58",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}

@@ -1,0 +1,414 @@
+{
+  "packageId": "B06",
+  "title": "Collection One Is Not the Beginning",
+  "author": "RN Collins",
+  "version": "2.0",
+  "rightsRule": "Evidence leads; atmosphere never substitutes for provenance.",
+  "instagram": {
+    "carouselA": {
+      "title": "Collection One Is Not the Beginning: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "B06-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b06",
+          "crop": "native 4:5; no crop",
+          "caption": "A first collection is a public beginning built on a private prehistory of research, relationships, prototypes, permissions, costing, records, and decisions.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Collection One Is Not the Beginning.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-loc-ppmsca-44953",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/ppmsca.44953/",
+          "crop": "full object with generous field",
+          "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+          "credit": "Library of Congress Prints and Photographs Division",
+          "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "B06-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b06",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · QUESTION — What is the collection testing?. Name the wearer, use, proposition, material problem, cultural reference, price assumption, and evidence that could disprove the premise. A debut without a question becomes inventory searching for a story.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what is the collection testing? within Collection One Is Not the Beginning.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "B06-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b06",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · PROTOTYPE — Which failures taught the work?. Preserve dated sketches, trial patterns, samples, fittings, substitutions, costs, and rejection reasons. These records show development without automatically deciding authorship or ownership.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping which failures taught the work? within Collection One Is Not the Beginning.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "B06-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b06",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · RELATION — Who carries the first promise?. Record contributors, suppliers, workers, advisers, venues, buyers, and subjects with their actual role, compensation basis, consent, credit, approval, and correction route. Do not infer a relationship from a launch image.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who carries the first promise? within Collection One Is Not the Beginning.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "B06-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b06",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · RELEASE — What must be true before visibility?. Require finished objects, verified claims, documented rights, realistic fulfillment, accessible media, customer terms, crisis contacts, and an archive deposit. Publication is a governance decision, not the end of production.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what must be true before visibility? within Collection One Is Not the Beginning.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S28",
+          "visualType": "canonical public record card",
+          "source": "https://www.wipo.int/en/web/fashion",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Intellectual Property in Fashion is retained as evidence, education, reporting or rights context.",
+          "credit": "World Intellectual Property Organization",
+          "alt": "Source card for Intellectual Property in Fashion, credited to World Intellectual Property Organization.",
+          "rights": "Link and paraphrase with attribution; do not reuse third-party stock illustrations.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "Collection One Is Not the Beginning: what the record changes",
+      "frames": [
+        {
+          "assetId": "B06-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b06",
+          "crop": "native 4:5; no crop",
+          "caption": "A first collection is a public beginning built on a private prehistory of research, relationships, prototypes, permissions, costing, records, and decisions.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Collection One Is Not the Beginning.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "B06-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b06",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · RELATION — Who carries the first promise?. Record contributors, suppliers, workers, advisers, venues, buyers, and subjects with their actual role, compensation basis, consent, credit, approval, and correction route. Do not infer a relationship from a launch image.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who carries the first promise? within Collection One Is Not the Beginning.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "B06-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/b06",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · RELEASE — What must be true before visibility?. Require finished objects, verified claims, documented rights, realistic fulfillment, accessible media, customer terms, crisis contacts, and an archive deposit. Publication is a governance decision, not the end of production.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what must be true before visibility? within Collection One Is Not the Beginning.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S28",
+          "visualType": "canonical public record card",
+          "source": "https://www.wipo.int/en/web/fashion",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Intellectual Property in Fashion is retained as evidence, education, reporting or rights context.",
+          "credit": "World Intellectual Property Organization",
+          "alt": "Source card for Intellectual Property in Fashion, credited to World Intellectual Property Organization.",
+          "rights": "Link and paraphrase with attribution; do not reuse third-party stock illustrations.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "B06-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/b06#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Preparation can become perfectionism or an excuse to imitate corporate bureaucracy. The useful threshold is proportional: enough evidence and operating clarity to protect people, explain decisions, learn from failure, and fulfill the public promise.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for Collection One Is Not the Beginning.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "B06-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#b06-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "List every failed prototype and the decision it changed.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for Collection One Is Not the Beginning.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-loc-ppmsca-44953",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/ppmsca.44953/",
+          "crop": "full object with generous field",
+          "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+          "credit": "Library of Congress Prints and Photographs Division",
+          "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "B06-TITLE",
+        "title": "Collection One Is Not the Beginning",
+        "description": "A first collection is a public beginning built on a private prehistory of research, relationships, prototypes, permissions, costing, records, and decisions.",
+        "destination": "/packages/b06",
+        "alt": "Title plate for Collection One Is Not the Beginning.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-loc-ppmsca-44953",
+        "title": "Which failures taught the work?",
+        "description": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+        "destination": "/packages/b06",
+        "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+        "credit": "Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "assetId": "S08",
+        "title": "The build record",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/b06",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      },
+      {
+        "assetId": "S08",
+        "title": "A field tool for Collection One Is Not the Beginning",
+        "description": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/b06",
+        "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "B06-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/b06",
+          "crop": "native 4:5; no crop",
+          "caption": "A first collection is a public beginning built on a private prehistory of research, relationships, prototypes, permissions, costing, records, and decisions.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Collection One Is Not the Beginning.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-loc-ppmsca-44953",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/ppmsca.44953/",
+          "crop": "full object with generous field",
+          "caption": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+          "credit": "Library of Congress Prints and Photographs Division",
+          "alt": "A color advertising lithograph presenting Butterick and Company New York fashions for spring and summer 1872.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "B06-DIAGRAM-1",
+          "B06-DIAGRAM-2",
+          "B06-DIAGRAM-3",
+          "B06-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S08",
+          "visualType": "canonical public record card",
+          "source": "https://www.loc.gov/static/programs/digital-preservation/personal-digital-archiving/",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Personal Digital Archiving, credited to Library of Congress.",
+          "rights": "Link and quote narrowly; check each downloadable resource before redistribution.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "B06-FIELD-10",
+          "OBJ-loc-ppmsca-44953"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "vertical": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-loc-ppmsca-44953",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "The sheet demonstrates a contract-shaped network of design, printing, manufacture, advertising, attribution, and distribution—even when the operative agreements are absent from the image.",
+        "credit": "Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "B06-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · QUESTION — What is the collection testing?. Name the wearer, use, proposition, material problem, cultural reference, price assumption, and evidence that could disprove the premise. A debut without a question becomes inventory searching for a story.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "B06-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · PROTOTYPE — Which failures taught the work?. Preserve dated sketches, trial patterns, samples, fittings, substitutions, costs, and rejection reasons. These records show development without automatically deciding authorship or ownership.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "B06-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · RELATION — Who carries the first promise?. Record contributors, suppliers, workers, advisers, venues, buyers, and subjects with their actual role, compensation basis, consent, credit, approval, and correction route. Do not infer a relationship from a launch image.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "B06-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · RELEASE — What must be true before visibility?. Require finished objects, verified claims, documented rights, realistic fulfillment, accessible media, customer terms, crisis contacts, and an archive deposit. Publication is a governance decision, not the end of production.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S08",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Personal Digital Archiving is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "rights": "Link and quote narrowly; check each downloadable resource before redistribution."
+      }
+    ],
+    "endCard": "Open B06 at institutions-of-one-fashion.vercel.app"
+  }
+}

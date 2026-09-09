@@ -1,0 +1,414 @@
+{
+  "packageId": "CO01",
+  "title": "Your Name Is on the Label—Do You Own It?",
+  "author": "RN Collins",
+  "version": "2.0",
+  "rightsRule": "Evidence leads; atmosphere never substitutes for provenance.",
+  "instagram": {
+    "carouselA": {
+      "title": "Your Name Is on the Label—Do You Own It?: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CO01-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co01",
+          "crop": "native 4:5; no crop",
+          "caption": "A founder's name on a label signals identity and reputation; it does not, by itself, answer who owns the registered mark, company, domain, likeness permissions, archive authority, or power to approve future uses.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Your Name Is on the Label—Do You Own It?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "OBJ-loc-pga-06009",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/pga.06009/",
+          "crop": "full object with generous field",
+          "caption": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+          "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+          "alt": "An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CO01-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co01",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · IDENTIFY — Which name is this?. Separate the person's legal name, professional name, signature, portrait, label name, house name, monogram, product line, domain, and social handle. Similar public presentation does not make these one legal object.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping which name is this? within Your Name Is on the Label—Do You Own It?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CO01-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co01",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · LOCATE — Where is control recorded?. For a U.S. federal mark, inspect the registration and any recorded assignments; for the company, inspect governing records; for domains and accounts, inspect registrant and administrator access; for licenses and approvals, inspect executed agreements. Never substitute the label display for the record.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping where is control recorded? within Your Name Is on the Label—Do You Own It?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CO01-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co01",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · DISTINGUISH — What power does each record confer?. Registration, ownership, licensed use, consent, approval, corporate voting, employment authority, account administration, and archive access answer different questions. A founder can possess some and not others.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what power does each record confer? within Your Name Is on the Label—Do You Own It?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CO01-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co01",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · ESCALATE — What cannot this audit decide?. Common-law rights, state publicity law, foreign law, contractual interpretation, beneficial ownership, validity, priority, and disputed facts require jurisdiction-specific investigation and qualified counsel. The map prepares that review; it does not replace it.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what cannot this audit decide? within Your Name Is on the Label—Do You Own It?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S32",
+          "visualType": "canonical public record card",
+          "source": "https://www.uspto.gov/about-us/events/fashion-beauty-and-intellectual-property-trademarks",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Fashion, Beauty, and Intellectual Property: Trademarks is retained as evidence, education, reporting or rights context.",
+          "credit": "United States Patent and Trademark Office",
+          "alt": "Source card for Fashion, Beauty, and Intellectual Property: Trademarks, credited to United States Patent and Trademark Office.",
+          "rights": "Government page may be cited; do not assume event media or graphics are public domain.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S48",
+          "visualType": "canonical public record card",
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1052&num=0&edition=prelim",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "15 U.S.C. § 1052 — Trademarks registrable on the principal register is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. House Office of the Law Revision Counsel",
+          "alt": "Source card for 15 U.S.C. § 1052 — Trademarks registrable on the principal register, credited to U.S. House Office of the Law Revision Counsel.",
+          "rights": "U.S. statutory text; quote narrowly and link to the official current source.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "Your Name Is on the Label—Do You Own It?: what the record changes",
+      "frames": [
+        {
+          "assetId": "CO01-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co01",
+          "crop": "native 4:5; no crop",
+          "caption": "A founder's name on a label signals identity and reputation; it does not, by itself, answer who owns the registered mark, company, domain, likeness permissions, archive authority, or power to approve future uses.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Your Name Is on the Label—Do You Own It?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CO01-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co01",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · DISTINGUISH — What power does each record confer?. Registration, ownership, licensed use, consent, approval, corporate voting, employment authority, account administration, and archive access answer different questions. A founder can possess some and not others.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what power does each record confer? within Your Name Is on the Label—Do You Own It?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CO01-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/co01",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · ESCALATE — What cannot this audit decide?. Common-law rights, state publicity law, foreign law, contractual interpretation, beneficial ownership, validity, priority, and disputed facts require jurisdiction-specific investigation and qualified counsel. The map prepares that review; it does not replace it.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what cannot this audit decide? within Your Name Is on the Label—Do You Own It?.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S32",
+          "visualType": "canonical public record card",
+          "source": "https://www.uspto.gov/about-us/events/fashion-beauty-and-intellectual-property-trademarks",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Fashion, Beauty, and Intellectual Property: Trademarks is retained as evidence, education, reporting or rights context.",
+          "credit": "United States Patent and Trademark Office",
+          "alt": "Source card for Fashion, Beauty, and Intellectual Property: Trademarks, credited to United States Patent and Trademark Office.",
+          "rights": "Government page may be cited; do not assume event media or graphics are public domain.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S48",
+          "visualType": "canonical public record card",
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1052&num=0&edition=prelim",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "15 U.S.C. § 1052 — Trademarks registrable on the principal register is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. House Office of the Law Revision Counsel",
+          "alt": "Source card for 15 U.S.C. § 1052 — Trademarks registrable on the principal register, credited to U.S. House Office of the Law Revision Counsel.",
+          "rights": "U.S. statutory text; quote narrowly and link to the official current source.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CO01-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/co01#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "Separating the name into assets can make identity look purely transactional. A personal name also carries dignity, biography, community meaning, and reputational stakes that a registry cannot fully describe. Conversely, emotional identification with a label cannot resolve an ownership dispute. The exhibition keeps both truths visible without converting either into a legal conclusion.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for Your Name Is on the Label—Do You Own It?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CO01-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#co01-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Attach the exact registration, account, entity, or agreement record supporting each claimed form of control.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for Your Name Is on the Label—Do You Own It?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "OBJ-loc-pga-06009",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/pga.06009/",
+          "crop": "full object with generous field",
+          "caption": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+          "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+          "alt": "An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CO01-TITLE",
+        "title": "Your Name Is on the Label—Do You Own It?",
+        "description": "A founder's name on a label signals identity and reputation; it does not, by itself, answer who owns the registered mark, company, domain, likeness permissions, archive authority, or power to approve future uses.",
+        "destination": "/packages/co01",
+        "alt": "Title plate for Your Name Is on the Label—Do You Own It?.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "OBJ-loc-pga-06009",
+        "title": "Where is control recorded?",
+        "description": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+        "destination": "/packages/co01",
+        "alt": "An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter.",
+        "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "assetId": "S32",
+        "title": "The control record",
+        "description": "Fashion, Beauty, and Intellectual Property: Trademarks is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/co01",
+        "alt": "Source card for Fashion, Beauty, and Intellectual Property: Trademarks, credited to United States Patent and Trademark Office.",
+        "credit": "United States Patent and Trademark Office",
+        "rights": "Government page may be cited; do not assume event media or graphics are public domain."
+      },
+      {
+        "assetId": "S32",
+        "title": "A field tool for Your Name Is on the Label—Do You Own It?",
+        "description": "Fashion, Beauty, and Intellectual Property: Trademarks is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/co01",
+        "alt": "Source card for Fashion, Beauty, and Intellectual Property: Trademarks, credited to United States Patent and Trademark Office.",
+        "credit": "United States Patent and Trademark Office",
+        "rights": "Government page may be cited; do not assume event media or graphics are public domain."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CO01-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/co01",
+          "crop": "native 4:5; no crop",
+          "caption": "A founder's name on a label signals identity and reputation; it does not, by itself, answer who owns the registered mark, company, domain, likeness permissions, archive authority, or power to approve future uses.",
+          "credit": "RN Collins",
+          "alt": "Title plate for Your Name Is on the Label—Do You Own It?.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "OBJ-loc-pga-06009",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/pga.06009/",
+          "crop": "full object with generous field",
+          "caption": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+          "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+          "alt": "An 1874 illustrated advertisement for S.D. Sollers and Company children's shoes, lithographed by Duval and Hunter.",
+          "rights": "Free to Use and Reuse / Library of Congress curated set",
+          "disposition": "PUBLIC_DOMAIN_CC0",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CO01-DIAGRAM-1",
+          "CO01-DIAGRAM-2",
+          "CO01-DIAGRAM-3",
+          "CO01-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S32",
+          "visualType": "canonical public record card",
+          "source": "https://www.uspto.gov/about-us/events/fashion-beauty-and-intellectual-property-trademarks",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Fashion, Beauty, and Intellectual Property: Trademarks is retained as evidence, education, reporting or rights context.",
+          "credit": "United States Patent and Trademark Office",
+          "alt": "Source card for Fashion, Beauty, and Intellectual Property: Trademarks, credited to United States Patent and Trademark Office.",
+          "rights": "Government page may be cited; do not assume event media or graphics are public domain.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CO01-FIELD-10",
+          "OBJ-loc-pga-06009"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "vertical": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "OBJ-loc-pga-06009",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "A commercial name can identify the business presented to buyers while the image itself preserves a different maker attribution.",
+        "credit": "Popular Graphic Arts Collection, Library of Congress Prints and Photographs Division",
+        "rights": "Free to Use and Reuse / Library of Congress curated set"
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CO01-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · IDENTIFY — Which name is this?. Separate the person's legal name, professional name, signature, portrait, label name, house name, monogram, product line, domain, and social handle. Similar public presentation does not make these one legal object.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CO01-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · LOCATE — Where is control recorded?. For a U.S. federal mark, inspect the registration and any recorded assignments; for the company, inspect governing records; for domains and accounts, inspect registrant and administrator access; for licenses and approvals, inspect executed agreements. Never substitute the label display for the record.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CO01-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · DISTINGUISH — What power does each record confer?. Registration, ownership, licensed use, consent, approval, corporate voting, employment authority, account administration, and archive access answer different questions. A founder can possess some and not others.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CO01-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · ESCALATE — What cannot this audit decide?. Common-law rights, state publicity law, foreign law, contractual interpretation, beneficial ownership, validity, priority, and disputed facts require jurisdiction-specific investigation and qualified counsel. The map prepares that review; it does not replace it.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S32",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Fashion, Beauty, and Intellectual Property: Trademarks is retained as evidence, education, reporting or rights context.",
+        "credit": "United States Patent and Trademark Office",
+        "rights": "Government page may be cited; do not assume event media or graphics are public domain."
+      }
+    ],
+    "endCard": "Open CO01 at institutions-of-one-fashion.vercel.app"
+  }
+}

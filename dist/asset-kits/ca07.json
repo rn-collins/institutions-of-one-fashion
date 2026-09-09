@@ -1,0 +1,996 @@
+{
+  "packageId": "CA07",
+  "title": "The Photographer Who Defines the House",
+  "domain": "carry",
+  "version": "2.0",
+  "published": "2026-09-07",
+  "author": "RN Collins",
+  "principle": "Evidence leads; atmosphere never substitutes for provenance.",
+  "narrativeSequence": [
+    {
+      "assetId": "CA07-TITLE",
+      "role": "hook",
+      "caption": "A photographer can make a house recognizable by translating garments into light, time, body, setting, and repeatable image grammar; that cultural power does not collapse authorship, copyright ownership, commission terms, credit, or archive custody into one answer.",
+      "source": "/packages/ca07",
+      "rights": "Original publication graphic"
+    },
+    {
+      "assetId": "S89",
+      "role": "material witness",
+      "caption": "Gloria Vanderbilt Cooper is retained as evidence, education, reporting or rights context.",
+      "source": "https://www.loc.gov/resource/tofr.52127/",
+      "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Toni Frissell, Vogue context, identifier, and canonical record."
+    },
+    {
+      "assetId": "CA07-DIAGRAM-1",
+      "role": "claim",
+      "caption": "01 · GRAMMAR — What makes the image-world recognizable?. Trace light, distance, movement, lens position, setting, casting, color, sequencing, and refusal across a defined body of work. Describe patterns without claiming the house or photographer owns an abstract style.",
+      "source": "/packages/ca07",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CA07-DIAGRAM-2",
+      "role": "mechanism",
+      "caption": "02 · AUTHOR — Who created the photograph?. Preserve photographer, assistants, digital technician, set, styling, model, hair, makeup, retouching, and commissioner records. Under U.S. guidance, do not assume a commission alone answers work-made-for-hire status.",
+      "source": "/packages/ca07",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CA07-DIAGRAM-3",
+      "role": "handoff",
+      "caption": "03 · LICENSE — What may the house actually do?. Attach usage media, territory, term, exclusivity, crops, derivatives, credits, embargoes, archive copies, portfolio uses, and approval language. Route ownership and transfer questions to counsel with the executed agreement.",
+      "source": "/packages/ca07",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "CA07-DIAGRAM-4",
+      "role": "evidence",
+      "caption": "04 · MEMORY — Whose archive preserves the house image?. Map negatives or RAW files, selects, contact sheets, captions, model releases, licenses, expiry, publication proofs, and preservation custody. Cultural memory may depend on a record the house does not own.",
+      "source": "/packages/ca07",
+      "rights": "Original publication graphic; no third-party imagery"
+    },
+    {
+      "assetId": "S23",
+      "role": "counterpoint",
+      "caption": "Condé Nast Archive is retained as evidence, education, reporting or rights context.",
+      "source": "https://artsandculture.google.com/partner/conde-nast-archive",
+      "rights": "Copyright controlled by Condé Nast and creators; licensing required for media."
+    },
+    {
+      "assetId": "S54",
+      "role": "action",
+      "caption": "17 U.S.C. § 201 — Ownership of copyright is retained as evidence, education, reporting or rights context.",
+      "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim",
+      "rights": "U.S. statutory text; quote narrowly and link."
+    }
+  ],
+  "instagram": {
+    "carouselA": {
+      "title": "The Photographer Who Defines the House: the institutional sequence",
+      "frames": [
+        {
+          "assetId": "CA07-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/ca07",
+          "crop": "native 4:5; no crop",
+          "caption": "A photographer can make a house recognizable by translating garments into light, time, body, setting, and repeatable image grammar; that cultural power does not collapse authorship, copyright ownership, commission terms, credit, or archive custody into one answer.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Photographer Who Defines the House.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        },
+        {
+          "assetId": "S89",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/tofr.52127/",
+          "crop": "full object with generous field",
+          "caption": "Gloria Vanderbilt Cooper is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Gloria Vanderbilt Cooper, credited to Library of Congress.",
+          "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Toni Frissell, Vogue context, identifier, and canonical record.",
+          "disposition": "REUSE",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        },
+        {
+          "assetId": "CA07-DIAGRAM-1",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "01 · GRAMMAR — What makes the image-world recognizable?. Trace light, distance, movement, lens position, setting, casting, color, sequencing, and refusal across a defined body of work. Describe patterns without claiming the house or photographer owns an abstract style.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what makes the image-world recognizable? within The Photographer Who Defines the House.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "claim"
+        },
+        {
+          "assetId": "CA07-DIAGRAM-2",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "02 · AUTHOR — Who created the photograph?. Preserve photographer, assistants, digital technician, set, styling, model, hair, makeup, retouching, and commissioner records. Under U.S. guidance, do not assume a commission alone answers work-made-for-hire status.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping who created the photograph? within The Photographer Who Defines the House.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 4,
+          "role": "mechanism"
+        },
+        {
+          "assetId": "CA07-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · LICENSE — What may the house actually do?. Attach usage media, territory, term, exclusivity, crops, derivatives, credits, embargoes, archive copies, portfolio uses, and approval language. Route ownership and transfer questions to counsel with the executed agreement.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what may the house actually do? within The Photographer Who Defines the House.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 5,
+          "role": "handoff"
+        },
+        {
+          "assetId": "CA07-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · MEMORY — Whose archive preserves the house image?. Map negatives or RAW files, selects, contact sheets, captions, model releases, licenses, expiry, publication proofs, and preservation custody. Cultural memory may depend on a record the house does not own.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping whose archive preserves the house image? within The Photographer Who Defines the House.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 6,
+          "role": "evidence"
+        },
+        {
+          "assetId": "S23",
+          "visualType": "canonical public record card",
+          "source": "https://artsandculture.google.com/partner/conde-nast-archive",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Condé Nast Archive is retained as evidence, education, reporting or rights context.",
+          "credit": "Condé Nast / Google Arts & Culture",
+          "alt": "Source card for Condé Nast Archive, credited to Condé Nast / Google Arts & Culture.",
+          "rights": "Copyright controlled by Condé Nast and creators; licensing required for media.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        },
+        {
+          "assetId": "S54",
+          "visualType": "canonical public record card",
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "17 U.S.C. § 201 — Ownership of copyright is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. House Office of the Law Revision Counsel",
+          "alt": "Source card for 17 U.S.C. § 201 — Ownership of copyright, credited to U.S. House Office of the Law Revision Counsel.",
+          "rights": "U.S. statutory text; quote narrowly and link.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 8,
+          "role": "action"
+        }
+      ]
+    },
+    "carouselB": {
+      "title": "The Photographer Who Defines the House: what the record changes",
+      "frames": [
+        {
+          "assetId": "CA07-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/ca07",
+          "crop": "native 4:5; no crop",
+          "caption": "A photographer can make a house recognizable by translating garments into light, time, body, setting, and repeatable image grammar; that cultural power does not collapse authorship, copyright ownership, commission terms, credit, or archive custody into one answer.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Photographer Who Defines the House.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "provocation"
+        },
+        {
+          "assetId": "CA07-DIAGRAM-3",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "03 · LICENSE — What may the house actually do?. Attach usage media, territory, term, exclusivity, crops, derivatives, credits, embargoes, archive copies, portfolio uses, and approval language. Route ownership and transfer questions to counsel with the executed agreement.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping what may the house actually do? within The Photographer Who Defines the House.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 2,
+          "role": "system"
+        },
+        {
+          "assetId": "CA07-DIAGRAM-4",
+          "visualType": "original evidence diagram",
+          "source": "/packages/ca07",
+          "crop": "native 4:5 diagram; preserve labels and evidence footer",
+          "caption": "04 · MEMORY — Whose archive preserves the house image?. Map negatives or RAW files, selects, contact sheets, captions, model releases, licenses, expiry, publication proofs, and preservation custody. Cultural memory may depend on a record the house does not own.",
+          "credit": "Concept and editorial design: RN Collins",
+          "alt": "Diagram mapping whose archive preserves the house image? within The Photographer Who Defines the House.",
+          "rights": "Original publication graphic; no third-party imagery",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "render from verified text, source IDs, lines and geometric fields",
+          "frame": 3,
+          "role": "record"
+        },
+        {
+          "assetId": "S23",
+          "visualType": "canonical public record card",
+          "source": "https://artsandculture.google.com/partner/conde-nast-archive",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Condé Nast Archive is retained as evidence, education, reporting or rights context.",
+          "credit": "Condé Nast / Google Arts & Culture",
+          "alt": "Source card for Condé Nast Archive, credited to Condé Nast / Google Arts & Culture.",
+          "rights": "Copyright controlled by Condé Nast and creators; licensing required for media.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 4,
+          "role": "constraint"
+        },
+        {
+          "assetId": "S54",
+          "visualType": "canonical public record card",
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "17 U.S.C. § 201 — Ownership of copyright is retained as evidence, education, reporting or rights context.",
+          "credit": "U.S. House Office of the Law Revision Counsel",
+          "alt": "Source card for 17 U.S.C. § 201 — Ownership of copyright, credited to U.S. House Office of the Law Revision Counsel.",
+          "rights": "U.S. statutory text; quote narrowly and link.",
+          "disposition": "QUOTE_LINK",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 5,
+          "role": "case"
+        },
+        {
+          "assetId": "CA07-COUNTERPOINT",
+          "visualType": "original counterpoint plate",
+          "source": "/packages/ca07#counterpoint",
+          "crop": "native 4:5; no crop",
+          "caption": "The phrase “photographer who defines the house” risks overstating one maker and understating the designer, stylist, model, art director, set, retoucher, publication, and audience. Use it as a question about sustained image grammar, never as automatic sole-credit or ownership language.",
+          "credit": "RN Collins",
+          "alt": "Counterpoint card for The Photographer Who Defines the House.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typographic quotation field; no decorative imagery",
+          "frame": 6,
+          "role": "decision"
+        },
+        {
+          "assetId": "CA07-FIELD-10",
+          "visualType": "original fieldwork plate",
+          "source": "/tools#ca07-tool",
+          "crop": "native 4:5; no crop",
+          "caption": "Attach the creator and production credits exactly as published; mark absences unresolved.",
+          "credit": "RN Collins",
+          "alt": "Fieldwork prompt for The Photographer Who Defines the House.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "numbered prompt and check line",
+          "frame": 7,
+          "role": "tool"
+        },
+        {
+          "assetId": "S89",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/tofr.52127/",
+          "crop": "full object with generous field",
+          "caption": "Gloria Vanderbilt Cooper is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Gloria Vanderbilt Cooper, credited to Library of Congress.",
+          "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Toni Frissell, Vogue context, identifier, and canonical record.",
+          "disposition": "REUSE",
+          "treatment": "local display and download with attached credit",
+          "frame": 8,
+          "role": "source trail"
+        }
+      ]
+    }
+  },
+  "reelsTikTokShorts": {
+    "durationSeconds": 60,
+    "shots": [
+      {
+        "time": "0–8s",
+        "assetId": "S89",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "Gloria Vanderbilt Cooper is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Toni Frissell, Vogue context, identifier, and canonical record."
+      },
+      {
+        "time": "8–16s",
+        "assetId": "CA07-DIAGRAM-1",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "01 · GRAMMAR — What makes the image-world recognizable?. Trace light, distance, movement, lens position, setting, casting, color, sequencing, and refusal across a defined body of work. Describe patterns without claiming the house or photographer owns an abstract style.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "16–24s",
+        "assetId": "CA07-DIAGRAM-2",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "02 · AUTHOR — Who created the photograph?. Preserve photographer, assistants, digital technician, set, styling, model, hair, makeup, retouching, and commissioner records. Under U.S. guidance, do not assume a commission alone answers work-made-for-hire status.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "24–32s",
+        "assetId": "CA07-DIAGRAM-3",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "03 · LICENSE — What may the house actually do?. Attach usage media, territory, term, exclusivity, crops, derivatives, credits, embargoes, archive copies, portfolio uses, and approval language. Route ownership and transfer questions to counsel with the executed agreement.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "32–40s",
+        "assetId": "CA07-DIAGRAM-4",
+        "motion": "slow evidence push; no synthetic parallax",
+        "voiceover": "04 · MEMORY — Whose archive preserves the house image?. Map negatives or RAW files, selects, contact sheets, captions, model releases, licenses, expiry, publication proofs, and preservation custody. Cultural memory may depend on a record the house does not own.",
+        "credit": "Concept and editorial design: RN Collins",
+        "rights": "Original publication graphic; no third-party imagery"
+      },
+      {
+        "time": "40–48s",
+        "assetId": "S23",
+        "motion": "vertical reveal with source footer",
+        "voiceover": "Condé Nast Archive is retained as evidence, education, reporting or rights context.",
+        "credit": "Condé Nast / Google Arts & Culture",
+        "rights": "Copyright controlled by Condé Nast and creators; licensing required for media."
+      }
+    ],
+    "endCard": "Open CA07 at institutions-of-one-fashion.vercel.app"
+  },
+  "pinterest": {
+    "pins": [
+      {
+        "assetId": "CA07-TITLE",
+        "title": "The Photographer Who Defines the House",
+        "description": "A photographer can make a house recognizable by translating garments into light, time, body, setting, and repeatable image grammar; that cultural power does not collapse authorship, copyright ownership, commission terms, credit, or archive custody into one answer.",
+        "destination": "/packages/ca07",
+        "alt": "Title plate for The Photographer Who Defines the House.",
+        "credit": "RN Collins",
+        "rights": "Original publication graphic"
+      },
+      {
+        "assetId": "S89",
+        "title": "Who created the photograph?",
+        "description": "Gloria Vanderbilt Cooper is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/ca07",
+        "alt": "Source card for Gloria Vanderbilt Cooper, credited to Library of Congress.",
+        "credit": "Library of Congress",
+        "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Toni Frissell, Vogue context, identifier, and canonical record."
+      },
+      {
+        "assetId": "S23",
+        "title": "The carry record",
+        "description": "Condé Nast Archive is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/ca07",
+        "alt": "Source card for Condé Nast Archive, credited to Condé Nast / Google Arts & Culture.",
+        "credit": "Condé Nast / Google Arts & Culture",
+        "rights": "Copyright controlled by Condé Nast and creators; licensing required for media."
+      },
+      {
+        "assetId": "S23",
+        "title": "A field tool for The Photographer Who Defines the House",
+        "description": "Condé Nast Archive is retained as evidence, education, reporting or rights context.",
+        "destination": "/packages/ca07",
+        "alt": "Source card for Condé Nast Archive, credited to Condé Nast / Google Arts & Culture.",
+        "credit": "Condé Nast / Google Arts & Culture",
+        "rights": "Copyright controlled by Condé Nast and creators; licensing required for media."
+      }
+    ]
+  },
+  "youtube": {
+    "visualTimeline": [
+      {
+        "time": "00:00–00:20",
+        "purpose": "cold open",
+        "asset": {
+          "assetId": "CA07-TITLE",
+          "visualType": "original title plate",
+          "source": "/packages/ca07",
+          "crop": "native 4:5; no crop",
+          "caption": "A photographer can make a house recognizable by translating garments into light, time, body, setting, and repeatable image grammar; that cultural power does not collapse authorship, copyright ownership, commission terms, credit, or archive custody into one answer.",
+          "credit": "RN Collins",
+          "alt": "Title plate for The Photographer Who Defines the House.",
+          "rights": "Original publication graphic",
+          "disposition": "ORIGINAL_DIAGRAM",
+          "treatment": "typography, rule, folio and domain color only",
+          "frame": 1,
+          "role": "hook"
+        }
+      },
+      {
+        "time": "00:20–01:20",
+        "purpose": "material witness and source boundary",
+        "asset": {
+          "assetId": "S89",
+          "visualType": "rights-cleared collection object",
+          "source": "https://www.loc.gov/resource/tofr.52127/",
+          "crop": "full object with generous field",
+          "caption": "Gloria Vanderbilt Cooper is retained as evidence, education, reporting or rights context.",
+          "credit": "Library of Congress",
+          "alt": "Source card for Gloria Vanderbilt Cooper, credited to Library of Congress.",
+          "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Toni Frissell, Vogue context, identifier, and canonical record.",
+          "disposition": "REUSE",
+          "treatment": "local display and download with attached credit",
+          "frame": 2,
+          "role": "material witness"
+        }
+      },
+      {
+        "time": "01:20–05:20",
+        "purpose": "four-part institutional sequence",
+        "assetIds": [
+          "CA07-DIAGRAM-1",
+          "CA07-DIAGRAM-2",
+          "CA07-DIAGRAM-3",
+          "CA07-DIAGRAM-4"
+        ]
+      },
+      {
+        "time": "05:20–06:30",
+        "purpose": "counterpoint",
+        "asset": {
+          "assetId": "S23",
+          "visualType": "canonical public record card",
+          "source": "https://artsandculture.google.com/partner/conde-nast-archive",
+          "crop": "typographic record excerpt; do not reproduce protected imagery",
+          "caption": "Condé Nast Archive is retained as evidence, education, reporting or rights context.",
+          "credit": "Condé Nast / Google Arts & Culture",
+          "alt": "Source card for Condé Nast Archive, credited to Condé Nast / Google Arts & Culture.",
+          "rights": "Copyright controlled by Condé Nast and creators; licensing required for media.",
+          "disposition": "LINK_ONLY",
+          "treatment": "link, narrow quotation, or authorized player only as stated",
+          "frame": 7,
+          "role": "counterpoint"
+        }
+      },
+      {
+        "time": "06:30–08:00",
+        "purpose": "field tool and source trail",
+        "assetIds": [
+          "CA07-FIELD-10",
+          "S89"
+        ]
+      }
+    ],
+    "screenRule": "Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance."
+  },
+  "beehiiv": {
+    "hero": {
+      "assetId": "S89",
+      "visualType": "rights-cleared collection object",
+      "source": "https://www.loc.gov/resource/tofr.52127/",
+      "crop": "full object with generous field",
+      "caption": "Gloria Vanderbilt Cooper is retained as evidence, education, reporting or rights context.",
+      "credit": "Library of Congress",
+      "alt": "Source card for Gloria Vanderbilt Cooper, credited to Library of Congress.",
+      "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Toni Frissell, Vogue context, identifier, and canonical record.",
+      "disposition": "REUSE",
+      "treatment": "local display and download with attached credit",
+      "frame": 2,
+      "role": "material witness"
+    },
+    "inline": [
+      {
+        "assetId": "CA07-DIAGRAM-1",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca07",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "01 · GRAMMAR — What makes the image-world recognizable?. Trace light, distance, movement, lens position, setting, casting, color, sequencing, and refusal across a defined body of work. Describe patterns without claiming the house or photographer owns an abstract style.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what makes the image-world recognizable? within The Photographer Who Defines the House.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "claim"
+      },
+      {
+        "assetId": "CA07-DIAGRAM-2",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca07",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "02 · AUTHOR — Who created the photograph?. Preserve photographer, assistants, digital technician, set, styling, model, hair, makeup, retouching, and commissioner records. Under U.S. guidance, do not assume a commission alone answers work-made-for-hire status.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping who created the photograph? within The Photographer Who Defines the House.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 4,
+        "role": "mechanism"
+      },
+      {
+        "assetId": "CA07-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca07",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · LICENSE — What may the house actually do?. Attach usage media, territory, term, exclusivity, crops, derivatives, credits, embargoes, archive copies, portfolio uses, and approval language. Route ownership and transfer questions to counsel with the executed agreement.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what may the house actually do? within The Photographer Who Defines the House.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 5,
+        "role": "handoff"
+      },
+      {
+        "assetId": "CA07-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca07",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · MEMORY — Whose archive preserves the house image?. Map negatives or RAW files, selects, contact sheets, captions, model releases, licenses, expiry, publication proofs, and preservation custody. Cultural memory may depend on a record the house does not own.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping whose archive preserves the house image? within The Photographer Who Defines the House.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 6,
+        "role": "evidence"
+      }
+    ],
+    "sourceBox": [
+      {
+        "assetId": "S23",
+        "title": "Condé Nast Archive",
+        "url": "https://artsandculture.google.com/partner/conde-nast-archive",
+        "disposition": "LINK_ONLY"
+      },
+      {
+        "assetId": "S54",
+        "title": "17 U.S.C. § 201 — Ownership of copyright",
+        "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim",
+        "disposition": "QUOTE_LINK"
+      },
+      {
+        "assetId": "S55",
+        "title": "17 U.S.C. § 204 — Execution of transfers of copyright ownership",
+        "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section204&num=0&edition=prelim",
+        "disposition": "QUOTE_LINK"
+      },
+      {
+        "assetId": "S56",
+        "title": "What Photographers Should Know about Copyright",
+        "url": "https://www.copyright.gov/engage/photographers/",
+        "disposition": "LINK_ONLY"
+      }
+    ]
+  },
+  "linkedIn": {
+    "documentFrames": [
+      {
+        "assetId": "CA07-TITLE",
+        "visualType": "original title plate",
+        "source": "/packages/ca07",
+        "crop": "native 4:5; no crop",
+        "caption": "A photographer can make a house recognizable by translating garments into light, time, body, setting, and repeatable image grammar; that cultural power does not collapse authorship, copyright ownership, commission terms, credit, or archive custody into one answer.",
+        "credit": "RN Collins",
+        "alt": "Title plate for The Photographer Who Defines the House.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typography, rule, folio and domain color only",
+        "frame": 1,
+        "role": "provocation"
+      },
+      {
+        "assetId": "CA07-DIAGRAM-3",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca07",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "03 · LICENSE — What may the house actually do?. Attach usage media, territory, term, exclusivity, crops, derivatives, credits, embargoes, archive copies, portfolio uses, and approval language. Route ownership and transfer questions to counsel with the executed agreement.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping what may the house actually do? within The Photographer Who Defines the House.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 2,
+        "role": "system"
+      },
+      {
+        "assetId": "CA07-DIAGRAM-4",
+        "visualType": "original evidence diagram",
+        "source": "/packages/ca07",
+        "crop": "native 4:5 diagram; preserve labels and evidence footer",
+        "caption": "04 · MEMORY — Whose archive preserves the house image?. Map negatives or RAW files, selects, contact sheets, captions, model releases, licenses, expiry, publication proofs, and preservation custody. Cultural memory may depend on a record the house does not own.",
+        "credit": "Concept and editorial design: RN Collins",
+        "alt": "Diagram mapping whose archive preserves the house image? within The Photographer Who Defines the House.",
+        "rights": "Original publication graphic; no third-party imagery",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "render from verified text, source IDs, lines and geometric fields",
+        "frame": 3,
+        "role": "record"
+      },
+      {
+        "assetId": "S23",
+        "visualType": "canonical public record card",
+        "source": "https://artsandculture.google.com/partner/conde-nast-archive",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "Condé Nast Archive is retained as evidence, education, reporting or rights context.",
+        "credit": "Condé Nast / Google Arts & Culture",
+        "alt": "Source card for Condé Nast Archive, credited to Condé Nast / Google Arts & Culture.",
+        "rights": "Copyright controlled by Condé Nast and creators; licensing required for media.",
+        "disposition": "LINK_ONLY",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 4,
+        "role": "constraint"
+      },
+      {
+        "assetId": "S54",
+        "visualType": "canonical public record card",
+        "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim",
+        "crop": "typographic record excerpt; do not reproduce protected imagery",
+        "caption": "17 U.S.C. § 201 — Ownership of copyright is retained as evidence, education, reporting or rights context.",
+        "credit": "U.S. House Office of the Law Revision Counsel",
+        "alt": "Source card for 17 U.S.C. § 201 — Ownership of copyright, credited to U.S. House Office of the Law Revision Counsel.",
+        "rights": "U.S. statutory text; quote narrowly and link.",
+        "disposition": "QUOTE_LINK",
+        "treatment": "link, narrow quotation, or authorized player only as stated",
+        "frame": 5,
+        "role": "case"
+      },
+      {
+        "assetId": "CA07-COUNTERPOINT",
+        "visualType": "original counterpoint plate",
+        "source": "/packages/ca07#counterpoint",
+        "crop": "native 4:5; no crop",
+        "caption": "The phrase “photographer who defines the house” risks overstating one maker and understating the designer, stylist, model, art director, set, retoucher, publication, and audience. Use it as a question about sustained image grammar, never as automatic sole-credit or ownership language.",
+        "credit": "RN Collins",
+        "alt": "Counterpoint card for The Photographer Who Defines the House.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "typographic quotation field; no decorative imagery",
+        "frame": 6,
+        "role": "decision"
+      },
+      {
+        "assetId": "CA07-FIELD-10",
+        "visualType": "original fieldwork plate",
+        "source": "/tools#ca07-tool",
+        "crop": "native 4:5; no crop",
+        "caption": "Attach the creator and production credits exactly as published; mark absences unresolved.",
+        "credit": "RN Collins",
+        "alt": "Fieldwork prompt for The Photographer Who Defines the House.",
+        "rights": "Original publication graphic",
+        "disposition": "ORIGINAL_DIAGRAM",
+        "treatment": "numbered prompt and check line",
+        "frame": 7,
+        "role": "tool"
+      },
+      {
+        "assetId": "S89",
+        "visualType": "rights-cleared collection object",
+        "source": "https://www.loc.gov/resource/tofr.52127/",
+        "crop": "full object with generous field",
+        "caption": "Gloria Vanderbilt Cooper is retained as evidence, education, reporting or rights context.",
+        "credit": "Library of Congress",
+        "alt": "Source card for Gloria Vanderbilt Cooper, credited to Library of Congress.",
+        "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Toni Frissell, Vogue context, identifier, and canonical record.",
+        "disposition": "REUSE",
+        "treatment": "local display and download with attached credit",
+        "frame": 8,
+        "role": "source trail"
+      }
+    ],
+    "postImage": {
+      "assetId": "CA07-TITLE",
+      "visualType": "original title plate",
+      "source": "/packages/ca07",
+      "crop": "native 4:5; no crop",
+      "caption": "A photographer can make a house recognizable by translating garments into light, time, body, setting, and repeatable image grammar; that cultural power does not collapse authorship, copyright ownership, commission terms, credit, or archive custody into one answer.",
+      "credit": "RN Collins",
+      "alt": "Title plate for The Photographer Who Defines the House.",
+      "rights": "Original publication graphic",
+      "disposition": "ORIGINAL_DIAGRAM",
+      "treatment": "typography, rule, folio and domain color only",
+      "frame": 1,
+      "role": "provocation"
+    },
+    "altText": "Title plate for The Photographer Who Defines the House. Diagram mapping what may the house actually do? within The Photographer Who Defines the House. Diagram mapping whose archive preserves the house image? within The Photographer Who Defines the House. Source card for Condé Nast Archive, credited to Condé Nast / Google Arts & Culture. Source card for 17 U.S.C. § 201 — Ownership of copyright, credited to U.S. House Office of the Law Revision Counsel. Counterpoint card for The Photographer Who Defines the House. Fieldwork prompt for The Photographer Who Defines the House. Source card for Gloria Vanderbilt Cooper, credited to Library of Congress."
+  },
+  "interactive": {
+    "url": "/tools#ca07-tool",
+    "mapping": [
+      {
+        "step": 1,
+        "prompt": "Select twelve images from one documented collaboration and code light, distance, movement, setting, body, and sequence.",
+        "evidenceAsset": "CA07-DIAGRAM-1"
+      },
+      {
+        "step": 2,
+        "prompt": "Attach the creator and production credits exactly as published; mark absences unresolved.",
+        "evidenceAsset": "CA07-DIAGRAM-2"
+      },
+      {
+        "step": 3,
+        "prompt": "Record commission, employment, work-made-for-hire, transfer, license, model-release, crop, and archive evidence separately.",
+        "evidenceAsset": "CA07-DIAGRAM-3"
+      },
+      {
+        "step": 4,
+        "prompt": "Send disputed authorship, ownership, reuse, or jurisdiction questions to qualified counsel.",
+        "evidenceAsset": "CA07-DIAGRAM-4"
+      }
+    ]
+  },
+  "resources": [
+    {
+      "assetId": "S23",
+      "title": "Condé Nast Archive",
+      "url": "https://artsandculture.google.com/partner/conde-nast-archive",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S54",
+      "title": "17 U.S.C. § 201 — Ownership of copyright",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section201&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S55",
+      "title": "17 U.S.C. § 204 — Execution of transfers of copyright ownership",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section204&num=0&edition=prelim",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S56",
+      "title": "What Photographers Should Know about Copyright",
+      "url": "https://www.copyright.gov/engage/photographers/",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S57",
+      "title": "Circular 30: Works Made for Hire",
+      "url": "https://www.copyright.gov/circs/circ30.pdf",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S83",
+      "title": "The Women of Harper's Bazaar, 1936–1958",
+      "url": "https://news.fitnyc.edu/2016/03/03/exhibition-the-women-of-harpers-bazaar-1936-1958/",
+      "disposition": "LINK_ONLY",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "S84",
+      "title": "Standard Application Help: Author",
+      "url": "https://www.copyright.gov/eco/help-author.html",
+      "disposition": "QUOTE_LINK",
+      "use": "Evidence, education, reporting or rights context."
+    },
+    {
+      "assetId": "X05",
+      "title": "Division of Costume Audiovisual Collection",
+      "url": "https://www.si.edu/object/archives/sova-nmah-ac-0801",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X06",
+      "title": "Fashion in Motion",
+      "url": "https://www.vam.ac.uk/collections/fashion-in-motion",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X31",
+      "title": "SEC EDGAR APIs",
+      "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X33",
+      "title": "Garment industry compliance resources",
+      "url": "https://www.dol.gov/agencies/whd/industry-resources/garment",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X34",
+      "title": "ILO Better Work programme",
+      "url": "https://betterwork.org/",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    },
+    {
+      "assetId": "X58",
+      "title": "Historical Resources: Fashion Industry",
+      "url": "https://guides.loc.gov/fashion-industry/history",
+      "disposition": "LINK_ONLY",
+      "use": "Additional official resource located during the dated excavation pass."
+    }
+  ],
+  "reusableDownloads": [
+    {
+      "assetId": "S60",
+      "title": "Sporting Look, evening fashions",
+      "url": null,
+      "canonicalUrl": "https://www.loc.gov/resource/tofr.08422/",
+      "credit": "Library of Congress",
+      "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Toni Frissell credit, publication context, identifier, and canonical record."
+    },
+    {
+      "assetId": "S89",
+      "title": "Gloria Vanderbilt Cooper",
+      "url": null,
+      "canonicalUrl": "https://www.loc.gov/resource/tofr.52127/",
+      "credit": "Library of Congress",
+      "rights": "Included in the Library of Congress Fashion Free to Use and Reuse set; retain Toni Frissell, Vogue context, identifier, and canonical record."
+    },
+    {
+      "assetId": "OBJ-loc-tofr-52127",
+      "title": "Gloria Vanderbilt Cooper",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/tofr/52100/52127v.jpg",
+      "canonicalUrl": "https://www.loc.gov/resource/tofr.52127/",
+      "credit": "Toni Frissell Collection, Library of Congress Prints and Photographs Division",
+      "rights": "Free to Use and Reuse / Library of Congress curated set"
+    }
+  ],
+  "candidateDisposition": [
+    {
+      "assetId": "S23",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S54",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S55",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S56",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S57",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S60",
+      "disposition": "REUSE",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S83",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S84",
+      "disposition": "QUOTE_LINK",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "S89",
+      "disposition": "REUSE",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "OBJ-loc-tofr-52127",
+      "disposition": "PUBLIC_DOMAIN_CC0",
+      "destinations": [
+        "media-library",
+        "narrative/platform kit where selected"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X05",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X06",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X31",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X33",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X34",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    },
+    {
+      "assetId": "X58",
+      "disposition": "LINK_ONLY",
+      "destinations": [
+        "resources-room",
+        "source card or authorized/link-only treatment"
+      ],
+      "exclusion": null
+    }
+  ],
+  "productionGate": "Written visual plan complete. RN owner-final approval, recording/editing, participant permissions, and counsel/specialist review where flagged remain human gates."
+}
