@@ -7,6 +7,13 @@ const prefixes={build:'B',carry:'CA',control:'CO',continue:'CN'};
 export const packages=domains.flatMap(d=>titles[d.slug].map((title,i)=>({id:`${prefixes[d.slug]}${String(i+1).padStart(2,'0')}`,title,domain:d.slug,status:[0,1,2,9].includes(i)?'Evidence mapped':'Reporting queue',summary:questions[d.slug][i]})));
 const nextTitles={B10:'A Personal Brand Is Not an Institution',CA10:'The Myth of the Lone Fashion Genius',CO01:'Your Name Is on the Label—Do You Own It?',CO02:'Creative Control Is Not Economic Control',CO03:'Who Owns a Runway Image?',CO06:'A Million Followers Is a Rented Institution',CO07:'The Institution Hidden Inside the Contract',CO08:'Can Taste Be Owned in the Age of Generative AI?'};
 for(const [id,title] of Object.entries(nextTitles)){const p=packages.find(x=>x.id===id);p.title=title;p.status='Evidence mapped';}
+const retitledQuestions={
+  B10:'What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?',
+  CA10:'Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?',
+  CO03:'Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?',
+  CO08:'Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?'
+};
+for(const [id,summary] of Object.entries(retitledQuestions))packages.find(x=>x.id===id).summary=summary;
 export const featured=['B01','CA02','CO01','CN04','B10','CA10','CO06','CO08','CO02','CO03','CO07'];
 export const objects=[
 {id:'83877',title:'Dress',maker:'French',date:'1735–40',accession:'1983.399.1',medium:'Silk, flax',credit:'Gift of Mary Tavener Holmes, 1983',image:'https://images.metmuseum.org/CRDImages/ci/web-large/DT7538.jpg',caption:'A garment record becomes institutional evidence when material, date, maker, identifier, and rights remain attached.',alt:'Eighteenth-century French silk dress with a fitted bodice and full skirt, from The Metropolitan Museum of Art collection.',url:'https://www.metmuseum.org/art/collection/search/83877',license:'Public Domain / Met Open Access'},
