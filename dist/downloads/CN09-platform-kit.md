@@ -1,4 +1,4 @@
-# Philanthropy as Continuation — finished platform kit
+# Philanthropy as Continuation — complete editable platform copy
 
 ## 1. LONG VIDEO
 Trace a grant dollar through selection, labor, rights, outcomes, archive, and program closure.
@@ -23,4 +23,4 @@ Publish goals, governance, conflicts, rights, spending categories, evaluation, a
 - **PROPOSAL:** Legacy funding should separate participant benefit, IP, data, and publicity rights. (S53, S54, S88)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

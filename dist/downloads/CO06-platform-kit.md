@@ -1,4 +1,4 @@
-# A Million Followers Is a Rented Institution — finished platform kit
+# A Million Followers Is a Rented Institution — complete editable platform copy
 
 ## 1. LONG
 Begin with a seven-digit counter; remove it layer by layer until only access, records, permissions, and routes remain.
@@ -23,4 +23,4 @@ Pair the argument with an account-recovery checklist and a plain-language privac
 - **PROPOSAL:** An owned contact channel and exportable records reduce—but do not eliminate—platform dependency. (S08, S39)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

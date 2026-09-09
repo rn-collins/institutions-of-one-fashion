@@ -1,5 +1,7 @@
 # The Last Collection Is an Operational Event
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A final collection is an operational event: orders, staff, collaborators, IP, files, samples, money, promises, and public language require decisions even when creative work stops.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S39, S65
 ## Counterargument
 Completing a founder’s last work can honor relationships or exploit absence. Stopping can protect integrity or harm workers and customers. There is no universal sentimental answer; authority, obligations, evidence, and participant voice must govern.
 
-## Fieldwork
+## Reader fieldwork
 1. Build a seventy-two-hour obligations register.
 2. Name the authorized person and evidence for each decision.
 3. Run ship, pause, complete, transfer, and cancel scenarios.
 4. Prepare private participant notices before public commemoration.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

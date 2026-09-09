@@ -1,4 +1,4 @@
-# Provenance Is Future Memory — finished platform kit
+# Provenance Is Future Memory — complete editable platform copy
 
 ## 1. LONG VIDEO
 Follow one object record across custody and catalog revisions, keeping gaps and changed attributions on screen.
@@ -23,4 +23,4 @@ Publish downloadable provenance rows with version history and correction routes.
 - **PROPOSAL:** Provenance claims should preserve gaps, confidence, interventions, and corrections. (S39, S65)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

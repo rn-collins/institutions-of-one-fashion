@@ -1,5 +1,7 @@
 # Can a Creator Build a House Before Building a Company?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A creator can build institutional capacity before forming a company—method, evidence, relationships, audience routes, promises, and an archive—but should never confuse that capacity with legal personality, liability protection, tax status, or governance.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S94, S95, S49
 ## Counterargument
 Celebrating “institution before company” can romanticize informal work, delay protections, conceal unpaid labor, or expose the creator and collaborators to avoidable risk. The point is not to postpone advice. It is to arrive with a legible practice map—and to formalize when the facts, jurisdiction, liability, tax, labor, funding, and continuity needs require it.
 
-## Fieldwork
+## Reader fieldwork
 1. Map every recurring promise, role, payment, file, account, right, obligation, and correction route already in use.
 2. Mark the person or entity currently named on each agreement, invoice, domain, account, registration, and insurance record.
 3. List every place where collaborators, customers, money, manufacturing, data, travel, or liability create a professional-review trigger.
 4. Take the transition inventory to qualified legal, tax, insurance, employment, and financial advisers in the relevant jurisdictions.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

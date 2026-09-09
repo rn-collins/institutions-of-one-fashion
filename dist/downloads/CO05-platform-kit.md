@@ -1,4 +1,4 @@
-# Controlled Company, Controlled Story — finished platform kit
+# Controlled Company, Controlled Story — complete editable platform copy
 
 ## 1. LONG VIDEO
 Build six columns—vote, board, executive, creative, economic, archive—and populate only what public records prove.
@@ -23,4 +23,4 @@ Publish the evidence-led essay, a distinct governance argument, and ten record-b
 - **INFERENCE:** Formal company control does not itself establish truthful or legitimate cultural memory. (S08, S39)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

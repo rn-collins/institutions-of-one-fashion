@@ -1,5 +1,7 @@
 # Collection One Is Not the Beginning
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A first collection is a public beginning built on a private prehistory of research, relationships, prototypes, permissions, costing, records, and decisions.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S28, S94, S95
 ## Counterargument
 Preparation can become perfectionism or an excuse to imitate corporate bureaucracy. The useful threshold is proportional: enough evidence and operating clarity to protect people, explain decisions, learn from failure, and fulfill the public promise.
 
-## Fieldwork
+## Reader fieldwork
 1. Reconstruct the six months before one debut from dated records.
 2. List every failed prototype and the decision it changed.
 3. Verify role, pay, credit, permission, and correction fields with each participant.
 4. Run cancellation, delay, defect, sellout, and silence scenarios before release.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

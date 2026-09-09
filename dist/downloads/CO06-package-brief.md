@@ -1,5 +1,7 @@
 # A Million Followers Is a Rented Institution
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A million followers can create extraordinary reach while remaining a rented route to people—subject to platform rules, access loss, algorithmic distribution, and incomplete portability.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S08, S39
 ## Counterargument
 Calling platforms “rented” can understate the communities, creativity, and livelihoods built there. The argument is narrower: meaningful participation and asset control are different institutional questions, and both deserve deliberate design.
 
-## Fieldwork
+## Reader fieldwork
 1. List every platform and its actual owner or administrator.
 2. Test recovery without relying on one person or device.
 3. Inventory exportable content and consented contact routes.
 4. Create a continuity notice that does not pressure people to migrate.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

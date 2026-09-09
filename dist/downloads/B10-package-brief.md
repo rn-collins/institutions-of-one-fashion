@@ -1,5 +1,7 @@
 # A Personal Brand Is Not an Institution
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A personal brand makes a person recognizable. An institution makes their judgment, relationships, records, rights, and work capable of operating beyond constant personal performance.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S08, S39
 ## Counterargument
 Institutionalization can turn a living voice into bureaucracy. The aim is not to make the person interchangeable; it is to protect the conditions that let singular judgment remain singular without making exhaustion the operating model.
 
-## Fieldwork
+## Reader fieldwork
 1. Write the public promise in one sentence.
 2. Name the repeatable system that fulfills that promise.
 3. List the controlled record or asset supporting each step.
 4. Run the seventy-two-hour founder-absence test.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

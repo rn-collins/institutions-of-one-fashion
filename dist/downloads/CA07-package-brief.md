@@ -1,5 +1,7 @@
 # The Photographer Who Defines the House
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A photographer can make a house recognizable by translating garments into light, time, body, setting, and repeatable image grammar; that cultural power does not collapse authorship, copyright ownership, commission terms, credit, or archive custody into one answer.
 
@@ -31,11 +33,11 @@ Evidence: INFERENCE · S23, S60, S89
 ## Counterargument
 The phrase “photographer who defines the house” risks overstating one maker and understating the designer, stylist, model, art director, set, retoucher, publication, and audience. Use it as a question about sustained image grammar, never as automatic sole-credit or ownership language.
 
-## Fieldwork
+## Reader fieldwork
 1. Select twelve images from one documented collaboration and code light, distance, movement, setting, body, and sequence.
 2. Attach the creator and production credits exactly as published; mark absences unresolved.
 3. Record commission, employment, work-made-for-hire, transfer, license, model-release, crop, and archive evidence separately.
 4. Send disputed authorship, ownership, reuse, or jurisdiction questions to qualified counsel.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

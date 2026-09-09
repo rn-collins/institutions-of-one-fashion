@@ -1,5 +1,7 @@
 # Can Taste Be Owned in the Age of Generative AI?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 Taste can be recognized, taught, imitated, and commercially valuable without becoming a single ownable legal object; generative AI makes the need to separate those categories urgent.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S28, S29, S30
 ## Counterargument
 Documentation can become performative transparency, and legal categories cannot resolve every ethical question about extraction, cultural authority, labor, or consent. A responsible process needs both legal review and editorial judgment.
 
-## Fieldwork
+## Reader fieldwork
 1. Define the element you are calling taste.
 2. Separate facts, influences, protected assets, and interpretations.
 3. Record inputs, permissions, human decisions, and transformations.
 4. Send unresolved rights or attribution questions to qualified counsel.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

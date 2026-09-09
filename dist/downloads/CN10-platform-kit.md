@@ -1,4 +1,4 @@
-# The House After the House — finished platform kit
+# The House After the House — complete editable platform copy
 
 ## 1. LONG VIDEO
 Start with the closed storefront and follow each asset, obligation, person, and record to its next custodian.
@@ -23,4 +23,4 @@ Publish only verified closure and transfer facts, clearly separating inference a
 - **INFERENCE:** A later user of a mark does not automatically acquire every historical asset or relationship. (S28, S93)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

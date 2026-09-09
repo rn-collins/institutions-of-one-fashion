@@ -1,5 +1,7 @@
 # Your Name Is on the Label—Do You Own It?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A founder's name on a label signals identity and reputation; it does not, by itself, answer who owns the registered mark, company, domain, likeness permissions, archive authority, or power to approve future uses.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S48, S49
 ## Counterargument
 Separating the name into assets can make identity look purely transactional. A personal name also carries dignity, biography, community meaning, and reputational stakes that a registry cannot fully describe. Conversely, emotional identification with a label cannot resolve an ownership dispute. The exhibition keeps both truths visible without converting either into a legal conclusion.
 
-## Fieldwork
+## Reader fieldwork
 1. List every personal, label, company, domain, handle, signature, portrait, and archive use.
 2. Attach the exact registration, account, entity, or agreement record supporting each claimed form of control.
 3. Record owner, authorized user, administrator, territory, term, renewal, approval right, and recovery route.
 4. Mark every unresolved common-law, publicity, contract, foreign-law, or beneficial-ownership question for counsel.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

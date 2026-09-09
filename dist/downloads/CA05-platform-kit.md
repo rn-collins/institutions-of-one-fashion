@@ -1,4 +1,4 @@
-# The Publicist as Institutional Infrastructure — finished platform kit
+# The Publicist as Institutional Infrastructure — complete editable platform copy
 
 ## 1. LONG VIDEO
 Start with the image everyone saw, then open the hidden stack: frame, proof, relationship, access, permission, spokesperson, approval, disclosure, correction, and archive. Use Lambert to show field-building and the public agreement to show negotiated governance.
@@ -24,4 +24,4 @@ A live claim-and-permission board for release copy, biographies, quotes, product
 - **VERIFIED:** A public Estée Lauder consulting agreement expressly addresses specified services, approvals, publicity materials, media, and uses of persona; it is evidence of one negotiated allocation, not a universal PR arrangement. (S78)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

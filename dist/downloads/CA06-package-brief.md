@@ -1,5 +1,7 @@
 # How Stylists Manufacture Cultural Meaning
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A stylist does not merely arrange clothes. Styling selects, relates, withholds, and frames objects so that a look can enter culture—yet interpretation, authorship, ownership, credit, approval, and compensation must remain separate evidence questions.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S08, S39, S83
 ## Counterargument
 Treating styling as authorship can erase the designer, photographer, model, hair and makeup teams, assistants, cultural sources, and commissioner; treating it as logistics erases interpretation. The answer is a role-specific record, not a larger heroic claim.
 
-## Fieldwork
+## Reader fieldwork
 1. Choose one published fashion image and inventory every visible and credited contributor.
 2. Write the cultural proposition in one sentence, then list the styling decisions that support it.
 3. Attach agreements or mark fee, credit, approval, license, archive, and correction terms unresolved.
 4. Ask a relevant cultural specialist to review any reference whose authority the team does not hold.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

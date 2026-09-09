@@ -1,4 +1,4 @@
-# Who Owns a Runway Image? — finished platform kit
+# Who Owns a Runway Image? — complete editable platform copy
 
 ## 1. LONG VIDEO
 Freeze one fashion photograph. Add layers one at a time: garment; show; photographer; employer or commissioner; model; venue; credential; publication; platform. Read the narrow U.S. copyright rules for authorship, work made for hire, and written transfers, then show what those rules do not decide. Close by completing one rights envelope.
@@ -24,4 +24,4 @@ Before publish: exact file; author; source; work-made-for-hire evidence; transfe
 - **INFERENCE:** The designer, model, show producer, venue, publication, and photographer may each hold different contractual or legal interests; appearing in or commissioning an image does not by itself answer copyright ownership. (S54, S55, S56)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

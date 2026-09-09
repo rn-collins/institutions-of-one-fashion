@@ -1,5 +1,7 @@
 # What Happens to a House After the Founder?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A house survives its founder only if the organization can distinguish what must continue, what may evolve, who may decide, which obligations remain, and what evidence authorizes each answer.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S65
 ## Counterargument
 Continuation is not always the ethical or artistically honest outcome. Closing a company, preserving an archive, paying obligations, and allowing the work to become history may protect a legacy better than indefinite commercial imitation.
 
-## Fieldwork
+## Reader fieldwork
 1. Run a 72-hour founder-absence simulation across people, money, orders, facilities, accounts, rights, archive, and public communication.
 2. Attach the governing record and backup decision-maker to every critical action.
 3. Sort house codes into values, methods, motifs, habits, and unresolved contradictions.
 4. Prepare continue, pause, license, sell, donate, and close scenarios with qualified counsel, tax, employment, conservation, and cultural advisers.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

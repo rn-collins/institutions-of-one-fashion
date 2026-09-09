@@ -1,4 +1,4 @@
-# The Photographer Who Defines the House — finished platform kit
+# The Photographer Who Defines the House — complete editable platform copy
 
 ## 1. LONG VIDEO
 Follow one image from commission to archive: brief, set, exposure, select, retouch, publication, license, catalog record. Keep creator fact, ownership evidence, and visual inference on separate screens.
@@ -24,4 +24,4 @@ Compare two rights-cleared Frissell records and ask which visual patterns are ob
 - **INFERENCE:** A photographer can define a house’s public image while authorship, copyright ownership, credit, archive custody, and reuse permission remain separate questions. (S23, S56, S60, S83)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

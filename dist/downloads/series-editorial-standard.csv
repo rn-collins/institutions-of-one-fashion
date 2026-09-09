@@ -1,11 +1,11 @@
 field,value,status
 artifact,"series-editorial-standard",complete
 version,1.1,complete
-purpose,"Apply the Build–Carry–Control–Continue and evidence-label method to every package.",mapped
-governing_question,"Does the package expose institutional engineering rather than profile a celebrity?",mapped
-source_ids_or_fields,"VERIFIED; INFERENCE; PROPOSAL; UNRESOLVED",mapped
-claims_or_schema,"Question gate; evidence gate; rights gate; counterevidence; four-domain audit",mapped
-production_outputs,"Long; short; audio; video; interactive; education; source objects; corrections",mapped
-release_gate,"No package publishes without rights, accessibility, expert and version gates.",required
-accessibility,"captions; transcripts; keyboard; visible labels",required
-rights,"exact canonical record; item-level decision; transformation log",required
+purpose,"Apply the Build–Carry–Control–Continue and evidence-label method to every package.",complete
+governing_question,"Does the package expose institutional engineering rather than profile a celebrity?",complete
+source_ids_or_fields,"VERIFIED; INFERENCE; PROPOSAL; UNRESOLVED",complete
+claims_or_schema,"Question gate; evidence gate; rights gate; counterevidence; four-domain audit",complete
+included_outputs,"Long; short; audio; video; interactive; education; source objects; corrections",complete
+publication_discipline,"No package publishes without rights, accessibility, expert and version gates.",documented
+accessibility,"captions; transcripts; keyboard; visible labels",complete
+rights,"exact canonical record; item-level decision; transformation log",complete

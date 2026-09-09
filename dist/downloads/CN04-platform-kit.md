@@ -1,4 +1,4 @@
-# The Personal Archive as Succession Infrastructure — finished platform kit
+# The Personal Archive as Succession Infrastructure — complete editable platform copy
 
 ## 1. LONG VIDEO
 Begin with an unlabeled drive and a perfectly catalogued museum object. Ask what makes one survivable. Build the answer through capture, pair, preserve, authorize.
@@ -24,4 +24,4 @@ Seven three-minute prompts: origin; choice; collaborator; failure; permission; a
 - **PROPOSAL:** A founder’s archive can support succession only when decision context, rights, access, and stewardship travel with the files and objects. (S08, S66)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

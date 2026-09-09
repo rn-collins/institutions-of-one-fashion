@@ -1,4 +1,4 @@
-# A Personal Brand Is Not an Institution — finished platform kit
+# A Personal Brand Is Not an Institution — complete editable platform copy
 
 ## 1. LONG
 Open on a founder posting from a fitting room; move beneath the image into roles, records, assets, and an absence test. Close: build a system that protects the eye, not a machine that replaces it.
@@ -23,4 +23,4 @@ Lead with the operating distinction, give one fashion example, and invite reader
 - **PROPOSAL:** A documented practice can preserve roles, decisions, and evidence beyond publicity. (S08, S39)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

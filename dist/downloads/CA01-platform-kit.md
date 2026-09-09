@@ -1,4 +1,4 @@
-# The Invisible Institution Behind One Collection — finished platform kit
+# The Invisible Institution Behind One Collection — complete editable platform copy
 
 ## 1. LONG VIDEO
 Follow one look backward from runway image to research, pattern, sample, fitting, sourcing, production, styling, image, press, sales, and archive. Put VERIFIED, INFERENCE, PROPOSAL, and UNRESOLVED on screen; never invent a role because the industry usually has one.
@@ -24,4 +24,4 @@ A private pre-publication sheet for every named person to verify spelling, role,
 - **INFERENCE:** One collection should be credited and governed as a constellation of roles and records rather than as proof that a single visible author performed every kind of work. (S72, S76, S77)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

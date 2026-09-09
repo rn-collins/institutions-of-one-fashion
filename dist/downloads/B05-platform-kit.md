@@ -1,4 +1,4 @@
-# Can a Creator Build a House Before Building a Company? — finished platform kit
+# Can a Creator Build a House Before Building a Company? — complete editable platform copy
 
 ## 1. LONG VIDEO
 Open with a creator already carrying clients, collaborators, files, accounts, invoices, and promises. Build the practice map, then draw a bright line before entity, tax, liability, and employment claims.
@@ -24,4 +24,4 @@ A neutral fact pack: activity, jurisdictions, parties, revenue, expenses, worker
 - **INFERENCE:** A creator can build methods, records, relationships, audience routes, and rights inventories before incorporation, but should not imply liability protection or legal status that does not exist. (S94, S95, S39)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

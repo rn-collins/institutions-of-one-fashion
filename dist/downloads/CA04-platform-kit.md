@@ -1,4 +1,4 @@
-# Who Carries a Creative Vision Into Production? — finished platform kit
+# Who Carries a Creative Vision Into Production? — complete editable platform copy
 
 ## 1. LONG VIDEO
 Begin with the sentence “send it to production.” Expand it into specification, labor, sample, approval, money, change, shipment, quality, remedy, and archive. Use the public agreement only as one example; label every private arrangement unresolved until evidenced.
@@ -24,4 +24,4 @@ Separate studio, supplier, and worker-facing review sheets so each party can cor
 - **INFERENCE:** Production handoffs distribute creative, technical, commercial, and labor power, but the distribution is not identical across houses, jurisdictions, or worker classifications. (S76, S77, S81)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

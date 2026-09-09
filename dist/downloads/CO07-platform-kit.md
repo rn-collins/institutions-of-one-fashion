@@ -1,4 +1,4 @@
-# The Institution Hidden Inside the Contract — finished platform kit
+# The Institution Hidden Inside the Contract — complete editable platform copy
 
 ## 1. LONG VIDEO
 Begin with the Butterick fashion sheet and ask how many agreements sit behind one visible output. Build the institution across four rooms: before, during, control, after. Use public SEC employment agreements to show that duties, reporting, authority, term, and termination can live in different clauses. Finish by running a collaboration through seven failure scenarios.
@@ -24,4 +24,4 @@ Opening copy: “Before we discuss ownership, let us identify what each person b
 - **INFERENCE:** The institution hidden inside a contract is the operating system created by many clauses acting together, not a single ownership sentence. (S50, S51, S52, S55)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

@@ -1,5 +1,7 @@
 # Who Carries a Creative Vision Into Production?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 Creative vision reaches production through negotiated translations among people, factories, contractors, files, budgets, standards, law, and material limits; the process distributes power rather than merely executing a designer’s command.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S38, S76
 ## Counterargument
 A highly documented production system can improve accountability yet push surveillance and paperwork onto workers with the least power. A house can also use technical standards to demand impossible precision without paying for development or change. Documentation must support remedy, learning, and fair allocation—not merely brand protection.
 
-## Fieldwork
+## Reader fieldwork
 1. Trace one style from approved concept through every entity, location, file, sample, shipment, and approval to final receipt.
 2. Identify every place where subcontracting, classification, pay, safety, or decision authority is unknown.
 3. Compare the written specification with the production outcome and record each deviation and who absorbed its cost.
 4. Interview participants separately about where the process lost information or shifted risk, then preserve disagreement rather than averaging it away.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

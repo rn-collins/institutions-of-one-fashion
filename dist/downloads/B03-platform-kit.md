@@ -1,4 +1,4 @@
-# Can Taste Become Institutional Knowledge? — finished platform kit
+# Can Taste Become Institutional Knowledge? — complete editable platform copy
 
 ## 1. LONG VIDEO
 Begin with “I just know.” Rewind the statement into comparison, touch, memory, constraint, contributor, rejection, and correction. End with the right not to record.
@@ -24,4 +24,4 @@ Run one judgment through founder, maker, wearer, accessibility, cultural, and ar
 - **PROPOSAL:** Institutional taste should preserve dissent, provenance, consent, and revision—not only the founder’s preferred answer. (S72, S88)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

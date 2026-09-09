@@ -1,5 +1,7 @@
 # Who Owns a Runway Image?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A runway image sits inside a stack of interests: the photographed show and garments, the photographer's authorship, any work-made-for-hire status or transfer, model and venue agreements, accreditation terms, licenses, publication rights, and jurisdiction-specific publicity or privacy rules.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S55, S56
 ## Counterargument
 A permissions system can become so risk-averse that it erases photographers, models, and makers from public memory. The answer is not casual reuse; it is better licensing, clearer credits, fairer agreements, durable records, and a proportionate review process that preserves access without laundering uncertainty.
 
-## Fieldwork
+## Reader fieldwork
 1. Choose one exact runway image—not a whole folder—and preserve its original file, metadata, and source route.
 2. Identify author, employer or commissioner, work-made-for-hire evidence, and every signed transfer or license.
 3. Add accreditation, model, venue, embargo, trademark, publicity, privacy, and territory questions.
 4. Approve the exact crop, platform, duration, credit, alt text, archive treatment, and correction route with counsel where needed.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

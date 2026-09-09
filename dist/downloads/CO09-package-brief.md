@@ -1,5 +1,7 @@
 # Proof of Making
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 Proof of making is a chain of contemporaneous records that can support authorship, development, contribution, and custody questions without pretending that documentation itself decides ownership.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S39, S65, S66
 ## Counterargument
 Evidence systems can become coercive, invade privacy, or privilege whoever controls the platform. Contributors need notice, access, correction, confidentiality, proportional retention, and a way to preserve their own record.
 
-## Fieldwork
+## Reader fieldwork
 1. Choose one look and reconstruct its earliest-to-final evidence chain.
 2. Ask each contributor to verify role, version, credit, and disagreement.
 3. Attach governing agreements without treating them as public media.
 4. Send disputed authorship, ownership, priority, and jurisdiction questions to counsel.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

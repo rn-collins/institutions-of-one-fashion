@@ -1,4 +1,4 @@
-# Archive as Design Employee — finished platform kit
+# Archive as Design Employee — complete editable platform copy
 
 ## 1. LONG VIDEO
 Follow one archive object from retrieval through interpretation, transformation, citation, and return.
@@ -23,4 +23,4 @@ Full essay, archive-as-infrastructure argument, and metadata-led object pins.
 - **INFERENCE:** An archive can function as active design infrastructure. (S21, S22, S35)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

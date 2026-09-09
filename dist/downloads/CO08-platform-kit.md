@@ -1,4 +1,4 @@
-# Can Taste Be Owned in the Age of Generative AI? — finished platform kit
+# Can Taste Be Owned in the Age of Generative AI? — complete editable platform copy
 
 ## 1. LONG
 Move from the seductive sentence “they stole my taste” to seven narrower questions evidence can actually answer.
@@ -23,4 +23,4 @@ Package exact assets, territories, dates, agreements, uses, and desired remedies
 - **INFERENCE:** Aesthetic resemblance alone does not determine a legal claim. (S28, S30)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

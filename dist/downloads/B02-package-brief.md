@@ -1,5 +1,7 @@
 # How Does a Designer Develop Recognizable Codes?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A designer develops recognizable codes by making recurring decisions legible across difference—not by repeating a logo, freezing one silhouette, or declaring an abstract aesthetic owned.
 
@@ -31,11 +33,11 @@ Evidence: VERIFIED · S91, S92, S93
 ## Counterargument
 Codification can turn a living practice into a checklist, reward self-copying, erase collaborators, and encourage overbroad ownership claims. The countermeasure is to document exceptions, disputed authorship, outside influence, community knowledge, failed experiments, and the conditions under which a code should change.
 
-## Fieldwork
+## Reader fieldwork
 1. Select twenty works across at least three moments and code only what can be observed.
 2. Write five proposed codes, then attach two counterexamples and one deliberate exception to each.
 3. Ask two collaborators to revise the descriptions and identify missing labor or influence.
 4. Separate every cultural-recognition claim from the exact record supporting any legal right.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

@@ -1,4 +1,4 @@
-# The Business Partner Beside the Name — finished platform kit
+# The Business Partner Beside the Name — complete editable platform copy
 
 ## 1. LONG VIDEO
 Keep the founder’s public portrait on one side while operational decisions accumulate on the other; attach a record to every authority claim.
@@ -23,4 +23,4 @@ Essay, governance argument, and nine diagram-led pins; no private agreement is i
 - **INFERENCE:** A public title does not establish the full informal or contractual partnership. (S50, S51)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

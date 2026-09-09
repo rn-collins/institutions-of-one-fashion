@@ -1,5 +1,7 @@
 # The Personal Archive as Succession Infrastructure
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A personal archive becomes succession infrastructure when it preserves not only the work, but the founder’s decision logic, rights evidence, relationships, access pathways, and instructions for future interpretation.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S63, S64
 ## Counterargument
 A total archive can become surveillance of the founder, collaborators, family, workers, and communities. Preservation is not a command to keep or publish everything. Appraisal, consent, privacy, embargo, deletion, and culturally appropriate restriction belong inside succession design.
 
-## Fieldwork
+## Reader fieldwork
 1. Complete a seven-day sample across work, communications, rights, relationships, credentials, objects, and oral history.
 2. Pair each physical object to its digital and documentary relatives.
 3. Create two verified copies and record format, checksum, location, and migration need.
 4. Take the authority map—not merely the boxes—to archivist, conservator, counsel, tax adviser, and successor as appropriate.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

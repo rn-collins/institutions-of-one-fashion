@@ -1,5 +1,7 @@
 # The Institution Hidden Inside the Contract
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A fashion contract does more than price a transaction: it assigns roles, approvals, rights, records, risk, credit, access, transition duties, and the rules that govern what happens when the relationship changes.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S50, S51
 ## Counterargument
 Contract architecture can become extractive: the party with leverage can demand sweeping ownership, perpetual use, silence, and risk transfer. More clauses are not automatically fairer. The counterweight is proportionality, real negotiation, legible language, preserved versions, independent advice, and a record of whose labor and community knowledge the agreement affects.
 
-## Fieldwork
+## Reader fieldwork
 1. Draw the full workflow from source material to final archive and attach a responsible party to every handoff.
 2. Mark every approval, acceptance, revision, payment, credit, rights, access, and record obligation.
 3. Run delay, scope change, infringement claim, nonpayment, termination, incapacity, acquisition, and collaborator-dispute scenarios.
 4. Give the actual draft, facts, jurisdiction, leverage constraints, and desired outcomes to qualified counsel before signature.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

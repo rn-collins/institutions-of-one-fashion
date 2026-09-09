@@ -1,4 +1,4 @@
-# Sell the Company, Keep the Archive? — finished platform kit
+# Sell the Company, Keep the Archive? — complete editable platform copy
 
 ## 1. LONG VIDEO
 Lay company assets and archive materials on parallel tracks; connect only where evidence, obligation, or stewardship requires it.
@@ -23,4 +23,4 @@ Publish as educational issue spotting with no deal recommendation and explicit p
 - **INFERENCE:** Company and archive perimeters may diverge, but the appropriate structure is fact- and jurisdiction-specific. (S35, S39)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.
