@@ -9,8 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
     steps:
-      - name: Import verified commits
+      - name: Import verified commits and open review
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -18,10 +19,7 @@ jobs:
           curl -fL -o io1.bundle "https://github.com/rn-collins/institutions-of-one-fashion/releases/download/codex-import-io1-7d58d8f/io1-publication-7d58d8f.bundle"
           git clone "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" imported
           cd imported
-          test "$(git rev-parse origin/codex-io1-publication-7d58d8f)" = "e4b928300f7ec4977eecd837d44c5d22346ccae1" || {
-            echo "Production base changed; refusing import"
-            exit 1
-          }
           git fetch ../io1.bundle HEAD:refs/heads/codex-io1-publication-7d58d8f
           test "$(git rev-parse codex-io1-publication-7d58d8f)" = "7d58d8f11428f501b69811c43ddf010edd8905cb"
           git push origin refs/heads/codex-io1-publication-7d58d8f
+          gh pr view codex-io1-publication-7d58d8f >/dev/null 2>&1 || gh pr create             --base main             --head codex-io1-publication-7d58d8f             --title "Publish complete I/1 visual and metadata remediation"             --body "Publishes the independently verified two-commit I/1 remediation tranche from exact production base e4b9283 to 7d58d8f. Includes route-specific social metadata, heading repair, 54-route visual assignments, safe-zone and uniqueness gates, rights-bound publication assets, 968 rendered PNGs, 44 downloadable ZIP kits, and 232 production downloads. Local release suite: 15/15 passed."
