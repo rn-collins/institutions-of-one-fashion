@@ -1,5 +1,7 @@
 # The Patternmaker Behind the Designer
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 The patternmaker is not a neutral copying machine: pattern work carries design intention into geometry, fit, construction, repeatability, and the body through skilled decisions that deserve explicit evidence, authority, and credit.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S08, S39, S72
 ## Counterargument
 Calling patternmaking authorship can illuminate judgment but also blur distinct legal categories or erase sewing, fitting, grading, textile, and production labor. The answer is not to replace one hero with another. It is to make the chain of contribution and decision precise.
 
-## Fieldwork
+## Reader fieldwork
 1. Select one garment and pair the approved sketch, first pattern, first toile, fitting record, production pattern, and final object.
 2. Interview the patternmaker about three changes that are invisible in the finished photograph.
 3. Record who proposed, tested, approved, rejected, and documented each change.
 4. Audit fit assumptions, size coverage, credit, compensation, file custody, reuse, and succession with the actual participants.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

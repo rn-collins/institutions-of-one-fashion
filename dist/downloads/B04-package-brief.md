@@ -1,5 +1,7 @@
 # When Does an Aesthetic Become a System?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 An aesthetic becomes a system when recurring choices are connected to roles, evidence, tests, handoffs, exceptions, and feedback—so the practice can learn without reducing itself to visual sameness.
 
@@ -31,11 +33,11 @@ Evidence: VERIFIED · S91, S92, S93
 ## Counterargument
 Systems can make work scalable and reviewable; they can also become bureaucracy, optimize toward what platforms reward, and harden a founder’s bias into process. A healthy aesthetic system includes exit ramps, minority reports, ethical review, and protected zones for experiment that do not need immediate justification.
 
-## Fieldwork
+## Reader fieldwork
 1. Map one look from reference and material through fitting, image, audience, repair, and archive.
 2. At each handoff, name the person, decision, evidence, version, and return path.
 3. Write three rules as relationships, then attach an exception and override authority to each.
 4. Audit which exact outputs have rights records and which broad aesthetic claims must remain cultural interpretation.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

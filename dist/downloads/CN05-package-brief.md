@@ -1,5 +1,7 @@
 # Foundation, Museum, Company, or School?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 Foundation, museum, company, and school are different stewardship architectures; none can simultaneously maximize control, access, interpretation, teaching, commerce, and permanence.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S40, S41, S42
 ## Counterargument
 A prestigious steward can still close access, underfund care, commercialize memory, or erase communities. Founder control can protect intent or block necessary reinterpretation. The answer is accountable function and resources, not institutional aura.
 
-## Fieldwork
+## Reader fieldwork
 1. Rank the ten stewardship functions by nonnegotiable outcome.
 2. Map each asset and restriction to possible stewards.
 3. Test governance for conflict, capture, silence, and founder absence.
 4. Obtain nonprofit, museum, tax, IP, employment, and cultural review as applicable.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

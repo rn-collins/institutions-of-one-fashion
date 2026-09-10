@@ -1,4 +1,4 @@
-# How Does a Designer Develop Recognizable Codes? — finished platform kit
+# How Does a Designer Develop Recognizable Codes? — complete editable platform copy
 
 ## 1. LONG VIDEO
 Place twenty works on a wall and refuse the highlight reel. Mark recurrence, exception, collaborator, source, and unresolved authorship. End by splitting cultural recognition from exact legal records.
@@ -24,4 +24,4 @@ A contributor review sheet that records observation, interpretation, disagreemen
 - **PROPOSAL:** A useful codebook records recurring decisions, exceptions, and evidence; it does not claim ownership of an abstract style. (S92, S93, S96)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

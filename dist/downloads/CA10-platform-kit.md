@@ -1,4 +1,4 @@
-# The Myth of the Lone Fashion Genius — finished platform kit
+# The Myth of the Lone Fashion Genius — complete editable platform copy
 
 ## 1. LONG
 Follow one look backward from museum record to the absent production floor; distinguish creative authority from solitary manufacture.
@@ -23,4 +23,4 @@ Map one object without inventing missing names; label the gaps as part of the ev
 - **PROPOSAL:** Credit and role records are institutional infrastructure, not ornamental acknowledgments. (S10, S15)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

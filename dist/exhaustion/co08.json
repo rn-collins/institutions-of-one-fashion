@@ -4,12 +4,12 @@
   "domain": "control",
   "auditDate": "2026-09-07",
   "scope": "Exhaustive within the 18-surface registry and recorded queries; not a claim to every item on the internet.",
-  "query": "Can Taste Be Owned in the Age of Generative AI? | Where do influence, infringement, and archival reuse diverge?",
+  "query": "Can Taste Be Owned in the Age of Generative AI? | Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?",
   "surfaces": [
     {
       "surfaceId": "SF01",
       "name": "The Metropolitan Museum of Art Open Access",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; package title; maker; garment type; archive; house; date",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; package title; maker; garment type; archive; house; date",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 3,
       "candidateIds": [
@@ -22,7 +22,7 @@
     {
       "surfaceId": "SF02",
       "name": "Library of Congress Free to Use and Reuse: Fashion",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; package title; role; fashion; garment; pattern; archive",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; package title; role; fashion; garment; pattern; archive",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [
@@ -33,7 +33,7 @@
     {
       "surfaceId": "SF03",
       "name": "Smithsonian Open Access",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; package title; fashion; dress; designer; labor; archive; CC0",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; package title; fashion; dress; designer; labor; archive; CC0",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [
@@ -44,7 +44,7 @@
     {
       "surfaceId": "SF04",
       "name": "Victoria and Albert Museum Fashion",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; package title; designer; archive; craft; house; photography",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; package title; designer; archive; craft; house; photography",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -53,7 +53,7 @@
     {
       "surfaceId": "SF05",
       "name": "Museum at FIT and SPARC",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; package title; designer; patternmaker; stylist; publicist; oral history",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; package title; designer; patternmaker; stylist; publicist; oral history",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -62,7 +62,7 @@
     {
       "surfaceId": "SF06",
       "name": "Europeana",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; package title; fashion; designer; garment; atelier; archive",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; package title; fashion; designer; garment; atelier; archive",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -71,7 +71,7 @@
     {
       "surfaceId": "SF07",
       "name": "Internet Archive",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; package title; fashion house; patternmaking; garment industry; designer",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; package title; fashion house; patternmaking; garment industry; designer",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -80,7 +80,7 @@
     {
       "surfaceId": "SF08",
       "name": "Wikimedia Commons",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; package title; designer; fashion archive; garment; runway",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; package title; designer; fashion archive; garment; runway",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -89,7 +89,7 @@
     {
       "surfaceId": "SF09",
       "name": "WIPO Fashion and IP",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; package title; fashion trademark; design; copyright; licensing",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; package title; fashion trademark; design; copyright; licensing",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 4,
       "candidateIds": [
@@ -103,7 +103,7 @@
     {
       "surfaceId": "SF10",
       "name": "USPTO trademark and examination records",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; named mark; owner; assignment; trade dress; status",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; named mark; owner; assignment; trade dress; status",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -112,7 +112,7 @@
     {
       "surfaceId": "SF11",
       "name": "U.S. Copyright Office",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; package title; photograph; useful article; work made for hire; transfer",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; package title; photograph; useful article; work made for hire; transfer",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [
@@ -123,7 +123,7 @@
     {
       "surfaceId": "SF12",
       "name": "SEC EDGAR",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; designer; fashion company; employment; license; archive; control",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; designer; fashion company; employment; license; archive; control",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -132,7 +132,7 @@
     {
       "surfaceId": "SF13",
       "name": "U.S. Department of Labor garment resources",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; garment labor; supply chain; wages; worker; contractor",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; garment labor; supply chain; wages; worker; contractor",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -141,7 +141,7 @@
     {
       "surfaceId": "SF14",
       "name": "International Labour Organization",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; garment work; supply chain; craft; gender; wage; purchasing practice",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; garment work; supply chain; craft; gender; wage; purchasing practice",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -150,7 +150,7 @@
     {
       "surfaceId": "SF15",
       "name": "UNESCO Digital Library",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; textile; craft; fashion; traditional knowledge; safeguarding",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; textile; craft; fashion; traditional knowledge; safeguarding",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -159,7 +159,7 @@
     {
       "surfaceId": "SF16",
       "name": "Official designer, house and corporate archives",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; exact entity; archive; annual report; collection; oral history; terms",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; exact entity; archive; annual report; collection; oral history; terms",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -168,7 +168,7 @@
     {
       "surfaceId": "SF17",
       "name": "Official museum and university interactives",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; fashion collection interactive; archive tool; color; timeline; metadata",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; fashion collection interactive; archive tool; color; timeline; metadata",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -177,7 +177,7 @@
     {
       "surfaceId": "SF18",
       "name": "Government statutes, courts and corporate registries",
-      "query": "Can Taste Be Owned in the Age of Generative AI?; Where do influence, infringement, and archival reuse diverge?; exact jurisdiction; statute; company; case; asset; transaction",
+      "query": "Can Taste Be Owned in the Age of Generative AI?; Which parts of taste can be recognized, taught, copied, licensed, or protected—and which remain outside any single ownership claim?; exact jurisdiction; statute; company; case; asset; transaction",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 2,
       "candidateIds": [

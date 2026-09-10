@@ -1,5 +1,7 @@
 # Who Owns the Archive?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A fashion archive is not one asset. It is a governed constellation of physical objects, copyrights, marks, contracts, files, testimony, privacy interests, access permissions, and institutional obligations.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S08, S66
 ## Counterargument
 Fragmenting the archive into rights can obscure its cultural wholeness; treating it as culturally whole can obscure the rights and labor of photographers, makers, sitters, donors, employees, and communities. Ethical stewardship must keep both views in frame.
 
-## Fieldwork
+## Reader fieldwork
 1. Select ten representative archive items and give each a stable identifier.
 2. For each, separate custody, material title, copyright, contract, privacy, access, and conservation evidence.
 3. Name the canonical record supporting each asserted power and mark every unknown.
 4. Send disputed title, copyright, contract, probate, privacy, and foreign-law questions to qualified counsel.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

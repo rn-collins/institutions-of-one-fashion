@@ -1,5 +1,7 @@
 # Controlled Company, Controlled Story
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 Founder voting or board control can shape who appoints leaders and approves major corporate acts, but it cannot guarantee truthful archives, good design, worker voice, or permanent cultural legitimacy.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S36, S37, S52
 ## Counterargument
 Founder control can protect experimentation and continuity; it can also preserve error and concentrate the power to describe other people’s labor. Control is neither virtue nor vice without facts, process, dissent, and outcome.
 
-## Fieldwork
+## Reader fieldwork
 1. Map voting, board, executive, creative, economic, and archive authority separately.
 2. Attach one exact governing record to every formal power claim.
 3. Identify who can contest the public story and how correction enters the archive.
 4. Run departure, incapacity, acquisition, deadlock, and misconduct scenarios with counsel.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

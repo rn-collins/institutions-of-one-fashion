@@ -1,4 +1,4 @@
-# What Happens to a House After the Founder? — finished platform kit
+# What Happens to a House After the Founder? — complete editable platform copy
 
 ## 1. LONG VIDEO
 Put four Worth records on a timeline. State only what the records prove, then reveal the missing governance layer. Run the house through stabilize, locate, interpret, account.
@@ -24,4 +24,4 @@ Six scenarios—continue, pause, license, sell, donate, close—with responsible
 - **PROPOSAL:** Succession planning should separately map company authority, IP, archive custody, employment, obligations, access, and public interpretation. (S63, S64, S65)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

@@ -1,5 +1,7 @@
 # The House After the House
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A fashion house may continue culturally after its operating company closes through objects, marks, debts, contracts, archives, people, methods, images, and contested memory—but none automatically stays together.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S28, S93
 ## Counterargument
 Institutional afterlife can preserve culture or become a market for nostalgia stripped of workers, creditors, and contested history. No archive should turn closure into a frictionless legend.
 
-## Fieldwork
+## Reader fieldwork
 1. Create a dated closure map across operation, people, obligations, assets, and records.
 2. Trace every claimed successor asset to a transaction or mark unresolved.
 3. Invite former participants to correct the public chronology.
 4. Review insolvency, corporate, labor, contract, IP, privacy, and tax issues with qualified professionals.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

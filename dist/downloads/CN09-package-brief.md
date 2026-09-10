@@ -1,5 +1,7 @@
 # Philanthropy as Continuation
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 Philanthropic continuation is strongest when it funds the conditions for new creators to build authority—not when it requires them to reproduce a founder’s style or gratitude.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S39, S65
 ## Counterargument
 A founder may genuinely expand opportunity while retaining disproportionate agenda power. Participant governance and independent evaluation matter because gratitude is not consent and visibility is not benefit.
 
-## Fieldwork
+## Reader fieldwork
 1. Define one barrier with affected creators.
 2. Map money, decision, data, rights, credit, and appeal flows.
 3. Pay participant and practitioner review labor.
 4. Design the program’s closure and asset-return plan before launch.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

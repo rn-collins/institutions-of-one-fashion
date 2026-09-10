@@ -1,4 +1,4 @@
-# Who Is Allowed to Interpret a Dead Designer’s Codes? — finished platform kit
+# Who Is Allowed to Interpret a Dead Designer’s Codes? — complete editable platform copy
 
 ## 1. LONG VIDEO
 Place the dual-attributed Worth gown at center. Add seven authority rings: company, estate, copyright, museum, collaborator, family/community, audience. Ask a different question at every ring.
@@ -24,4 +24,4 @@ Two-column briefing that distinguishes custody, interpretation, commercial direc
 - **INFERENCE:** Legitimacy to interpret a deceased designer’s codes can be cultural, curatorial, contractual, corporate, or legal—and those authorities may conflict. (S63, S67)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

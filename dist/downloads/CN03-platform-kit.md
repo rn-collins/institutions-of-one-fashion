@@ -1,4 +1,4 @@
-# The Last Collection Is an Operational Event — finished platform kit
+# The Last Collection Is an Operational Event — complete editable platform copy
 
 ## 1. LONG VIDEO
 Begin after the applause and follow obligations, authority, work in progress, and public memory in that order.
@@ -23,4 +23,4 @@ Release an evidence-led essay and response cards only after counsel, participant
 - **VERIFIED:** Copyright interests may pass by will or intestacy under U.S. law, while other authority requires separate analysis. (S63, S64)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

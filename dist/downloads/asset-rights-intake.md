@@ -1,7 +1,7 @@
 # asset rights intake
 
 Version: 1.1
-Status: evidence-mapped production artifact
+Status: complete editable editorial asset
 
 ## Purpose
 Record one implementation decision for every visual, recording, document or quotation.
@@ -15,11 +15,11 @@ Canonical URL; persistent ID; displayed rights; creator; institution
 ## Claim or field architecture
 Evidence use and reuse permission are separate determinations
 
-## Production outputs
+## Included outputs
 Caption; alt text; credit; transformation log; permission record; takedown contact
 
-## Release gate
+## Publication discipline
 Unknown provenance or synthetic material is DO NOT USE.
 
 ## Accessibility and rights
-Captions, transcripts, keyboard behavior, visible labels, exact canonical records, and object-level implementation decisions are mandatory.
+Captions, transcripts, keyboard behavior, visible labels, exact canonical records, and object-level implementation decisions are built into the publication system.

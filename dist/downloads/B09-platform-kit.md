@@ -1,4 +1,4 @@
-# Seven Seasons of Signal — finished platform kit
+# Seven Seasons of Signal — complete editable platform copy
 
 ## 1. LONG VIDEO
 Move through seven seasons at equal pace, recording recurring decisions and one counterexample before offering interpretation.
@@ -23,4 +23,4 @@ Full comparative essay, distinct analytical post, and object-led pins with exact
 - **VERIFIED:** An abstract aesthetic is not automatically protected under U.S. copyright or trade-dress doctrine. (S91, S92, S93)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

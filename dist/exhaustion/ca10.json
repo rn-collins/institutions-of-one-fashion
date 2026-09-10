@@ -4,12 +4,12 @@
   "domain": "carry",
   "auditDate": "2026-09-07",
   "scope": "Exhaustive within the 18-surface registry and recorded queries; not a claim to every item on the internet.",
-  "query": "The Myth of the Lone Fashion Genius | If a work cannot be found, can it influence the future?",
+  "query": "The Myth of the Lone Fashion Genius | Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?",
   "surfaces": [
     {
       "surfaceId": "SF01",
       "name": "The Metropolitan Museum of Art Open Access",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; package title; maker; garment type; archive; house; date",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; package title; maker; garment type; archive; house; date",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 2,
       "candidateIds": [
@@ -21,7 +21,7 @@
     {
       "surfaceId": "SF02",
       "name": "Library of Congress Free to Use and Reuse: Fashion",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; package title; role; fashion; garment; pattern; archive",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; package title; role; fashion; garment; pattern; archive",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 2,
       "candidateIds": [
@@ -33,7 +33,7 @@
     {
       "surfaceId": "SF03",
       "name": "Smithsonian Open Access",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; package title; fashion; dress; designer; labor; archive; CC0",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; package title; fashion; dress; designer; labor; archive; CC0",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 4,
       "candidateIds": [
@@ -47,7 +47,7 @@
     {
       "surfaceId": "SF04",
       "name": "Victoria and Albert Museum Fashion",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; package title; designer; archive; craft; house; photography",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; package title; designer; archive; craft; house; photography",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -56,7 +56,7 @@
     {
       "surfaceId": "SF05",
       "name": "Museum at FIT and SPARC",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; package title; designer; patternmaker; stylist; publicist; oral history",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; package title; designer; patternmaker; stylist; publicist; oral history",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 4,
       "candidateIds": [
@@ -70,7 +70,7 @@
     {
       "surfaceId": "SF06",
       "name": "Europeana",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; package title; fashion; designer; garment; atelier; archive",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; package title; fashion; designer; garment; atelier; archive",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -79,7 +79,7 @@
     {
       "surfaceId": "SF07",
       "name": "Internet Archive",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; package title; fashion house; patternmaking; garment industry; designer",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; package title; fashion house; patternmaking; garment industry; designer",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [
@@ -90,7 +90,7 @@
     {
       "surfaceId": "SF08",
       "name": "Wikimedia Commons",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; package title; designer; fashion archive; garment; runway",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; package title; designer; fashion archive; garment; runway",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -99,7 +99,7 @@
     {
       "surfaceId": "SF09",
       "name": "WIPO Fashion and IP",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; package title; fashion trademark; design; copyright; licensing",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; package title; fashion trademark; design; copyright; licensing",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -108,7 +108,7 @@
     {
       "surfaceId": "SF10",
       "name": "USPTO trademark and examination records",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; named mark; owner; assignment; trade dress; status",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; named mark; owner; assignment; trade dress; status",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -117,7 +117,7 @@
     {
       "surfaceId": "SF11",
       "name": "U.S. Copyright Office",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; package title; photograph; useful article; work made for hire; transfer",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; package title; photograph; useful article; work made for hire; transfer",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -126,7 +126,7 @@
     {
       "surfaceId": "SF12",
       "name": "SEC EDGAR",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; designer; fashion company; employment; license; archive; control",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; designer; fashion company; employment; license; archive; control",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [
@@ -137,7 +137,7 @@
     {
       "surfaceId": "SF13",
       "name": "U.S. Department of Labor garment resources",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; garment labor; supply chain; wages; worker; contractor",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; garment labor; supply chain; wages; worker; contractor",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -146,7 +146,7 @@
     {
       "surfaceId": "SF14",
       "name": "International Labour Organization",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; garment work; supply chain; craft; gender; wage; purchasing practice",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; garment work; supply chain; craft; gender; wage; purchasing practice",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -155,7 +155,7 @@
     {
       "surfaceId": "SF15",
       "name": "UNESCO Digital Library",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; textile; craft; fashion; traditional knowledge; safeguarding",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; textile; craft; fashion; traditional knowledge; safeguarding",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -164,7 +164,7 @@
     {
       "surfaceId": "SF16",
       "name": "Official designer, house and corporate archives",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; exact entity; archive; annual report; collection; oral history; terms",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; exact entity; archive; annual report; collection; oral history; terms",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [
@@ -175,7 +175,7 @@
     {
       "surfaceId": "SF17",
       "name": "Official museum and university interactives",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; fashion collection interactive; archive tool; color; timeline; metadata",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; fashion collection interactive; archive tool; color; timeline; metadata",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -184,7 +184,7 @@
     {
       "surfaceId": "SF18",
       "name": "Government statutes, courts and corporate registries",
-      "query": "The Myth of the Lone Fashion Genius; If a work cannot be found, can it influence the future?; exact jurisdiction; statute; company; case; asset; transaction",
+      "query": "The Myth of the Lone Fashion Genius; Whose labor, judgment, relationships, and records disappear when a collection is narrated as the work of one genius?; exact jurisdiction; statute; company; case; asset; transaction",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 2,
       "candidateIds": [

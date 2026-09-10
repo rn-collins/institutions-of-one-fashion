@@ -4,12 +4,12 @@
   "domain": "build",
   "auditDate": "2026-09-07",
   "scope": "Exhaustive within the 18-surface registry and recorded queries; not a claim to every item on the internet.",
-  "query": "A Personal Brand Is Not an Institution | How do commissions become knowledge rather than one-offs?",
+  "query": "A Personal Brand Is Not an Institution | What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?",
   "surfaces": [
     {
       "surfaceId": "SF01",
       "name": "The Metropolitan Museum of Art Open Access",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; package title; maker; garment type; archive; house; date",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; package title; maker; garment type; archive; house; date",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [
@@ -20,7 +20,7 @@
     {
       "surfaceId": "SF02",
       "name": "Library of Congress Free to Use and Reuse: Fashion",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; package title; role; fashion; garment; pattern; archive",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; package title; role; fashion; garment; pattern; archive",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 2,
       "candidateIds": [
@@ -32,7 +32,7 @@
     {
       "surfaceId": "SF03",
       "name": "Smithsonian Open Access",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; package title; fashion; dress; designer; labor; archive; CC0",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; package title; fashion; dress; designer; labor; archive; CC0",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [
@@ -43,7 +43,7 @@
     {
       "surfaceId": "SF04",
       "name": "Victoria and Albert Museum Fashion",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; package title; designer; archive; craft; house; photography",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; package title; designer; archive; craft; house; photography",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -52,7 +52,7 @@
     {
       "surfaceId": "SF05",
       "name": "Museum at FIT and SPARC",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; package title; designer; patternmaker; stylist; publicist; oral history",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; package title; designer; patternmaker; stylist; publicist; oral history",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 3,
       "candidateIds": [
@@ -65,7 +65,7 @@
     {
       "surfaceId": "SF06",
       "name": "Europeana",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; package title; fashion; designer; garment; atelier; archive",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; package title; fashion; designer; garment; atelier; archive",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -74,7 +74,7 @@
     {
       "surfaceId": "SF07",
       "name": "Internet Archive",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; package title; fashion house; patternmaking; garment industry; designer",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; package title; fashion house; patternmaking; garment industry; designer",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -83,7 +83,7 @@
     {
       "surfaceId": "SF08",
       "name": "Wikimedia Commons",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; package title; designer; fashion archive; garment; runway",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; package title; designer; fashion archive; garment; runway",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -92,7 +92,7 @@
     {
       "surfaceId": "SF09",
       "name": "WIPO Fashion and IP",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; package title; fashion trademark; design; copyright; licensing",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; package title; fashion trademark; design; copyright; licensing",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [
@@ -103,7 +103,7 @@
     {
       "surfaceId": "SF10",
       "name": "USPTO trademark and examination records",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; named mark; owner; assignment; trade dress; status",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; named mark; owner; assignment; trade dress; status",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [
@@ -114,7 +114,7 @@
     {
       "surfaceId": "SF11",
       "name": "U.S. Copyright Office",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; package title; photograph; useful article; work made for hire; transfer",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; package title; photograph; useful article; work made for hire; transfer",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -123,7 +123,7 @@
     {
       "surfaceId": "SF12",
       "name": "SEC EDGAR",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; designer; fashion company; employment; license; archive; control",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; designer; fashion company; employment; license; archive; control",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -132,7 +132,7 @@
     {
       "surfaceId": "SF13",
       "name": "U.S. Department of Labor garment resources",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; garment labor; supply chain; wages; worker; contractor",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; garment labor; supply chain; wages; worker; contractor",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -141,7 +141,7 @@
     {
       "surfaceId": "SF14",
       "name": "International Labour Organization",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; garment work; supply chain; craft; gender; wage; purchasing practice",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; garment work; supply chain; craft; gender; wage; purchasing practice",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -150,7 +150,7 @@
     {
       "surfaceId": "SF15",
       "name": "UNESCO Digital Library",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; textile; craft; fashion; traditional knowledge; safeguarding",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; textile; craft; fashion; traditional knowledge; safeguarding",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -159,7 +159,7 @@
     {
       "surfaceId": "SF16",
       "name": "Official designer, house and corporate archives",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; exact entity; archive; annual report; collection; oral history; terms",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; exact entity; archive; annual report; collection; oral history; terms",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 2,
       "candidateIds": [
@@ -171,7 +171,7 @@
     {
       "surfaceId": "SF17",
       "name": "Official museum and university interactives",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; fashion collection interactive; archive tool; color; timeline; metadata",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; fashion collection interactive; archive tool; color; timeline; metadata",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -180,7 +180,7 @@
     {
       "surfaceId": "SF18",
       "name": "Government statutes, courts and corporate registries",
-      "query": "A Personal Brand Is Not an Institution; How do commissions become knowledge rather than one-offs?; exact jurisdiction; statute; company; case; asset; transaction",
+      "query": "A Personal Brand Is Not an Institution; What separates a recognizable personal brand from an institution capable of operating beyond constant personal performance?; exact jurisdiction; statute; company; case; asset; transaction",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 2,
       "candidateIds": [

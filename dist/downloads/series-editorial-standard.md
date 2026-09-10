@@ -1,7 +1,7 @@
 # series editorial standard
 
 Version: 1.1
-Status: evidence-mapped production artifact
+Status: complete editable editorial asset
 
 ## Purpose
 Apply the Build–Carry–Control–Continue and evidence-label method to every package.
@@ -15,11 +15,11 @@ VERIFIED; INFERENCE; PROPOSAL; UNRESOLVED
 ## Claim or field architecture
 Question gate; evidence gate; rights gate; counterevidence; four-domain audit
 
-## Production outputs
+## Included outputs
 Long; short; audio; video; interactive; education; source objects; corrections
 
-## Release gate
+## Publication discipline
 No package publishes without rights, accessibility, expert and version gates.
 
 ## Accessibility and rights
-Captions, transcripts, keyboard behavior, visible labels, exact canonical records, and object-level implementation decisions are mandatory.
+Captions, transcripts, keyboard behavior, visible labels, exact canonical records, and object-level implementation decisions are built into the publication system.

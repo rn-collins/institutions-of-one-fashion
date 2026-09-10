@@ -1,5 +1,7 @@
 # Creative Control Is Not Economic Control
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 The power to approve a silhouette, campaign, or brand aesthetic is not automatically the power to appoint the board, control a vote, receive the economics, sell an asset, or survive termination.
 
@@ -31,11 +33,11 @@ Evidence: VERIFIED · S50, S51
 ## Counterargument
 Legal architecture cannot manufacture trust or artistic judgment. A founder with extensive formal rights can still fail to lead; a creative director with limited equity can still exercise enormous cultural power. The map is useful because it prevents cultural influence from being mistaken for enforceable authority—and prevents formal authority from being mistaken for artistic legitimacy.
 
-## Fieldwork
+## Reader fieldwork
 1. Write every claimed creative power as a verb plus object: approve casting, reject a campaign, select a collaborator.
 2. Attach the agreement, board delegation, policy, or practice record supporting each power.
 3. Map voting, equity, compensation, sale, appointment, removal, and information rights separately.
 4. Run departure, deadlock, incapacity, sale, and succession scenarios with qualified corporate and employment counsel.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

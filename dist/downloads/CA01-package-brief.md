@@ -1,5 +1,7 @@
 # The Invisible Institution Behind One Collection
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A collection is never carried by visibility alone: it moves through a temporary institution of skilled people, decisions, files, permissions, deadlines, money, tools, and credits whose power should be made legible.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S76, S77
 ## Counterargument
 Making invisible labor visible can itself become extractive: a house may display names while withholding pay, authority, safety, ownership, or meaningful consent. Some contributors may also need privacy. Credit is therefore a negotiated record—not a substitute for lawful working conditions, fair compensation, or power.
 
-## Fieldwork
+## Reader fieldwork
 1. Choose one completed look and identify every verified contributor and entity from first research record through archive deposit.
 2. For each handoff, attach the exact file, object, message, approval, or agreement that proves it.
 3. Separate public credit, compensation, authorship, ownership, approval, and remedy into different fields.
 4. Invite contributors to correct their names, roles, pronouns, scope, confidentiality, and missing labor before release.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

@@ -4,12 +4,12 @@
   "domain": "control",
   "auditDate": "2026-09-07",
   "scope": "Exhaustive within the 18-surface registry and recorded queries; not a claim to every item on the internet.",
-  "query": "Who Owns a Runway Image? | What can trademark, copyright, design rights, and patent each protect?",
+  "query": "Who Owns a Runway Image? | Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?",
   "surfaces": [
     {
       "surfaceId": "SF01",
       "name": "The Metropolitan Museum of Art Open Access",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; package title; maker; garment type; archive; house; date",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; package title; maker; garment type; archive; house; date",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -18,7 +18,7 @@
     {
       "surfaceId": "SF02",
       "name": "Library of Congress Free to Use and Reuse: Fashion",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; package title; role; fashion; garment; pattern; archive",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; package title; role; fashion; garment; pattern; archive",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [
@@ -29,7 +29,7 @@
     {
       "surfaceId": "SF03",
       "name": "Smithsonian Open Access",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; package title; fashion; dress; designer; labor; archive; CC0",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; package title; fashion; dress; designer; labor; archive; CC0",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 2,
       "candidateIds": [
@@ -41,7 +41,7 @@
     {
       "surfaceId": "SF04",
       "name": "Victoria and Albert Museum Fashion",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; package title; designer; archive; craft; house; photography",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; package title; designer; archive; craft; house; photography",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -50,7 +50,7 @@
     {
       "surfaceId": "SF05",
       "name": "Museum at FIT and SPARC",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; package title; designer; patternmaker; stylist; publicist; oral history",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; package title; designer; patternmaker; stylist; publicist; oral history",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -59,7 +59,7 @@
     {
       "surfaceId": "SF06",
       "name": "Europeana",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; package title; fashion; designer; garment; atelier; archive",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; package title; fashion; designer; garment; atelier; archive",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [
@@ -70,7 +70,7 @@
     {
       "surfaceId": "SF07",
       "name": "Internet Archive",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; package title; fashion house; patternmaking; garment industry; designer",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; package title; fashion house; patternmaking; garment industry; designer",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -79,7 +79,7 @@
     {
       "surfaceId": "SF08",
       "name": "Wikimedia Commons",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; package title; designer; fashion archive; garment; runway",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; package title; designer; fashion archive; garment; runway",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -88,7 +88,7 @@
     {
       "surfaceId": "SF09",
       "name": "WIPO Fashion and IP",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; package title; fashion trademark; design; copyright; licensing",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; package title; fashion trademark; design; copyright; licensing",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -97,7 +97,7 @@
     {
       "surfaceId": "SF10",
       "name": "USPTO trademark and examination records",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; named mark; owner; assignment; trade dress; status",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; named mark; owner; assignment; trade dress; status",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -106,7 +106,7 @@
     {
       "surfaceId": "SF11",
       "name": "U.S. Copyright Office",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; package title; photograph; useful article; work made for hire; transfer",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; package title; photograph; useful article; work made for hire; transfer",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 3,
       "candidateIds": [
@@ -119,7 +119,7 @@
     {
       "surfaceId": "SF12",
       "name": "SEC EDGAR",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; designer; fashion company; employment; license; archive; control",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; designer; fashion company; employment; license; archive; control",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -128,7 +128,7 @@
     {
       "surfaceId": "SF13",
       "name": "U.S. Department of Labor garment resources",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; garment labor; supply chain; wages; worker; contractor",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; garment labor; supply chain; wages; worker; contractor",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -137,7 +137,7 @@
     {
       "surfaceId": "SF14",
       "name": "International Labour Organization",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; garment work; supply chain; craft; gender; wage; purchasing practice",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; garment work; supply chain; craft; gender; wage; purchasing practice",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -146,7 +146,7 @@
     {
       "surfaceId": "SF15",
       "name": "UNESCO Digital Library",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; textile; craft; fashion; traditional knowledge; safeguarding",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; textile; craft; fashion; traditional knowledge; safeguarding",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -155,7 +155,7 @@
     {
       "surfaceId": "SF16",
       "name": "Official designer, house and corporate archives",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; exact entity; archive; annual report; collection; oral history; terms",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; exact entity; archive; annual report; collection; oral history; terms",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 3,
       "candidateIds": [
@@ -168,7 +168,7 @@
     {
       "surfaceId": "SF17",
       "name": "Official museum and university interactives",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; fashion collection interactive; archive tool; color; timeline; metadata",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; fashion collection interactive; archive tool; color; timeline; metadata",
       "status": "SEARCHED_NO_QUALIFYING_CANDIDATE",
       "resultCount": 0,
       "candidateIds": [],
@@ -177,7 +177,7 @@
     {
       "surfaceId": "SF18",
       "name": "Government statutes, courts and corporate registries",
-      "query": "Who Owns a Runway Image?; What can trademark, copyright, design rights, and patent each protect?; exact jurisdiction; statute; company; case; asset; transaction",
+      "query": "Who Owns a Runway Image?; Which agreements and legal interests govern the making, ownership, licensing, credit, and reuse of a runway image?; exact jurisdiction; statute; company; case; asset; transaction",
       "status": "QUALIFYING_CANDIDATES_RECORDED",
       "resultCount": 1,
       "candidateIds": [

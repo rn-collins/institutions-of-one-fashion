@@ -1,5 +1,7 @@
 # How a Fashion House Transfers Tacit Knowledge
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A house transfers tacit knowledge by pairing records with situated practice: demonstration, attempt, correction, comparison, narration, and trusted authority. The goal is not to extract every secret, but to preserve what collaborators may ethically carry.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S88, S21, S22
 ## Counterargument
 Documentation can democratize access, but it can also extract knowledge from workers and communities, freeze evolving practice, expose trade secrets, or privilege what a camera can capture. Ethical transfer includes the right not to record and the power to govern future use.
 
-## Fieldwork
+## Reader fieldwork
 1. Ask a practitioner to identify one decision a specification cannot teach.
 2. With consent, record demonstration, learner attempt, correction, acceptable variation, and stop condition.
 3. Attach contributor, compensation, confidentiality, cultural-authority, access, archive, and revocation terms.
 4. Have the practitioner and, where appropriate, a cultural specialist approve the description before publication.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

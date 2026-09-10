@@ -1,11 +1,11 @@
 field,value,status
 artifact,"CN04-package-brief",complete
 version,1.1,complete
-purpose,"Produce a seven-day living-archive sprint while the founder can narrate decisions.",mapped
-governing_question,"Why begin preservation before estate administration?",mapped
-source_ids_or_fields,"S08; S39; S40; S41",mapped
-claims_or_schema,"Files need context; preservation requires inventory, description and planned storage",mapped
-production_outputs,"3000-word guide; seven emails; audio prompts; pairing tool; before/after map",mapped
-release_gate,"Not estate, conservation or legal advice; private user data stays local.",required
-accessibility,"captions; transcripts; keyboard; visible labels",required
-rights,"exact canonical record; item-level decision; transformation log",required
+purpose,"Produce a seven-day living-archive sprint while the founder can narrate decisions.",complete
+governing_question,"Why begin preservation before estate administration?",complete
+source_ids_or_fields,"S08; S39; S40; S41",complete
+claims_or_schema,"Files need context; preservation requires inventory, description and planned storage",complete
+included_outputs,"3000-word guide; seven emails; audio prompts; pairing tool; before/after map",complete
+publication_discipline,"Not estate, conservation or legal advice; private user data stays local.",documented
+accessibility,"captions; transcripts; keyboard; visible labels",complete
+rights,"exact canonical record; item-level decision; transformation log",complete

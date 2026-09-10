@@ -1,4 +1,4 @@
-# Continue the Method, Not the Motif — finished platform kit
+# Continue the Method, Not the Motif — complete editable platform copy
 
 ## 1. LONG VIDEO
 Pair familiar objects with the less visible questions, trials, and corrections behind them, then stage one documented transformation.
@@ -23,4 +23,4 @@ Publish visual comparisons only with cleared objects and full creator/context re
 - **VERIFIED:** An abstract aesthetic or method is not automatically protected as a whole under U.S. copyright law. (S91, S92)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

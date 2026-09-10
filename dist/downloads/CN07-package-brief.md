@@ -1,5 +1,7 @@
 # The Oral History Is a Succession Document
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 Oral history becomes succession infrastructure when it preserves decision context, contradiction, sensory judgment, relationships, boundaries, and the narrator’s authority over access and use.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S08, S66
 ## Counterargument
 Oral history can overprivilege charismatic memory, pressure vulnerable narrators, expose third parties, or convert community knowledge into institutional property. Consent and plurality are structural, not decorative.
 
-## Fieldwork
+## Reader fieldwork
 1. Draft a consent and access menu before interview questions.
 2. Interview founder, practitioner, and operational collaborator separately.
 3. Return transcripts for correction and preserve disagreement.
 4. Test whether a successor can retrieve the voice beside the relevant object.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

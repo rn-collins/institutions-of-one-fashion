@@ -1,4 +1,4 @@
-# How Stylists Manufacture Cultural Meaning — finished platform kit
+# How Stylists Manufacture Cultural Meaning — complete editable platform copy
 
 ## 1. LONG VIDEO
 Open on one garment alone, then add body, accessory, setting, pose, crop, caption, and distribution one layer at a time. Name the decision-maker only where the record does. Close by separating interpretation from ownership.
@@ -24,4 +24,4 @@ Restyle one public-domain fashion plate three ways, disclose every choice, and c
 - **INFERENCE:** A styling choice can shape public meaning without automatically establishing copyright ownership, contractual approval, or sole authorship. (S53, S54, S82, S83)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

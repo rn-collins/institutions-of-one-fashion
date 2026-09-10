@@ -1,5 +1,7 @@
 # The Institutional Will
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 An institutional will is a coordinated set of decisions about authority, access, assets, archives, obligations, interpretation, privacy, and care—not a substitute for legal estate or corporate instruments.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S39, S66
 ## Counterargument
 Founder intent can support clarity or attempt to control culture indefinitely. Successors, workers, collaborators, families, communities, law, and changing conditions retain claims and agency. A responsible plan governs interpretation rather than freezing it.
 
-## Fieldwork
+## Reader fieldwork
 1. Write a one-page plain-language intent letter.
 2. Attach every asset and authority to its governing record or mark unresolved.
 3. Name stewards, alternates, conflicts, funding, and review.
 4. Take the map to estate, corporate, IP, employment, privacy, tax, and cultural advisers as relevant.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

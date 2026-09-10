@@ -1,4 +1,4 @@
-# A Garment Can Outlive Its File — finished platform kit
+# A Garment Can Outlive Its File — complete editable platform copy
 
 ## 1. LONG VIDEO
 Follow one dress through storage and one record through migration, reconnecting them at every stage.
@@ -23,4 +23,4 @@ Publish care education without individualized treatment instructions or implied 
 - **PROPOSAL:** Stable identifiers can connect physical and digital relatives without collapsing them. (S39)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

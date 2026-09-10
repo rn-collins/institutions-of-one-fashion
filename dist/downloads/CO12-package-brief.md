@@ -1,5 +1,7 @@
 # The Cost of Link-Only Culture
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 Link-only publication can respect rights, but a culture whose evidence lives only behind unstable links inherits broken memory, platform power, and unequal access.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S39, S66
 ## Counterargument
 Preservation rhetoric can become a justification for copying creators’ work without consent. Conversely, rights uncertainty can erase minoritized histories first. The response is resourced permission work, accurate metadata, lawful preservation, and transparent absence.
 
-## Fieldwork
+## Reader fieldwork
 1. Identify every exhibition claim supported only by an external link.
 2. Classify permitted copy, embed, excerpt, metadata-only, link-only, and no-use.
 3. Create a faithful absent-object record for one restricted work.
 4. Break one test URL and perform the documented recovery route.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

@@ -1,4 +1,4 @@
-# Who Owns the Archive? — finished platform kit
+# Who Owns the Archive? — complete editable platform copy
 
 ## 1. LONG VIDEO
 Open the archive door and refuse the singular noun. Follow one Worth dress through object title, house attribution, designer credit, donor history, accession, image status, and museum custody. Then build the rights constellation without pretending the object record answers private contracts or title disputes.
@@ -24,4 +24,4 @@ A field-by-field transfer checklist for identifier, origin, condition, rights ev
 - **INFERENCE:** Possession of the storage room or server does not by itself establish every underlying right. (S63)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

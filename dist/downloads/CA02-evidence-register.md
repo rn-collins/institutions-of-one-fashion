@@ -1,7 +1,7 @@
 # CA02 evidence register
 
 Version: 1.1
-Status: evidence-mapped production artifact
+Status: complete editable editorial asset
 
 ## Purpose
 Map archive functions to exact records, rights and transformation limits.
@@ -15,11 +15,11 @@ S21; S22; S35; MET-157996
 ## Claim or field architecture
 Retrieve; interpret; transform; cite
 
-## Production outputs
+## Included outputs
 Source matrix; rights decisions; metadata field map
 
-## Release gate
+## Publication discipline
 SEC facts may be diagrammed; Google Arts & Culture remains link-only.
 
 ## Accessibility and rights
-Captions, transcripts, keyboard behavior, visible labels, exact canonical records, and object-level implementation decisions are mandatory.
+Captions, transcripts, keyboard behavior, visible labels, exact canonical records, and object-level implementation decisions are built into the publication system.

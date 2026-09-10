@@ -1,4 +1,4 @@
-# The Independent Designer’s Research Department — finished platform kit
+# The Independent Designer’s Research Department — complete editable platform copy
 
 ## 1. LONG VIDEO
 Follow one question through archive search, rights screen, counterevidence, material test, rejection, and a documented decision.
@@ -23,4 +23,4 @@ Essay, operator argument, and eight source cards that link outward rather than r
 - **PROPOSAL:** A one-person practice can implement retrievable, rights-aware research without reproducing a conglomerate. (S08, S39)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

@@ -1,4 +1,4 @@
-# What Fashion Owes Its Craftspeople — finished platform kit
+# What Fashion Owes Its Craftspeople — complete editable platform copy
 
 ## 1. LONG VIDEO
 Begin at the glittering surface, then trace each verified material and task backward toward price, time, safety, pay, voice, and remedy. Leave unknown workers visibly unnamed rather than fabricating completeness.
@@ -24,4 +24,4 @@ A pre-order worksheet that routes jurisdiction-specific wage, classification, sa
 - **INFERENCE:** Credit is not a substitute for lawful pay, safe conditions, bargaining power, remedy, or worker voice. (S76, S81, S85, S86)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

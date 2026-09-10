@@ -1,5 +1,7 @@
 # When Does a Designer Become a House?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A fashion house begins when taste stops being a private instinct and becomes a repeatable system other people can carry, question, record, and continue.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S39, S40
 ## Counterargument
 Codifying taste can become a cage. The goal is not to freeze a signature look; it is to preserve how decisions are made—including how the house recognizes when its old answer is no longer enough.
 
-## Fieldwork
+## Reader fieldwork
 1. Write five decisions that recur across the work.
 2. For each decision, attach one example and one deliberate exception.
 3. Name the person, record, or ritual that carries it when the founder is absent.
 4. Mark every answer that still exists only in the founder’s memory.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

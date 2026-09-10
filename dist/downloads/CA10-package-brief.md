@@ -1,5 +1,7 @@
 # The Myth of the Lone Fashion Genius
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 The lone fashion genius is a useful publicity device and a poor description of how collections acquire form, finish, circulation, and memory.
 
@@ -31,11 +33,11 @@ Evidence: INFERENCE · S10, S15
 ## Counterargument
 Replacing one heroic story with an indiscriminate list can flatten responsibility. A useful credit system distinguishes creative authority, execution, approval, contribution, and ownership rather than pretending every role is identical.
 
-## Fieldwork
+## Reader fieldwork
 1. Choose one finished look.
 2. Trace every decision and hand from research to publication.
 3. Attach a name and role to each decision where consent permits.
 4. Record missing, disputed, or uncredited labor as unresolved.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

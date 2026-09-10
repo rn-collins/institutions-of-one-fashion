@@ -1,11 +1,11 @@
 field,value,status
 artifact,"B01-package-brief",complete
 version,1.1,complete
-purpose,"Turn the house threshold into a flagship essay, diagnostic, film and social sequence.",mapped
-governing_question,"What changes when “I make clothes” becomes an institution?",mapped
-source_ids_or_fields,"S11; S16; S21",mapped
-claims_or_schema,"House as operating condition; Cashin company formation",mapped
-production_outputs,"3000-word essay; 8-minute film; 6-slide document; 9-frame carousel; 60-second diagnostic; worksheet",mapped
-release_gate,"Verify every historical threshold and define house without implying legal status.",required
-accessibility,"captions; transcripts; keyboard; visible labels",required
-rights,"exact canonical record; item-level decision; transformation log",required
+purpose,"Turn the house threshold into a flagship essay, diagnostic, film and social sequence.",complete
+governing_question,"What changes when “I make clothes” becomes an institution?",complete
+source_ids_or_fields,"S11; S16; S21",complete
+claims_or_schema,"House as operating condition; Cashin company formation",complete
+included_outputs,"3000-word essay; 8-minute film; 6-slide document; 9-frame carousel; 60-second diagnostic; worksheet",complete
+publication_discipline,"Verify every historical threshold and define house without implying legal status.",documented
+accessibility,"captions; transcripts; keyboard; visible labels",complete
+rights,"exact canonical record; item-level decision; transformation log",complete

@@ -1,4 +1,4 @@
-# Proof of Making — finished platform kit
+# Proof of Making — complete editable platform copy
 
 ## 1. LONG VIDEO
 Trace one garment from the earliest native record to publication and archive, with every uncertainty left visible.
@@ -23,4 +23,4 @@ Publish the essay and evidence cards with privacy, correction, retention, and co
 - **INFERENCE:** A contemporaneous evidence chain can support but does not automatically decide a rights dispute. (S08, S39)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

@@ -1,4 +1,4 @@
-# The Cost of Link-Only Culture — finished platform kit
+# The Cost of Link-Only Culture — complete editable platform copy
 
 ## 1. LONG VIDEO
 Open with a missing image frame, then rebuild everything a responsible record can preserve without copying the work.
@@ -23,4 +23,4 @@ Publish live link health and correction dates without mirroring restricted mater
 - **PROPOSAL:** A link-only record can preserve metadata and absence without copying restricted media. (S15, S65)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

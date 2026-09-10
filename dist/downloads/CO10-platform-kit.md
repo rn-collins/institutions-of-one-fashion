@@ -1,4 +1,4 @@
-# The Product Passport Becomes the House Record — finished platform kit
+# The Product Passport Becomes the House Record — complete editable platform copy
 
 ## 1. LONG VIDEO
 Place the regulation beside one object record, then build required, verified, optional, restricted, and archival layers.
@@ -23,4 +23,4 @@ Publish updated, date-stamped editions and revise whenever delegated requirement
 - **PROPOSAL:** A house may connect verified passport fields to a broader archive, subject to privacy, rights, and preservation governance. (S08, S39, S66)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

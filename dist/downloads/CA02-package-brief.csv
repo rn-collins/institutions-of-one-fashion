@@ -1,11 +1,11 @@
 field,value,status
 artifact,"CA02-package-brief",complete
 version,1.1,complete
-purpose,"Produce the archive-as-employee dossier and activation simulator.",mapped
-governing_question,"When does an archive become an active creative resource?",mapped
-source_ids_or_fields,"S21; S22; S35",mapped
-claims_or_schema,"Tapestry archive disclosure; Ferré research and digitization",mapped
-production_outputs,"Dossier; scroll narrative; audio plan; case card; simulator; metadata linter",mapped
-release_gate,"Separate Tapestry fact from editorial inference; do not reuse archive media.",required
-accessibility,"captions; transcripts; keyboard; visible labels",required
-rights,"exact canonical record; item-level decision; transformation log",required
+purpose,"Produce the archive-as-employee dossier and activation simulator.",complete
+governing_question,"When does an archive become an active creative resource?",complete
+source_ids_or_fields,"S21; S22; S35",complete
+claims_or_schema,"Tapestry archive disclosure; Ferré research and digitization",complete
+included_outputs,"Dossier; scroll narrative; audio plan; case card; simulator; metadata linter",complete
+publication_discipline,"Separate Tapestry fact from editorial inference; do not reuse archive media.",documented
+accessibility,"captions; transcripts; keyboard; visible labels",complete
+rights,"exact canonical record; item-level decision; transformation log",complete

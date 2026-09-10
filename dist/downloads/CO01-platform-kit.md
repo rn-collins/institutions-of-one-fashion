@@ -1,4 +1,4 @@
-# Your Name Is on the Label—Do You Own It? — finished platform kit
+# Your Name Is on the Label—Do You Own It? — complete editable platform copy
 
 ## 1. LONG VIDEO
 “Your name is stitched into the label. Now show me the record.” Open on the Sollers advertisement, then split the visible name into seven evidence lanes: human identity, company, federal mark, license, domain, platform account, archive. Walk through consent under 15 U.S.C. §1052(c), assignment under §1060, and the limits of what those records establish. Close: the label is the public signal; the control map is the institutional evidence.
@@ -24,4 +24,4 @@ A name can be identity, reputation, mark, company asset, domain, handle, license
 - **INFERENCE:** The label display alone does not establish who owns a mark, company, domain, likeness right, or contractual approval power. (S48, S49, S32)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

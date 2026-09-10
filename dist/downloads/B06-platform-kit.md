@@ -1,4 +1,4 @@
-# Collection One Is Not the Beginning — finished platform kit
+# Collection One Is Not the Beginning — complete editable platform copy
 
 ## 1. LONG VIDEO
 Reverse a launch: begin at the public image and move backward through fulfillment, pricing, sample, pattern, research, relationship, and rejected attempt.
@@ -23,4 +23,4 @@ Publish the complete essay, a distinct operator’s argument, and ten object-led
 - **INFERENCE:** Entity registration is a legal and administrative step, not proof that a creative institution can operate. (S94, S95)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

@@ -1,5 +1,7 @@
 # What Fashion Owes Its Craftspeople
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 Fashion owes craftspeople more than romantic visibility: lawful and timely pay, safe conditions, credible credit, worker voice, remedy, preserved knowledge, and limits on extraction—specified for the actual relationship and jurisdiction.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S88, S10, S72
 ## Counterargument
 Publicly naming craft can create recognition, but it may expose workers, simplify collective production, disclose confidential methods, or become reputation-washing. Credits, compensation, safety, bargaining, and cultural authority require separate mechanisms.
 
-## Fieldwork
+## Reader fieldwork
 1. Choose one object and list only the roles the evidence supports; label every missing contributor unresolved.
 2. Map price, lead time, change orders, overtime, subcontracting, payment, and remedy through the actual production chain.
 3. Ask workers or representatives which credit, anonymity, archive, and correction options are safe and useful.
 4. Route wage, classification, safety, contract, and cross-border issues to qualified labor counsel and local specialists.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

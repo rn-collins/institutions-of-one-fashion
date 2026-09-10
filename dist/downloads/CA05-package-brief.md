@@ -1,5 +1,7 @@
 # The Publicist as Institutional Infrastructure
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A publicist can operate as institutional infrastructure by deciding what becomes legible, to whom, through which relationships and records—but narrative power must be governed through evidence, approvals, credit, access, correction, and ethical limits.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S39, S80
 ## Counterargument
 Publicity can confer legitimacy while reproducing gatekeeping, extraction, favoritism, undisclosed influence, or historical erasure. More coverage is not automatically stronger institutional infrastructure. A responsible system must track who gains voice, who bears reputational risk, which claims are evidenced, and whether correction remains possible.
 
-## Fieldwork
+## Reader fieldwork
 1. Take one launch and list every public claim, its evidence, approver, spokesperson, audience, channel, and correction trigger.
 2. Map every relationship carrying the story, including access, embargo, compensation or material connection, conflict, exclusion, and disclosure.
 3. Bind every image, quote, name, biography, product claim, and archive use to an exact permission or review status.
 4. After coverage, archive placements, refusals, errors, corrections, audience questions, and what the house learned—not just reach.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

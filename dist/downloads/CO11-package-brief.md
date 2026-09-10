@@ -1,5 +1,7 @@
 # Sell the Company, Keep the Archive?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A company sale and an archive transfer can be designed as separate but coordinated transactions; what may or should be separated depends on ownership, contracts, duties, taxes, privacy, culture, and jurisdiction.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S40, S42
 ## Counterargument
 A founder-retained archive may preserve dissenting memory or become a private leverage device. A buyer-held archive may support continuity or rewrite history. Neither custody choice guarantees ethical stewardship.
 
-## Fieldwork
+## Reader fieldwork
 1. Build an asset-by-asset transaction and archive inventory.
 2. Attach title, assignment, license, consent, privacy, and custody evidence.
 3. Run operational, research, worker, collaborator, customer, and public-interest consequences.
 4. Take the actual deal structure to transaction, IP, privacy, tax, employment, and archive specialists.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

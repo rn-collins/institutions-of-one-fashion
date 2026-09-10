@@ -1,4 +1,4 @@
-# Foundation, Museum, Company, or School? — finished platform kit
+# Foundation, Museum, Company, or School? — complete editable platform copy
 
 ## 1. LONG VIDEO
 Place four institutional models around one archive and test each against ten concrete functions.
@@ -23,4 +23,4 @@ Publish as a decision framework, never as entity, tax, or estate advice.
 - **PROPOSAL:** Private entity, tax, governance, and transfer choices require jurisdiction-specific advice. (S52, S65)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

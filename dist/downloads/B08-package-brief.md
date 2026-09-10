@@ -1,5 +1,7 @@
 # The Business Partner Beside the Name
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 The person beside the name can carry finance, operations, relationships, governance, contradiction, and continuity—capacity that should be documented rather than erased as support.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S49, S50, S52
 ## Counterargument
 Celebrating the operational partner can obscure staff, workers, advisers, and communities who also carry the institution. Conversely, romanticizing founder chemistry can hide unequal economics or undocumented authority. Precision makes collaboration visible without pretending harmony.
 
-## Fieldwork
+## Reader fieldwork
 1. List every recurring decision and who actually makes, advises, approves, records, and can reverse it.
 2. Attach corporate, contract, account, and practice evidence separately.
 3. Map economics and information access without assuming title equals value.
 4. Review seven rupture scenarios with corporate, employment, tax, and IP counsel as relevant.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

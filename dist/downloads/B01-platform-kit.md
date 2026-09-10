@@ -1,4 +1,4 @@
-# When Does a Designer Become a House? — finished platform kit
+# When Does a Designer Become a House? — complete editable platform copy
 
 ## 1. LONG VIDEO
 Test four thresholds—code, carry, proof, continuity—against one object and one founder record.
@@ -23,4 +23,4 @@ Canonical essay, independent operator argument, and rights-cleared object sequen
 - **VERIFIED:** Bonnie Cashin described forming Bonnie Cashin, Inc. (S11)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

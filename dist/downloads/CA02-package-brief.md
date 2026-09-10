@@ -1,5 +1,7 @@
 # Archive as Design Employee
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 An archive becomes institutional infrastructure when it is retrievable, interpretable, rights-aware, and capable of changing a live creative decision.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S23, S24
 ## Counterargument
 An archive can consolidate authority as easily as it distributes knowledge. Who receives access, who describes the objects, and whose labor appears in the metadata determines what the institution can remember.
 
-## Fieldwork
+## Reader fieldwork
 1. Select one current design question—not a favorite old object.
 2. Retrieve three records that answer it in different ways.
 3. Record the evidentiary fact and your interpretation in separate fields.
 4. Define what may be reused, what may only be linked, and what requires permission.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

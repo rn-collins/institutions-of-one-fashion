@@ -1,5 +1,7 @@
 # Can Taste Become Institutional Knowledge?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 Taste becomes institutional knowledge only when people can examine how a judgment was made, practice it, dispute it, preserve its context, and retain authority over what may be carried.
 
@@ -31,11 +33,11 @@ Evidence: VERIFIED · S91, S92, S88
 ## Counterargument
 Turning taste into institutional knowledge can democratize learning, but it can also extract from workers, communities, and collaborators; privilege what can be verbalized; or make the founder’s preference an unquestionable rule. The system must preserve refusal, disagreement, privacy, and the right not to record.
 
-## Fieldwork
+## Reader fieldwork
 1. Choose one recent judgment and reconstruct every comparison, cue, constraint, contributor, and rejected option.
 2. With consent, record demonstration, attempt, correction, variation, and stop condition.
 3. Invite a collaborator to write the strongest disagreement and the conditions under which it should prevail.
 4. Assign consent, compensation, attribution, access, teaching, archive, and withdrawal authority before preservation.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

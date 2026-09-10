@@ -1,4 +1,4 @@
-# How a Fashion House Transfers Tacit Knowledge — finished platform kit
+# How a Fashion House Transfers Tacit Knowledge — complete editable platform copy
 
 ## 1. LONG VIDEO
 Film one permitted process in five layers: expert demonstration, learner attempt, correction, second attempt, practitioner-approved narration. Include a visible “not recorded by choice” field.
@@ -24,4 +24,4 @@ Build one paired-example lesson, then submit its labor, confidentiality, cultura
 - **INFERENCE:** Tacit knowledge requires situated demonstration, practice, correction, and trust in addition to files; the proper mix varies by house, craft, community, and jurisdiction. (S72, S73, S74, S88)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

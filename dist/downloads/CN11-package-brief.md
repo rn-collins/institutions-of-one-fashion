@@ -1,5 +1,7 @@
 # Provenance Is Future Memory
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 Provenance is future memory when it preserves a transparent chain of identity, custody, intervention, attribution, evidence, uncertainty, and rights—not merely a prestigious prior owner.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S15, S39
 ## Counterargument
 Provenance can become a prestige narrative that launders gaps, excludes makers, or treats legal title as ethical legitimacy. Transparent uncertainty is stronger than a seamless but unsupported chain.
 
-## Fieldwork
+## Reader fieldwork
 1. Assign one stable object and component identifier.
 2. Reconstruct custody events from exact records.
 3. Record every physical and descriptive intervention.
 4. Submit cultural, title, theft, privacy, attribution, and jurisdiction concerns for specialist review.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

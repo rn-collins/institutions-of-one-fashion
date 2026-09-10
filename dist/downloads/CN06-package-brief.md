@@ -1,5 +1,7 @@
 # Continue the Method, Not the Motif
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A house continues most convincingly when successors inherit ways of asking, testing, making, and refusing—not a requirement to reproduce familiar motifs.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S08, S39
 ## Counterargument
 “Continue the method” can itself become founder worship or selective history. Methods may encode exclusion, unsafe labor, or outdated assumptions. Successors need permission to reject as well as inherit.
 
-## Fieldwork
+## Reader fieldwork
 1. Choose one historic question supported by three records.
 2. Recover two methods and one contradiction.
 3. Translate the question for a changed body, material, or social context.
 4. Invite contributors and specialists to challenge the lineage claim.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

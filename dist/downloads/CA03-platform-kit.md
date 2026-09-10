@@ -1,4 +1,4 @@
-# The Patternmaker Behind the Designer — finished platform kit
+# The Patternmaker Behind the Designer — complete editable platform copy
 
 ## 1. LONG VIDEO
 Place sketch and finished dress at opposite ends, then refuse the jump cut. Walk through brief, block, pattern, toile, fitting, revision, grade, production file, and archive—with a named decision-maker at every supported step.
@@ -24,4 +24,4 @@ A live decision log with garment version, issue, wearer observation, proposed ch
 - **INFERENCE:** A patternmaker translates design intention through skilled judgment; the precise authority, authorship, employment status, and credit must be established from the actual relationship and records. (S72, S73, S74, S75)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

@@ -1,4 +1,4 @@
-# The Oral History Is a Succession Document — finished platform kit
+# The Oral History Is a Succession Document — complete editable platform copy
 
 ## 1. LONG VIDEO
 Move between silent records and carefully governed participant voices without using restricted recordings.
@@ -23,4 +23,4 @@ Use transcripts and excerpts only after narrator, rights, privacy, and cultural 
 - **PROPOSAL:** Oral-history consent, access, privacy, and cultural authority require explicit governance. (S10, S39)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

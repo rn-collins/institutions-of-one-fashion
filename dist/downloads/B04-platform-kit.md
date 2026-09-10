@@ -1,4 +1,4 @@
-# When Does an Aesthetic Become a System? — finished platform kit
+# When Does an Aesthetic Become a System? — complete editable platform copy
 
 ## 1. LONG VIDEO
 Follow one look through input, rule, handoff, test, exception, output, feedback, and archive. Every arrow names a person and record; every missing link remains unresolved.
@@ -24,4 +24,4 @@ A ninety-minute studio exercise using only rights-cleared inputs, named handoffs
 - **INFERENCE:** An aesthetic becomes an operating system when roles, tests, records, feedback, and exceptions can reproduce judgment without requiring visual sameness. (S72, S73, S97)
 
 ## Publication discipline
-Do not invent production arrangements or add unlicensed imagery. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist gates.
+Use the copy as written with the package's rendered social artwork. Preserve captions, alt text, creator and institution credits, canonical URLs, evidence labels, labor and jurisdiction limits, participant correction, and counsel or specialist boundaries.

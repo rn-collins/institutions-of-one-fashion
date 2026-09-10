@@ -1,5 +1,7 @@
 # Who Is Allowed to Interpret a Dead Designer’s Codes?
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 No single record automatically grants the authority to interpret a dead designer’s codes: legal control, corporate office, curatorial custody, craft knowledge, family memory, community legitimacy, and audience recognition are different claims.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S65, S67
 ## Counterargument
 Plural authority can produce paralysis. A continuing house needs accountable decision-makers, not endless vetoes. The answer is not to flatten authority but to define decision scope, consultation, escalation, evidence, and correction before conflict.
 
-## Fieldwork
+## Reader fieldwork
 1. Choose one proposed act—exhibition, reissue, campaign, collection, authentication, or license.
 2. List every legal, corporate, curatorial, craft, family, community, and audience authority affected.
 3. Attach the record supporting each claim and write its boundary.
 4. Create a dissent and correction protocol; send legal conclusions to counsel and cultural or conservation questions to the right specialists.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

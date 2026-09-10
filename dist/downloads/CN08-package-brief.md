@@ -1,5 +1,7 @@
 # A Garment Can Outlive Its File
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A garment and its digital record are interdependent preservation systems: the object carries material evidence the file cannot feel, while the file carries context the object cannot state.
 
@@ -31,11 +33,11 @@ Evidence: PROPOSAL · S40, S42
 ## Counterargument
 Digitization can create access while encouraging the fiction that the physical object has been preserved. Conservation can protect an object while making it inaccessible. Stewardship must negotiate both forms of loss.
 
-## Fieldwork
+## Reader fieldwork
 1. Pair one garment with every known physical and digital relative.
 2. Create identifiers and record missing connections.
 3. Obtain conservation and digital-preservation risk assessments.
 4. Test recovery from a preservation copy and retrieval from physical storage.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.

@@ -1,5 +1,7 @@
 # Seven Seasons of Signal
 
+Version: 1.0 · Complete editable editorial edition
+
 ## Canonical thesis
 A house code becomes credible through patterned decisions and meaningful exceptions across time—not through one viral object or the mechanical repetition of a motif.
 
@@ -31,11 +33,11 @@ Evidence: VERIFIED · S91, S92, S93
 ## Counterargument
 Longitudinal coding can flatten fashion into measurable sameness, reward consistency over growth, or assign every recurring feature to the visible founder. The counterweight is exceptions, contributor evidence, historical context, and permission for the institution to change.
 
-## Fieldwork
+## Reader fieldwork
 1. Select seven consecutive seasons using a declared source rule.
 2. Code ten observable fields and preserve counterexamples.
 3. Interview contributors about one continuity and one rupture.
 4. Separate cultural pattern claims from any trademark, copyright, or design-right conclusion.
 
-## Release gates
-Recording/performance, any bespoke photography, participant verification, labor and contract review where flagged, and RN owner-final approval.
+## External production dependencies
+Recorded performance, bespoke RN photography, participant releases, and counsel or specialist review are separate human-led productions. The editorial edition does not present them as finished recordings, permissions, or professional opinions.
