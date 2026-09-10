@@ -1,4 +1,4 @@
-name: Import verified I1 publication bundle
+name: Import verified I1 media provenance
 on:
   push:
     branches: [main]
@@ -16,10 +16,17 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          curl -fL -o io1.bundle "https://github.com/rn-collins/institutions-of-one-fashion/releases/download/codex-import-io1-7d58d8f/io1-publication-7d58d8f.bundle"
+          curl -fL -o part-01.txt "https://github.com/rn-collins/institutions-of-one-fashion/releases/download/codex-import-io1-c005fce/io1-media-provenance-production-c005fce.part-01.txt"
+          curl -fL -o part-02.txt "https://github.com/rn-collins/institutions-of-one-fashion/releases/download/codex-import-io1-c005fce/io1-media-provenance-production-c005fce.part-02.txt"
+          echo "ee90f86bcb7e0955309293446e84fb35ddc7eba108e9f83496a9dc3ed6416383  part-01.txt" | sha256sum -c -
+          echo "fe7d7a5adaa39ae4dc34abf7229a953552fbb2e84c66d4de07e382bb305a240d  part-02.txt" | sha256sum -c -
+          cat part-01.txt part-02.txt > io1.bundle
+          echo "55579d2849abb43ee3c77ab154d940374f8989b267525412cf8dfa359d844ec3  io1.bundle" | sha256sum -c -
           git clone "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" imported
           cd imported
-          git fetch ../io1.bundle HEAD:refs/heads/codex-io1-publication-7d58d8f
-          test "$(git rev-parse codex-io1-publication-7d58d8f)" = "7d58d8f11428f501b69811c43ddf010edd8905cb"
-          git push origin refs/heads/codex-io1-publication-7d58d8f
-          gh pr view codex-io1-publication-7d58d8f >/dev/null 2>&1 || gh pr create             --base main             --head codex-io1-publication-7d58d8f             --title "Publish complete I/1 visual and metadata remediation"             --body "Publishes the independently verified two-commit I/1 remediation tranche from exact production base e4b9283 to 7d58d8f. Includes route-specific social metadata, heading repair, 54-route visual assignments, safe-zone and uniqueness gates, rights-bound publication assets, 968 rendered PNGs, 44 downloadable ZIP kits, and 232 production downloads. Local release suite: 15/15 passed."
+          test "$(git rev-parse origin/main)" = "87cb5d71be91a89eaf4d9808ccc1e076c094124c"
+          git fetch ../io1.bundle refs/heads/codex/io1-media-provenance-86c70cd:refs/heads/codex-io1-media-provenance-c005fce
+          test "$(git rev-parse codex-io1-media-provenance-c005fce)" = "c005fce72354604cde365d442a02ca5b3ed3388f"
+          test "$(git merge-base origin/main codex-io1-media-provenance-c005fce)" = "87cb5d71be91a89eaf4d9808ccc1e076c094124c"
+          git push origin refs/heads/codex-io1-media-provenance-c005fce
+          gh pr view codex-io1-media-provenance-c005fce >/dev/null 2>&1 || gh pr create --base main --head codex-io1-media-provenance-c005fce --title "Publish audited I/1 media provenance" --body "Publishes the independently verified I/1 media-provenance tranche from exact production base 87cb5d71 to c005fce. Tracks 1,030 artifacts: 18 official online archival collection images with item-level provenance, 968 deterministic non-AI editorial graphics, and 44 downloadable archives. It installs visible provenance and relevance boundaries across all 44 dossier exhibitions. Fresh independent release suite: 18/18 passed."
