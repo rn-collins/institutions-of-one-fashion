@@ -129,6 +129,36 @@ function b01PhotoLedCarouselB(objects,x){
   return specifications.map(([id,caption],index)=>({...collectionPhotoFrame(byId(id),caption),frame:index+1,role:['provocation','system','record','constraint','case','decision','counterpoint','source trail'][index]}));
 }
 
+function b02PhotoLedCarouselA(objects,x){
+  const byId=id=>objects.find(object=>object.id===id);
+  const specifications=[
+    ['81112','A code is a pattern you can recognize even when object, occasion, and proportion change.'],
+    ['106545','Look for recurring choices in line, surface, volume, and finish—not one repeated silhouette.'],
+    ['81619','Sample complete bodies of work. A hero image can suggest a code; only recurrence can establish one.'],
+    ['159187','Name each recurring choice as a decision: its range, rationale, contributors, and living exceptions.'],
+    ['81630','Test the code with blind comparisons and collaborator critique. Preserve disagreement.'],
+    ['159303','Change the function. If recognition survives only in a ball gown, the code is too narrow.'],
+    ['101642','Keep the counterexample. It stops a living practice from collapsing into a checklist or costume.'],
+    ['159193','Let the code evolve. Credit every hand, and never confuse recognition with ownership of style.']
+  ];
+  return specifications.map(([id,caption],index)=>({...collectionPhotoFrame(byId(id),caption),frame:index+1,role:['hook','recurrence','notice','name','test','variation','counterexample','evolve'][index]}));
+}
+
+function b02PhotoLedCarouselB(objects){
+  const byId=id=>objects.find(object=>object.id===id);
+  const specifications=[
+    ['155989','Recognition can outlive one hand. A house code becomes institutional when attribution, practice, and change can travel together.'],
+    ['156069','Start across time, not with one famous look. A code accumulates through choices made under different conditions.'],
+    ['159172','An ensemble reveals coordination: parts, materials, skilled hands, and approvals must resolve into one proposition.'],
+    ['84553','Change the category. A coat asks whether the judgment travels beyond the object that first made it recognizable.'],
+    ['81467','Change the promise. A wedding dress tests whether the code can answer an occasion without becoming a costume.'],
+    ['80430','Institutions of One makes judgment legible enough to travel—without pretending the founder or collaborators are replaceable.'],
+    ['159174','The durable code records contributors, exceptions, and reasons. It preserves a way of deciding, not a frozen visual recipe.'],
+    ['84652','Now test your own work: which choice recurs, which exception keeps it alive, and whose hand must be credited?']
+  ];
+  return specifications.map(([id,caption],index)=>({...collectionPhotoFrame(byId(id),caption),frame:index+1,role:['hook','context','development','range','test','i1 relevance','ending','invitation'][index]}));
+}
+
 export function buildAssetKits({packages,exhibitions,candidates,objects=[]}){
   const assigned=new Map(candidates.map(c=>[c.id,new Set()]));
   const kits=packages.map((p,packageIndex)=>{
@@ -149,9 +179,9 @@ export function buildAssetKits({packages,exhibitions,candidates,objects=[]}){
     while(baseFrames.length<10)baseFrames.push({
       assetId:`${p.id}-FIELD-${baseFrames.length+1}`,visualType:'original fieldwork plate',source:`/tools#${p.id.toLowerCase()}-tool`,crop:'native 4:5; no crop',caption:x.fieldwork[baseFrames.length%x.fieldwork.length],credit:'RN Collins',alt:`Fieldwork prompt for ${p.title}.`,rights:'Original publication graphic',disposition:'ORIGINAL_DIAGRAM',treatment:'numbered prompt and check line'
     });
-    const carouselA=p.id==='B01'?b01PhotoLedCarousel(objects,x):baseFrames.slice(0,8).map((f,i)=>({...f,frame:i+1,role:['hook','material witness','claim','mechanism','handoff','evidence','counterpoint','action'][i]}));
+    const carouselA=p.id==='B01'?b01PhotoLedCarousel(objects,x):p.id==='B02'?b02PhotoLedCarouselA(objects,x):baseFrames.slice(0,8).map((f,i)=>({...f,frame:i+1,role:['hook','material witness','claim','mechanism','handoff','evidence','counterpoint','action'][i]}));
     const rotated=[baseFrames[0],...baseFrames.slice(4),...baseFrames.slice(1,4)];
-    const carouselB=p.id==='B01'?b01PhotoLedCarouselB(objects,x):rotated.slice(0,8).map((f,i)=>({...f,frame:i+1,role:['provocation','system','record','constraint','case','decision','tool','source trail'][i]}));
+    const carouselB=p.id==='B01'?b01PhotoLedCarouselB(objects,x):p.id==='B02'?b02PhotoLedCarouselB(objects):rotated.slice(0,8).map((f,i)=>({...f,frame:i+1,role:['provocation','system','record','constraint','case','decision','tool','source trail'][i]}));
     for(const c of related){
       const placements=[];
       if(carouselA.some(f=>f.assetId===c.id))placements.push('instagram-carousel-a');
@@ -163,9 +193,9 @@ export function buildAssetKits({packages,exhibitions,candidates,objects=[]}){
     const companionPosts=buildCompanionPosts(p,x);
     return {
       packageId:p.id,title:p.title,domain:p.domain,version:'2.0',published:'2026-09-07',author:'RN Collins',
-      principle:'Evidence leads; atmosphere never substitutes for provenance.',
+      principle:'The image opens the question; the story earns the conclusion.',
       narrativeSequence:carouselA.map(({assetId,role,caption,source,rights})=>({assetId,role,caption,source,rights})),
-      instagram:{carouselA:{title:`${p.title}: the institutional sequence`,visualStatus:p.id==='B01'?'PHOTO_LED_COMPLETE':'OPEN_VISUAL_REPLACEMENT',frames:carouselA},carouselB:{title:`${p.title}: what the record changes`,visualStatus:p.id==='B01'?'PHOTO_LED_COMPLETE':'OPEN_VISUAL_REPLACEMENT',frames:carouselB}},
+      instagram:{carouselA:{title:`${p.title}: the institutional sequence`,visualStatus:['B01','B02'].includes(p.id)?'PHOTO_LED_COMPLETE':'OPEN_VISUAL_REPLACEMENT',frames:carouselA},carouselB:{title:`${p.title}: what the record changes`,visualStatus:['B01','B02'].includes(p.id)?'PHOTO_LED_COMPLETE':'OPEN_VISUAL_REPLACEMENT',frames:carouselB}},
       reelsTikTokShorts:{durationSeconds:60,shots:motionEvidence.map((f,i)=>({time:`${i*8}–${(i+1)*8}s`,assetId:f.assetId,motion:i%2?'vertical reveal with source footer':'slow evidence push; no synthetic parallax',voiceover:f.caption,credit:f.credit,rights:f.rights})),endCard:`Open ${p.id} at institutions-of-one-fashion.vercel.app`},
       pinterest:{pins:[carouselA[0],carouselA[1],carouselA[6],carouselB[3]].filter(Boolean).map((f,i)=>({assetId:f.assetId,title:[p.title,x.movements[i%4][1],`The ${p.domain} record`,`A field tool for ${p.title}`][i],description:f.caption,destination:`/packages/${p.id.toLowerCase()}`,alt:f.alt,credit:f.credit,rights:f.rights}))},
       youtube:{visualTimeline:[{time:'00:00–00:20',purpose:'cold open',asset:carouselA[0]},{time:'00:20–01:20',purpose:'material witness and source boundary',asset:carouselA[1]},{time:'01:20–05:20',purpose:'four-part institutional sequence',assetIds:carouselA.slice(2,6).map(f=>f.assetId)},{time:'05:20–06:30',purpose:'counterpoint',asset:carouselA[6]},{time:'06:30–08:00',purpose:'field tool and source trail',assetIds:carouselB.slice(-2).map(f=>f.assetId)}],screenRule:'Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance.'},
