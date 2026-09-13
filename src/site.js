@@ -83,3 +83,39 @@ for(const form of document.querySelectorAll('[data-tool]')){
   }
   restore();
 }
+
+for(const editor of document.querySelectorAll('[data-companion-post]')){
+  const textarea=editor.querySelector('[data-companion-text]');
+  const status=editor.querySelector('[role="status"]');
+  const storageKey=`i1:companion:${editor.dataset.companionPost}`;
+  try{
+    const saved=localStorage.getItem(storageKey);
+    if(saved!==null)textarea.value=saved;
+  }catch{}
+  textarea.addEventListener('input',()=>{
+    try{
+      localStorage.setItem(storageKey,textarea.value);
+      status.textContent='Saved in this browser.';
+    }catch{
+      status.textContent='Browser saving is unavailable. Download your edit to keep it.';
+    }
+  });
+  editor.querySelector('[data-copy-post]')?.addEventListener('click',async()=>{
+    try{
+      await navigator.clipboard.writeText(textarea.value);
+      status.textContent='Copied.';
+    }catch{
+      textarea.select();
+      status.textContent='Selected. Use your device copy command.';
+    }
+  });
+  editor.querySelector('[data-download-post]')?.addEventListener('click',()=>{
+    const url=URL.createObjectURL(new Blob([textarea.value],{type:'text/plain'}));
+    const anchor=document.createElement('a');
+    anchor.href=url;
+    anchor.download=`${editor.dataset.companionPost.toLowerCase()}.txt`;
+    anchor.click();
+    setTimeout(()=>URL.revokeObjectURL(url),0);
+    status.textContent='Downloaded.';
+  });
+}

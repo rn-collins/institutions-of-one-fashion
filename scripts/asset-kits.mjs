@@ -7,6 +7,48 @@ const lanes={
   continue:['risk','steward','record','voice','access','scenario','decision','next custodian']
 };
 
+const domainRelevance={
+  build:'Institutions of One is about making one person’s judgment legible enough to become a durable practice without pretending the person is replaceable.',
+  carry:'Institutions of One is about letting work travel through other hands, formats, and places without losing the intelligence or people that made it possible.',
+  control:'Institutions of One is about knowing where authority actually lives—across names, agreements, accounts, records, and decisions—not where the mythology says it lives.',
+  continue:'Institutions of One is about designing for the day the founder is unavailable, so the work can remain alive without becoming an imitation of them.'
+};
+
+function postText(parts){
+  return [parts.hook,parts.context,...parts.story,parts.relevance,parts.ending,parts.cta].join('\n\n');
+}
+
+function buildCompanionPosts(p,x){
+  const relevance=domainRelevance[p.domain];
+  const movements=x.movements.map(([,title,text])=>`${title} ${text}`);
+  const a={
+    label:'Companion post A',
+    hook:p.summary,
+    context:x.intro.join('\n\n'),
+    story:movements,
+    relevance,
+    ending:`The point is not to make a person disappear into a system. It is to build enough structure that their work can grow, travel, and remain intelligible without asking their body to carry every function forever. ${x.tension}`,
+    cta:`Read the carousel, then save it for the next time this question appears in your own work. What is the first decision you would move out of one person’s head?`
+  };
+  const b={
+    label:'Companion post B',
+    hook:`Here is the question: ${p.summary}`,
+    context:`The visible work is only the surface. The carousel begins with a narrower proposition: ${x.thesis}`,
+    story:[...movements].reverse(),
+    relevance,
+    ending:`That is the shift this carousel is tracing: from a compelling output to the conditions that let meaning, responsibility, and memory survive around it. The institution is not scale for its own sake. It is the structure that keeps the work answerable to its own promises.`,
+    cta:`Move through the carousel from the final question back to the opening image. Save it as a working prompt—and tell me which part of the institution is still invisible in your practice.`
+  };
+  return [a,b].map((post,index)=>({
+    id:`${p.id}-COMPANION-${index?'B':'A'}`,
+    ...post,
+    anatomy:{hook:post.hook,context:post.context,story:post.story,relevance:post.relevance,ending:post.ending,cta:post.cta},
+    text:postText(post),
+    editableFormats:['plain text','Markdown'],
+    pairedCarousel:index?'B':'A'
+  }));
+}
+
 function candidateFrame(candidate,index){
   const reusable=['PUBLIC_DOMAIN_CC0','REUSE'].includes(candidate.disposition);
   return {
@@ -38,7 +80,56 @@ function diagramFrame(p,x,movement,index){
   };
 }
 
-export function buildAssetKits({packages,exhibitions,candidates}){
+function collectionPhotoFrame(object,caption){
+  return {
+    assetId:`OBJ-${object.id}`,
+    visualType:'rights-cleared narrative photograph',
+    source:object.url,
+    directAssetUrl:object.image,
+    dimensions:{width:object.width,height:object.height},
+    crop:object.cropSuitability,
+    caption,
+    credit:`${object.credit} · ${object.sourceInstitution}`,
+    creator:object.maker,
+    institution:object.sourceInstitution,
+    alt:object.alt,
+    rights:object.license,
+    disposition:'PUBLIC_DOMAIN_CC0',
+    treatment:'full-bleed editorial crop with legible source credit; no synthetic alteration'
+  };
+}
+
+function b01PhotoLedCarousel(objects,x){
+  const byId=id=>objects.find(object=>object.id===id);
+  const specifications=[
+    ['81112',x.thesis],
+    ['159187','House of Worth remains the named maker across objects made years apart. A house begins to appear when authorship persists as an operating identity, not just one exceptional garment.'],
+    ['80430',`${x.movements[0][1]} ${x.movements[0][2]}`],
+    ['155989','Charles Frederick Worth and Jean-Philippe Worth are both attached to this gown’s attribution. Continuity becomes visible when a house can carry creative authority across more than one named hand.'],
+    ['159303',`${x.movements[2][1]} ${x.movements[2][2]}`],
+    ['159172',`${x.movements[3][1]} ${x.movements[3][2]}`],
+    ['84652',x.tension],
+    ['81630',`Look across the eight objects. Which decisions recur, which change, and which records let you recognize one house without pretending every garment is the same? ${x.fieldwork[0]}`]
+  ];
+  return specifications.map(([id,caption],index)=>({...collectionPhotoFrame(byId(id),caption),frame:index+1,role:['hook','material witness','code','handoff','proof','continuity','counterpoint','action'][index]}));
+}
+
+function b01PhotoLedCarouselB(objects,x){
+  const byId=id=>objects.find(object=>object.id===id);
+  const specifications=[
+    ['156069','A house is not an honorific applied after success. It becomes visible when one name can remain attached to a changing body of work, records, and responsibility.'],
+    ['106545','The same house attribution appears on an afternoon dress made for a different setting. A system carries identity without requiring one repeated silhouette.'],
+    ['81619','The record changes what can survive: maker, date, material, accession, and custody remain attached after the original room and relationships are gone.'],
+    ['84553','A coat tests whether the house can move beyond the category that made it recognizable. Institutional code is a way of deciding, not a command to keep making the same object.'],
+    ['159174','An ensemble is already a coordination problem. Components, materials, skilled hands, and approvals must resolve into one legible proposition.'],
+    ['81467','A wedding dress adds occasion, expectation, and consequence. The house has to interpret a specific promise rather than merely repeat its most familiar answer.'],
+    ['101642',x.tension],
+    ['159193','This 1901 evening coat keeps the House of Worth attribution after Charles Frederick Worth’s death. The public record shows continuity of the name; the next institutional question is what authority, method, and obligations made that continuity possible.']
+  ];
+  return specifications.map(([id,caption],index)=>({...collectionPhotoFrame(byId(id),caption),frame:index+1,role:['provocation','system','record','constraint','case','decision','counterpoint','source trail'][index]}));
+}
+
+export function buildAssetKits({packages,exhibitions,candidates,objects=[]}){
   const assigned=new Map(candidates.map(c=>[c.id,new Set()]));
   const kits=packages.map((p,packageIndex)=>{
     const x=exhibitions[p.id];
@@ -58,9 +149,9 @@ export function buildAssetKits({packages,exhibitions,candidates}){
     while(baseFrames.length<10)baseFrames.push({
       assetId:`${p.id}-FIELD-${baseFrames.length+1}`,visualType:'original fieldwork plate',source:`/tools#${p.id.toLowerCase()}-tool`,crop:'native 4:5; no crop',caption:x.fieldwork[baseFrames.length%x.fieldwork.length],credit:'RN Collins',alt:`Fieldwork prompt for ${p.title}.`,rights:'Original publication graphic',disposition:'ORIGINAL_DIAGRAM',treatment:'numbered prompt and check line'
     });
-    const carouselA=baseFrames.slice(0,8).map((f,i)=>({...f,frame:i+1,role:['hook','material witness','claim','mechanism','handoff','evidence','counterpoint','action'][i]}));
+    const carouselA=p.id==='B01'?b01PhotoLedCarousel(objects,x):baseFrames.slice(0,8).map((f,i)=>({...f,frame:i+1,role:['hook','material witness','claim','mechanism','handoff','evidence','counterpoint','action'][i]}));
     const rotated=[baseFrames[0],...baseFrames.slice(4),...baseFrames.slice(1,4)];
-    const carouselB=rotated.slice(0,8).map((f,i)=>({...f,frame:i+1,role:['provocation','system','record','constraint','case','decision','tool','source trail'][i]}));
+    const carouselB=p.id==='B01'?b01PhotoLedCarouselB(objects,x):rotated.slice(0,8).map((f,i)=>({...f,frame:i+1,role:['provocation','system','record','constraint','case','decision','tool','source trail'][i]}));
     for(const c of related){
       const placements=[];
       if(carouselA.some(f=>f.assetId===c.id))placements.push('instagram-carousel-a');
@@ -69,16 +160,18 @@ export function buildAssetKits({packages,exhibitions,candidates}){
       assigned.get(c.id).add(`${p.id}:${placements.join('+')}`);
     }
     const motionEvidence=[...carouselA.slice(1,5),...carouselB.slice(2,4)].filter((f,i,a)=>a.findIndex(v=>v.assetId===f.assetId)===i);
+    const companionPosts=buildCompanionPosts(p,x);
     return {
       packageId:p.id,title:p.title,domain:p.domain,version:'2.0',published:'2026-09-07',author:'RN Collins',
       principle:'Evidence leads; atmosphere never substitutes for provenance.',
       narrativeSequence:carouselA.map(({assetId,role,caption,source,rights})=>({assetId,role,caption,source,rights})),
-      instagram:{carouselA:{title:`${p.title}: the institutional sequence`,frames:carouselA},carouselB:{title:`${p.title}: what the record changes`,frames:carouselB}},
+      instagram:{carouselA:{title:`${p.title}: the institutional sequence`,visualStatus:p.id==='B01'?'PHOTO_LED_COMPLETE':'OPEN_VISUAL_REPLACEMENT',frames:carouselA},carouselB:{title:`${p.title}: what the record changes`,visualStatus:p.id==='B01'?'PHOTO_LED_COMPLETE':'OPEN_VISUAL_REPLACEMENT',frames:carouselB}},
       reelsTikTokShorts:{durationSeconds:60,shots:motionEvidence.map((f,i)=>({time:`${i*8}–${(i+1)*8}s`,assetId:f.assetId,motion:i%2?'vertical reveal with source footer':'slow evidence push; no synthetic parallax',voiceover:f.caption,credit:f.credit,rights:f.rights})),endCard:`Open ${p.id} at institutions-of-one-fashion.vercel.app`},
       pinterest:{pins:[carouselA[0],carouselA[1],carouselA[6],carouselB[3]].filter(Boolean).map((f,i)=>({assetId:f.assetId,title:[p.title,x.movements[i%4][1],`The ${p.domain} record`,`A field tool for ${p.title}`][i],description:f.caption,destination:`/packages/${p.id.toLowerCase()}`,alt:f.alt,credit:f.credit,rights:f.rights}))},
       youtube:{visualTimeline:[{time:'00:00–00:20',purpose:'cold open',asset:carouselA[0]},{time:'00:20–01:20',purpose:'material witness and source boundary',asset:carouselA[1]},{time:'01:20–05:20',purpose:'four-part institutional sequence',assetIds:carouselA.slice(2,6).map(f=>f.assetId)},{time:'05:20–06:30',purpose:'counterpoint',asset:carouselA[6]},{time:'06:30–08:00',purpose:'field tool and source trail',assetIds:carouselB.slice(-2).map(f=>f.assetId)}],screenRule:'Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance.'},
       beehiiv:{hero:carouselA[1]||carouselA[0],inline:carouselA.slice(2,6),sourceBox:records.slice(0,4).map(c=>({assetId:c.id,title:c.title,url:c.canonicalUrl,disposition:c.disposition}))},
       linkedIn:{documentFrames:carouselB,postImage:carouselB[0],altText:carouselB.map(f=>f.alt).join(' ')},
+      companionPosts,
       interactive:{url:`/tools#${p.id.toLowerCase()}-tool`,mapping:x.fieldwork.map((prompt,i)=>({step:i+1,prompt,evidenceAsset:carouselA[(i+2)%carouselA.length].assetId}))},
       resources:linked.map(c=>({assetId:c.id,title:c.title,url:c.canonicalUrl,disposition:c.disposition,use:c.relevance})),
       reusableDownloads:reusable.map(c=>({assetId:c.id,title:c.title,url:c.directMediaUrl,canonicalUrl:c.canonicalUrl,credit:c.credit,rights:c.rights})),
