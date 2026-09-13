@@ -19,9 +19,12 @@ html{overflow-x:hidden}body{overflow-wrap:anywhere}img{display:block;max-width:1
 @media(max-width:1000px){.carousel-strip{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:560px){.carousel-strip{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;background:transparent;border:0;gap:.75rem;padding-bottom:.75rem}.carousel-strip figure{min-width:82%;scroll-snap-align:start;border:1px solid var(--line)}.post-anatomy{grid-template-columns:1fr}.post-anatomy dt{padding-bottom:0;border-bottom:0}.companion-post header{display:block}.companion-post textarea{min-height:30rem}.post-actions button{width:100%}}
 
-/* Keep long exhibition titles and their folios in separate editorial bands. */
-.exhibition-cover{min-height:calc(100vh - 70px);padding:6rem 4vw 4rem}
-.exhibition-cover h1{font-size:clamp(72px,10vw,150px);line-height:.84;letter-spacing:-.055em;max-width:10ch;margin:.6rem 0 1.5rem}
-.exhibition-cover .lead{font-size:clamp(24px,2.6vw,38px)}
+/* Let a real fashion object lead each dossier without overpowering the title. */
+.exhibition-cover{min-height:calc(100vh - 70px);padding:6rem 4vw 4rem;background:var(--ink);color:var(--paper)}
+.exhibition-cover:after{content:'';position:absolute;inset:0 0 0 48%;background-image:linear-gradient(90deg,var(--ink) 0,rgba(25,23,20,.2) 30%,rgba(25,23,20,.08) 100%),var(--cover-image);background-size:cover;background-position:center top;filter:saturate(.78) contrast(1.05);z-index:0}
+.exhibition-cover:before{z-index:1;border-color:rgba(238,233,223,.45)}
+.exhibition-cover>*{position:relative;z-index:2;max-width:50%}
+.exhibition-cover h1{font-size:clamp(52px,6.6vw,104px);line-height:.88;letter-spacing:-.045em;max-width:12ch;margin:.6rem 0 1.5rem}
+.exhibition-cover .lead{font-size:clamp(21px,2vw,31px);max-width:34ch}
 .exhibition-cover .folio{position:static;margin:.25rem 0 1rem}
-@media(max-width:800px){.exhibition-cover{padding:6rem 1.25rem 2rem}.exhibition-cover h1{font-size:18vw;line-height:.88}.exhibition-cover .folio{order:initial;margin:.25rem 0 .75rem}}
+@media(max-width:800px){.exhibition-cover{padding:6rem 1.25rem 2rem;min-height:82vh}.exhibition-cover:after{inset:0;background-image:linear-gradient(180deg,rgba(25,23,20,.28),rgba(25,23,20,.94) 72%),var(--cover-image)}.exhibition-cover>*{max-width:none}.exhibition-cover h1{font-size:clamp(46px,14vw,78px);line-height:.9}.exhibition-cover .folio{order:initial;margin:.25rem 0 .75rem}.exhibition-cover .lead{font-size:21px}}

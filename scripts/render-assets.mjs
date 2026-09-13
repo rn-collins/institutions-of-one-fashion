@@ -25,15 +25,15 @@ async function renderFrame(dest,w,h,kit,frame,sequence,index,root){
       }
     }
   }
-  const b02Photo=kit.packageId==='B02'&&frame.visualType==='rights-cleared narrative photograph';
-  const rendered=await pipeline.png(b02Photo?{compressionLevel:9}:{compressionLevel:9,palette:true,quality:85,colors:128}).toBuffer();
+  const completedPhoto=['B02','B03'].includes(kit.packageId)&&frame.visualType==='rights-cleared narrative photograph';
+  const rendered=await pipeline.png(completedPhoto?{compressionLevel:9}:{compressionLevel:9,palette:true,quality:85,colors:128}).toBuffer();
   fs.writeFileSync(dest,rendered);
 }
 async function zipDirectory(dir,out){await new Promise((resolve,reject)=>{const output=fs.createWriteStream(out),archive=archiver('zip',{zlib:{level:9}});output.on('close',resolve);archive.on('error',reject);archive.pipe(output);archive.directory(dir,false,{date:new Date('2026-09-07T00:00:00.000Z')});archive.finalize()})}
 const sha256=file=>createHash('sha256').update(fs.readFileSync(file)).digest('hex');
 async function writeCarouselQa({root,out,kit,sequence='a'}){
   const carousel=sequence==='a'?kit.instagram.carouselA:kit.instagram.carouselB;
-  if(kit.packageId!=='B02'||carousel.visualStatus!=='PHOTO_LED_COMPLETE')return;
+  if(!['B02','B03'].includes(kit.packageId)||carousel.visualStatus!=='PHOTO_LED_COMPLETE')return;
   const qaDir=path.join(out,'qa');fs.mkdirSync(qaDir,{recursive:true});
   const frameDir=path.join(out,'exports',kit.packageId.toLowerCase(),'instagram',sequence);
   const composites=[];

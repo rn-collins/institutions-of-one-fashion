@@ -159,6 +159,21 @@ function b02PhotoLedCarouselB(objects){
   return specifications.map(([id,caption],index)=>({...collectionPhotoFrame(byId(id),caption),frame:index+1,role:['hook','context','development','range','test','i1 relevance','ending','invitation'][index]}));
 }
 
+function b03PhotoLedCarouselA(objects){
+  const byId=id=>objects.find(object=>object.id===id);
+  const specifications=[
+    ['159187','Taste is often called instinct. The institutional question is what happened before “I just knew.”'],
+    ['159172','Taste begins in comparison: looking, touching, fitting, rejecting, and revising together.'],
+    ['81630','Name the cue. Was it proportion, tension, movement, material, memory, constraint, or a collaborator’s correction?'],
+    ['159303','Show the judgment in context. Pair an expert demonstration with an attempt, correction, and acceptable variation.'],
+    ['81467','Make room for dissent. Wearer, maker, cultural, access, and commercial perspectives may change the answer.'],
+    ['84553','Govern what travels. Credit, consent, compensation, privacy, access, teaching, and withdrawal remain separate choices.'],
+    ['155989','Institutions of One makes judgment teachable and challengeable without erasing the people who helped form it.'],
+    ['159193','Revisit one choice you “just knew.” Who shaped it, what was rejected, and who should be able to challenge it?']
+  ];
+  return specifications.map(([id,caption],index)=>({...collectionPhotoFrame(byId(id),caption),frame:index+1,role:['hook','context','name the cue','demonstrate','dissent','govern','i1 relevance','invitation'][index]}));
+}
+
 export function buildAssetKits({packages,exhibitions,candidates,objects=[]}){
   const assigned=new Map(candidates.map(c=>[c.id,new Set()]));
   const kits=packages.map((p,packageIndex)=>{
@@ -179,7 +194,7 @@ export function buildAssetKits({packages,exhibitions,candidates,objects=[]}){
     while(baseFrames.length<10)baseFrames.push({
       assetId:`${p.id}-FIELD-${baseFrames.length+1}`,visualType:'original fieldwork plate',source:`/tools#${p.id.toLowerCase()}-tool`,crop:'native 4:5; no crop',caption:x.fieldwork[baseFrames.length%x.fieldwork.length],credit:'RN Collins',alt:`Fieldwork prompt for ${p.title}.`,rights:'Original publication graphic',disposition:'ORIGINAL_DIAGRAM',treatment:'numbered prompt and check line'
     });
-    const carouselA=p.id==='B01'?b01PhotoLedCarousel(objects,x):p.id==='B02'?b02PhotoLedCarouselA(objects,x):baseFrames.slice(0,8).map((f,i)=>({...f,frame:i+1,role:['hook','material witness','claim','mechanism','handoff','evidence','counterpoint','action'][i]}));
+    const carouselA=p.id==='B01'?b01PhotoLedCarousel(objects,x):p.id==='B02'?b02PhotoLedCarouselA(objects,x):p.id==='B03'?b03PhotoLedCarouselA(objects):baseFrames.slice(0,8).map((f,i)=>({...f,frame:i+1,role:['hook','material witness','claim','mechanism','handoff','evidence','counterpoint','action'][i]}));
     const rotated=[baseFrames[0],...baseFrames.slice(4),...baseFrames.slice(1,4)];
     const carouselB=p.id==='B01'?b01PhotoLedCarouselB(objects,x):p.id==='B02'?b02PhotoLedCarouselB(objects):rotated.slice(0,8).map((f,i)=>({...f,frame:i+1,role:['provocation','system','record','constraint','case','decision','tool','source trail'][i]}));
     for(const c of related){
@@ -195,7 +210,7 @@ export function buildAssetKits({packages,exhibitions,candidates,objects=[]}){
       packageId:p.id,title:p.title,domain:p.domain,version:'2.0',published:'2026-09-07',author:'RN Collins',
       principle:'The image opens the question; the story earns the conclusion.',
       narrativeSequence:carouselA.map(({assetId,role,caption,source,rights})=>({assetId,role,caption,source,rights})),
-      instagram:{carouselA:{title:`${p.title}: the institutional sequence`,visualStatus:['B01','B02'].includes(p.id)?'PHOTO_LED_COMPLETE':'OPEN_VISUAL_REPLACEMENT',frames:carouselA},carouselB:{title:`${p.title}: what the record changes`,visualStatus:['B01','B02'].includes(p.id)?'PHOTO_LED_COMPLETE':'OPEN_VISUAL_REPLACEMENT',frames:carouselB}},
+      instagram:{carouselA:{title:`${p.title}: the institutional sequence`,visualStatus:['B01','B02','B03'].includes(p.id)?'PHOTO_LED_COMPLETE':'OPEN_VISUAL_REPLACEMENT',frames:carouselA},carouselB:{title:`${p.title}: what the record changes`,visualStatus:['B01','B02'].includes(p.id)?'PHOTO_LED_COMPLETE':'OPEN_VISUAL_REPLACEMENT',frames:carouselB}},
       reelsTikTokShorts:{durationSeconds:60,shots:motionEvidence.map((f,i)=>({time:`${i*8}–${(i+1)*8}s`,assetId:f.assetId,motion:i%2?'vertical reveal with source footer':'slow evidence push; no synthetic parallax',voiceover:f.caption,credit:f.credit,rights:f.rights})),endCard:`Open ${p.id} at institutions-of-one-fashion.vercel.app`},
       pinterest:{pins:[carouselA[0],carouselA[1],carouselA[6],carouselB[3]].filter(Boolean).map((f,i)=>({assetId:f.assetId,title:[p.title,x.movements[i%4][1],`The ${p.domain} record`,`A field tool for ${p.title}`][i],description:f.caption,destination:`/packages/${p.id.toLowerCase()}`,alt:f.alt,credit:f.credit,rights:f.rights}))},
       youtube:{visualTimeline:[{time:'00:00–00:20',purpose:'cold open',asset:carouselA[0]},{time:'00:20–01:20',purpose:'material witness and source boundary',asset:carouselA[1]},{time:'01:20–05:20',purpose:'four-part institutional sequence',assetIds:carouselA.slice(2,6).map(f=>f.assetId)},{time:'05:20–06:30',purpose:'counterpoint',asset:carouselA[6]},{time:'06:30–08:00',purpose:'field tool and source trail',assetIds:carouselB.slice(-2).map(f=>f.assetId)}],screenRule:'Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance.'},
