@@ -66,9 +66,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/release-day.json
+          # RN's rule (AGENTS.md): every commit ends with a Made-with line. This workflow was written in that chat.
+          made_with='Made-with: Claude (Anthropic) · Claude Code (cloud, claude.ai/code) · account: FNM account · chat: "Ask a Neuroscientist studio" · https://claude.ai/code/session_0163VSitu2DhFt9TLCw68gxE (scheduled GitHub Actions workflow .github/workflows/daily-release.yml)'
           if git diff --cached --quiet; then
-            git commit --allow-empty -m "Release day ${{ steps.due.outputs.today }}: rebuild the site"
+            git commit --allow-empty -m "Release day ${{ steps.due.outputs.today }}: rebuild the site" -m "$made_with"
           else
-            git commit -m "Release day ${{ steps.due.outputs.today }}: rebuild the site"
+            git commit -m "Release day ${{ steps.due.outputs.today }}: rebuild the site" -m "$made_with"
           fi
+          git log -1 --format=%B | grep -q '^Made-with: '
           git push origin HEAD:main
