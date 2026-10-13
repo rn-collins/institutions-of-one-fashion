@@ -1,3 +1,5 @@
+// Absolute gallery address for anything that travels off the site (pins, Reel end cards).
+const kitSite=(process.env.PUBLIC_SITE_URL||'https://institutions-of-one-fashion.vercel.app').replace(/\/$/,'');
 const escCsv=value=>`"${String(value??'').replaceAll('"','""')}"`;
 
 const lanes={
@@ -69,7 +71,7 @@ function diagramFrame(p,x,movement,index){
   return {
     assetId:`${p.id}-DIAGRAM-${index+1}`,
     visualType:'original evidence diagram',
-    source:`/packages/${p.id.toLowerCase()}`,
+    source:`${kitSite}/packages/${p.id.toLowerCase()}`,
     crop:'native 4:5 diagram; preserve labels and evidence footer',
     caption:`${movement[0]} — ${movement[1]}. ${movement[2]}`,
     credit:'Concept and editorial design: RN Collins',
@@ -185,14 +187,14 @@ export function buildAssetKits({packages,exhibitions,candidates,objects=[]}){
     const objectPrimary=reusable[packageIndex%Math.max(1,reusable.length)]||null;
     const records=[...linked,...reusable.filter(c=>c!==objectPrimary)];
     const baseFrames=[
-      {assetId:`${p.id}-TITLE`,visualType:'original title plate',source:`/packages/${p.id.toLowerCase()}`,crop:'native 4:5; no crop',caption:x.thesis,credit:'RN Collins',alt:`Title plate for ${p.title}.`,rights:'Original publication graphic',disposition:'ORIGINAL_DIAGRAM',treatment:'typography, rule, folio and domain color only'},
+      {assetId:`${p.id}-TITLE`,visualType:'original title plate',source:`${kitSite}/packages/${p.id.toLowerCase()}`,crop:'native 4:5; no crop',caption:x.thesis,credit:'RN Collins',alt:`Title plate for ${p.title}.`,rights:'Original publication graphic',disposition:'ORIGINAL_DIAGRAM',treatment:'typography, rule, folio and domain color only'},
       ...(objectPrimary?[candidateFrame(objectPrimary,0)]:[]),
       ...x.movements.map((m,i)=>diagramFrame(p,x,m,i)),
       ...records.slice(0,2).map((c,i)=>candidateFrame(c,i+1)),
-      {assetId:`${p.id}-COUNTERPOINT`,visualType:'original counterpoint plate',source:`/packages/${p.id.toLowerCase()}#counterpoint`,crop:'native 4:5; no crop',caption:x.tension,credit:'RN Collins',alt:`Counterpoint card for ${p.title}.`,rights:'Original publication graphic',disposition:'ORIGINAL_DIAGRAM',treatment:'typographic quotation field; no decorative imagery'}
+      {assetId:`${p.id}-COUNTERPOINT`,visualType:'original counterpoint plate',source:`${kitSite}/packages/${p.id.toLowerCase()}#counterpoint`,crop:'native 4:5; no crop',caption:x.tension,credit:'RN Collins',alt:`Counterpoint card for ${p.title}.`,rights:'Original publication graphic',disposition:'ORIGINAL_DIAGRAM',treatment:'typographic quotation field; no decorative imagery'}
     ];
     while(baseFrames.length<10)baseFrames.push({
-      assetId:`${p.id}-FIELD-${baseFrames.length+1}`,visualType:'original fieldwork plate',source:`/tools#${p.id.toLowerCase()}-tool`,crop:'native 4:5; no crop',caption:x.fieldwork[baseFrames.length%x.fieldwork.length],credit:'RN Collins',alt:`Fieldwork prompt for ${p.title}.`,rights:'Original publication graphic',disposition:'ORIGINAL_DIAGRAM',treatment:'numbered prompt and check line'
+      assetId:`${p.id}-FIELD-${baseFrames.length+1}`,visualType:'original fieldwork plate',source:`${kitSite}/tools#${p.id.toLowerCase()}-tool`,crop:'native 4:5; no crop',caption:x.fieldwork[baseFrames.length%x.fieldwork.length],credit:'RN Collins',alt:`Fieldwork prompt for ${p.title}.`,rights:'Original publication graphic',disposition:'ORIGINAL_DIAGRAM',treatment:'numbered prompt and check line'
     });
     const carouselA=p.id==='B01'?b01PhotoLedCarousel(objects,x):p.id==='B02'?b02PhotoLedCarouselA(objects,x):p.id==='B03'?b03PhotoLedCarouselA(objects):baseFrames.slice(0,8).map((f,i)=>({...f,frame:i+1,role:['hook','material witness','claim','mechanism','handoff','evidence','counterpoint','action'][i]}));
     const rotated=[baseFrames[0],...baseFrames.slice(4),...baseFrames.slice(1,4)];
@@ -211,8 +213,8 @@ export function buildAssetKits({packages,exhibitions,candidates,objects=[]}){
       principle:'The image opens the question; the story earns the conclusion.',
       narrativeSequence:carouselA.map(({assetId,role,caption,source,rights})=>({assetId,role,caption,source,rights})),
       instagram:{carouselA:{title:`${p.title}: the institutional sequence`,visualStatus:['B01','B02','B03'].includes(p.id)?'PHOTO_LED_COMPLETE':'OPEN_VISUAL_REPLACEMENT',frames:carouselA},carouselB:{title:`${p.title}: what the record changes`,visualStatus:['B01','B02'].includes(p.id)?'PHOTO_LED_COMPLETE':'OPEN_VISUAL_REPLACEMENT',frames:carouselB}},
-      reelsTikTokShorts:{durationSeconds:60,shots:motionEvidence.map((f,i)=>({time:`${i*8}–${(i+1)*8}s`,assetId:f.assetId,motion:i%2?'vertical reveal with source footer':'slow evidence push; no synthetic parallax',voiceover:f.caption,credit:f.credit,rights:f.rights})),endCard:`Open ${p.id} at institutions-of-one-fashion.vercel.app`},
-      pinterest:{pins:[carouselA[0],carouselA[1],carouselA[6],carouselB[3]].filter(Boolean).map((f,i)=>({assetId:f.assetId,title:[p.title,x.movements[i%4][1],`The ${p.domain} record`,`A field tool for ${p.title}`][i],description:f.caption,destination:`/packages/${p.id.toLowerCase()}`,alt:f.alt,credit:f.credit,rights:f.rights}))},
+      reelsTikTokShorts:{durationSeconds:60,shots:motionEvidence.map((f,i)=>({time:`${i*8}–${(i+1)*8}s`,assetId:f.assetId,motion:i%2?'vertical reveal with source footer':'slow evidence push; no synthetic parallax',voiceover:f.caption,credit:f.credit,rights:f.rights})),endCard:`Open ${p.id} at ${kitSite}/packages/${p.id.toLowerCase()}`},
+      pinterest:{pins:[carouselA[0],carouselA[1],carouselA[6],carouselB[3]].filter(Boolean).map((f,i)=>({assetId:f.assetId,title:[p.title,x.movements[i%4][1],`The ${p.domain} record`,`A field tool for ${p.title}`][i],description:f.caption,destination:`${kitSite}/packages/${p.id.toLowerCase()}`,alt:f.alt,credit:f.credit,rights:f.rights}))},
       youtube:{visualTimeline:[{time:'00:00–00:20',purpose:'cold open',asset:carouselA[0]},{time:'00:20–01:20',purpose:'material witness and source boundary',asset:carouselA[1]},{time:'01:20–05:20',purpose:'four-part institutional sequence',assetIds:carouselA.slice(2,6).map(f=>f.assetId)},{time:'05:20–06:30',purpose:'counterpoint',asset:carouselA[6]},{time:'06:30–08:00',purpose:'field tool and source trail',assetIds:carouselB.slice(-2).map(f=>f.assetId)}],screenRule:'Every third-party object or public record carries creator/institution, identifier, canonical source and rights treatment on first appearance.'},
       beehiiv:{hero:carouselA[1]||carouselA[0],inline:carouselA.slice(2,6),sourceBox:records.slice(0,4).map(c=>({assetId:c.id,title:c.title,url:c.canonicalUrl,disposition:c.disposition}))},
       linkedIn:{documentFrames:carouselB,postImage:carouselB[0],altText:carouselB.map(f=>f.alt).join(' ')},

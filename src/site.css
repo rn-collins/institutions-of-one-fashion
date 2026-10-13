@@ -28,3 +28,13 @@ html{overflow-x:hidden}body{overflow-wrap:anywhere}img{display:block;max-width:1
 .exhibition-cover .lead{font-size:clamp(21px,2vw,31px);max-width:34ch}
 .exhibition-cover .folio{position:static;margin:.25rem 0 1rem}
 @media(max-width:800px){.exhibition-cover{padding:6rem 1.25rem 2rem;min-height:82vh}.exhibition-cover:after{inset:0;background-image:linear-gradient(180deg,rgba(25,23,20,.28),rgba(25,23,20,.94) 72%),var(--cover-image)}.exhibition-cover>*{max-width:none}.exhibition-cover h1{font-size:clamp(46px,14vw,78px);line-height:.9}.exhibition-cover .folio{order:initial;margin:.25rem 0 .75rem}.exhibition-cover .lead{font-size:21px}}
+
+/* Where each dossier lives: long form, posts, source page, index, previous and next. */
+.piece-links ul{list-style:none;padding:0;margin:1rem 0;display:grid;gap:.6rem}
+.piece-links li a,.piece-nav a{font:normal clamp(20px,2.4vw,28px)/1.15 var(--serif)}
+.piece-nav{display:flex;flex-wrap:wrap;justify-content:space-between;gap:1rem 2rem;margin-top:2rem;padding-top:1.25rem;border-top:1px solid currentColor}
+.piece-nav a{max-width:36ch}
+.piece-nav a[rel="next"]{margin-left:auto;text-align:right}
+.used-in{font-size:.92em}
+.index-room{margin-bottom:3rem}
+@media(max-width:560px){.piece-nav a[rel="next"]{text-align:left;margin-left:0}}

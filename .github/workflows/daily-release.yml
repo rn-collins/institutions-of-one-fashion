@@ -1,0 +1,74 @@
+name: Daily release rebuild
+
+# The site is static, so a piece in data/releases.json only appears after a new
+# build. Each day just after midnight in Hawaii this checks whether any piece
+# reaches its releasedAt date today and, if so, redeploys the site:
+# - through a Vercel deploy hook when the VERCEL_DEPLOY_HOOK_URL secret is set
+#   (Vercel project > Settings > Git > Deploy Hooks, branch main), or
+# - otherwise by pushing a one-line release stamp (data/release-day.json) to
+#   main, which the existing Vercel Git integration builds like any push.
+# The build itself still decides visibility from data/releases.json alone.
+# Run it by hand (Actions > Daily release rebuild > Run workflow) to force one.
+
+on:
+  schedule:
+    - cron: "5 10 * * *" # 10:05 UTC is 00:05 in Hawaii (Pacific/Honolulu, no daylight saving)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Redeploy even if nothing is due today
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-release
+  cancel-in-progress: false
+
+jobs:
+  release-day:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+      FORCE: ${{ github.event.inputs.force || 'false' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Find pieces whose release day is today in Hawaii
+        id: due
+        run: |
+          node -e '
+            const fs=require("fs");
+            const today=new Intl.DateTimeFormat("en-CA",{timeZone:"Pacific/Honolulu",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
+            const doc=JSON.parse(fs.readFileSync("data/releases.json","utf8"));
+            const due=doc.pieces.filter(p=>p.hold===false&&p.releasedAt===today).map(p=>p.id);
+            console.log("Today in Hawaii: "+today);
+            console.log("Due today: "+(due.join(", ")||"none"));
+            const run=due.length>0||process.env.FORCE==="true";
+            fs.appendFileSync(process.env.GITHUB_OUTPUT,"today="+today+"\nrun="+run+"\n");
+          '
+
+      - name: Redeploy through the Vercel deploy hook
+        if: steps.due.outputs.run == 'true' && env.HOOK != ''
+        run: |
+          curl -fsS -X POST "$HOOK" > /dev/null
+          echo "Deploy hook called for ${{ steps.due.outputs.today }}"
+
+      - name: Redeploy by pushing a release stamp to main
+        if: steps.due.outputs.run == 'true' && env.HOOK == ''
+        run: |
+          printf '{\n "about": "Written by the daily release workflow to trigger a rebuild. The build does not read this file.",\n "lastReleaseDay": "%s"\n}\n' "${{ steps.due.outputs.today }}" > data/release-day.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/release-day.json
+          if git diff --cached --quiet; then
+            git commit --allow-empty -m "Release day ${{ steps.due.outputs.today }}: rebuild the site"
+          else
+            git commit -m "Release day ${{ steps.due.outputs.today }}: rebuild the site"
+          fi
+          git push origin HEAD:main

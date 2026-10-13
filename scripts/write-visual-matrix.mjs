@@ -20,7 +20,8 @@ add('/rights','Rights desk','EVIDENCE-GRAPHIC + DOCUMENT DETAIL','Disposition ta
 add('/tools','Tools floor','EDITORIAL TYPOGRAPHY + LIVE INTERACTION','Four-domain instrument directory','Completed-state tool example','Download-format and privacy-flow graphic','Live forms are the evidence; decorative imagery would reduce clarity.');
 add('/about','Method','EDITORIAL TYPOGRAPHY + EVIDENCE GRAPHIC','Build–Carry–Control–Continue method plate','Evidence-label taxonomy','Object-level rights protocol flow','Method clarity outranks atmosphere; one material witness may punctuate the page.');
 
-if(rows.length!==54)throw new Error(`Expected 54 route rows; received ${rows.length}`);
+add('/dossiers','All dossiers index','EDITORIAL TYPOGRAPHY + CARD INDEX','Four room headings in reading order','One card per published dossier with its title and question','Previous and next links on every dossier page that return here','A plain list of every published dossier. Imagery would slow the search for one piece.');
+if(rows.length!==55)throw new Error(`Expected 55 route rows; received ${rows.length}`);
 const head=`# Institutions of One × Fashion — visual assignment matrix\n\n**Release head audited:** publication edition 1.0  \n**Standard:** every route receives an intentional visual judgment. Every dossier installs at least three relevant visual/evidence objects. A real image is preferred when it proves or materially deepens the story; evidence graphics or editorial typography lead when they communicate the institutional relationship more precisely. No AI-generated imagery.\n\n| Route | Surface | Visual judgment | Target 1 | Target 2 | Target 3 | Curatorial gate |\n|---|---|---|---|---|---|---|\n`;
 fs.writeFileSync(out,head+rows.map(r=>`| ${r.map(clean).join(' | ')} |`).join('\n')+'\n');
 console.log(`Wrote ${rows.length} visual assignments to ${out}`);
