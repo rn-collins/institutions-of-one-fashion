@@ -36,3 +36,11 @@ Only one build runs at a time in a checkout (`scripts/build-lock.mjs`). The test
 - Git integration: automatic production deployments from `rn-collins/institutions-of-one-fashion` branch `main`
 
 Corrections and takedown requests use the repository's public, structured GitHub Issue form. The form warns reporters not to disclose private, confidential, medical, financial, or legally privileged information.
+
+## RN Collins release pause (RN, Oct 30, 2026)
+
+No page or piece opens on its own until every RN Collins content package is complete. `data/release-pause.json` has
+`"on": true` and lists the 44 pieces live on Nov 1, 2026; while it is on, `scripts/releases.mjs` releases only those
+ids, whatever `data/releases.json` says, so a push, a manual run of the daily release workflow or a later date cannot
+open anything new. The 44 live dossiers stay live; the 352 other pieces stay held. `data/releases.json` and its dates
+are unchanged. To undo, set `"on": false` in `data/release-pause.json` and push.
