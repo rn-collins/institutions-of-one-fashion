@@ -1,32 +1,72 @@
 import fs from 'node:fs';import path from 'node:path';import sharp from 'sharp';import archiver from 'archiver';import {createHash} from 'node:crypto';
-const palettes=[['#191714','#eee9df','#d7ff45'],['#172a52','#f1ede4','#ff674d'],['#7f191d','#fff0e4','#d7ff45'],['#49452f','#f5efdf','#dcae68'],['#22252b','#f5eee5','#83b4b2'],['#291d35','#f5e7d3','#dd8cb2'],['#073b3a','#edf1df','#d4ff52'],['#542f1e','#f5e7cf','#78a7d3']];
-const xml=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&apos;'}[c]));
-const wrap=(text,max=30,limit=9)=>{const words=String(text).replace(/\s+/g,' ').split(' '),lines=[];let line='';for(const word of words){if((line+' '+word).trim().length>max){if(line)lines.push(line);line=word}else line=(line+' '+word).trim();if(lines.length===limit)break}if(line&&lines.length<limit)lines.push(line);return lines};
-const textLines=(lines,x,y,size,leading,fill,weight=400,anchor='start')=>lines.map((l,i)=>`<text x="${x}" y="${y+i*leading}" fill="${fill}" font-family="DejaVu Sans,Arial,sans-serif" font-size="${size}" font-weight="${weight}" text-anchor="${anchor}">${xml(l)}</text>`).join('');
-export function frameLayout(w,h,hasObject=false){return {title:{x:w*.075,y:h*.15,w:w*(hasObject?.49:.85),h:h*.25},caption:{x:w*.075,y:h*(hasObject?.48:.51),w:w*(hasObject?.45:.85),h:h*.29},photo:hasObject?{x:w*.58,y:h*.34,w:w*.35,h:h*.32}:null,credit:{x:w*.075,y:h*.88,w:w*.85,h:h*.06}}}
-function artSvg({w,h,kit,frame,sequence,index}){
-  const hasObject=/^OBJ-(.+)$/.test(frame.assetId),photoLed=frame.visualType==='rights-cleared narrative photograph'&&hasObject,box=frameLayout(w,h,hasObject),p=palettes[(index+kit.packageId.charCodeAt(0))%palettes.length],[bg,fg,accent]=p;
-  const title=wrap(kit.title,hasObject?18:(w>900?24:20),4),caption=wrap(frame.caption,hasObject?22:(w>900?38:29),hasObject?6:8),credit=wrap(frame.credit,w>900?55:38,3),layout=(index+frame.frame+(sequence==='B'?3:0))%4;
-  const marks=[`<circle cx="${w*.78}" cy="${h*.22}" r="${Math.min(w,h)*.15}" fill="none" stroke="${accent}" stroke-width="3"/>`,`<path d="M${w*.08} ${h*.36} H${w*.92} M${w*.28} ${h*.08} V${h*.92}" stroke="${accent}" stroke-width="3" fill="none"/>`,`<rect x="${w*.59}" y="${h*.08}" width="${w*.28}" height="${h*.42}" fill="none" stroke="${accent}" stroke-width="4" transform="rotate(8 ${w*.73} ${h*.29})"/>`,`<path d="M${w*.1} ${h*.18} C${w*.38} ${h*.02},${w*.62} ${h*.5},${w*.9} ${h*.25} S${w*.58} ${h*.92},${w*.12} ${h*.7}" fill="none" stroke="${accent}" stroke-width="4"/>`][layout];
-  const folio=photoLed?`I/1 × FASHION · ${xml(sequence)}.${String(frame.frame||1).padStart(2,'0')}`:`I/1 × FASHION · ${xml(kit.packageId)} · ${xml(sequence)}.${String(frame.frame||1).padStart(2,'0')}`;
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><rect width="${w}" height="${h}" fill="${bg}" fill-opacity="${photoLed?.56:1}"/>${marks}<text x="${w*.075}" y="${h*.07}" fill="${accent}" font-family="DejaVu Sans Mono,monospace" font-size="${w*.022}" letter-spacing="4">${folio}</text>${textLines(title,box.title.x,box.title.y,w*(hasObject?.038:.052),w*(hasObject?.045:.058),fg,700)}${textLines(caption,box.caption.x,box.caption.y,w*(hasObject?.026:.034),w*(hasObject?.037:.047),fg,400)}<line x1="${w*.075}" y1="${h*.84}" x2="${w*.925}" y2="${h*.84}" stroke="${fg}" stroke-opacity=".4"/>${textLines(credit,box.credit.x,box.credit.y,w*.018,w*.025,fg,400)}</svg>`;
-}
-async function renderFrame(dest,w,h,kit,frame,sequence,index,root){
-  const match=/^OBJ-(.+)$/.exec(frame.assetId),box=frameLayout(w,h,Boolean(match)),svg=Buffer.from(artSvg({w,h,kit,frame,sequence,index}));let pipeline=sharp(svg);
-  if(match){
-    const photo=path.join(root,'src','media',`${match[1]}.jpg`);
-    if(fs.existsSync(photo)){
-      if(frame.visualType==='rights-cleared narrative photograph'){
-        const image=await sharp(photo).resize(w,h,{fit:'cover',position:'attention'}).modulate({saturation:.82}).jpeg({quality:92}).toBuffer();
-        pipeline=sharp(image).composite([{input:svg}]);
-      }else{
-        const image=await sharp(photo).resize(Math.round(box.photo.w),Math.round(box.photo.h),{fit:'cover'}).modulate({saturation:.72}).png().toBuffer();
-        pipeline=sharp(svg).composite([{input:image,left:Math.round(box.photo.x),top:Math.round(box.photo.y)},{input:Buffer.from(`<svg width="${w}" height="${h}"><rect x="${box.photo.x}" y="${box.photo.y}" width="${box.photo.w}" height="${box.photo.h}" fill="none" stroke="${palettes[index%palettes.length][2]}" stroke-width="5"/></svg>`)}]);
-      }
+// RN Collins frame (Nov 2, 2026): graph-paper ground, graphite type, signal-orange keyline, panel outline and record
+// dot, Inter for headlines and body, IBM Plex Mono for the stamp and the credit panel. Type is drawn as vector
+// outlines from the brand fonts in fonts/glyphs.json (converted from the studio's OFL Inter and IBM Plex Mono files),
+// so the frames look the same on any machine and never fall back to another font. A character the brand fonts do not
+// have stops the build. No type sits on a photograph; no text is cut off: if copy cannot fit at the brand floors
+// (headline 56 px, body 34 px on a 1080 px frame) the frame is listed in .production/qa/render-fit.json.
+const BRAND={paper:'#F7F6F2',graphite:'#2B2D31',orange:'#F05A22',orangeDeep:'#B53C12',panel:'#FFFFFF'};
+const GLYPHS=JSON.parse(fs.readFileSync(new URL('../fonts/glyphs.json',import.meta.url),'utf8'));
+const MARK='RN Collins · #renaissancex2m3';
+const clean=t=>String(t??'').replace(/[   ]/g,' ').replace(/[–—]/g,', ').replace(/\s+\n/g,'\n').replace(/[ \t]+/g,' ').trim();
+function advance(text,face,size){const f=GLYPHS[face];let a=0;for(const ch of text){const g=f.glyphs[ch];if(!g)throw new Error(`Brand font ${face} has no glyph for "${ch}" (U+${ch.codePointAt(0).toString(16).toUpperCase().padStart(4,'0')}). Refusing to render with a fallback font.`);a+=g[0]}return a/f.upm*size}
+function wrapText(text,face,size,maxW){
+  const lines=[];
+  for(const para of clean(text).split('\n')){
+    let line='';
+    for(let word of para.split(' ').filter(Boolean)){
+      while(advance(word,face,size)>maxW){let cut=word.length-1;while(cut>1&&advance(word.slice(0,cut),face,size)>maxW)cut--;if(line){lines.push(line);line=''}lines.push(word.slice(0,cut));word=word.slice(cut)}
+      const next=line?`${line} ${word}`:word;
+      if(advance(next,face,size)>maxW){lines.push(line);line=word}else line=next;
     }
+    if(line)lines.push(line);
   }
-  const completedPhoto=['B02','B03'].includes(kit.packageId)&&frame.visualType==='rights-cleared narrative photograph';
-  const rendered=await pipeline.png(completedPhoto?{compressionLevel:9}:{compressionLevel:9,palette:true,quality:85,colors:128}).toBuffer();
+  return lines;
+}
+function drawText(lines,x,y,face,size,lead,fill,anchor='start'){
+  const f=GLYPHS[face],k=size/f.upm;let out='';
+  lines.forEach((line,i)=>{let cx=anchor==='end'?x-advance(line,face,size):x;const by=y+i*lead;for(const ch of line){const [adv,d]=f.glyphs[ch];if(d)out+=`<path transform="translate(${cx.toFixed(2)} ${by.toFixed(2)}) scale(${k.toFixed(5)})" d="${d}"/>`;cx+=adv*k}});
+  return `<g fill="${fill}">${out}</g>`;
+}
+const shortSource=url=>String(url||'').replace(/^https?:\/\/(www\.)?/,'').replace(/\/$/,'');
+// Safe zones used by the renderer and checked by the tests: title, caption, photo window and credit panel never overlap.
+export function frameLayout(w,h,hasObject=false,{photoShare=null,panelHeight=null}={}){
+  const s=Math.min(w/1080,h/1080),m=72*s,landscape=w>h*1.2,panelH=panelHeight??(3*44+48)*s,panelY=h-m-panelH,top=m+92*s,bottom=panelY-36*s,cw=w-2*m;
+  if(!hasObject)return {s,m,title:{x:m,y:top,w:cw,h:(bottom-top)*.4},caption:{x:m,y:top+(bottom-top)*.4,w:cw,h:(bottom-top)*.6},text:{x:m,y:top,w:cw,h:bottom-top},photo:null,credit:{x:m,y:panelY,w:cw,h:panelH}};
+  if(landscape){const pw=cw*.38,tw=cw-pw-40*s;return {s,m,title:{x:m,y:top,w:tw,h:(bottom-top)*.45},caption:{x:m,y:top+(bottom-top)*.45,w:tw,h:(bottom-top)*.55},text:{x:m,y:top,w:tw,h:bottom-top},photo:{x:m+tw+40*s,y:top,w:pw,h:bottom-top},credit:{x:m,y:panelY,w:cw,h:panelH}}}
+  const ph=(bottom-top)*(photoShare??.42),ty=top+ph+40*s;
+  return {s,m,title:{x:m,y:ty,w:cw,h:(bottom-ty)*.4},caption:{x:m,y:ty+(bottom-ty)*.4,w:cw,h:(bottom-ty)*.6},text:{x:m,y:ty,w:cw,h:bottom-ty},photo:{x:m,y:top,w:cw,h:ph},credit:{x:m,y:panelY,w:cw,h:panelH}};
+}
+const fitLog=[];
+function composeFrame({w,h,kit,frame,sequence,total,hasPhoto,photoLed}){
+  const s=Math.min(w/1080,h/1080),m=72*s,mono=34*s,monoLead=44*s,pad=24*s;
+  const panelW=w-2*m-2*pad,creditLines=[...wrapText(`Credit: ${frame.credit||'RN Collins'}`,'mono400',mono,panelW),...(frame.source?wrapText(`Source: ${shortSource(frame.source)}`,'mono400',mono,panelW):[]),MARK];
+  const panelH=creditLines.length*monoLead+2*pad;
+  const counter=sequence==='YT'?'YT':sequence==='VERTICAL'?'REEL':sequence==='PIN'?`PIN ${String(frame.frame).padStart(2,'0')}/04`:`${sequence} ${String(frame.frame||1).padStart(2,'0')}/${String(total).padStart(2,'0')}`;
+  const cover=(frame.frame||1)===1&&sequence!=='PIN';
+  const heads=(cover?[84,76,66,60,56]:[76,66,60,56]).map(v=>v*s),bodies=[48,44,40,36,34].map(v=>v*s);
+  let chosen=null,box;
+  for(const share of hasPhoto?(photoLed?[.56,.46,.36,.28]:[.42,.34,.26]):[null]){
+    box=frameLayout(w,h,hasPhoto,{photoShare:share,panelHeight:panelH});
+    for(const hs of heads){for(const bs of bodies){const tl=wrapText(kit.title,'inter800',hs,box.text.w),bl=wrapText(frame.caption,'inter600',bs,box.text.w),need=tl.length*hs*1.12+28*s+bl.length*bs*1.3;if(need<=box.text.h){chosen={hs,bs,tl,bl};break}}if(chosen)break}
+    if(chosen)break;
+  }
+  if(!chosen){const hs=heads.at(-1),bs=bodies.at(-1);chosen={hs,bs,tl:wrapText(kit.title,'inter800',hs,box.text.w),bl:wrapText(frame.caption,'inter600',bs,box.text.w),overflow:true};fitLog.push({packageId:kit.packageId,sequence,frame:frame.frame||1,assetId:frame.assetId,overflow:true})}
+  const {hs,bs,tl,bl}=chosen,grid=[];
+  for(let x=40*s;x<w;x+=40*s)grid.push(`M${x.toFixed(1)} 0V${h}`);for(let y=40*s;y<h;y+=40*s)grid.push(`M0 ${y.toFixed(1)}H${w}`);
+  const stampY=m+34*s,titleY=box.text.y+hs*.9,bodyY=titleY+(tl.length-1)*hs*1.12+28*s+bs*1.05;
+  const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><rect width="${w}" height="${h}" fill="${BRAND.paper}"/><path d="${grid.join('')}" stroke="${BRAND.graphite}" stroke-opacity=".07" stroke-width="${Math.max(1,1.5*s).toFixed(2)}"/><rect x="${20*s}" y="${20*s}" width="${w-40*s}" height="${h-40*s}" fill="none" stroke="${BRAND.orange}" stroke-width="${8*s}"/><circle cx="${m+12*s}" cy="${stampY-12*s}" r="${12*s}" fill="${BRAND.orange}"/>${drawText([`I/1 FASHION ${kit.packageId}`],m+36*s,stampY,'mono400',mono,monoLead,BRAND.graphite)}${drawText([counter],w-m,stampY,'mono400',mono,monoLead,BRAND.orangeDeep,'end')}${box.photo?`<rect x="${box.photo.x}" y="${box.photo.y}" width="${box.photo.w}" height="${box.photo.h}" fill="${BRAND.graphite}"/>`:''}${drawText(tl,box.text.x,titleY,'inter800',hs,hs*1.12,BRAND.graphite)}${drawText(bl,box.text.x,bodyY,'inter600',bs,bs*1.3,BRAND.graphite)}<rect x="${m}" y="${h-m-panelH}" width="${w-2*m}" height="${panelH}" fill="${BRAND.panel}" stroke="${BRAND.orange}" stroke-width="${3*s}"/>${drawText(creditLines,m+pad,h-m-panelH+pad+monoLead*.75,'mono400',mono,monoLead,BRAND.graphite)}</svg>`;
+  return {svg,box};
+}
+async function renderFrame(dest,w,h,kit,frame,sequence,index,root,total=8){
+  const match=/^OBJ-(.+)$/.exec(frame.assetId),photo=match?path.join(root,'src','media',`${match[1]}.jpg`):null,hasPhoto=Boolean(photo&&fs.existsSync(photo)),photoLed=hasPhoto&&frame.visualType==='rights-cleared narrative photograph';
+  const {svg,box}=composeFrame({w,h,kit,frame,sequence,total,hasPhoto,photoLed});
+  let pipeline=sharp(Buffer.from(svg));
+  if(hasPhoto){
+    const pw=Math.round(box.photo.w),ph=Math.round(box.photo.h),image=await sharp(photo).resize(pw,ph,{fit:photoLed?'cover':'contain',position:'attention',background:BRAND.graphite}).png().toBuffer();
+    pipeline=sharp(await pipeline.png().toBuffer()).composite([{input:image,left:Math.round(box.photo.x),top:Math.round(box.photo.y)}]);
+  }
+  const rendered=await pipeline.png(photoLed?{compressionLevel:9}:{compressionLevel:9,palette:true,quality:90,colors:256}).toBuffer();
   fs.writeFileSync(dest,rendered);
 }
 export async function zipDirectory(dir,out){await new Promise((resolve,reject)=>{const output=fs.createWriteStream(out),archive=archiver('zip',{zlib:{level:9}});output.on('close',resolve);archive.on('error',reject);archive.pipe(output);archive.directory(dir,false,{date:new Date('2026-09-07T00:00:00.000Z')});archive.finalize()})}
@@ -42,7 +82,7 @@ async function writeCarouselQa({root,out,kit,sequence='a'}){
     const thumb=await sharp(rendered).resize(270,338,{fit:'cover'}).png().toBuffer();
     composites.push({input:thumb,left:24+(i%4)*294,top:84+Math.floor(i/4)*358});
   }
-  const title=Buffer.from(`<svg width="1200" height="800"><rect width="1200" height="800" fill="#eee9df"/><text x="24" y="46" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="700" fill="#191714">${xml(kit.packageId)} · CAROUSEL ${sequence.toUpperCase()} · PHOTO SEQUENCE QA</text></svg>`);
+  const title=Buffer.from(`<svg width="1200" height="800"><rect width="1200" height="800" fill="${BRAND.paper}"/>${drawText([`${kit.packageId} · CAROUSEL ${sequence.toUpperCase()} · PHOTO SEQUENCE QA`],24,46,'inter800',26,30,BRAND.graphite)}</svg>`);
   const contactSheet=path.join(qaDir,`${kit.packageId.toLowerCase()}-carousel-${sequence}-contact-sheet.png`);
   await sharp(title).composite(composites).png({compressionLevel:9}).toFile(contactSheet);
   const frames=carousel.frames.map((frame,index)=>{
@@ -51,4 +91,4 @@ async function writeCarouselQa({root,out,kit,sequence='a'}){
   });
   fs.writeFileSync(path.join(qaDir,`${kit.packageId.toLowerCase()}-carousel-${sequence}-provenance.json`),JSON.stringify({packageId:kit.packageId,carousel:sequence.toUpperCase(),status:carousel.visualStatus,contactSheet:`/qa/${path.basename(contactSheet)}`,frameCount:frames.length,uniqueSourceCount:new Set(frames.map(frame=>frame.sourceSha256)).size,frames},null,2));
 }
-export async function renderAssetExports({root,out,kits}){const exportRoot=path.join(out,'exports');fs.mkdirSync(exportRoot,{recursive:true});let packageIndex=0;for(const kit of kits){const dir=path.join(exportRoot,kit.packageId.toLowerCase());fs.mkdirSync(dir,{recursive:true});const tasks=[];for(const [seq,carousel] of [['a',kit.instagram.carouselA],['b',kit.instagram.carouselB]]){const d=path.join(dir,'instagram',seq);fs.mkdirSync(d,{recursive:true});carousel.frames.forEach((f,i)=>tasks.push(()=>renderFrame(path.join(d,`frame-${String(i+1).padStart(2,'0')}.png`),1080,1350,kit,f,seq.toUpperCase(),packageIndex+i,root)))}const pinDir=path.join(dir,'pinterest');fs.mkdirSync(pinDir,{recursive:true});kit.pinterest.pins.forEach((p,i)=>tasks.push(()=>renderFrame(path.join(pinDir,`pin-${String(i+1).padStart(2,'0')}.png`),1000,1500,kit,{...p,frame:i+1,visualType:'Pinterest evidence pin',source:p.destination,crop:'native 2:3',caption:p.description,alt:p.alt,disposition:'PLATFORM_EXPORT'},'PIN',packageIndex+i+8,root)));const ytFrame={...kit.instagram.carouselA.frames[0],frame:1,caption:kit.principle};tasks.push(()=>renderFrame(path.join(dir,'youtube-thumbnail.png'),1280,720,kit,ytFrame,'YT',packageIndex+19,root));const board={...kit.instagram.carouselB.frames[0],frame:1,caption:kit.reelsTikTokShorts.shots.map(s=>`${s.time} ${s.assetId}`).join(' · ')};tasks.push(()=>renderFrame(path.join(dir,'vertical-storyboard.png'),1080,1920,kit,board,'VERTICAL',packageIndex+25,root));const workers=Array.from({length:4},async()=>{while(tasks.length){const task=tasks.shift();await task()}});await Promise.all(workers);fs.writeFileSync(path.join(dir,'metadata.json'),JSON.stringify({packageId:kit.packageId,title:kit.title,author:kit.author,version:kit.version,rightsRule:kit.principle,instagram:kit.instagram,pinterest:kit.pinterest,youtube:kit.youtube,vertical:kit.reelsTikTokShorts},null,2));await zipDirectory(dir,path.join(exportRoot,`${kit.packageId.toLowerCase()}-publication-assets.zip`));await writeCarouselQa({root,out,kit,sequence:'a'});await writeCarouselQa({root,out,kit,sequence:'b'});packageIndex++}return {packages:kits.length,instagramFrames:kits.length*16,pinterestPins:kits.length*4,youtubeThumbnails:kits.length,verticalStoryboards:kits.length}}
+export async function renderAssetExports({root,out,kits}){const exportRoot=path.join(out,'exports');fs.mkdirSync(exportRoot,{recursive:true});let packageIndex=0;for(const kit of kits){const dir=path.join(exportRoot,kit.packageId.toLowerCase());fs.mkdirSync(dir,{recursive:true});const tasks=[];for(const [seq,carousel] of [['a',kit.instagram.carouselA],['b',kit.instagram.carouselB]]){const d=path.join(dir,'instagram',seq);fs.mkdirSync(d,{recursive:true});carousel.frames.forEach((f,i)=>tasks.push(()=>renderFrame(path.join(d,`frame-${String(i+1).padStart(2,'0')}.png`),1080,1350,kit,{...f,frame:i+1},seq.toUpperCase(),packageIndex+i,root,carousel.frames.length)))}const pinDir=path.join(dir,'pinterest');fs.mkdirSync(pinDir,{recursive:true});kit.pinterest.pins.forEach((p,i)=>tasks.push(()=>renderFrame(path.join(pinDir,`pin-${String(i+1).padStart(2,'0')}.png`),1000,1500,kit,{...p,frame:i+1,visualType:'Pinterest evidence pin',source:p.destination,crop:'native 2:3',caption:p.description,alt:p.alt,disposition:'PLATFORM_EXPORT'},'PIN',packageIndex+i+8,root)));const ytFrame={...kit.instagram.carouselA.frames[0],frame:1,caption:kit.principle};tasks.push(()=>renderFrame(path.join(dir,'youtube-thumbnail.png'),1280,720,kit,ytFrame,'YT',packageIndex+19,root));const board={...kit.instagram.carouselB.frames[0],frame:1,caption:kit.reelsTikTokShorts.shots.map(s=>`${s.time} ${s.assetId}`).join(' · ')};tasks.push(()=>renderFrame(path.join(dir,'vertical-storyboard.png'),1080,1920,kit,board,'VERTICAL',packageIndex+25,root));const workers=Array.from({length:4},async()=>{while(tasks.length){const task=tasks.shift();await task()}});await Promise.all(workers);fs.writeFileSync(path.join(dir,'metadata.json'),JSON.stringify({packageId:kit.packageId,title:kit.title,author:kit.author,version:kit.version,rightsRule:kit.principle,instagram:kit.instagram,pinterest:kit.pinterest,youtube:kit.youtube,vertical:kit.reelsTikTokShorts},null,2));await zipDirectory(dir,path.join(exportRoot,`${kit.packageId.toLowerCase()}-publication-assets.zip`));await writeCarouselQa({root,out,kit,sequence:'a'});await writeCarouselQa({root,out,kit,sequence:'b'});packageIndex++}const qaDir=path.join(out,'qa');fs.mkdirSync(qaDir,{recursive:true});fs.writeFileSync(path.join(qaDir,'render-fit.json'),JSON.stringify({rule:'Headline floor 56 px, body floor 34 px on a 1080 px frame; nothing is cut off. Frames listed here could not fit at the floors and need shorter copy.',overflow:fitLog},null,2));return {renderFitOverflow:fitLog.length,packages:kits.length,instagramFrames:kits.length*16,pinterestPins:kits.length*4,youtubeThumbnails:kits.length,verticalStoryboards:kits.length}}

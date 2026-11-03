@@ -39,7 +39,7 @@ function buildCompanionPosts(p,x){
     story:[...movements].reverse(),
     relevance,
     ending:`That is the shift this carousel is tracing: from a compelling output to the conditions that let meaning, responsibility, and memory survive around it. The institution is not scale for its own sake. It is the structure that keeps the work answerable to its own promises.`,
-    cta:`Move through the carousel from the final question back to the opening image. Save it as a working prompt—and tell me which part of the institution is still invisible in your practice.`
+    cta:`Move through the carousel from the final question back to the opening image. Save it as a working prompt. Which part of the institution is still invisible in your practice?`
   };
   return [a,b].map((post,index)=>({
     id:`${p.id}-COMPANION-${index?'B':'A'}`,
