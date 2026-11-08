@@ -1,0 +1,1401 @@
+{
+ "note": "Every image search run on Nov 2, 2026 for the I/1 Fashion machine rings. Source: Wikimedia Commons API, File namespace, bitmap files. A file was kept for review only if its page listed CC0, CC BY (no share-alike or other copyleft licence anywhere on the page), the photographer own public-domain dedication or a U.S. government licence, was at least 1200 px wide and 1600 px on the long side, and was not already in the studio machine library. Kept files were then checked by eye: drawings, adverts, patent sheets, stock-site uploads (Unsplash, Pixabay) and photos where a person is the subject were dropped.",
+ "date": "2026-11-02",
+ "searches": [
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "antique sewing machine",
+   "results": 20,
+   "kept": 12,
+   "dropped": {
+    "too small": 5,
+    "share-alike or copyleft listed": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Singer sewing machine museum",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "too small": 6,
+    "share-alike or copyleft listed": 6,
+    "already in studio registry": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Wheeler Wilson sewing machine",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "too small": 13,
+    "share-alike or copyleft listed": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Willcox Gibbs sewing machine",
+   "results": 19,
+   "kept": 9,
+   "dropped": {
+    "too small": 2,
+    "share-alike or copyleft listed": 2,
+    "not jpeg": 2,
+    "licence not in ring list: No restrictions": 4
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Pfaff sewing machine",
+   "results": 20,
+   "kept": 7,
+   "dropped": {
+    "share-alike or copyleft listed": 10,
+    "too small": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Bernina sewing machine",
+   "results": 20,
+   "kept": 4,
+   "dropped": {
+    "too small": 6,
+    "share-alike or copyleft listed": 10
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Necchi sewing machine",
+   "results": 20,
+   "kept": 4,
+   "dropped": {
+    "share-alike or copyleft listed": 12,
+    "too small": 3,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "industrial sewing machine",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "treadle sewing machine",
+   "results": 20,
+   "kept": 1,
+   "dropped": {
+    "licence not in ring list: No restrictions": 1,
+    "share-alike or copyleft listed": 3,
+    "not jpeg": 15
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "buttonhole machine",
+   "results": 20,
+   "kept": 15,
+   "dropped": {
+    "too small": 2,
+    "not jpeg": 2,
+    "share-alike or copyleft listed": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "chain stitch sewing machine",
+   "results": 20,
+   "kept": 7,
+   "dropped": {
+    "not jpeg": 3,
+    "too small": 8,
+    "licence not in ring list: No restrictions": 1,
+    "share-alike or copyleft listed": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Grover Baker sewing machine",
+   "results": 10,
+   "kept": 4,
+   "dropped": {
+    "not jpeg": 1,
+    "licence not in ring list: No restrictions": 5
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "sock knitting machine",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "circular knitting machine",
+   "results": 20,
+   "kept": 1,
+   "dropped": {
+    "share-alike or copyleft listed": 12,
+    "too small": 7
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "flat knitting machine",
+   "results": 20,
+   "kept": 0,
+   "dropped": {
+    "too small": 2,
+    "share-alike or copyleft listed": 18
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "hand knitting machine museum",
+   "results": 20,
+   "kept": 15,
+   "dropped": {
+    "too small": 5
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Jacquard loom",
+   "results": 20,
+   "kept": 1,
+   "dropped": {
+    "too small": 7,
+    "share-alike or copyleft listed": 11,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "power loom museum",
+   "results": 20,
+   "kept": 15,
+   "dropped": {
+    "share-alike or copyleft listed": 5
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "ribbon loom",
+   "results": 20,
+   "kept": 14,
+   "dropped": {
+    "not jpeg": 2,
+    "share-alike or copyleft listed": 4
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "lace machine Leavers",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "embroidery machine Schiffli",
+   "results": 8,
+   "kept": 2,
+   "dropped": {
+    "too small": 2,
+    "share-alike or copyleft listed": 4
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "spinning frame museum",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "too small": 8,
+    "licence not in ring list: No restrictions": 1,
+    "not jpeg": 4,
+    "share-alike or copyleft listed": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "carding machine textile museum",
+   "results": 20,
+   "kept": 14,
+   "dropped": {
+    "share-alike or copyleft listed": 6
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "warping machine",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "share-alike or copyleft listed": 14,
+    "not jpeg": 1,
+    "too small": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "bobbin winder textile",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "cloth cutting machine",
+   "results": 20,
+   "kept": 17,
+   "dropped": {
+    "too small": 2,
+    "licence not in ring list: No restrictions": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "pleating machine",
+   "results": 20,
+   "kept": 13,
+   "dropped": {
+    "too small": 7
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "shoe sewing machine",
+   "results": 20,
+   "kept": 13,
+   "dropped": {
+    "not jpeg": 2,
+    "too small": 2,
+    "share-alike or copyleft listed": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "hat making machine",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "sad iron",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "share-alike or copyleft listed": 16,
+    "too small": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "steam press tailor",
+   "results": 12,
+   "kept": 0,
+   "dropped": {
+    "not jpeg": 1,
+    "licence not in ring list: No restrictions": 10,
+    "too small": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "mangle laundry machine",
+   "results": 20,
+   "kept": 3,
+   "dropped": {
+    "share-alike or copyleft listed": 12,
+    "not jpeg": 3,
+    "too small": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "pantograph machine",
+   "results": 20,
+   "kept": 7,
+   "dropped": {
+    "share-alike or copyleft listed": 6,
+    "too small": 4,
+    "not jpeg": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "large format camera antique",
+   "results": 19,
+   "kept": 2,
+   "dropped": {
+    "too small": 13,
+    "not jpeg": 1,
+    "share-alike or copyleft listed": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "Graflex camera",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "view camera wooden",
+   "results": 20,
+   "kept": 0,
+   "dropped": {
+    "share-alike or copyleft listed": 19,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "magic lantern projector",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "too small": 7,
+    "not jpeg": 1,
+    "share-alike or copyleft listed": 5,
+    "licence not in ring list: No restrictions": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "industrial sewing machine",
+   "results": 20,
+   "kept": 8,
+   "dropped": {
+    "share-alike or copyleft listed": 4,
+    "too small": 5,
+    "not jpeg": 2,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "sock knitting machine",
+   "results": 20,
+   "kept": 4,
+   "dropped": {
+    "too small": 3,
+    "share-alike or copyleft listed": 13
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "lace machine Leavers",
+   "results": 20,
+   "kept": 0,
+   "dropped": {
+    "not jpeg": 1,
+    "share-alike or copyleft listed": 17,
+    "too small": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "bobbin winder textile",
+   "results": 20,
+   "kept": 3,
+   "dropped": {
+    "not jpeg": 2,
+    "share-alike or copyleft listed": 15
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "hat making machine",
+   "results": 20,
+   "kept": 20,
+   "dropped": {}
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Graflex camera",
+   "results": 20,
+   "kept": 0,
+   "dropped": {
+    "too small": 4,
+    "share-alike or copyleft listed": 16
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "antique typewriter",
+   "results": 20,
+   "kept": 11,
+   "dropped": {
+    "too small": 5,
+    "not jpeg": 1,
+    "share-alike or copyleft listed": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Underwood typewriter",
+   "results": 20,
+   "kept": 5,
+   "dropped": {
+    "too small": 4,
+    "not jpeg": 6,
+    "share-alike or copyleft listed": 5
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Remington typewriter",
+   "results": 20,
+   "kept": 3,
+   "dropped": {
+    "share-alike or copyleft listed": 12,
+    "not jpeg": 1,
+    "already in studio registry": 1,
+    "licence not in ring list: No restrictions": 1,
+    "too small": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "Royal typewriter",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Olivetti typewriter",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "too small": 7,
+    "share-alike or copyleft listed": 10,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Hermes typewriter",
+   "results": 20,
+   "kept": 4,
+   "dropped": {
+    "share-alike or copyleft listed": 14,
+    "too small": 1,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Adler typewriter",
+   "results": 20,
+   "kept": 1,
+   "dropped": {
+    "share-alike or copyleft listed": 16,
+    "too small": 2,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Blickensderfer typewriter",
+   "results": 20,
+   "kept": 0,
+   "dropped": {
+    "not jpeg": 3,
+    "too small": 3,
+    "share-alike or copyleft listed": 13,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Corona typewriter",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "share-alike or copyleft listed": 11,
+    "already in studio registry": 1,
+    "too small": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Mercedes typewriter",
+   "results": 20,
+   "kept": 13,
+   "dropped": {
+    "share-alike or copyleft listed": 5,
+    "too small": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Erika typewriter",
+   "results": 20,
+   "kept": 11,
+   "dropped": {
+    "share-alike or copyleft listed": 5,
+    "too small": 2,
+    "already in studio registry": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Torpedo typewriter",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "too small": 4,
+    "share-alike or copyleft listed": 13,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "IBM Selectric",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Olivetti Lettera",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "too small": 5,
+    "share-alike or copyleft listed": 9
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "adding machine Burroughs",
+   "results": 20,
+   "kept": 7,
+   "dropped": {
+    "too small": 5,
+    "share-alike or copyleft listed": 4,
+    "not jpeg": 4
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Comptometer",
+   "results": 20,
+   "kept": 1,
+   "dropped": {
+    "not jpeg": 18,
+    "too small": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Brunsviga calculator",
+   "results": 20,
+   "kept": 5,
+   "dropped": {
+    "share-alike or copyleft listed": 14,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "mechanical calculator museum",
+   "results": 20,
+   "kept": 11,
+   "dropped": {
+    "share-alike or copyleft listed": 7,
+    "already in studio registry": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Curta calculator",
+   "results": 20,
+   "kept": 5,
+   "dropped": {
+    "too small": 4,
+    "share-alike or copyleft listed": 11
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Facit calculator",
+   "results": 20,
+   "kept": 7,
+   "dropped": {
+    "share-alike or copyleft listed": 6,
+    "too small": 3,
+    "not jpeg": 4
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "cash register National",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "share-alike or copyleft listed": 9,
+    "too small": 2,
+    "already in studio registry": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "check writer machine",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "telex machine",
+   "results": 20,
+   "kept": 7,
+   "dropped": {
+    "share-alike or copyleft listed": 5,
+    "too small": 5,
+    "already in studio registry": 2,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "teleprinter Siemens",
+   "results": 20,
+   "kept": 4,
+   "dropped": {
+    "share-alike or copyleft listed": 13,
+    "too small": 2,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "telephone switchboard",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "too small": 4,
+    "share-alike or copyleft listed": 9,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "candlestick telephone",
+   "results": 20,
+   "kept": 8,
+   "dropped": {
+    "too small": 7,
+    "share-alike or copyleft listed": 4,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "mimeograph",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "too small": 4,
+    "not jpeg": 2,
+    "share-alike or copyleft listed": 10,
+    "already in studio registry": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "hectograph duplicator",
+   "results": 20,
+   "kept": 12,
+   "dropped": {
+    "too small": 5,
+    "share-alike or copyleft listed": 2,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Addressograph",
+   "results": 20,
+   "kept": 10,
+   "dropped": {
+    "too small": 2,
+    "share-alike or copyleft listed": 3,
+    "licence not in ring list: No restrictions": 1,
+    "not jpeg": 3,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "microfilm reader",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "microfiche reader",
+   "results": 20,
+   "kept": 4,
+   "dropped": {
+    "too small": 4,
+    "share-alike or copyleft listed": 12
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "punched card machine IBM",
+   "results": 20,
+   "kept": 9,
+   "dropped": {
+    "share-alike or copyleft listed": 7,
+    "too small": 4
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "keypunch",
+   "results": 20,
+   "kept": 8,
+   "dropped": {
+    "share-alike or copyleft listed": 10,
+    "too small": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "card sorter IBM",
+   "results": 20,
+   "kept": 9,
+   "dropped": {
+    "too small": 6,
+    "share-alike or copyleft listed": 4,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "tabulating machine",
+   "results": 20,
+   "kept": 12,
+   "dropped": {
+    "not jpeg": 8
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "time clock recorder",
+   "results": 20,
+   "kept": 5,
+   "dropped": {
+    "share-alike or copyleft listed": 7,
+    "already in studio registry": 2,
+    "too small": 5,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "stenotype machine",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "share-alike or copyleft listed": 8,
+    "too small": 4,
+    "licence not in ring list: No restrictions": 6
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "dictaphone",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Ediphone",
+   "results": 20,
+   "kept": 4,
+   "dropped": {
+    "too small": 12,
+    "share-alike or copyleft listed": 4
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "letter scale postal",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "share-alike or copyleft listed": 10,
+    "too small": 4
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "postage meter",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "not jpeg": 1,
+    "share-alike or copyleft listed": 2,
+    "too small": 15
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "numbering machine stamp",
+   "results": 20,
+   "kept": 3,
+   "dropped": {
+    "too small": 15,
+    "not jpeg": 1,
+    "share-alike or copyleft listed": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "embossing seal press notary",
+   "results": 0,
+   "kept": 0,
+   "dropped": {}
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "autopen signature machine",
+   "results": 20,
+   "kept": 5,
+   "dropped": {
+    "too small": 10,
+    "not jpeg": 4,
+    "share-alike or copyleft listed": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "Enigma machine",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "cipher machine Hagelin",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "too small": 4,
+    "share-alike or copyleft listed": 10
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "ticker tape machine stock",
+   "results": 3,
+   "kept": 1,
+   "dropped": {
+    "too small": 1,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "telegraph key",
+   "results": 20,
+   "kept": 1,
+   "dropped": {
+    "too small": 3,
+    "share-alike or copyleft listed": 12,
+    "not jpeg": 4
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "fax machine",
+   "results": 20,
+   "kept": 1,
+   "dropped": {
+    "too small": 5,
+    "share-alike or copyleft listed": 13,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "phonograph Edison",
+   "results": 20,
+   "kept": 11,
+   "dropped": {
+    "too small": 3,
+    "share-alike or copyleft listed": 6
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "wire recorder",
+   "results": 20,
+   "kept": 12,
+   "dropped": {
+    "share-alike or copyleft listed": 6,
+    "too small": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "reel to reel tape recorder",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "printing press antique",
+   "results": 20,
+   "kept": 8,
+   "dropped": {
+    "share-alike or copyleft listed": 4,
+    "too small": 5,
+    "licence not in ring list: No restrictions": 1,
+    "not jpeg": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Linotype machine",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "share-alike or copyleft listed": 16,
+    "too small": 1,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Heidelberg platen press",
+   "results": 10,
+   "kept": 4,
+   "dropped": {
+    "licence not in ring list: Attribution": 1,
+    "not jpeg": 2,
+    "share-alike or copyleft listed": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "label printing machine",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "not jpeg": 3,
+    "too small": 7,
+    "share-alike or copyleft listed": 4
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Dymo label maker",
+   "results": 10,
+   "kept": 5,
+   "dropped": {
+    "too small": 2,
+    "share-alike or copyleft listed": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "price labeler gun",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "not jpeg": 5,
+    "licence not in ring list: No restrictions": 1,
+    "too small": 8
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "safe lock time lock",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "photocopier",
+   "results": 20,
+   "kept": 8,
+   "dropped": {
+    "too small": 3,
+    "share-alike or copyleft listed": 9
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "spirit duplicator Ditto",
+   "results": 20,
+   "kept": 5,
+   "dropped": {
+    "too small": 8,
+    "share-alike or copyleft listed": 7
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Rolodex",
+   "results": 20,
+   "kept": 7,
+   "dropped": {
+    "too small": 7,
+    "not jpeg": 1,
+    "share-alike or copyleft listed": 5
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "bookbinding press",
+   "results": 20,
+   "kept": 3,
+   "dropped": {
+    "too small": 4,
+    "share-alike or copyleft listed": 4,
+    "not jpeg": 9
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Royal typewriter",
+   "results": 20,
+   "kept": 11,
+   "dropped": {
+    "too small": 2,
+    "share-alike or copyleft listed": 6,
+    "licence not in ring list: No restrictions": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "IBM Selectric",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "too small": 9,
+    "share-alike or copyleft listed": 4,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "check writer machine",
+   "results": 20,
+   "kept": 3,
+   "dropped": {
+    "not jpeg": 3,
+    "too small": 8,
+    "licence not in ring list: No restrictions": 1,
+    "already in studio registry": 2,
+    "share-alike or copyleft listed": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "checkwriter",
+   "results": 14,
+   "kept": 3,
+   "dropped": {
+    "too small": 4,
+    "not jpeg": 1,
+    "share-alike or copyleft listed": 4,
+    "already in studio registry": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "microfilm reader",
+   "results": 20,
+   "kept": 4,
+   "dropped": {
+    "licence not in ring list: No restrictions": 1,
+    "too small": 8,
+    "not jpeg": 3,
+    "share-alike or copyleft listed": 4
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "dictaphone",
+   "results": 20,
+   "kept": 8,
+   "dropped": {
+    "too small": 3,
+    "share-alike or copyleft listed": 9
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Enigma machine",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "not jpeg": 1,
+    "too small": 2,
+    "share-alike or copyleft listed": 11
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "reel to reel tape recorder",
+   "results": 20,
+   "kept": 4,
+   "dropped": {
+    "share-alike or copyleft listed": 11,
+    "too small": 5
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Rolleiflex camera",
+   "results": 20,
+   "kept": 4,
+   "dropped": {
+    "too small": 7,
+    "share-alike or copyleft listed": 8,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "Leica camera museum",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Hasselblad camera",
+   "results": 20,
+   "kept": 5,
+   "dropped": {
+    "licence not in ring list: Attribution": 1,
+    "too small": 5,
+    "share-alike or copyleft listed": 8,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Kodak camera museum",
+   "results": 20,
+   "kept": 13,
+   "dropped": {
+    "share-alike or copyleft listed": 3,
+    "not jpeg": 1,
+    "too small": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "photographic enlarger",
+   "results": 20,
+   "kept": 8,
+   "dropped": {
+    "too small": 4,
+    "share-alike or copyleft listed": 8
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Speed Graphic camera",
+   "results": 20,
+   "kept": 11,
+   "dropped": {
+    "share-alike or copyleft listed": 4,
+    "too small": 4,
+    "not jpeg": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "spinning jenny",
+   "results": 20,
+   "kept": 6,
+   "dropped": {
+    "too small": 10,
+    "not jpeg": 1,
+    "share-alike or copyleft listed": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "spinning mule museum",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Jacquard punched cards loom",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "too small": 3,
+    "share-alike or copyleft listed": 15
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "hosiery knitting machine",
+   "results": 20,
+   "kept": 8,
+   "dropped": {
+    "not jpeg": 1,
+    "too small": 2,
+    "share-alike or copyleft listed": 9
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Dubied knitting machine",
+   "results": 4,
+   "kept": 0,
+   "dropped": {
+    "too small": 3,
+    "share-alike or copyleft listed": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Singer 201 sewing machine",
+   "results": 1,
+   "kept": 0,
+   "dropped": {
+    "licence not in ring list: No restrictions": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Singer featherweight",
+   "results": 1,
+   "kept": 0,
+   "dropped": {
+    "share-alike or copyleft listed": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "overlocker serger",
+   "results": 0,
+   "kept": 0,
+   "dropped": {}
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Jacquard Webstuhl",
+   "results": 20,
+   "kept": 1,
+   "dropped": {
+    "too small": 7,
+    "share-alike or copyleft listed": 11,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "métier Jacquard musée",
+   "results": 12,
+   "kept": 0,
+   "dropped": {
+    "share-alike or copyleft listed": 11,
+    "licence not in ring list: No restrictions": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Jacquardmaschine",
+   "results": 20,
+   "kept": 1,
+   "dropped": {
+    "too small": 7,
+    "share-alike or copyleft listed": 11,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Strickmaschine",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "too small": 7,
+    "share-alike or copyleft listed": 9,
+    "not jpeg": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Rundstrickmaschine",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "too small": 7,
+    "share-alike or copyleft listed": 9,
+    "not jpeg": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Flachstrickmaschine",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "too small": 7,
+    "share-alike or copyleft listed": 9,
+    "not jpeg": 2
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Nähmaschine Museum",
+   "results": 20,
+   "kept": 17,
+   "dropped": {
+    "share-alike or copyleft listed": 2,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API",
+   "query": "Stickmaschine",
+   "error": "request failed, skipped"
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Fernschreiber",
+   "results": 20,
+   "kept": 1,
+   "dropped": {
+    "share-alike or copyleft listed": 11,
+    "too small": 5,
+    "not jpeg": 3
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Burroughs adding machine museum",
+   "results": 19,
+   "kept": 10,
+   "dropped": {
+    "too small": 2,
+    "share-alike or copyleft listed": 6,
+    "already in studio registry": 1
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "Leica camera",
+   "results": 20,
+   "kept": 2,
+   "dropped": {
+    "share-alike or copyleft listed": 18
+   }
+  },
+  {
+   "source": "Wikimedia Commons API (File namespace, full-text search)",
+   "query": "spinning mule",
+   "results": 20,
+   "kept": 0,
+   "dropped": {
+    "not jpeg": 3,
+    "too small": 2,
+    "share-alike or copyleft listed": 15
+   }
+  }
+ ],
+ "otherSourcesTried": [
+  {
+   "source": "The Met Collection API",
+   "result": "The v1 search endpoint was retired on Oct 1, 2026; not used further because Commons supplied open, precise machine photos for all 88 carousels."
+  }
+ ]
+}
